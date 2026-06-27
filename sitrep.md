@@ -1,14 +1,35 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-06-27 08:26 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-06-27 08:30 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 1. **UAP report (John)**  
    reliability **A1** · P(credible)=1.0 · 6 independent source(s) · mastodon  
    [@wearywulf](https://mastodon.social/@wearywulf/116817662965846977) · [@biblescienceforum.com@biblescienceforum.com](https://biblescienceforum.com/2026/06/26/why-did-the-us-government-brief-groups-of-christian-pastors-about-ufos-and-aliens/)  
    📹 [video](https://www.youtube.com/watch?v=9a0xIzp-fbs) · [video](https://www.youtube.com/shorts/q-ybs6Tg7ao)
+2. **Official UAP statement reported (UFO)**  
+   reliability **A1** · P(credible)=1.0 · 3 independent source(s) · mastodon  
+   [@Amy_C_T_Serrat@universeodon.com](https://universeodon.com/@Amy_C_T_Serrat/116805319882830920) · [@amyctserrat.bsky.social@bsky.brid.gy](https://fed.brid.gy/r/https://bsky.app/profile/did:plc:g6w3xcfe65m5mmnghsz22ygi/post/3mozzdccxmk24)
+3. **Official UAP statement reported (Abbas)**  
+   reliability **A1** · P(credible)=1.0 · 2 independent source(s) · mastodon  
+   [@n_dimension@infosec.exchange](https://infosec.exchange/@n_dimension/116809873894536519) · [@vibewire@mastodon.au](https://mastodon.au/@vibewire/116812050581328833)
+4. **UAP report**  
+   reliability **A1** · P(credible)=1.0 · 2 independent source(s) · mastodon  
+   [@MDT@mast.lat](https://mast.lat/@MDT/116811937552885610) · [@verdadeufo](https://mastodon.social/@verdadeufo/116795773872869150)
+5. **UAP report**  
+   reliability **A1** · P(credible)=1.0 · 3 independent source(s) · mastodon  
+   [@pg@jforo.com](https://jforo.com/@pg/116808194869724500) · [@games@wakoka.com](https://wakoka.com/@games/116808194796170285)
 
 ## Developing / unconfirmed
-_None._
+1. UAP whistleblower testimony reported — reliability A1 · 1 source(s)  
+   [@veryexcitingtime](https://mastodon.social/@veryexcitingtime/116790644297232566)
+2. Official UAP statement reported — reliability A1 · 1 source(s)  
+   [@stephenaytch.bsky.social@bsky.brid.gy](https://fed.brid.gy/r/https://bsky.app/profile/did:plc:xk2bwidrc6qodukltdeq3w3g/post/3mollqk2dpc2c)
+3. UAP report — reliability A1 · 1 source(s)  
+   [@verdadeufo](https://mastodon.social/@verdadeufo/116810873381607586)
+4. UAP report — reliability A1 · 1 source(s)  
+   [@Wesearchpress](https://mastodon.social/@Wesearchpress/116805484340308954)
+5. Official UAP statement reported — reliability A1 · 1 source(s)  
+   [@lunatikachilena](https://mastodon.social/@lunatikachilena/116807370046585922)
 
 ---
 *Powered by Science Bob News. Free to use with credit (see LICENSE). Headlines are factual restatements in the engine's own words — click through to the linked sources for originals. Reposts of a single origin are collapsed to one source; candidate prosaic explanations are flagged where offered.*
