@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-06-27 11:40 UTC",
+  "generated_utc": "2026-06-27 11:50 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -124,6 +124,28 @@
       "update": false
     },
     {
+      "headline": "UAP whistleblower testimony reported (Channel)",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
+        "rumble"
+      ],
+      "sources": [
+        {
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=l1w2tEsrS-g"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=MVjBLIsXFHQ&",
+        "https://www.youtube.com/watch?v=l1w2tEsrS-g"
+      ],
+      "update": false
+    },
+    {
       "headline": "UAP report (McMinnville)",
       "lane": "developing",
       "status": "DEVELOPING",
@@ -204,27 +226,6 @@
       ],
       "videos": [
         "https://www.youtube.com/watch?v=CxvFVjJKZtA"
-      ],
-      "update": false
-    },
-    {
-      "headline": "UAP whistleblower testimony reported (American)",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 1,
-      "platforms": [
-        "rumble"
-      ],
-      "sources": [
-        {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=LPtMaGpuK-M"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=LPtMaGpuK-M"
       ],
       "update": false
     }
