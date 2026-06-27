@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-06-27 10:56 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-06-27 11:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 1. **UAP report (John)**  
