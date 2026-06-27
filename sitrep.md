@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-06-27 23:20 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-06-27 23:30 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
@@ -19,14 +19,8 @@
    reliability **A1** · P(credible)=1.0 · 2 independent source(s) · mastodon  
    [@Amy_C_T_Serrat@universeodon.com](https://universeodon.com/@Amy_C_T_Serrat/116805319882830920) · [@amyctserrat.bsky.social@bsky.brid.gy](https://fed.brid.gy/r/https://bsky.app/profile/did:plc:g6w3xcfe65m5mmnghsz22ygi/post/3mozzdccxmk24)
 
-![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_c_4.svg)
-4. **Official UAP statement reported**  
-   reliability **A1** · P(credible)=1.0 · 2 independent source(s) · bluesky+rumble  
-   [@podcast](https://www.youtube.com/watch?v=9c0p832gO-8) · [@did:plc:d4625plennv7xakwcs77mosn](https://bsky.app/profile/did:plc:d4625plennv7xakwcs77mosn/post/3mpcifjzacs2v)  
-   📹 [video](https://www.youtube.com/watch?v=9c0p832gO-8)
-
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_5.svg)
-5. **UAP report**  
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_4.svg)
+4. **UAP report**  
    reliability **A1** · P(credible)=1.0 · 2 independent source(s) · mastodon  
    [@MDT@mast.lat](https://mast.lat/@MDT/116811937552885610) · [@verdadeufo](https://mastodon.social/@verdadeufo/116795773872869150)
 
