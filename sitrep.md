@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-06-27 09:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-06-27 09:09 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 1. **UAP report (John)**  
@@ -22,14 +22,14 @@
 ## Developing / unconfirmed
 1. UAP whistleblower testimony reported — reliability A1 · 1 source(s)  
    [@veryexcitingtime](https://mastodon.social/@veryexcitingtime/116790644297232566)
-2. Official UAP statement reported — reliability A1 · 1 source(s)  
+2. UAP report — reliability A1 · 1 source(s)  
+   [@ScienceBob](https://mastodon.social/@ScienceBob/116821286634873204)
+3. Official UAP statement reported — reliability A1 · 1 source(s)  
    [@stephenaytch.bsky.social@bsky.brid.gy](https://fed.brid.gy/r/https://bsky.app/profile/did:plc:xk2bwidrc6qodukltdeq3w3g/post/3mollqk2dpc2c)
-3. UAP report — reliability A1 · 1 source(s)  
-   [@verdadeufo](https://mastodon.social/@verdadeufo/116810873381607586)
 4. UAP report — reliability A1 · 1 source(s)  
+   [@verdadeufo](https://mastodon.social/@verdadeufo/116810873381607586)
+5. UAP report — reliability A1 · 1 source(s)  
    [@Wesearchpress](https://mastodon.social/@Wesearchpress/116805484340308954)
-5. Official UAP statement reported — reliability A1 · 1 source(s)  
-   [@lunatikachilena](https://mastodon.social/@lunatikachilena/116807370046585922)
 
 ---
 *Powered by Science Bob News. Free to use with credit (see LICENSE). Headlines are factual restatements in the engine's own words — click through to the linked sources for originals. Reposts of a single origin are collapsed to one source; candidate prosaic explanations are flagged where offered.*
