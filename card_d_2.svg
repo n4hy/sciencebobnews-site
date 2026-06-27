@@ -26,12 +26,7 @@
     <text x="14" y="16" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700"
           fill="#fff" letter-spacing="2">🎙️ DISCLOSURE PODCAST</text>
   </g>
-  <foreignObject x="176" y="60" width="520" height="60">
-    <div xmlns="http://www.w3.org/1999/xhtml"
-         style="font:600 18px/1.25 Helvetica,Arial,sans-serif;color:#fff;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;">
-      UAP report (McMinnville)
-    </div>
-  </foreignObject>
+  <text x="176" y="82" font-family="Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#fff">UAP report (McMinnville)</text>
   <g transform="translate(176,134)" font-family="Helvetica, Arial, sans-serif" fill="#fff" opacity="0.92">
     <text x="0" y="14" font-size="13">P(credible) 1.00 · 1 indep · rumble  ·  📹 1 video link</text>
   </g>
