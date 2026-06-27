@@ -1,37 +1,57 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-06-27 11:20 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-06-27 11:24 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
+
+![UAP report (John)](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
 1. **UAP report (John)**  
    reliability **A1** · P(credible)=1.0 · 6 independent source(s) · mastodon  
    [@wearywulf](https://mastodon.social/@wearywulf/116817662965846977) · [@biblescienceforum.com@biblescienceforum.com](https://biblescienceforum.com/2026/06/26/why-did-the-us-government-brief-groups-of-christian-pastors-about-ufos-and-aliens/)  
    📹 [video](https://www.youtube.com/watch?v=9a0xIzp-fbs) · [video](https://www.youtube.com/shorts/q-ybs6Tg7ao)
+
+![Official UAP statement reported (Abbas)](https://n4hy.github.io/sciencebobnews-site/card_c_2.svg)
 2. **Official UAP statement reported (Abbas)**  
    reliability **A1** · P(credible)=1.0 · 2 independent source(s) · mastodon  
    [@n_dimension@infosec.exchange](https://infosec.exchange/@n_dimension/116809873894536519) · [@vibewire@mastodon.au](https://mastodon.au/@vibewire/116812050581328833)
+
+![Official UAP statement reported (UFO)](https://n4hy.github.io/sciencebobnews-site/card_c_3.svg)
 3. **Official UAP statement reported (UFO)**  
    reliability **A1** · P(credible)=1.0 · 2 independent source(s) · mastodon  
    [@Amy_C_T_Serrat@universeodon.com](https://universeodon.com/@Amy_C_T_Serrat/116805319882830920) · [@amyctserrat.bsky.social@bsky.brid.gy](https://fed.brid.gy/r/https://bsky.app/profile/did:plc:g6w3xcfe65m5mmnghsz22ygi/post/3mozzdccxmk24)
+
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_4.svg)
 4. **UAP report**  
    reliability **A1** · P(credible)=1.0 · 2 independent source(s) · mastodon  
    [@MDT@mast.lat](https://mast.lat/@MDT/116811937552885610) · [@verdadeufo](https://mastodon.social/@verdadeufo/116795773872869150)
+
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_5.svg)
 5. **UAP report**  
    reliability **A1** · P(credible)=1.0 · 3 independent source(s) · mastodon  
    [@pg@jforo.com](https://jforo.com/@pg/116808194869724500) · [@games@wakoka.com](https://wakoka.com/@games/116808194796170285)
 
 ## Developing / unconfirmed
+
+![UAP whistleblower testimony reported (Channel)](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
 1. UAP whistleblower testimony reported (Channel) — reliability A1 · 1 source(s)  
    [@podcast](https://www.youtube.com/watch?v=l1w2tEsrS-g)  
    📹 [video](https://www.youtube.com/watch?v=MVjBLIsXFHQ&) · [video](https://www.youtube.com/watch?v=l1w2tEsrS-g)
+
+![UAP report (McMinnville)](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
 2. UAP report (McMinnville) — reliability A1 · 1 source(s)  
    [@podcast](https://www.youtube.com/watch?v=7OT6uJ0yzVY)  
    📹 [video](https://www.youtube.com/watch?v=7OT6uJ0yzVY)
+
+![UAP report (New)](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
 3. UAP report (New) — reliability A1 · 1 source(s)  
    [@podcast](https://www.youtube.com/watch?v=7_qqSoBfcYg)  
    📹 [video](https://www.youtube.com/watch?v=7_qqSoBfcYg)
+
+![UAP report (Titles)](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
 4. UAP report (Titles) — reliability A1 · 1 source(s)  
    [@podcast](https://www.youtube.com/watch?v=xExbXEg6tVY)  
    📹 [video](https://www.youtube.com/watch?v=xExbXEg6tVY)
+
+![UAP whistleblower testimony reported (Frank)](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
 5. UAP whistleblower testimony reported (Frank) — reliability A1 · 1 source(s)  
    [@podcast](https://www.youtube.com/watch?v=CxvFVjJKZtA)  
    📹 [video](https://www.youtube.com/watch?v=CxvFVjJKZtA)
