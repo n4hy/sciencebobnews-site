@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-06-27 09:40 UTC",
+  "generated_utc": "2026-06-27 09:50 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -11,10 +11,9 @@
       "status": "CORROBORATED",
       "reliability": "A1",
       "p_credible": 1.0,
-      "independent_sources": 7,
+      "independent_sources": 6,
       "platforms": [
-        "mastodon",
-        "rumble"
+        "mastodon"
       ],
       "sources": [
         {
@@ -27,98 +26,8 @@
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=ZegQhxJrJGo",
-        "https://www.youtube.com/watch?v=37e6pLw0L2I",
-        "https://www.youtube.com/watch?v=U-PieZSnPgU",
-        "https://www.youtube.com/watch?v=XS_h0Dcevdo",
-        "https://www.youtube.com/watch?v=LPtMaGpuK-M",
-        "https://www.youtube.com/watch?v=U04unJVpz8s",
-        "https://www.youtube.com/watch?v=CxvFVjJKZtA",
-        "https://www.youtube.com/watch?v=9c0p832gO-8",
-        "https://www.youtube.com/watch?v=hxltEtjtFKo",
-        "https://www.youtube.com/watch?v=P6oX5E5zXa4",
-        "https://www.youtube.com/watch?v=enR4vONEelQ",
-        "https://www.youtube.com/watch?v=xExbXEg6tVY",
-        "https://www.youtube.com/watch?v=7_qqSoBfcYg",
-        "https://www.youtube.com/watch?v=Du1CBH_y2tQ",
-        "https://www.youtube.com/watch?v=YiNznVZ5ciY",
-        "https://www.youtube.com/watch?v=rk0y6oeI2k0",
-        "https://www.youtube.com/watch?v=AyZw31Qr3wY",
-        "https://youtu.be/rk0y6oeI2k0",
-        "https://www.youtube.com/watch?v=7OT6uJ0yzVY",
-        "https://www.youtube.com/watch?v=93moL6Dy0EY",
-        "https://youtu.be/7OT6uJ0yzVY",
-        "https://www.youtube.com/watch?v=gQqEkOxMhSQ",
-        "https://www.youtube.com/watch?v=5Uv9dEmAj3I",
-        "https://www.youtube.com/watch?v=Ayf92m7zPFY",
-        "https://www.youtube.com/watch?v=ivDqdkRyRDw",
-        "https://youtu.be/Ayf92m7zPFY",
-        "https://www.youtube.com/watch?v=Kx_anJdFlL4",
-        "https://www.youtube.com/watch?v=HcQnbRasYxI",
-        "https://www.youtube.com/watch?v=CUnoufRiMrk",
-        "https://www.youtube.com/watch?v=2iDgFjkRbGI",
-        "https://www.youtube.com/watch?v=onPx5wKOb6o",
-        "https://www.youtube.com/watch?v=fQ4z2yIymlA",
-        "https://www.youtube.com/watch?v=aWkuBLLWfNU",
-        "https://www.youtube.com/watch?v=vBYmMRNQSUo",
-        "https://www.youtube.com/watch?v=iFuIwayru2Y",
-        "https://www.youtube.com/watch?v=ImX9GCjCmpE",
-        "https://www.youtube.com/watch?v=wxzbDgNS8tw",
-        "https://www.youtube.com/watch?v=aL0NPLiMJsU",
-        "https://www.youtube.com/watch?v=FHISU_Qc6Rg",
-        "https://www.youtube.com/watch?v=gUTG-AjOGHY",
-        "https://www.youtube.com/watch?v=cP1nv3NaUl4",
         "https://www.youtube.com/watch?v=9a0xIzp-fbs",
         "https://www.youtube.com/shorts/q-ybs6Tg7ao"
-      ],
-      "update": false
-    },
-    {
-      "headline": "Official UAP statement reported (UFO)",
-      "lane": "corroborated",
-      "status": "CORROBORATED",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 3,
-      "platforms": [
-        "mastodon"
-      ],
-      "sources": [
-        {
-          "handle": "Amy_C_T_Serrat@universeodon.com",
-          "url": "https://universeodon.com/@Amy_C_T_Serrat/116805319882830920"
-        },
-        {
-          "handle": "amyctserrat.bsky.social@bsky.brid.gy",
-          "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:g6w3xcfe65m5mmnghsz22ygi/post/3mozzdccxmk24"
-        }
-      ],
-      "videos": [],
-      "update": false
-    },
-    {
-      "headline": "UAP report",
-      "lane": "corroborated",
-      "status": "CORROBORATED",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 2,
-      "platforms": [
-        "bluesky",
-        "mastodon"
-      ],
-      "sources": [
-        {
-          "handle": "ScienceBob",
-          "url": "https://mastodon.social/@ScienceBob/116821384055402438"
-        },
-        {
-          "handle": "did:plc:yczq2htlvzmcacjj3t3pb7no",
-          "url": "https://bsky.app/profile/did:plc:yczq2htlvzmcacjj3t3pb7no/post/3mpb63euhrx2h"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=ZegQhxJrJGo"
       ],
       "update": false
     },
@@ -140,6 +49,29 @@
         {
           "handle": "vibewire@mastodon.au",
           "url": "https://mastodon.au/@vibewire/116812050581328833"
+        }
+      ],
+      "videos": [],
+      "update": false
+    },
+    {
+      "headline": "Official UAP statement reported (UFO)",
+      "lane": "corroborated",
+      "status": "CORROBORATED",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 2,
+      "platforms": [
+        "mastodon"
+      ],
+      "sources": [
+        {
+          "handle": "Amy_C_T_Serrat@universeodon.com",
+          "url": "https://universeodon.com/@Amy_C_T_Serrat/116805319882830920"
+        },
+        {
+          "handle": "amyctserrat.bsky.social@bsky.brid.gy",
+          "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:g6w3xcfe65m5mmnghsz22ygi/post/3mozzdccxmk24"
         }
       ],
       "videos": [],
@@ -169,6 +101,29 @@
       "update": false
     },
     {
+      "headline": "UAP report",
+      "lane": "corroborated",
+      "status": "CORROBORATED",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 3,
+      "platforms": [
+        "mastodon"
+      ],
+      "sources": [
+        {
+          "handle": "pg@jforo.com",
+          "url": "https://jforo.com/@pg/116808194869724500"
+        },
+        {
+          "handle": "games@wakoka.com",
+          "url": "https://wakoka.com/@games/116808194796170285"
+        }
+      ],
+      "videos": [],
+      "update": false
+    },
+    {
       "headline": "UAP whistleblower testimony reported",
       "lane": "developing",
       "status": "DEVELOPING",
@@ -185,6 +140,91 @@
         }
       ],
       "videos": [],
+      "update": false
+    },
+    {
+      "headline": "UAP whistleblower testimony reported (Channel)",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
+        "rumble"
+      ],
+      "sources": [
+        {
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=l1w2tEsrS-g"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=MVjBLIsXFHQ&",
+        "https://www.youtube.com/watch?v=l1w2tEsrS-g"
+      ],
+      "update": false
+    },
+    {
+      "headline": "UAP report (McMinnville)",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
+        "rumble"
+      ],
+      "sources": [
+        {
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=7OT6uJ0yzVY"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=7OT6uJ0yzVY"
+      ],
+      "update": false
+    },
+    {
+      "headline": "UAP report (New)",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
+        "rumble"
+      ],
+      "sources": [
+        {
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=7_qqSoBfcYg"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=7_qqSoBfcYg"
+      ],
+      "update": false
+    },
+    {
+      "headline": "UAP report (Titles)",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
+        "rumble"
+      ],
+      "sources": [
+        {
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=xExbXEg6tVY"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=xExbXEg6tVY"
+      ],
       "update": false
     }
   ]
