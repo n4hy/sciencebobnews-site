@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-06-27 11:00 UTC",
+  "generated_utc": "2026-06-27 11:04 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -124,25 +124,6 @@
       "update": false
     },
     {
-      "headline": "UAP whistleblower testimony reported",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 1,
-      "platforms": [
-        "mastodon"
-      ],
-      "sources": [
-        {
-          "handle": "veryexcitingtime",
-          "url": "https://mastodon.social/@veryexcitingtime/116790644297232566"
-        }
-      ],
-      "videos": [],
-      "update": false
-    },
-    {
       "headline": "UAP whistleblower testimony reported (Channel)",
       "lane": "developing",
       "status": "DEVELOPING",
@@ -224,6 +205,27 @@
       ],
       "videos": [
         "https://www.youtube.com/watch?v=xExbXEg6tVY"
+      ],
+      "update": false
+    },
+    {
+      "headline": "UAP whistleblower testimony reported (Frank)",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
+        "rumble"
+      ],
+      "sources": [
+        {
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=CxvFVjJKZtA"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=CxvFVjJKZtA"
       ],
       "update": false
     }

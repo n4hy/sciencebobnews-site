@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-06-27 11:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-06-27 11:04 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 1. **UAP report (John)**  
@@ -20,20 +20,21 @@
    [@pg@jforo.com](https://jforo.com/@pg/116808194869724500) · [@games@wakoka.com](https://wakoka.com/@games/116808194796170285)
 
 ## Developing / unconfirmed
-1. UAP whistleblower testimony reported — reliability A1 · 1 source(s)  
-   [@veryexcitingtime](https://mastodon.social/@veryexcitingtime/116790644297232566)
-2. UAP whistleblower testimony reported (Channel) — reliability A1 · 1 source(s)  
+1. UAP whistleblower testimony reported (Channel) — reliability A1 · 1 source(s)  
    [@podcast](https://www.youtube.com/watch?v=l1w2tEsrS-g)  
    📹 [video](https://www.youtube.com/watch?v=MVjBLIsXFHQ&) · [video](https://www.youtube.com/watch?v=l1w2tEsrS-g)
-3. UAP report (McMinnville) — reliability A1 · 1 source(s)  
+2. UAP report (McMinnville) — reliability A1 · 1 source(s)  
    [@podcast](https://www.youtube.com/watch?v=7OT6uJ0yzVY)  
    📹 [video](https://www.youtube.com/watch?v=7OT6uJ0yzVY)
-4. UAP report (New) — reliability A1 · 1 source(s)  
+3. UAP report (New) — reliability A1 · 1 source(s)  
    [@podcast](https://www.youtube.com/watch?v=7_qqSoBfcYg)  
    📹 [video](https://www.youtube.com/watch?v=7_qqSoBfcYg)
-5. UAP report (Titles) — reliability A1 · 1 source(s)  
+4. UAP report (Titles) — reliability A1 · 1 source(s)  
    [@podcast](https://www.youtube.com/watch?v=xExbXEg6tVY)  
    📹 [video](https://www.youtube.com/watch?v=xExbXEg6tVY)
+5. UAP whistleblower testimony reported (Frank) — reliability A1 · 1 source(s)  
+   [@podcast](https://www.youtube.com/watch?v=CxvFVjJKZtA)  
+   📹 [video](https://www.youtube.com/watch?v=CxvFVjJKZtA)
 
 ---
 *Powered by Science Bob News. Free to use with credit (see LICENSE). Headlines are factual restatements in the engine's own words — click through to the linked sources for originals. Reposts of a single origin are collapsed to one source; candidate prosaic explanations are flagged where offered.*
