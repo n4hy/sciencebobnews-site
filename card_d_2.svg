@@ -8,6 +8,14 @@
     </linearGradient>
   </defs>
   <rect width="720" height="180" rx="12" fill="url(#bg)"/>
+  <image href="https://img.youtube.com/vi/7OT6uJ0yzVY/2.jpg" x="0" y="0" width="720" height="180"
+       preserveAspectRatio="xMidYMid slice" opacity="0.55"/>
+  <linearGradient id="overlay" x1="0" y1="0" x2="0.7" y2="0">
+    <stop offset="0%" stop-color="#0f3f3a" stop-opacity="0.95"/>
+    <stop offset="55%" stop-color="#0f7b6c" stop-opacity="0.55"/>
+    <stop offset="100%" stop-color="#0aa07a" stop-opacity="0.05"/>
+  </linearGradient>
+  <rect width="720" height="180" rx="12" fill="url(#overlay)"/>
   <g fill="#fff" opacity="0.06">
     <circle cx="640" cy="30" r="1.2"/><circle cx="690" cy="60" r="0.9"/>
     <circle cx="560" cy="20" r="0.7"/><circle cx="600" cy="90" r="1.0"/>

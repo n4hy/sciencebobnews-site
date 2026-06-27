@@ -1,11 +1,11 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-06-27 12:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-06-27 12:05 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
 ![UAP report (John)](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
 1. **UAP report (John)**  
-   reliability **A1** · P(credible)=1.0 · 6 independent source(s) · mastodon  
+   reliability **A1** · P(credible)=1.0 · 5 independent source(s) · mastodon  
    [@wearywulf](https://mastodon.social/@wearywulf/116817662965846977) · [@biblescienceforum.com@biblescienceforum.com](https://biblescienceforum.com/2026/06/26/why-did-the-us-government-brief-groups-of-christian-pastors-about-ufos-and-aliens/)  
    📹 [video](https://www.youtube.com/watch?v=9a0xIzp-fbs) · [video](https://www.youtube.com/shorts/q-ybs6Tg7ao)
 

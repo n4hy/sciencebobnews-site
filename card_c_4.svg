@@ -8,6 +8,7 @@
     </linearGradient>
   </defs>
   <rect width="720" height="180" rx="12" fill="url(#bg)"/>
+  
   <g fill="#fff" opacity="0.06">
     <circle cx="640" cy="30" r="1.2"/><circle cx="690" cy="60" r="0.9"/>
     <circle cx="560" cy="20" r="0.7"/><circle cx="600" cy="90" r="1.0"/>
