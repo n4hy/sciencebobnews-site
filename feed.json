@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-06-28 07:10 UTC",
+  "generated_utc": "2026-06-28 07:20 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -78,98 +78,109 @@
       "update": false
     },
     {
-      "headline": "UAP report (My)",
+      "headline": "UAP whistleblower testimony reported (Channel)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "rumble"
       ],
       "sources": [
         {
-          "handle": "vibewire@mastodon.au",
-          "url": "https://mastodon.au/@vibewire/116823283419050275"
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=l1w2tEsrS-g"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=MVjBLIsXFHQ&",
+        "https://www.youtube.com/watch?v=l1w2tEsrS-g"
+      ],
       "update": false
     },
     {
-      "headline": "UAP report",
+      "headline": "UAP report (McMinnville)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "rumble"
       ],
       "sources": [
         {
-          "handle": "AroundTheWorldIOD@mas.to",
-          "url": "https://mas.to/@AroundTheWorldIOD/116796389131911009"
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=7OT6uJ0yzVY"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=7OT6uJ0yzVY"
+      ],
       "update": false
     },
     {
-      "headline": "Official UAP statement reported",
+      "headline": "UAP report (New)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "rumble"
       ],
       "sources": [
         {
-          "handle": "n_dimension@infosec.exchange",
-          "url": "https://infosec.exchange/@n_dimension/116809873894536519"
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=7_qqSoBfcYg"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=7_qqSoBfcYg"
+      ],
       "update": false
     },
     {
-      "headline": "UAP report",
+      "headline": "UAP report (Titles)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "rumble"
       ],
       "sources": [
         {
-          "handle": "verdadeufo",
-          "url": "https://mastodon.social/@verdadeufo/116810873381607586"
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=xExbXEg6tVY"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=xExbXEg6tVY"
+      ],
       "update": false
     },
     {
-      "headline": "Official UAP statement reported",
+      "headline": "UAP whistleblower testimony reported (Frank)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "rumble"
       ],
       "sources": [
         {
-          "handle": "lunatikachilena",
-          "url": "https://mastodon.social/@lunatikachilena/116807370046585922"
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=CxvFVjJKZtA"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=CxvFVjJKZtA"
+      ],
       "update": false
     }
   ]
