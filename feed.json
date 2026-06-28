@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-06-28 02:20 UTC",
+  "generated_utc": "2026-06-28 02:30 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -29,29 +29,6 @@
         "https://www.youtube.com/watch?v=9a0xIzp-fbs",
         "https://www.youtube.com/shorts/q-ybs6Tg7ao"
       ],
-      "update": false
-    },
-    {
-      "headline": "Official UAP statement reported (Abbas)",
-      "lane": "corroborated",
-      "status": "CORROBORATED",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 2,
-      "platforms": [
-        "mastodon"
-      ],
-      "sources": [
-        {
-          "handle": "n_dimension@infosec.exchange",
-          "url": "https://infosec.exchange/@n_dimension/116809873894536519"
-        },
-        {
-          "handle": "vibewire@mastodon.au",
-          "url": "https://mastodon.au/@vibewire/116812050581328833"
-        }
-      ],
-      "videos": [],
       "update": false
     },
     {

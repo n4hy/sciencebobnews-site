@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-06-28 02:20 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-06-28 02:30 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
@@ -9,18 +9,13 @@
    [@KilleansRow@mastodon.online](https://mastodon.online/@KilleansRow/116824136208537067) · [@x@niwego.com](https://niwego.com/display/a081e5c3-196a-3fd4-0b1d-f17822239764)  
    📹 [video](https://www.youtube.com/watch?v=9a0xIzp-fbs) · [video](https://www.youtube.com/shorts/q-ybs6Tg7ao)
 
-![Official UAP statement reported (Abbas)](https://n4hy.github.io/sciencebobnews-site/card_c_2.svg)
-2. **Official UAP statement reported (Abbas)**  
-   reliability **A1** · P(credible)=1.0 · 2 independent source(s) · mastodon  
-   [@n_dimension@infosec.exchange](https://infosec.exchange/@n_dimension/116809873894536519) · [@vibewire@mastodon.au](https://mastodon.au/@vibewire/116812050581328833)
-
-![Official UAP statement reported (UFO)](https://n4hy.github.io/sciencebobnews-site/card_c_3.svg)
-3. **Official UAP statement reported (UFO)**  
+![Official UAP statement reported (UFO)](https://n4hy.github.io/sciencebobnews-site/card_c_2.svg)
+2. **Official UAP statement reported (UFO)**  
    reliability **A1** · P(credible)=1.0 · 2 independent source(s) · mastodon  
    [@Amy_C_T_Serrat@universeodon.com](https://universeodon.com/@Amy_C_T_Serrat/116805319882830920) · [@amyctserrat.bsky.social@bsky.brid.gy](https://fed.brid.gy/r/https://bsky.app/profile/did:plc:g6w3xcfe65m5mmnghsz22ygi/post/3mozzdccxmk24)
 
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_4.svg)
-4. **UAP report**  
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_3.svg)
+3. **UAP report**  
    reliability **A1** · P(credible)=1.0 · 2 independent source(s) · mastodon  
    [@MDT@mast.lat](https://mast.lat/@MDT/116811937552885610) · [@verdadeufo](https://mastodon.social/@verdadeufo/116795773872869150)
 
