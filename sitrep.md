@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-06-28 23:10 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-06-28 23:20 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
@@ -9,8 +9,14 @@
    [@KilleansRow@mastodon.online](https://mastodon.online/@KilleansRow/116824136208537067) · [@x@niwego.com](https://niwego.com/display/a081e5c3-196a-3fd4-0b1d-f17822239764)  
    📹 [video](https://www.youtube.com/watch?v=9a0xIzp-fbs)
 
-![Official UAP statement reported (UFO)](https://n4hy.github.io/sciencebobnews-site/card_c_2.svg)
-2. **Official UAP statement reported (UFO)**  
+![UAP report (Titles)](https://n4hy.github.io/sciencebobnews-site/card_c_2.svg)
+2. **UAP report (Titles)**  
+   reliability **A1** · P(credible)=1.0 · 2 independent source(s) · bluesky+rumble  
+   [@podcast](https://www.youtube.com/watch?v=xExbXEg6tVY) · [@did:plc:kqj4vuyjvmtnptvvdt2xijtk](https://bsky.app/profile/did:plc:kqj4vuyjvmtnptvvdt2xijtk/post/3mpezi6blkw2q)  
+   📹 [video](https://www.youtube.com/watch?v=xExbXEg6tVY)
+
+![Official UAP statement reported (UFO)](https://n4hy.github.io/sciencebobnews-site/card_c_3.svg)
+3. **Official UAP statement reported (UFO)**  
    reliability **A1** · P(credible)=1.0 · 2 independent source(s) · mastodon  
    [@Amy_C_T_Serrat@universeodon.com](https://universeodon.com/@Amy_C_T_Serrat/116805319882830920) · [@amyctserrat.bsky.social@bsky.brid.gy](https://fed.brid.gy/r/https://bsky.app/profile/did:plc:g6w3xcfe65m5mmnghsz22ygi/post/3mozzdccxmk24)
 
@@ -31,15 +37,15 @@
    [@podcast](https://www.youtube.com/watch?v=7_qqSoBfcYg)  
    📹 [video](https://www.youtube.com/watch?v=7_qqSoBfcYg)
 
-![UAP report (Titles)](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-4. UAP report (Titles) — reliability A1 · 1 source(s)  
-   [@podcast](https://www.youtube.com/watch?v=xExbXEg6tVY)  
-   📹 [video](https://www.youtube.com/watch?v=xExbXEg6tVY)
-
-![UAP whistleblower testimony reported (Frank)](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. UAP whistleblower testimony reported (Frank) — reliability A1 · 1 source(s)  
+![UAP whistleblower testimony reported (Frank)](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
+4. UAP whistleblower testimony reported (Frank) — reliability A1 · 1 source(s)  
    [@podcast](https://www.youtube.com/watch?v=CxvFVjJKZtA)  
    📹 [video](https://www.youtube.com/watch?v=CxvFVjJKZtA)
+
+![UAP whistleblower testimony reported (American)](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+5. UAP whistleblower testimony reported (American) — reliability A1 · 1 source(s)  
+   [@podcast](https://www.youtube.com/watch?v=LPtMaGpuK-M)  
+   📹 [video](https://www.youtube.com/watch?v=LPtMaGpuK-M)
 
 ---
 *Powered by Science Bob News. Free to use with credit (see LICENSE). Headlines are factual restatements in the engine's own words — click through to the linked sources for originals. Reposts of a single origin are collapsed to one source; candidate prosaic explanations are flagged where offered.*
