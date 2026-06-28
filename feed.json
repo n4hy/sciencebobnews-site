@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-06-28 18:00 UTC",
+  "generated_utc": "2026-06-28 18:10 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -55,109 +55,98 @@
       "update": false
     },
     {
-      "headline": "UAP whistleblower testimony reported (Channel)",
+      "headline": "Official UAP statement reported (My)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "rumble"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=l1w2tEsrS-g"
+          "handle": "vibewire@mastodon.au",
+          "url": "https://mastodon.au/@vibewire/116827987389689072"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=MVjBLIsXFHQ&",
-        "https://www.youtube.com/watch?v=l1w2tEsrS-g"
-      ],
+      "videos": [],
       "update": false
     },
     {
-      "headline": "UAP report (McMinnville)",
+      "headline": "Official UAP statement reported",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "rumble"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=7OT6uJ0yzVY"
+          "handle": "vibewire@mastodon.au",
+          "url": "https://mastodon.au/@vibewire/116828438510899173"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=7OT6uJ0yzVY"
-      ],
+      "videos": [],
       "update": false
     },
     {
-      "headline": "UAP report (New)",
+      "headline": "Official UAP statement reported",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "rumble"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=7_qqSoBfcYg"
+          "handle": "n_dimension@infosec.exchange",
+          "url": "https://infosec.exchange/@n_dimension/116809873894536519"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=7_qqSoBfcYg"
-      ],
+      "videos": [],
       "update": false
     },
     {
-      "headline": "UAP report (Titles)",
+      "headline": "UAP report",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "rumble"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=xExbXEg6tVY"
+          "handle": "verdadeufo",
+          "url": "https://mastodon.social/@verdadeufo/116810873381607586"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=xExbXEg6tVY"
-      ],
+      "videos": [],
       "update": false
     },
     {
-      "headline": "UAP whistleblower testimony reported (Frank)",
+      "headline": "Official UAP statement reported",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "rumble"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=CxvFVjJKZtA"
+          "handle": "lunatikachilena",
+          "url": "https://mastodon.social/@lunatikachilena/116807370046585922"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=CxvFVjJKZtA"
-      ],
+      "videos": [],
       "update": false
     }
   ]
