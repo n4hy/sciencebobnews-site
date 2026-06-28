@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-06-28 09:40 UTC",
+  "generated_utc": "2026-06-28 09:50 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -62,22 +62,19 @@
       "p_credible": 1.0,
       "independent_sources": 2,
       "platforms": [
-        "bluesky",
-        "rumble"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=P6oX5E5zXa4"
+          "handle": "AroundTheWorldIOD@mas.to",
+          "url": "https://mas.to/@AroundTheWorldIOD/116796389131911009"
         },
         {
-          "handle": "did:plc:fzc3qjsq4gwusbczfgax3sqw",
-          "url": "https://bsky.app/profile/did:plc:fzc3qjsq4gwusbczfgax3sqw/post/3mpdokdwdtr22"
+          "handle": "paranormalactivity@masto.nu",
+          "url": "https://masto.nu/@paranormalactivity/116819801912236764"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=P6oX5E5zXa4"
-      ],
+      "videos": [],
       "update": false
     },
     {
