@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-06-29 06:40 UTC",
+  "generated_utc": "2026-06-29 06:50 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -75,28 +75,6 @@
       "update": false
     },
     {
-      "headline": "UAP whistleblower testimony reported (Channel)",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 1,
-      "platforms": [
-        "rumble"
-      ],
-      "sources": [
-        {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=l1w2tEsrS-g"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=MVjBLIsXFHQ&",
-        "https://www.youtube.com/watch?v=l1w2tEsrS-g"
-      ],
-      "update": false
-    },
-    {
       "headline": "UAP report (McMinnville)",
       "lane": "developing",
       "status": "DEVELOPING",
@@ -118,7 +96,7 @@
       "update": false
     },
     {
-      "headline": "UAP report (New)",
+      "headline": "Official UAP statement reported (Langley)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
@@ -130,16 +108,16 @@
       "sources": [
         {
           "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=7_qqSoBfcYg"
+          "url": "https://www.youtube.com/watch?v=aL0NPLiMJsU"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=7_qqSoBfcYg"
+        "https://www.youtube.com/watch?v=aL0NPLiMJsU"
       ],
       "update": false
     },
     {
-      "headline": "UAP report (Titles)",
+      "headline": "Official UAP statement reported (Catholic)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
@@ -151,11 +129,32 @@
       "sources": [
         {
           "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=xExbXEg6tVY"
+          "url": "https://www.youtube.com/watch?v=aWkuBLLWfNU"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=xExbXEg6tVY"
+        "https://www.youtube.com/watch?v=aWkuBLLWfNU"
+      ],
+      "update": false
+    },
+    {
+      "headline": "Official UAP statement reported (North)",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
+        "rumble"
+      ],
+      "sources": [
+        {
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=fQ4z2yIymlA"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=fQ4z2yIymlA"
       ],
       "update": false
     }
