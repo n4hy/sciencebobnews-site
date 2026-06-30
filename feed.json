@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-06-30 05:00 UTC",
+  "generated_utc": "2026-06-30 05:10 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -29,98 +29,108 @@
       "update": false
     },
     {
-      "headline": "Official UAP statement reported",
+      "headline": "UAP report (Mind)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "rumble"
       ],
       "sources": [
         {
-          "handle": "vibewire@mastodon.au",
-          "url": "https://mastodon.au/@vibewire/116827987389689072"
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=Kt7sNS1Bx6E"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=Kt7sNS1Bx6E"
+      ],
       "update": false
     },
     {
-      "headline": "Official UAP statement reported",
+      "headline": "UAP report (New)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "rumble"
       ],
       "sources": [
         {
-          "handle": "vibewire@mastodon.au",
-          "url": "https://mastodon.au/@vibewire/116827987487706845"
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=7_qqSoBfcYg"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=7_qqSoBfcYg"
+      ],
       "update": false
     },
     {
-      "headline": "Official UAP statement reported",
+      "headline": "UAP report (Titles)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "rumble"
       ],
       "sources": [
         {
-          "handle": "vibewire@mastodon.au",
-          "url": "https://mastodon.au/@vibewire/116835383704378010"
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=xExbXEg6tVY"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=xExbXEg6tVY"
+      ],
       "update": false
     },
     {
-      "headline": "UAP report",
+      "headline": "UAP whistleblower testimony reported (Frank)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "rumble"
       ],
       "sources": [
         {
-          "handle": "sazengrows",
-          "url": "https://mastodon.social/@sazengrows/116835582440263871"
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=CxvFVjJKZtA"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=CxvFVjJKZtA"
+      ],
       "update": false
     },
     {
-      "headline": "UAP report",
+      "headline": "UAP whistleblower testimony reported (American)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "rumble"
       ],
       "sources": [
         {
-          "handle": "solarphasing",
-          "url": "https://mastodon.social/@solarphasing/116831376864480748"
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=LPtMaGpuK-M"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=LPtMaGpuK-M"
+      ],
       "update": false
     }
   ]
