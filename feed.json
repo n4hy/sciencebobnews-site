@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-06-30 07:00 UTC",
+  "generated_utc": "2026-06-30 07:10 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -72,7 +72,7 @@
       "update": false
     },
     {
-      "headline": "Official UAP statement reported (Catholic)",
+      "headline": "UAP report (McMinnville)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
@@ -84,16 +84,16 @@
       "sources": [
         {
           "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=aWkuBLLWfNU"
+          "url": "https://www.youtube.com/watch?v=7OT6uJ0yzVY"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=aWkuBLLWfNU"
+        "https://www.youtube.com/watch?v=7OT6uJ0yzVY"
       ],
       "update": false
     },
     {
-      "headline": "Official UAP statement reported (North)",
+      "headline": "UAP report (New)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
@@ -105,16 +105,16 @@
       "sources": [
         {
           "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=fQ4z2yIymlA"
+          "url": "https://www.youtube.com/watch?v=7_qqSoBfcYg"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=fQ4z2yIymlA"
+        "https://www.youtube.com/watch?v=7_qqSoBfcYg"
       ],
       "update": false
     },
     {
-      "headline": "Official UAP statement reported (Pasadena)",
+      "headline": "UAP report (Titles)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
@@ -126,11 +126,11 @@
       "sources": [
         {
           "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=zPP4A9Bsl0s"
+          "url": "https://www.youtube.com/watch?v=xExbXEg6tVY"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=zPP4A9Bsl0s"
+        "https://www.youtube.com/watch?v=xExbXEg6tVY"
       ],
       "update": false
     }
