@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-07-01 03:20 UTC",
+  "generated_utc": "2026-07-01 03:30 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -18,7 +18,7 @@
       "sources": [
         {
           "handle": "KilleansRow@mastodon.online",
-          "url": "https://mastodon.online/@KilleansRow/116824136208537067"
+          "url": "https://mastodon.online/@KilleansRow/116842586150175824"
         },
         {
           "handle": "x@niwego.com",
@@ -42,6 +42,25 @@
         {
           "handle": "verdadeufo",
           "url": "https://mastodon.social/@verdadeufo/116837969830025726"
+        }
+      ],
+      "videos": [],
+      "update": false
+    },
+    {
+      "headline": "Official UAP statement reported",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
+        "bluesky"
+      ],
+      "sources": [
+        {
+          "handle": "did:plc:whdnyhkdb467nqxvp3rutibz",
+          "url": "https://bsky.app/profile/did:plc:whdnyhkdb467nqxvp3rutibz/post/3mpkbh7itms2y"
         }
       ],
       "videos": [],
@@ -99,25 +118,6 @@
         {
           "handle": "sazengrows",
           "url": "https://mastodon.social/@sazengrows/116835582440263871"
-        }
-      ],
-      "videos": [],
-      "update": false
-    },
-    {
-      "headline": "UAP report",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 1,
-      "platforms": [
-        "mastodon"
-      ],
-      "sources": [
-        {
-          "handle": "famousblueben@mas.to",
-          "url": "https://mas.to/@famousblueben/116839849669535472"
         }
       ],
       "videos": [],
