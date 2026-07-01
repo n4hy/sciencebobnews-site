@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-07-01 05:30 UTC",
+  "generated_utc": "2026-07-01 05:40 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -46,27 +46,6 @@
       "update": false
     },
     {
-      "headline": "Official UAP statement reported (Utah)",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 1,
-      "platforms": [
-        "rumble"
-      ],
-      "sources": [
-        {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=CUnoufRiMrk"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=CUnoufRiMrk"
-      ],
-      "update": false
-    },
-    {
       "headline": "Official UAP statement reported (UFO)",
       "lane": "developing",
       "status": "DEVELOPING",
@@ -106,6 +85,27 @@
       "videos": [
         "https://www.youtube.com/watch?v=ivDqdkRyRDw",
         "https://youtu.be/Ayf92m7zPFY"
+      ],
+      "update": false
+    },
+    {
+      "headline": "UAP report",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
+        "rumble"
+      ],
+      "sources": [
+        {
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=Ayf92m7zPFY"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=Ayf92m7zPFY"
       ],
       "update": false
     }
