@@ -2,32 +2,9 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-07-01 04:00 UTC",
+  "generated_utc": "2026-07-01 04:10 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
-    {
-      "headline": "UAP report",
-      "lane": "corroborated",
-      "status": "CORROBORATED",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 3,
-      "platforms": [
-        "mastodon"
-      ],
-      "sources": [
-        {
-          "handle": "KilleansRow@mastodon.online",
-          "url": "https://mastodon.online/@KilleansRow/116842586150175824"
-        },
-        {
-          "handle": "x@niwego.com",
-          "url": "https://niwego.com/display/a081e5c3-196a-3fd4-0b1d-f17822239764"
-        }
-      ],
-      "videos": [],
-      "update": false
-    },
     {
       "headline": "UAP report",
       "lane": "developing",
@@ -48,28 +25,6 @@
       "update": false
     },
     {
-      "headline": "UAP whistleblower testimony reported (Channel)",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 1,
-      "platforms": [
-        "rumble"
-      ],
-      "sources": [
-        {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=l1w2tEsrS-g"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=MVjBLIsXFHQ&",
-        "https://www.youtube.com/watch?v=l1w2tEsrS-g"
-      ],
-      "update": false
-    },
-    {
       "headline": "Official UAP statement reported",
       "lane": "developing",
       "status": "DEVELOPING",
@@ -83,6 +38,25 @@
         {
           "handle": "vibewire@mastodon.au",
           "url": "https://mastodon.au/@vibewire/116840987423109366"
+        }
+      ],
+      "videos": [],
+      "update": false
+    },
+    {
+      "headline": "Unidentified submerged object (USO) reported",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
+        "bluesky"
+      ],
+      "sources": [
+        {
+          "handle": "did:plc:dyfmspzfrm7dw672d5nrezz3",
+          "url": "https://bsky.app/profile/did:plc:dyfmspzfrm7dw672d5nrezz3/post/3mpkecdroa22s"
         }
       ],
       "videos": [],
@@ -119,8 +93,8 @@
       ],
       "sources": [
         {
-          "handle": "sazengrows",
-          "url": "https://mastodon.social/@sazengrows/116835582440263871"
+          "handle": "KilleansRow@mastodon.online",
+          "url": "https://mastodon.online/@KilleansRow/116842586150175824"
         }
       ],
       "videos": [],
