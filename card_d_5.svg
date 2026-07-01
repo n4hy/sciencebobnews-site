@@ -8,7 +8,7 @@
     </linearGradient>
   </defs>
   <rect width="720" height="180" rx="12" fill="url(#bg)"/>
-  <image href="https://img.youtube.com/vi/7_qqSoBfcYg/3.jpg" x="0" y="0" width="720" height="180"
+  <image href="https://img.youtube.com/vi/fQ4z2yIymlA/3.jpg" x="0" y="0" width="720" height="180"
        preserveAspectRatio="xMidYMid slice" opacity="0.55"/>
   <linearGradient id="overlay" x1="0" y1="0" x2="0.7" y2="0">
     <stop offset="0%" stop-color="#0f3f3a" stop-opacity="0.95"/>
@@ -34,7 +34,7 @@
     <text x="14" y="16" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700"
           fill="#fff" letter-spacing="2">🎙️ DISCLOSURE PODCAST</text>
   </g>
-  <text x="176" y="82" font-family="Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#fff">UAP report (New)</text>
+  <text x="176" y="82" font-family="Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#fff">Official UAP statement reported (North)</text>
   <g transform="translate(176,134)" font-family="Helvetica, Arial, sans-serif" fill="#fff" opacity="0.92">
     <text x="0" y="14" font-size="13">P(credible) 1.00 · 1 indep · rumble  ·  📹 1 video link</text>
   </g>
