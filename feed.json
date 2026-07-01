@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-07-01 04:30 UTC",
+  "generated_utc": "2026-07-01 04:40 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -19,6 +19,46 @@
         {
           "handle": "verdadeufo",
           "url": "https://mastodon.social/@verdadeufo/116837969830025726"
+        }
+      ],
+      "videos": [],
+      "update": false
+    },
+    {
+      "headline": "Official UAP statement reported (Early)",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
+        "rumble"
+      ],
+      "sources": [
+        {
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=xsINt8MIeKA"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=xsINt8MIeKA"
+      ],
+      "update": false
+    },
+    {
+      "headline": "Official UAP statement reported",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
+        "bluesky"
+      ],
+      "sources": [
+        {
+          "handle": "did:plc:gg2zgjclkvcuj5hkhdnd4lnf",
+          "url": "https://bsky.app/profile/did:plc:gg2zgjclkvcuj5hkhdnd4lnf/post/3mpkgfw3vao2b"
         }
       ],
       "videos": [],
@@ -57,44 +97,6 @@
         {
           "handle": "futuroprossimo@mastodon.uno",
           "url": "https://mastodon.uno/@futuroprossimo/116841095554808912"
-        }
-      ],
-      "videos": [],
-      "update": false
-    },
-    {
-      "headline": "UAP report",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 1,
-      "platforms": [
-        "mastodon"
-      ],
-      "sources": [
-        {
-          "handle": "KilleansRow@mastodon.online",
-          "url": "https://mastodon.online/@KilleansRow/116842586150175824"
-        }
-      ],
-      "videos": [],
-      "update": false
-    },
-    {
-      "headline": "UAP report",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 1,
-      "platforms": [
-        "mastodon"
-      ],
-      "sources": [
-        {
-          "handle": "sazengrows",
-          "url": "https://mastodon.social/@sazengrows/116835582440263871"
         }
       ],
       "videos": [],

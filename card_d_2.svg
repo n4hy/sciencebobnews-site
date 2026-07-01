@@ -2,13 +2,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="720" height="180" viewBox="0 0 720 180" preserveAspectRatio="xMidYMid meet">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#3a2a0b"/>
-      <stop offset="55%" stop-color="#8a6a17"/>
-      <stop offset="100%" stop-color="#d4a017"/>
+      <stop offset="0%" stop-color="#0f3f3a"/>
+      <stop offset="55%" stop-color="#0f7b6c"/>
+      <stop offset="100%" stop-color="#0aa07a"/>
     </linearGradient>
   </defs>
   <rect width="720" height="180" rx="12" fill="url(#bg)"/>
-  
+  <image href="https://img.youtube.com/vi/xsINt8MIeKA/hqdefault.jpg" x="0" y="0" width="720" height="180"
+       preserveAspectRatio="xMidYMid slice" opacity="0.55"/>
+  <linearGradient id="overlay" x1="0" y1="0" x2="0.7" y2="0">
+    <stop offset="0%" stop-color="#0f3f3a" stop-opacity="0.95"/>
+    <stop offset="55%" stop-color="#0f7b6c" stop-opacity="0.55"/>
+    <stop offset="100%" stop-color="#0aa07a" stop-opacity="0.05"/>
+  </linearGradient>
+  <rect width="720" height="180" rx="12" fill="url(#overlay)"/>
   <g fill="#fff" opacity="0.06">
     <circle cx="640" cy="30" r="1.2"/><circle cx="690" cy="60" r="0.9"/>
     <circle cx="560" cy="20" r="0.7"/><circle cx="600" cy="90" r="1.0"/>
@@ -25,10 +32,10 @@
   <g transform="translate(176,30)">
     <rect width="180" height="22" rx="11" fill="rgba(255,255,255,0.16)"/>
     <text x="14" y="16" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700"
-          fill="#fff" letter-spacing="2">🔭 DEVELOPING</text>
+          fill="#fff" letter-spacing="2">🎙️ DISCLOSURE PODCAST</text>
   </g>
-  <text x="176" y="82" font-family="Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#fff">Official UAP statement reported</text>
+  <text x="176" y="82" font-family="Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#fff">Official UAP statement reported (Early)</text>
   <g transform="translate(176,134)" font-family="Helvetica, Arial, sans-serif" fill="#fff" opacity="0.92">
-    <text x="0" y="14" font-size="13">P(credible) 1.00 · 1 indep · mastodon</text>
+    <text x="0" y="14" font-size="13">P(credible) 1.00 · 1 indep · rumble  ·  📹 1 video link</text>
   </g>
 </svg>
