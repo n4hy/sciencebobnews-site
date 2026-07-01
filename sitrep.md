@@ -1,8 +1,13 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-07-01 12:40 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-07-01 12:50 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
-_No corroborated reports this cycle._
+
+![UAP report (Australia)](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
+1. **UAP report (Australia)**  
+   reliability **A1** · P(credible)=1.0 · 2 independent source(s) · bluesky+rumble  
+   [@podcast](https://www.youtube.com/watch?v=ZegQhxJrJGo) · [@did:plc:kqfemlwlb2eofb7dzm6t4xug](https://bsky.app/profile/did:plc:kqfemlwlb2eofb7dzm6t4xug/post/3mplkinlyct2t)  
+   📹 [video](https://www.youtube.com/watch?v=ZegQhxJrJGo)
 
 ## Developing / unconfirmed
 
