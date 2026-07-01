@@ -2,9 +2,33 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-07-01 10:10 UTC",
+  "generated_utc": "2026-07-01 10:20 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
+    {
+      "headline": "UAP report",
+      "lane": "corroborated",
+      "status": "CORROBORATED",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 2,
+      "platforms": [
+        "bluesky",
+        "mastodon"
+      ],
+      "sources": [
+        {
+          "handle": "KilleansRow@mastodon.online",
+          "url": "https://mastodon.online/@KilleansRow/116842586150175824"
+        },
+        {
+          "handle": "did:plc:xhrtfphu4gzqrztkpb3a63qf",
+          "url": "https://bsky.app/profile/did:plc:xhrtfphu4gzqrztkpb3a63qf/post/3mplc6gyxlu2v"
+        }
+      ],
+      "videos": [],
+      "update": false
+    },
     {
       "headline": "UAP report",
       "lane": "developing",
