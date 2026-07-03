@@ -1,25 +1,31 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-07-03 22:50 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-07-03 23:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
-![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
-1. **Official UAP statement reported**  
+![UAP report (Australia)](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
+1. **UAP report (Australia)**  
+   reliability **A1** · P(credible)=1.0 · 2 independent source(s) · bluesky+rumble  
+   [@podcast](https://www.youtube.com/watch?v=ZegQhxJrJGo) · [@did:plc:o236rnpxsjlun3rrvvpfsdgo](https://bsky.app/profile/did:plc:o236rnpxsjlun3rrvvpfsdgo/post/3mprll2gwgk27)  
+   📹 [video](https://www.youtube.com/watch?v=ZegQhxJrJGo)
+
+![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_c_2.svg)
+2. **Official UAP statement reported**  
    reliability **A1** · P(credible)=1.0 · 2 independent source(s) · mastodon  
    [@Lynda@mastodon.uno](https://mastodon.uno/@Lynda/116848755348421137) · [@perfettamentechic.com@perfettamentechic.com](https://perfettamentechic.com/2026/07/02/%f0%9f%91%bdgiornata-mondiale-degli-ufo%f0%9f%9b%b8/)
 
-![UAP report (Jerusalem)](https://n4hy.github.io/sciencebobnews-site/card_c_2.svg)
-2. **UAP report (Jerusalem)**  
+![UAP report (Jerusalem)](https://n4hy.github.io/sciencebobnews-site/card_c_3.svg)
+3. **UAP report (Jerusalem)**  
    reliability **A1** · P(credible)=1.0 · 3 independent source(s) · mastodon  
    [@x@niwego.com](https://niwego.com/display/a081e5c3-166a-478e-2d3f-8c1255718046) · [@KilleansRow@mastodon.online](https://mastodon.online/@KilleansRow/116842586150175824)
 
-![UAP report (Black)](https://n4hy.github.io/sciencebobnews-site/card_c_3.svg)
-3. **UAP report (Black)**  
+![UAP report (Black)](https://n4hy.github.io/sciencebobnews-site/card_c_4.svg)
+4. **UAP report (Black)**  
    reliability **A1** · P(credible)=1.0 · 3 independent source(s) · mastodon  
    [@paranormalactivity@masto.nu](https://masto.nu/@paranormalactivity/116852736423159447) · [@esraye](https://mastodon.social/@esraye/116851326981242419)
 
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_4.svg)
-4. **UAP report**  
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_5.svg)
+5. **UAP report**  
    reliability **A1** · P(credible)=1.0 · 2 independent source(s) · mastodon  
    [@EugeniaLoli@pixelfed.social](https://pixelfed.social/p/EugeniaLoli/978749472576968947) · [@MauroGata](https://mastodon.social/@MauroGata/116851640339227472)
 
