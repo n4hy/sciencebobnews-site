@@ -1,20 +1,26 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-07-04 05:40 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-07-04 05:50 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
-![UAP report (Jerusalem)](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
-1. **UAP report (Jerusalem)**  
+![UAP whistleblower testimony reported (American)](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
+1. **UAP whistleblower testimony reported (American)**  
+   reliability **A1** · P(credible)=1.0 · 2 independent source(s) · bluesky+rumble  
+   [@podcast](https://www.youtube.com/watch?v=LPtMaGpuK-M) · [@did:plc:xhrtfphu4gzqrztkpb3a63qf](https://bsky.app/profile/did:plc:xhrtfphu4gzqrztkpb3a63qf/post/3mpseikusnu2x)  
+   📹 [video](https://www.youtube.com/watch?v=LPtMaGpuK-M)
+
+![UAP report (Jerusalem)](https://n4hy.github.io/sciencebobnews-site/card_c_2.svg)
+2. **UAP report (Jerusalem)**  
    reliability **A1** · P(credible)=1.0 · 2 independent source(s) · mastodon  
    [@KilleansRow@mastodon.online](https://mastodon.online/@KilleansRow/116859364735046594) · [@x@niwego.com](https://niwego.com/display/a081e5c3-166a-478e-2d3f-8c1255718046)
 
-![UAP report (Black)](https://n4hy.github.io/sciencebobnews-site/card_c_2.svg)
-2. **UAP report (Black)**  
+![UAP report (Black)](https://n4hy.github.io/sciencebobnews-site/card_c_3.svg)
+3. **UAP report (Black)**  
    reliability **A1** · P(credible)=1.0 · 3 independent source(s) · mastodon  
    [@paranormalactivity@masto.nu](https://masto.nu/@paranormalactivity/116852736423159447) · [@esraye](https://mastodon.social/@esraye/116851326981242419)
 
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_3.svg)
-3. **UAP report**  
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_4.svg)
+4. **UAP report**  
    reliability **A1** · P(credible)=1.0 · 2 independent source(s) · mastodon  
    [@EugeniaLoli@pixelfed.social](https://pixelfed.social/p/EugeniaLoli/978749472576968947) · [@MauroGata](https://mastodon.social/@MauroGata/116851640339227472)
 
