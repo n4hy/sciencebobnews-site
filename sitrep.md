@@ -1,21 +1,15 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-07-04 13:40 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-07-04 13:50 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
-![UAP report (Australia)](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
-1. **UAP report (Australia)**  
-   reliability **A1** · P(credible)=1.0 · 2 independent source(s) · bluesky+rumble  
-   [@podcast](https://www.youtube.com/watch?v=ZegQhxJrJGo) · [@did:plc:zj7se532wjdjbxm4jn32s7pc](https://bsky.app/profile/did:plc:zj7se532wjdjbxm4jn32s7pc/post/3mpt6pykgpc2j)  
-   📹 [video](https://www.youtube.com/watch?v=ZegQhxJrJGo)
-
-![UAP report (Jerusalem)](https://n4hy.github.io/sciencebobnews-site/card_c_2.svg)
-2. **UAP report (Jerusalem)**  
+![UAP report (Jerusalem)](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
+1. **UAP report (Jerusalem)**  
    reliability **A1** · P(credible)=1.0 · 2 independent source(s) · mastodon  
    [@KilleansRow@mastodon.online](https://mastodon.online/@KilleansRow/116859364735046594) · [@x@niwego.com](https://niwego.com/display/a081e5c3-166a-478e-2d3f-8c1255718046)
 
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_3.svg)
-3. **UAP report**  
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_2.svg)
+2. **UAP report**  
    reliability **A1** · P(credible)=1.0 · 2 independent source(s) · mastodon  
    [@willamateurish.bsky.social@bsky.brid.gy](https://bsky.brid.gy/r/https://bsky.app/profile/did:plc:ahhoo6g75dgdbrumz3eosoax/post/3mppvqwnljk2u) · [@nextlinelabel](https://mastodon.social/@nextlinelabel/116860260617937577)
 
