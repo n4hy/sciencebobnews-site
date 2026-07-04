@@ -2,32 +2,9 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-07-04 00:00 UTC",
+  "generated_utc": "2026-07-04 00:10 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
-    {
-      "headline": "Official UAP statement reported",
-      "lane": "corroborated",
-      "status": "CORROBORATED",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 2,
-      "platforms": [
-        "mastodon"
-      ],
-      "sources": [
-        {
-          "handle": "Lynda@mastodon.uno",
-          "url": "https://mastodon.uno/@Lynda/116848755348421137"
-        },
-        {
-          "handle": "perfettamentechic.com@perfettamentechic.com",
-          "url": "https://perfettamentechic.com/2026/07/02/%f0%9f%91%bdgiornata-mondiale-degli-ufo%f0%9f%9b%b8/"
-        }
-      ],
-      "videos": [],
-      "update": false
-    },
     {
       "headline": "UAP report (Jerusalem)",
       "lane": "corroborated",
