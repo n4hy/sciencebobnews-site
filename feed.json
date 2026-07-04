@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-07-04 02:42 UTC",
+  "generated_utc": "2026-07-04 02:50 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -29,19 +29,46 @@
       "update": false
     },
     {
-      "headline": "UAP whistleblower testimony reported",
-      "lane": "developing",
-      "status": "DEVELOPING",
+      "headline": "UAP report (Black)",
+      "lane": "corroborated",
+      "status": "CORROBORATED",
       "reliability": "A1",
       "p_credible": 1.0,
-      "independent_sources": 1,
+      "independent_sources": 3,
       "platforms": [
         "mastodon"
       ],
       "sources": [
         {
-          "handle": "ScienceBob",
-          "url": "https://mastodon.social/@ScienceBob/116858802034102059"
+          "handle": "paranormalactivity@masto.nu",
+          "url": "https://masto.nu/@paranormalactivity/116852736423159447"
+        },
+        {
+          "handle": "esraye",
+          "url": "https://mastodon.social/@esraye/116851326981242419"
+        }
+      ],
+      "videos": [],
+      "update": false
+    },
+    {
+      "headline": "UAP report (May)",
+      "lane": "corroborated",
+      "status": "CORROBORATED",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 2,
+      "platforms": [
+        "mastodon"
+      ],
+      "sources": [
+        {
+          "handle": "peterrenshaw@ioc.exchange",
+          "url": "https://ioc.exchange/@peterrenshaw/116849301684415668"
+        },
+        {
+          "handle": "blogsdeoscar.wordpress.com@blogsdeoscar.wordpress.com",
+          "url": "https://blogsdeoscar.wordpress.com/2026/07/02/cine-close-encounters-of-the-third-kind-encuentros-en-la-tercera-fase/"
         }
       ],
       "videos": [],
@@ -49,78 +76,131 @@
     },
     {
       "headline": "UAP report",
-      "lane": "developing",
-      "status": "DEVELOPING",
+      "lane": "corroborated",
+      "status": "CORROBORATED",
       "reliability": "A1",
       "p_credible": 1.0,
-      "independent_sources": 1,
+      "independent_sources": 2,
       "platforms": [
         "mastodon"
       ],
       "sources": [
         {
-          "handle": "sazengrows",
-          "url": "https://mastodon.social/@sazengrows/116835582440263871"
+          "handle": "EugeniaLoli@pixelfed.social",
+          "url": "https://pixelfed.social/p/EugeniaLoli/978749472576968947"
+        },
+        {
+          "handle": "MauroGata",
+          "url": "https://mastodon.social/@MauroGata/116851640339227472"
         }
       ],
       "videos": [],
       "update": false
     },
     {
-      "headline": "UAP report",
+      "headline": "UAP report (Mind)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "rumble"
       ],
       "sources": [
         {
-          "handle": "famousblueben@mas.to",
-          "url": "https://mas.to/@famousblueben/116839849669535472"
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=Kt7sNS1Bx6E"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=Kt7sNS1Bx6E"
+      ],
       "update": false
     },
     {
-      "headline": "UAP report",
+      "headline": "UAP whistleblower testimony reported (Channel)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "rumble"
       ],
       "sources": [
         {
-          "handle": "Lynda@mastodon.uno",
-          "url": "https://mastodon.uno/@Lynda/116848755348421137"
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=l1w2tEsrS-g"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=MVjBLIsXFHQ&",
+        "https://www.youtube.com/watch?v=l1w2tEsrS-g"
+      ],
       "update": false
     },
     {
-      "headline": "UAP report",
+      "headline": "UAP report (McMinnville)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "rumble"
       ],
       "sources": [
         {
-          "handle": "lacaverneeclairee@mamot.fr",
-          "url": "https://mamot.fr/@lacaverneeclairee/116850081057062443"
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=7OT6uJ0yzVY"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=7OT6uJ0yzVY"
+      ],
+      "update": false
+    },
+    {
+      "headline": "UAP report (New)",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
+        "rumble"
+      ],
+      "sources": [
+        {
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=7_qqSoBfcYg"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=7_qqSoBfcYg"
+      ],
+      "update": false
+    },
+    {
+      "headline": "UAP report (Titles)",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
+        "rumble"
+      ],
+      "sources": [
+        {
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=xExbXEg6tVY"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=xExbXEg6tVY"
+      ],
       "update": false
     }
   ]
