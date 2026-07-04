@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-07-04 09:30 UTC",
+  "generated_utc": "2026-07-04 09:40 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -23,29 +23,6 @@
         {
           "handle": "x@niwego.com",
           "url": "https://niwego.com/display/a081e5c3-166a-478e-2d3f-8c1255718046"
-        }
-      ],
-      "videos": [],
-      "update": false
-    },
-    {
-      "headline": "UAP report (Black)",
-      "lane": "corroborated",
-      "status": "CORROBORATED",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 3,
-      "platforms": [
-        "mastodon"
-      ],
-      "sources": [
-        {
-          "handle": "paranormalactivity@masto.nu",
-          "url": "https://masto.nu/@paranormalactivity/116852736423159447"
-        },
-        {
-          "handle": "esraye",
-          "url": "https://mastodon.social/@esraye/116851326981242419"
         }
       ],
       "videos": [],
