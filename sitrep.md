@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-07-04 02:50 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-07-04 03:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
@@ -13,13 +13,8 @@
    reliability **A1** · P(credible)=1.0 · 3 independent source(s) · mastodon  
    [@paranormalactivity@masto.nu](https://masto.nu/@paranormalactivity/116852736423159447) · [@esraye](https://mastodon.social/@esraye/116851326981242419)
 
-![UAP report (May)](https://n4hy.github.io/sciencebobnews-site/card_c_3.svg)
-3. **UAP report (May)**  
-   reliability **A1** · P(credible)=1.0 · 2 independent source(s) · mastodon  
-   [@peterrenshaw@ioc.exchange](https://ioc.exchange/@peterrenshaw/116849301684415668) · [@blogsdeoscar.wordpress.com@blogsdeoscar.wordpress.com](https://blogsdeoscar.wordpress.com/2026/07/02/cine-close-encounters-of-the-third-kind-encuentros-en-la-tercera-fase/)
-
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_4.svg)
-4. **UAP report**  
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_3.svg)
+3. **UAP report**  
    reliability **A1** · P(credible)=1.0 · 2 independent source(s) · mastodon  
    [@EugeniaLoli@pixelfed.social](https://pixelfed.social/p/EugeniaLoli/978749472576968947) · [@MauroGata](https://mastodon.social/@MauroGata/116851640339227472)
 
