@@ -2,35 +2,9 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-07-05 13:20 UTC",
+  "generated_utc": "2026-07-05 13:30 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
-    {
-      "headline": "UAP report (Titles)",
-      "lane": "corroborated",
-      "status": "CORROBORATED",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 2,
-      "platforms": [
-        "bluesky",
-        "rumble"
-      ],
-      "sources": [
-        {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=xExbXEg6tVY"
-        },
-        {
-          "handle": "did:plc:zlzfyl5babds5zlpvqvtov6q",
-          "url": "https://bsky.app/profile/did:plc:zlzfyl5babds5zlpvqvtov6q/post/3mpvo467q6s2d"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=xExbXEg6tVY"
-      ],
-      "update": false
-    },
     {
       "headline": "UAP report (Jerusalem)",
       "lane": "corroborated",
@@ -140,7 +114,7 @@
       "update": false
     },
     {
-      "headline": "UAP whistleblower testimony reported (Frank)",
+      "headline": "UAP report (Titles)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
@@ -152,11 +126,11 @@
       "sources": [
         {
           "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=CxvFVjJKZtA"
+          "url": "https://www.youtube.com/watch?v=xExbXEg6tVY"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=CxvFVjJKZtA"
+        "https://www.youtube.com/watch?v=xExbXEg6tVY"
       ],
       "update": false
     }
