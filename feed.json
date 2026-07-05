@@ -2,35 +2,9 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-07-04 22:20 UTC",
+  "generated_utc": "2026-07-05 05:20 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
-    {
-      "headline": "UAP report (New)",
-      "lane": "corroborated",
-      "status": "CORROBORATED",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 2,
-      "platforms": [
-        "bluesky",
-        "rumble"
-      ],
-      "sources": [
-        {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=7_qqSoBfcYg"
-        },
-        {
-          "handle": "did:plc:j3flhle3zrzuskwp6zeygwzw",
-          "url": "https://bsky.app/profile/did:plc:j3flhle3zrzuskwp6zeygwzw/post/3mptxzzzatc2i"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=7_qqSoBfcYg"
-      ],
-      "update": false
-    },
     {
       "headline": "UAP report (Jerusalem)",
       "lane": "corroborated",
@@ -119,6 +93,27 @@
       "update": false
     },
     {
+      "headline": "UAP report (New)",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
+        "rumble"
+      ],
+      "sources": [
+        {
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=7_qqSoBfcYg"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=7_qqSoBfcYg"
+      ],
+      "update": false
+    },
+    {
       "headline": "UAP report (Titles)",
       "lane": "developing",
       "status": "DEVELOPING",
@@ -136,27 +131,6 @@
       ],
       "videos": [
         "https://www.youtube.com/watch?v=xExbXEg6tVY"
-      ],
-      "update": false
-    },
-    {
-      "headline": "UAP whistleblower testimony reported (Frank)",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 1,
-      "platforms": [
-        "rumble"
-      ],
-      "sources": [
-        {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=CxvFVjJKZtA"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=CxvFVjJKZtA"
       ],
       "update": false
     }
