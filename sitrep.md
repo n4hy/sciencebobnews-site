@@ -1,10 +1,16 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-07-05 08:20 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-07-05 08:30 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
-![UAP report (Jerusalem)](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
-1. **UAP report (Jerusalem)**  
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
+1. **UAP report**  
+   reliability **A1** · P(credible)=1.0 · 2 independent source(s) · bluesky+rumble  
+   [@podcast](https://www.youtube.com/watch?v=rk0y6oeI2k0) · [@did:plc:72oko5tpfkdyqsr2tbd4h34f](https://bsky.app/profile/did:plc:72oko5tpfkdyqsr2tbd4h34f/post/3mpv5vfydhs2c)  
+   📹 [video](https://www.youtube.com/watch?v=rk0y6oeI2k0)
+
+![UAP report (Jerusalem)](https://n4hy.github.io/sciencebobnews-site/card_c_2.svg)
+2. **UAP report (Jerusalem)**  
    reliability **A1** · P(credible)=1.0 · 2 independent source(s) · mastodon  
    [@KilleansRow@mastodon.online](https://mastodon.online/@KilleansRow/116859364735046594) · [@x@niwego.com](https://niwego.com/display/a081e5c3-166a-478e-2d3f-8c1255718046)
 
