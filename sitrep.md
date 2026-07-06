@@ -1,12 +1,8 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-07-06 02:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-07-06 02:10 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
-
-![UAP report (Jerusalem)](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
-1. **UAP report (Jerusalem)**  
-   reliability **A1** · P(credible)=1.0 · 2 independent source(s) · mastodon  
-   [@KilleansRow@mastodon.online](https://mastodon.online/@KilleansRow/116870072541474121) · [@x@niwego.com](https://niwego.com/display/a081e5c3-166a-478e-2d3f-8c1255718046)
+_No corroborated reports this cycle._
 
 ## Developing / unconfirmed
 
