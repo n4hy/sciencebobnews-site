@@ -6,29 +6,6 @@
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
-      "headline": "UAP report (Jerusalem)",
-      "lane": "corroborated",
-      "status": "CORROBORATED",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 2,
-      "platforms": [
-        "mastodon"
-      ],
-      "sources": [
-        {
-          "handle": "KilleansRow@mastodon.online",
-          "url": "https://mastodon.online/@KilleansRow/116870072541474121"
-        },
-        {
-          "handle": "x@niwego.com",
-          "url": "https://niwego.com/display/a081e5c3-166a-478e-2d3f-8c1255718046"
-        }
-      ],
-      "videos": [],
-      "update": false
-    },
-    {
       "headline": "UAP report (Mind)",
       "lane": "developing",
       "status": "DEVELOPING",
