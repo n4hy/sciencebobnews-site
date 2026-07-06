@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-07-06 15:30 UTC",
+  "generated_utc": "2026-07-06 15:40 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -19,6 +19,25 @@
         {
           "handle": "vibewire@mastodon.au",
           "url": "https://mastodon.au/@vibewire/116871937286852378"
+        }
+      ],
+      "videos": [],
+      "update": false
+    },
+    {
+      "headline": "UAP report (Congress)",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
+        "bluesky"
+      ],
+      "sources": [
+        {
+          "handle": "did:plc:553eofo6hvuxcsxo7qfidxjs",
+          "url": "https://bsky.app/profile/did:plc:553eofo6hvuxcsxo7qfidxjs/post/3mpygdrcswg24"
         }
       ],
       "videos": [],
@@ -84,27 +103,6 @@
       ],
       "videos": [
         "https://www.youtube.com/watch?v=xExbXEg6tVY"
-      ],
-      "update": false
-    },
-    {
-      "headline": "UAP whistleblower testimony reported (Frank)",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 1,
-      "platforms": [
-        "rumble"
-      ],
-      "sources": [
-        {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=CxvFVjJKZtA"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=CxvFVjJKZtA"
       ],
       "update": false
     }
