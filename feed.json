@@ -2,11 +2,80 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-07-07 13:40 UTC",
+  "generated_utc": "2026-07-13 03:00 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
-      "headline": "UAP whistleblower testimony reported",
+      "headline": "UAP report (Britain)",
+      "lane": "corroborated",
+      "status": "CORROBORATED",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 4,
+      "platforms": [
+        "mastodon"
+      ],
+      "sources": [
+        {
+          "handle": "MDT@mast.lat",
+          "url": "https://mast.lat/@MDT/116902480700455654"
+        },
+        {
+          "handle": "sociedad-noticias.com@sociedad-noticias.com",
+          "url": "https://sociedad-noticias.com/2026/07/10/pentagono-publica-nuevos-videos-de-ovnis-difunde-el-registro-mas-nitido-de-un-uap/"
+        }
+      ],
+      "videos": [],
+      "update": false
+    },
+    {
+      "headline": "UAP report",
+      "lane": "corroborated",
+      "status": "CORROBORATED",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 3,
+      "platforms": [
+        "mastodon"
+      ],
+      "sources": [
+        {
+          "handle": "Mathrubhumi_English",
+          "url": "https://mastodon.social/@Mathrubhumi_English/116900592270182921"
+        },
+        {
+          "handle": "danstafford",
+          "url": "https://mastodon.social/@danstafford/116897275469537224"
+        }
+      ],
+      "videos": [],
+      "update": false
+    },
+    {
+      "headline": "UAP report",
+      "lane": "corroborated",
+      "status": "CORROBORATED",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 2,
+      "platforms": [
+        "mastodon"
+      ],
+      "sources": [
+        {
+          "handle": "KilleansRow@mastodon.online",
+          "url": "https://mastodon.online/@KilleansRow/116881926520252497"
+        },
+        {
+          "handle": "NMBA@mstdn.ca",
+          "url": "https://mstdn.ca/@NMBA/116901382508640700"
+        }
+      ],
+      "videos": [],
+      "update": false
+    },
+    {
+      "headline": "UAP report (Deep)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
@@ -18,94 +87,94 @@
       "sources": [
         {
           "handle": "vibewire@mastodon.au",
-          "url": "https://mastodon.au/@vibewire/116871937286852378"
+          "url": "https://mastodon.au/@vibewire/116886730265403632"
         }
       ],
       "videos": [],
       "update": false
     },
     {
-      "headline": "UAP report (Mind)",
+      "headline": "UAP report",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "rumble"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=Kt7sNS1Bx6E"
+          "handle": "zougla",
+          "url": "https://mastodon.social/@zougla/116899538956376607"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=Kt7sNS1Bx6E"
-      ],
+      "videos": [],
       "update": false
     },
     {
-      "headline": "UAP report (McMinnville)",
+      "headline": "UAP report",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "rumble"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=7OT6uJ0yzVY"
+          "handle": "researchbuzz_firehose@rbfirehose.com",
+          "url": "https://rbfirehose.com/2026/07/11/people-pentagon-releases-new-ufo-records-detailing-decades-of-unexplained-aerial-encounters/"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=7OT6uJ0yzVY"
-      ],
+      "videos": [],
       "update": false
     },
     {
-      "headline": "UAP report (Titles)",
+      "headline": "Official UAP statement reported",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
-      "independent_sources": 1,
+      "independent_sources": 2,
       "platforms": [
-        "rumble"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=xExbXEg6tVY"
+          "handle": "nyt_homepage@robot.villas",
+          "url": "https://www.nytimes.com/2026/07/11/us/trump-roswell-ufo.html"
+        },
+        {
+          "handle": "nyt_us@robot.villas",
+          "url": "https://www.nytimes.com/2026/07/11/us/trump-roswell-ufo.html"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=xExbXEg6tVY"
-      ],
+      "videos": [],
       "update": false
     },
     {
-      "headline": "UAP whistleblower testimony reported (Frank)",
+      "headline": "Official UAP statement reported",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
-      "independent_sources": 1,
+      "independent_sources": 2,
       "platforms": [
-        "rumble"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=CxvFVjJKZtA"
+          "handle": "cypress@pinsapo.cc",
+          "url": "https://pinsapo.cc/@cypress/116897930814558805"
+        },
+        {
+          "handle": "in.mashable.com@web.brid.gy",
+          "url": "https://fed.brid.gy/r/https://in.mashable.com/science/111832/ufo-disclosure-2026-fourth-batch-of-40-files-released-by-department-of-war-heres-how-to-download"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=CxvFVjJKZtA"
-      ],
+      "videos": [],
       "update": false
     }
   ]
