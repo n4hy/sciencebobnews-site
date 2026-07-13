@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-07-13 16:50 UTC",
+  "generated_utc": "2026-07-13 17:00 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -128,50 +128,8 @@
       ],
       "sources": [
         {
-          "handle": "zougla",
-          "url": "https://mastodon.social/@zougla/116899538956376607"
-        }
-      ],
-      "videos": [],
-      "update": false
-    },
-    {
-      "headline": "UAP report",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 1,
-      "platforms": [
-        "mastodon"
-      ],
-      "sources": [
-        {
           "handle": "researchbuzz_firehose@rbfirehose.com",
           "url": "https://rbfirehose.com/2026/07/11/people-pentagon-releases-new-ufo-records-detailing-decades-of-unexplained-aerial-encounters/"
-        }
-      ],
-      "videos": [],
-      "update": false
-    },
-    {
-      "headline": "Official UAP statement reported",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 2,
-      "platforms": [
-        "mastodon"
-      ],
-      "sources": [
-        {
-          "handle": "nyt_homepage@robot.villas",
-          "url": "https://www.nytimes.com/2026/07/11/us/trump-roswell-ufo.html"
-        },
-        {
-          "handle": "nyt_us@robot.villas",
-          "url": "https://www.nytimes.com/2026/07/11/us/trump-roswell-ufo.html"
         }
       ],
       "videos": [],
@@ -198,6 +156,48 @@
         }
       ],
       "videos": [],
+      "update": false
+    },
+    {
+      "headline": "UAP report (McMinnville)",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
+        "rumble"
+      ],
+      "sources": [
+        {
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=7OT6uJ0yzVY"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=7OT6uJ0yzVY"
+      ],
+      "update": false
+    },
+    {
+      "headline": "UAP whistleblower testimony reported (Frank)",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
+        "rumble"
+      ],
+      "sources": [
+        {
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=CxvFVjJKZtA"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=CxvFVjJKZtA"
+      ],
       "update": false
     }
   ]
