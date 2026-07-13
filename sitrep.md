@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-07-13 20:30 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-07-13 20:40 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
@@ -18,8 +18,13 @@
    reliability **A1** · P(credible)=1.0 · 2 independent source(s) · mastodon  
    [@n_dimension@infosec.exchange](https://infosec.exchange/@n_dimension/116912312645826158) · [@x@niwego.com](https://niwego.com/display/a081e5c3-266a-513b-928c-d65439022141)
 
-![UAP report (Britain)](https://n4hy.github.io/sciencebobnews-site/card_c_4.svg)
-4. **UAP report (Britain)**  
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_4.svg)
+4. **UAP report**  
+   reliability **A1** · P(credible)=1.0 · 2 independent source(s) · mastodon  
+   [@DrH@dice.camp](https://dice.camp/@DrH/116914315039635309) · [@vibewire@mastodon.au](https://mastodon.au/@vibewire/116913697449886329)
+
+![UAP report (Britain)](https://n4hy.github.io/sciencebobnews-site/card_c_5.svg)
+5. **UAP report (Britain)**  
    reliability **A1** · P(credible)=1.0 · 4 independent source(s) · mastodon  
    [@spaceflight@spacey.space](https://spacey.space/@spaceflight/116914303734987699) · [@n_dimension@infosec.exchange](https://infosec.exchange/@n_dimension/116910406370762601)
 
@@ -31,20 +36,19 @@
 
 ![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
 2. UAP report — reliability A1 · 1 source(s)  
-   [@researchbuzz_firehose@rbfirehose.com](https://rbfirehose.com/2026/07/11/people-pentagon-releases-new-ufo-records-detailing-decades-of-unexplained-aerial-encounters/)
+   [@vibewire@mastodon.au](https://mastodon.au/@vibewire/116907681042995836)
 
 ![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
 3. UAP report — reliability A1 · 1 source(s)  
+   [@researchbuzz_firehose@rbfirehose.com](https://rbfirehose.com/2026/07/11/people-pentagon-releases-new-ufo-records-detailing-decades-of-unexplained-aerial-encounters/)
+
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
+4. UAP report — reliability A1 · 1 source(s)  
    [@spaceflight@spacey.space](https://spacey.space/@spaceflight/116914363001474915)
 
-![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-4. Official UAP statement reported — reliability A1 · 2 source(s)  
+![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+5. Official UAP statement reported — reliability A1 · 2 source(s)  
    [@cypress@pinsapo.cc](https://pinsapo.cc/@cypress/116897930814558805) · [@in.mashable.com@web.brid.gy](https://fed.brid.gy/r/https://in.mashable.com/science/111832/ufo-disclosure-2026-fourth-batch-of-40-files-released-by-department-of-war-heres-how-to-download)
-
-![UAP report (McMinnville)](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. UAP report (McMinnville) — reliability A1 · 1 source(s)  
-   [@podcast](https://www.youtube.com/watch?v=7OT6uJ0yzVY)  
-   📹 [video](https://www.youtube.com/watch?v=7OT6uJ0yzVY)
 
 ---
 *Powered by Science Bob News. Free to use with credit (see LICENSE). Headlines are factual restatements in the engine's own words — click through to the linked sources for originals. Reposts of a single origin are collapsed to one source; candidate prosaic explanations are flagged where offered.*
