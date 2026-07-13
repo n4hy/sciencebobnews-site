@@ -1,11 +1,11 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-07-13 19:20 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-07-13 19:30 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
-![UAP report (Britain)](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
-1. **UAP report (Britain)**  
-   reliability **A1** · P(credible)=1.0 · 3 independent source(s) · mastodon  
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
+1. **UAP report**  
+   reliability **A1** · P(credible)=1.0 · 2 independent source(s) · mastodon  
    [@MDT@mast.lat](https://mast.lat/@MDT/116902480700455654) · [@sociedad-noticias.com@sociedad-noticias.com](https://sociedad-noticias.com/2026/07/10/pentagono-publica-nuevos-videos-de-ovnis-difunde-el-registro-mas-nitido-de-un-uap/)
 
 ![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_2.svg)
@@ -18,10 +18,10 @@
    reliability **A1** · P(credible)=1.0 · 2 independent source(s) · mastodon  
    [@n_dimension@infosec.exchange](https://infosec.exchange/@n_dimension/116912312645826158) · [@x@niwego.com](https://niwego.com/display/a081e5c3-266a-513b-928c-d65439022141)
 
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_4.svg)
-4. **UAP report**  
-   reliability **A1** · P(credible)=1.0 · 2 independent source(s) · mastodon  
-   [@KilleansRow@mastodon.online](https://mastodon.online/@KilleansRow/116881926520252497) · [@NMBA@mstdn.ca](https://mstdn.ca/@NMBA/116901382508640700)
+![UAP report (Britain)](https://n4hy.github.io/sciencebobnews-site/card_c_4.svg)
+4. **UAP report (Britain)**  
+   reliability **A1** · P(credible)=1.0 · 4 independent source(s) · mastodon  
+   [@spaceflight@spacey.space](https://spacey.space/@spaceflight/116914303734987699) · [@n_dimension@infosec.exchange](https://infosec.exchange/@n_dimension/116910406370762601)
 
 ## Developing / unconfirmed
 
