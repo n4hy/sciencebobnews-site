@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-07-14 13:20 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-07-14 13:30 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
@@ -42,15 +42,14 @@
 3. UAP report — reliability A1 · 1 source(s)  
    [@spaceflight@spacey.space](https://spacey.space/@spaceflight/116914363001474915)
 
-![UAP report (McMinnville)](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-4. UAP report (McMinnville) — reliability A1 · 1 source(s)  
+![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
+4. Official UAP statement reported — reliability A1 · 2 source(s)  
+   [@cypress@pinsapo.cc](https://pinsapo.cc/@cypress/116897930814558805) · [@in.mashable.com@web.brid.gy](https://fed.brid.gy/r/https://in.mashable.com/science/111832/ufo-disclosure-2026-fourth-batch-of-40-files-released-by-department-of-war-heres-how-to-download)
+
+![UAP report (McMinnville)](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+5. UAP report (McMinnville) — reliability A1 · 1 source(s)  
    [@podcast](https://www.youtube.com/watch?v=7OT6uJ0yzVY)  
    📹 [video](https://www.youtube.com/watch?v=7OT6uJ0yzVY)
-
-![UAP whistleblower testimony reported (Frank)](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. UAP whistleblower testimony reported (Frank) — reliability A1 · 1 source(s)  
-   [@podcast](https://www.youtube.com/watch?v=CxvFVjJKZtA)  
-   📹 [video](https://www.youtube.com/watch?v=CxvFVjJKZtA)
 
 ---
 *Powered by Science Bob News. Free to use with credit (see LICENSE). Headlines are factual restatements in the engine's own words — click through to the linked sources for originals. Reposts of a single origin are collapsed to one source; candidate prosaic explanations are flagged where offered.*

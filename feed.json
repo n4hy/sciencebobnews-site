@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-07-14 13:20 UTC",
+  "generated_utc": "2026-07-14 13:30 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -178,6 +178,29 @@
       "update": false
     },
     {
+      "headline": "Official UAP statement reported",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 2,
+      "platforms": [
+        "mastodon"
+      ],
+      "sources": [
+        {
+          "handle": "cypress@pinsapo.cc",
+          "url": "https://pinsapo.cc/@cypress/116897930814558805"
+        },
+        {
+          "handle": "in.mashable.com@web.brid.gy",
+          "url": "https://fed.brid.gy/r/https://in.mashable.com/science/111832/ufo-disclosure-2026-fourth-batch-of-40-files-released-by-department-of-war-heres-how-to-download"
+        }
+      ],
+      "videos": [],
+      "update": false
+    },
+    {
       "headline": "UAP report (McMinnville)",
       "lane": "developing",
       "status": "DEVELOPING",
@@ -195,27 +218,6 @@
       ],
       "videos": [
         "https://www.youtube.com/watch?v=7OT6uJ0yzVY"
-      ],
-      "update": false
-    },
-    {
-      "headline": "UAP whistleblower testimony reported (Frank)",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 1,
-      "platforms": [
-        "rumble"
-      ],
-      "sources": [
-        {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=CxvFVjJKZtA"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=CxvFVjJKZtA"
       ],
       "update": false
     }
