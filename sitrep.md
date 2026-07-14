@@ -1,11 +1,11 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-07-14 13:40 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-07-14 13:50 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
 ![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
 1. **UAP report**  
-   reliability **A1** · P(credible)=1.0 · 3 independent source(s) · bluesky+mastodon  
+   reliability **A1** · P(credible)=1.0 · 2 independent source(s) · mastodon  
    [@MDT@mast.lat](https://mast.lat/@MDT/116902480700455654) · [@sociedad-noticias.com@sociedad-noticias.com](https://sociedad-noticias.com/2026/07/10/pentagono-publica-nuevos-videos-de-ovnis-difunde-el-registro-mas-nitido-de-un-uap/)
 
 ![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_2.svg)
@@ -36,20 +36,21 @@
 
 ![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
 2. UAP report — reliability A1 · 1 source(s)  
-   [@vibewire@mastodon.au](https://mastodon.au/@vibewire/116914591255110704)
-
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
-3. UAP report — reliability A1 · 1 source(s)  
    [@spaceflight@spacey.space](https://spacey.space/@spaceflight/116914363001474915)
 
-![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-4. Official UAP statement reported — reliability A1 · 2 source(s)  
+![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
+3. Official UAP statement reported — reliability A1 · 2 source(s)  
    [@cypress@pinsapo.cc](https://pinsapo.cc/@cypress/116897930814558805) · [@in.mashable.com@web.brid.gy](https://fed.brid.gy/r/https://in.mashable.com/science/111832/ufo-disclosure-2026-fourth-batch-of-40-files-released-by-department-of-war-heres-how-to-download)
 
-![UAP report (McMinnville)](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. UAP report (McMinnville) — reliability A1 · 1 source(s)  
+![UAP report (McMinnville)](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
+4. UAP report (McMinnville) — reliability A1 · 1 source(s)  
    [@podcast](https://www.youtube.com/watch?v=7OT6uJ0yzVY)  
    📹 [video](https://www.youtube.com/watch?v=7OT6uJ0yzVY)
+
+![UAP whistleblower testimony reported (Frank)](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+5. UAP whistleblower testimony reported (Frank) — reliability A1 · 1 source(s)  
+   [@podcast](https://www.youtube.com/watch?v=CxvFVjJKZtA)  
+   📹 [video](https://www.youtube.com/watch?v=CxvFVjJKZtA)
 
 ---
 *Powered by Science Bob News. Free to use with credit (see LICENSE). Headlines are factual restatements in the engine's own words — click through to the linked sources for originals. Reposts of a single origin are collapsed to one source; candidate prosaic explanations are flagged where offered.*
