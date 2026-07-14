@@ -1,11 +1,11 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-07-14 14:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-07-14 14:10 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
 ![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
 1. **UAP report**  
-   reliability **A1** · P(credible)=1.0 · 2 independent source(s) · mastodon  
+   reliability **A1** · P(credible)=1.0 · 3 independent source(s) · bluesky+mastodon  
    [@MDT@mast.lat](https://mast.lat/@MDT/116902480700455654) · [@sociedad-noticias.com@sociedad-noticias.com](https://sociedad-noticias.com/2026/07/10/pentagono-publica-nuevos-videos-de-ovnis-difunde-el-registro-mas-nitido-de-un-uap/)
 
 ![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_2.svg)
