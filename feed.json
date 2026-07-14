@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-07-14 19:20 UTC",
+  "generated_utc": "2026-07-14 19:30 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -23,29 +23,6 @@
         {
           "handle": "sociedad-noticias.com@sociedad-noticias.com",
           "url": "https://sociedad-noticias.com/2026/07/10/pentagono-publica-nuevos-videos-de-ovnis-difunde-el-registro-mas-nitido-de-un-uap/"
-        }
-      ],
-      "videos": [],
-      "update": false
-    },
-    {
-      "headline": "UAP report",
-      "lane": "corroborated",
-      "status": "CORROBORATED",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 3,
-      "platforms": [
-        "mastodon"
-      ],
-      "sources": [
-        {
-          "handle": "Mathrubhumi_English",
-          "url": "https://mastodon.social/@Mathrubhumi_English/116900592270182921"
-        },
-        {
-          "handle": "danstafford",
-          "url": "https://mastodon.social/@danstafford/116897275469537224"
         }
       ],
       "videos": [],
@@ -98,12 +75,12 @@
       "update": false
     },
     {
-      "headline": "UAP report (Britain)",
+      "headline": "UAP report",
       "lane": "corroborated",
       "status": "CORROBORATED",
       "reliability": "A1",
       "p_credible": 1.0,
-      "independent_sources": 3,
+      "independent_sources": 2,
       "platforms": [
         "mastodon"
       ],
@@ -115,6 +92,29 @@
         {
           "handle": "n_dimension@infosec.exchange",
           "url": "https://infosec.exchange/@n_dimension/116910406370762601"
+        }
+      ],
+      "videos": [],
+      "update": false
+    },
+    {
+      "headline": "UAP report",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 2,
+      "platforms": [
+        "mastodon"
+      ],
+      "sources": [
+        {
+          "handle": "Mathrubhumi_English",
+          "url": "https://mastodon.social/@Mathrubhumi_English/116900592270182921"
+        },
+        {
+          "handle": "danstafford",
+          "url": "https://mastodon.social/@danstafford/116897275469537224"
         }
       ],
       "videos": [],
@@ -199,27 +199,6 @@
       ],
       "videos": [
         "https://www.youtube.com/watch?v=7OT6uJ0yzVY"
-      ],
-      "update": false
-    },
-    {
-      "headline": "UAP whistleblower testimony reported (Frank)",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 1,
-      "platforms": [
-        "rumble"
-      ],
-      "sources": [
-        {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=CxvFVjJKZtA"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=CxvFVjJKZtA"
       ],
       "update": false
     }
