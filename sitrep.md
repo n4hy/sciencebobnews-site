@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-07-15 08:30 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-07-15 08:40 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
@@ -8,18 +8,24 @@
    reliability **A1** · P(credible)=1.0 · 2 independent source(s) · mastodon  
    [@MDT@mast.lat](https://mast.lat/@MDT/116902480700455654) · [@sociedad-noticias.com@sociedad-noticias.com](https://sociedad-noticias.com/2026/07/10/pentagono-publica-nuevos-videos-de-ovnis-difunde-el-registro-mas-nitido-de-un-uap/)
 
-![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_c_2.svg)
-2. **Official UAP statement reported**  
+![Official UAP statement reported (Orlando)](https://n4hy.github.io/sciencebobnews-site/card_c_2.svg)
+2. **Official UAP statement reported (Orlando)**  
+   reliability **A1** · P(credible)=1.0 · 2 independent source(s) · bluesky+rumble  
+   [@podcast](https://www.youtube.com/watch?v=hxltEtjtFKo) · [@did:plc:gncw6q3fiiidozu3ido3q3uh](https://bsky.app/profile/did:plc:gncw6q3fiiidozu3ido3q3uh/post/3mqod4lfi6f2w)  
+   📹 [video](https://www.youtube.com/watch?v=hxltEtjtFKo)
+
+![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_c_3.svg)
+3. **Official UAP statement reported**  
    reliability **A1** · P(credible)=1.0 · 2 independent source(s) · mastodon  
    [@n_dimension@infosec.exchange](https://infosec.exchange/@n_dimension/116912312645826158) · [@x@niwego.com](https://niwego.com/display/a081e5c3-266a-513b-928c-d65439022141)
 
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_3.svg)
-3. **UAP report**  
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_4.svg)
+4. **UAP report**  
    reliability **A1** · P(credible)=1.0 · 2 independent source(s) · mastodon  
    [@DrH@dice.camp](https://dice.camp/@DrH/116914315039635309) · [@vibewire@mastodon.au](https://mastodon.au/@vibewire/116913697449886329)
 
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_4.svg)
-4. **UAP report**  
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_5.svg)
+5. **UAP report**  
    reliability **A1** · P(credible)=1.0 · 2 independent source(s) · mastodon  
    [@spaceflight@spacey.space](https://spacey.space/@spaceflight/116914303734987699) · [@n_dimension@infosec.exchange](https://infosec.exchange/@n_dimension/116910406370762601)
 
