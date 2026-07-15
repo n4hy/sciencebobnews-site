@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-07-15 02:50 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-07-15 03:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
@@ -37,13 +37,14 @@
 3. Official UAP statement reported — reliability A1 · 2 source(s)  
    [@cypress@pinsapo.cc](https://pinsapo.cc/@cypress/116897930814558805) · [@in.mashable.com@web.brid.gy](https://fed.brid.gy/r/https://in.mashable.com/science/111832/ufo-disclosure-2026-fourth-batch-of-40-files-released-by-department-of-war-heres-how-to-download)
 
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-4. UAP report — reliability A1 · 1 source(s)  
-   [@contemporaryartist.bsky.social@bsky.brid.gy](https://fed.brid.gy/r/https://bsky.app/profile/did:plc:ibqhsunue3o5giaj2fhotzhk/post/3mqloowon2c2v)
+![Official UAP statement reported (Early)](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
+4. Official UAP statement reported (Early) — reliability A1 · 1 source(s)  
+   [@podcast](https://www.youtube.com/watch?v=jkYp9peI3aI)  
+   📹 [video](https://www.youtube.com/watch?v=jkYp9peI3aI)
 
-![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. Official UAP statement reported — reliability A1 · 1 source(s)  
-   [@plutocrash@jasette.facil.services](https://jasette.facil.services/@plutocrash/116918886934625466)
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+5. UAP report — reliability A1 · 1 source(s)  
+   [@contemporaryartist.bsky.social@bsky.brid.gy](https://fed.brid.gy/r/https://bsky.app/profile/did:plc:ibqhsunue3o5giaj2fhotzhk/post/3mqloowon2c2v)
 
 ---
 *Powered by Science Bob News. Free to use with credit (see LICENSE). Headlines are factual restatements in the engine's own words — click through to the linked sources for originals. Reposts of a single origin are collapsed to one source; candidate prosaic explanations are flagged where offered.*
