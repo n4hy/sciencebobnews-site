@@ -2,35 +2,9 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-07-16 22:00 UTC",
+  "generated_utc": "2026-07-16 22:10 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
-    {
-      "headline": "UAP report (Australia)",
-      "lane": "corroborated",
-      "status": "CORROBORATED",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 2,
-      "platforms": [
-        "bluesky",
-        "rumble"
-      ],
-      "sources": [
-        {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=ZegQhxJrJGo"
-        },
-        {
-          "handle": "did:plc:3oa4nbgogy5w7y66xc5bzqhp",
-          "url": "https://bsky.app/profile/did:plc:3oa4nbgogy5w7y66xc5bzqhp/post/3mqryyt76uk2o"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=ZegQhxJrJGo"
-      ],
-      "update": false
-    },
     {
       "headline": "UAP report (Aldi)",
       "lane": "developing",
@@ -118,7 +92,7 @@
       "update": false
     },
     {
-      "headline": "Official UAP statement reported (Petaluma)",
+      "headline": "UAP report (Australia)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
@@ -130,11 +104,11 @@
       "sources": [
         {
           "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=91mfojYSseo"
+          "url": "https://www.youtube.com/watch?v=ZegQhxJrJGo"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=91mfojYSseo"
+        "https://www.youtube.com/watch?v=ZegQhxJrJGo"
       ],
       "update": false
     }
