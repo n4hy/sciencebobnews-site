@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-07-16 04:40 UTC",
+  "generated_utc": "2026-07-16 04:50 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -52,85 +52,22 @@
       "update": false
     },
     {
-      "headline": "UAP report",
+      "headline": "Official UAP statement reported",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "bluesky"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "did:plc:ljqhhvismpv2rwtfaaccffkv",
-          "url": "https://bsky.app/profile/did:plc:ljqhhvismpv2rwtfaaccffkv/post/3mqq45tdsgk2m"
+          "handle": "eduardohugoink",
+          "url": "https://mastodon.social/@eduardohugoink/116926327412412006"
         }
       ],
       "videos": [],
-      "update": false
-    },
-    {
-      "headline": "UAP report (McMinnville)",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 1,
-      "platforms": [
-        "rumble"
-      ],
-      "sources": [
-        {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=7OT6uJ0yzVY"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=7OT6uJ0yzVY"
-      ],
-      "update": false
-    },
-    {
-      "headline": "Official UAP statement reported (Utah)",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 1,
-      "platforms": [
-        "rumble"
-      ],
-      "sources": [
-        {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=CUnoufRiMrk"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=CUnoufRiMrk"
-      ],
-      "update": false
-    },
-    {
-      "headline": "Official UAP statement reported (UFO)",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 1,
-      "platforms": [
-        "rumble"
-      ],
-      "sources": [
-        {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=YiNznVZ5ciY"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=YiNznVZ5ciY"
-      ],
       "update": false
     },
     {
@@ -145,8 +82,65 @@
       ],
       "sources": [
         {
-          "handle": "eduardohugoink",
-          "url": "https://mastodon.social/@eduardohugoink/116926327412412006"
+          "handle": "n_dimension@infosec.exchange",
+          "url": "https://infosec.exchange/@n_dimension/116912312645826158"
+        }
+      ],
+      "videos": [],
+      "update": false
+    },
+    {
+      "headline": "UAP report",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
+        "mastodon"
+      ],
+      "sources": [
+        {
+          "handle": "contemporaryartist.bsky.social@bsky.brid.gy",
+          "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:ibqhsunue3o5giaj2fhotzhk/post/3mqloowon2c2v"
+        }
+      ],
+      "videos": [],
+      "update": false
+    },
+    {
+      "headline": "Official UAP statement reported",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
+        "mastodon"
+      ],
+      "sources": [
+        {
+          "handle": "plutocrash@jasette.facil.services",
+          "url": "https://jasette.facil.services/@plutocrash/116918886934625466"
+        }
+      ],
+      "videos": [],
+      "update": false
+    },
+    {
+      "headline": "Official UAP statement reported",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
+        "mastodon"
+      ],
+      "sources": [
+        {
+          "handle": "plutocrash@jasette.facil.services",
+          "url": "https://jasette.facil.services/@plutocrash/116921638091994312"
         }
       ],
       "videos": [],
