@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-07-16 07:00 UTC",
+  "generated_utc": "2026-07-16 07:10 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -52,6 +52,90 @@
       "update": false
     },
     {
+      "headline": "UAP report (McMinnville)",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
+        "rumble"
+      ],
+      "sources": [
+        {
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=7OT6uJ0yzVY"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=7OT6uJ0yzVY"
+      ],
+      "update": false
+    },
+    {
+      "headline": "UAP whistleblower testimony reported (Frank)",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
+        "rumble"
+      ],
+      "sources": [
+        {
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=CxvFVjJKZtA"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=CxvFVjJKZtA"
+      ],
+      "update": false
+    },
+    {
+      "headline": "UAP whistleblower testimony reported (American)",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
+        "rumble"
+      ],
+      "sources": [
+        {
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=LPtMaGpuK-M"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=LPtMaGpuK-M"
+      ],
+      "update": false
+    },
+    {
+      "headline": "UAP report (Australia)",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
+        "rumble"
+      ],
+      "sources": [
+        {
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=ZegQhxJrJGo"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=ZegQhxJrJGo"
+      ],
+      "update": false
+    },
+    {
       "headline": "Official UAP statement reported (Petaluma)",
       "lane": "developing",
       "status": "DEVELOPING",
@@ -69,90 +153,6 @@
       ],
       "videos": [
         "https://www.youtube.com/watch?v=91mfojYSseo"
-      ],
-      "update": false
-    },
-    {
-      "headline": "Official UAP statement reported (Western)",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 1,
-      "platforms": [
-        "rumble"
-      ],
-      "sources": [
-        {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=Po4FnZO4k3c"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=Po4FnZO4k3c"
-      ],
-      "update": false
-    },
-    {
-      "headline": "Official UAP statement reported (Concrete)",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 1,
-      "platforms": [
-        "rumble"
-      ],
-      "sources": [
-        {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=ze5dhbpzszY"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=ze5dhbpzszY"
-      ],
-      "update": false
-    },
-    {
-      "headline": "Official UAP statement reported (Deadwood)",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 1,
-      "platforms": [
-        "rumble"
-      ],
-      "sources": [
-        {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=9fXiv3_PjGY"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=9fXiv3_PjGY"
-      ],
-      "update": false
-    },
-    {
-      "headline": "Official UAP statement reported (Utah)",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 1,
-      "platforms": [
-        "rumble"
-      ],
-      "sources": [
-        {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=CUnoufRiMrk"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=CUnoufRiMrk"
       ],
       "update": false
     }
