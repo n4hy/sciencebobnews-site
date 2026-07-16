@@ -1,12 +1,12 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-07-16 02:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-07-16 02:10 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
 ![UAP report (Aldi)](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
 1. **UAP report (Aldi)**  
-   reliability **A1** · P(credible)=1.0 · 3 independent source(s) · mastodon  
-   [@spaceflight@spacey.space](https://spacey.space/@spaceflight/116914303734987699) · [@n_dimension@infosec.exchange](https://infosec.exchange/@n_dimension/116910406370762601)
+   reliability **A1** · P(credible)=1.0 · 2 independent source(s) · mastodon  
+   [@spaceflight@spacey.space](https://spacey.space/@spaceflight/116914303734987699) · [@kdraven@mysterioustimes.co.uk](https://mysterioustimes.co.uk/2026/07/15/mt-weekly-news-round-up-w-e-15-july-2026/)
 
 ![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_2.svg)
 2. **UAP report**  
