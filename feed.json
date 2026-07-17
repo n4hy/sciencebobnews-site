@@ -6,29 +6,6 @@
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
-      "headline": "UAP report",
-      "lane": "corroborated",
-      "status": "CORROBORATED",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 2,
-      "platforms": [
-        "mastodon"
-      ],
-      "sources": [
-        {
-          "handle": "AroundTheWorldIOD@mas.to",
-          "url": "https://mas.to/@AroundTheWorldIOD/116924261062125699"
-        },
-        {
-          "handle": "agowa338@chaos.social",
-          "url": "https://chaos.social/@agowa338/116934813769301887"
-        }
-      ],
-      "videos": [],
-      "update": false
-    },
-    {
       "headline": "UAP report (McMinnville)",
       "lane": "developing",
       "status": "DEVELOPING",

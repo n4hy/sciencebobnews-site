@@ -2,11 +2,7 @@
 *Updated 2026-07-17 20:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
-
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
-1. **UAP report**  
-   reliability **A1** · P(credible)=1.0 · 2 independent source(s) · mastodon  
-   [@AroundTheWorldIOD@mas.to](https://mas.to/@AroundTheWorldIOD/116924261062125699) · [@agowa338@chaos.social](https://chaos.social/@agowa338/116934813769301887)
+_No corroborated reports this cycle._
 
 ## Developing / unconfirmed
 
