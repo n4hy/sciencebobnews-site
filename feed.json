@@ -2,35 +2,9 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-07-17 14:20 UTC",
+  "generated_utc": "2026-07-17 14:30 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
-    {
-      "headline": "Official UAP statement reported",
-      "lane": "corroborated",
-      "status": "CORROBORATED",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 2,
-      "platforms": [
-        "bluesky",
-        "rumble"
-      ],
-      "sources": [
-        {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=9c0p832gO-8"
-        },
-        {
-          "handle": "did:plc:wimxhyj6jm3v7rs72wouqpf3",
-          "url": "https://bsky.app/profile/did:plc:wimxhyj6jm3v7rs72wouqpf3/post/3mqtwukkkxc2h"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=9c0p832gO-8"
-      ],
-      "update": false
-    },
     {
       "headline": "UAP report",
       "lane": "corroborated",
@@ -139,7 +113,7 @@
       "update": false
     },
     {
-      "headline": "Official UAP statement reported (Petaluma)",
+      "headline": "Official UAP statement reported (Early)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
@@ -151,11 +125,11 @@
       "sources": [
         {
           "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=91mfojYSseo"
+          "url": "https://www.youtube.com/watch?v=jkYp9peI3aI"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=91mfojYSseo"
+        "https://www.youtube.com/watch?v=jkYp9peI3aI"
       ],
       "update": false
     }
