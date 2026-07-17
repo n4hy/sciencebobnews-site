@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-07-17 04:50 UTC",
+  "generated_utc": "2026-07-17 05:00 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -50,7 +50,7 @@
       "update": false
     },
     {
-      "headline": "Official UAP statement reported (Petaluma)",
+      "headline": "UAP whistleblower testimony reported (Frank)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
@@ -62,16 +62,16 @@
       "sources": [
         {
           "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=91mfojYSseo"
+          "url": "https://www.youtube.com/watch?v=CxvFVjJKZtA"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=91mfojYSseo"
+        "https://www.youtube.com/watch?v=CxvFVjJKZtA"
       ],
       "update": false
     },
     {
-      "headline": "Official UAP statement reported (Western)",
+      "headline": "UAP whistleblower testimony reported (American)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
@@ -83,16 +83,16 @@
       "sources": [
         {
           "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=Po4FnZO4k3c"
+          "url": "https://www.youtube.com/watch?v=LPtMaGpuK-M"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=Po4FnZO4k3c"
+        "https://www.youtube.com/watch?v=LPtMaGpuK-M"
       ],
       "update": false
     },
     {
-      "headline": "Official UAP statement reported (Concrete)",
+      "headline": "UAP report (Australia)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
@@ -104,11 +104,11 @@
       "sources": [
         {
           "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=ze5dhbpzszY"
+          "url": "https://www.youtube.com/watch?v=ZegQhxJrJGo"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=ze5dhbpzszY"
+        "https://www.youtube.com/watch?v=ZegQhxJrJGo"
       ],
       "update": false
     }
