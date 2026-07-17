@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-07-17 06:10 UTC",
+  "generated_utc": "2026-07-17 06:20 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -29,7 +29,7 @@
       "update": false
     },
     {
-      "headline": "UAP whistleblower testimony reported (Frank)",
+      "headline": "Official UAP statement reported (Petaluma)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
@@ -41,16 +41,16 @@
       "sources": [
         {
           "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=CxvFVjJKZtA"
+          "url": "https://www.youtube.com/watch?v=91mfojYSseo"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=CxvFVjJKZtA"
+        "https://www.youtube.com/watch?v=91mfojYSseo"
       ],
       "update": false
     },
     {
-      "headline": "UAP whistleblower testimony reported (American)",
+      "headline": "Official UAP statement reported (Western)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
@@ -62,16 +62,16 @@
       "sources": [
         {
           "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=LPtMaGpuK-M"
+          "url": "https://www.youtube.com/watch?v=Po4FnZO4k3c"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=LPtMaGpuK-M"
+        "https://www.youtube.com/watch?v=Po4FnZO4k3c"
       ],
       "update": false
     },
     {
-      "headline": "UAP report (Australia)",
+      "headline": "Official UAP statement reported (Concrete)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
@@ -83,16 +83,16 @@
       "sources": [
         {
           "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=ZegQhxJrJGo"
+          "url": "https://www.youtube.com/watch?v=ze5dhbpzszY"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=ZegQhxJrJGo"
+        "https://www.youtube.com/watch?v=ze5dhbpzszY"
       ],
       "update": false
     },
     {
-      "headline": "Official UAP statement reported (Austin)",
+      "headline": "Official UAP statement reported (Deadwood)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
@@ -104,11 +104,11 @@
       "sources": [
         {
           "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=U04unJVpz8s"
+          "url": "https://www.youtube.com/watch?v=9fXiv3_PjGY"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=U04unJVpz8s"
+        "https://www.youtube.com/watch?v=9fXiv3_PjGY"
       ],
       "update": false
     }
