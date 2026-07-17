@@ -2,9 +2,58 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-07-17 20:00 UTC",
+  "generated_utc": "2026-07-17 20:10 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
+    {
+      "headline": "UAP report (Australia)",
+      "lane": "corroborated",
+      "status": "CORROBORATED",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 2,
+      "platforms": [
+        "bluesky",
+        "rumble"
+      ],
+      "sources": [
+        {
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=ZegQhxJrJGo"
+        },
+        {
+          "handle": "did:plc:dw3eyng4lufu3xwr2pcef3xy",
+          "url": "https://bsky.app/profile/did:plc:dw3eyng4lufu3xwr2pcef3xy/post/3mqugqsviis25"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=ZegQhxJrJGo"
+      ],
+      "update": false
+    },
+    {
+      "headline": "UAP report",
+      "lane": "corroborated",
+      "status": "CORROBORATED",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 2,
+      "platforms": [
+        "mastodon"
+      ],
+      "sources": [
+        {
+          "handle": "AroundTheWorldIOD@mas.to",
+          "url": "https://mas.to/@AroundTheWorldIOD/116924261062125699"
+        },
+        {
+          "handle": "agowa338@chaos.social",
+          "url": "https://chaos.social/@agowa338/116934813769301887"
+        }
+      ],
+      "videos": [],
+      "update": false
+    },
     {
       "headline": "UAP report (McMinnville)",
       "lane": "developing",
@@ -69,7 +118,7 @@
       "update": false
     },
     {
-      "headline": "UAP report (Australia)",
+      "headline": "Official UAP statement reported (Petaluma)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
@@ -81,16 +130,16 @@
       "sources": [
         {
           "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=ZegQhxJrJGo"
+          "url": "https://www.youtube.com/watch?v=91mfojYSseo"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=ZegQhxJrJGo"
+        "https://www.youtube.com/watch?v=91mfojYSseo"
       ],
       "update": false
     },
     {
-      "headline": "Official UAP statement reported (Early)",
+      "headline": "Official UAP statement reported (Western)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
@@ -102,11 +151,11 @@
       "sources": [
         {
           "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=jkYp9peI3aI"
+          "url": "https://www.youtube.com/watch?v=Po4FnZO4k3c"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=jkYp9peI3aI"
+        "https://www.youtube.com/watch?v=Po4FnZO4k3c"
       ],
       "update": false
     }
