@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-07-17 05:20 UTC",
+  "generated_utc": "2026-07-17 05:30 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -29,87 +29,79 @@
       "update": false
     },
     {
-      "headline": "Official UAP statement reported (Petaluma)",
+      "headline": "Official UAP statement reported (Thailand)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "rumble"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=91mfojYSseo"
+          "handle": "vibewire@mastodon.au",
+          "url": "https://mastodon.au/@vibewire/116931802779520880"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=91mfojYSseo"
-      ],
+      "videos": [],
       "update": false
     },
     {
-      "headline": "Official UAP statement reported (Western)",
+      "headline": "Official UAP statement reported",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "rumble"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=Po4FnZO4k3c"
+          "handle": "eduardohugoink",
+          "url": "https://mastodon.social/@eduardohugoink/116926327412412006"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=Po4FnZO4k3c"
-      ],
+      "videos": [],
       "update": false
     },
     {
-      "headline": "Official UAP statement reported (Concrete)",
+      "headline": "Official UAP statement reported",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "rumble"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=ze5dhbpzszY"
+          "handle": "plutocrash@jasette.facil.services",
+          "url": "https://jasette.facil.services/@plutocrash/116918886934625466"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=ze5dhbpzszY"
-      ],
+      "videos": [],
       "update": false
     },
     {
-      "headline": "Official UAP statement reported (Deadwood)",
+      "headline": "Official UAP statement reported",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "rumble"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=9fXiv3_PjGY"
+          "handle": "plutocrash@jasette.facil.services",
+          "url": "https://jasette.facil.services/@plutocrash/116921638091994312"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=9fXiv3_PjGY"
-      ],
+      "videos": [],
       "update": false
     }
   ]
