@@ -2,11 +2,11 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-07-17 02:30 UTC",
+  "generated_utc": "2026-07-17 02:40 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
-      "headline": "Official UAP statement reported (Austin)",
+      "headline": "Official UAP statement reported",
       "lane": "corroborated",
       "status": "CORROBORATED",
       "reliability": "A1",
@@ -19,15 +19,15 @@
       "sources": [
         {
           "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=U04unJVpz8s"
+          "url": "https://www.youtube.com/watch?v=hxltEtjtFKo"
         },
         {
-          "handle": "did:plc:ffcwxsaxagduk4f3tyzcimoe",
-          "url": "https://bsky.app/profile/did:plc:ffcwxsaxagduk4f3tyzcimoe/post/3mqsl5gsx6s2f"
+          "handle": "did:plc:42bc4bslvfltess6itwrm74f",
+          "url": "https://bsky.app/profile/did:plc:42bc4bslvfltess6itwrm74f/post/3mqslvsh4yc27"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=U04unJVpz8s"
+        "https://www.youtube.com/watch?v=hxltEtjtFKo"
       ],
       "update": false
     },

@@ -1,13 +1,13 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-07-17 02:30 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-07-17 02:40 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
-![Official UAP statement reported (Austin)](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
-1. **Official UAP statement reported (Austin)**  
+![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
+1. **Official UAP statement reported**  
    reliability **A1** · P(credible)=1.0 · 2 independent source(s) · bluesky+rumble  
-   [@podcast](https://www.youtube.com/watch?v=U04unJVpz8s) · [@did:plc:ffcwxsaxagduk4f3tyzcimoe](https://bsky.app/profile/did:plc:ffcwxsaxagduk4f3tyzcimoe/post/3mqsl5gsx6s2f)  
-   📹 [video](https://www.youtube.com/watch?v=U04unJVpz8s)
+   [@podcast](https://www.youtube.com/watch?v=hxltEtjtFKo) · [@did:plc:42bc4bslvfltess6itwrm74f](https://bsky.app/profile/did:plc:42bc4bslvfltess6itwrm74f/post/3mqslvsh4yc27)  
+   📹 [video](https://www.youtube.com/watch?v=hxltEtjtFKo)
 
 ## Developing / unconfirmed
 
