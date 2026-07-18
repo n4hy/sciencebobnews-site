@@ -1,13 +1,8 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-07-18 18:40 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-07-18 18:50 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
-
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
-1. **UAP report**  
-   reliability **A1** · P(credible)=1.0 · 2 independent source(s) · bluesky+rumble  
-   [@podcast](https://www.youtube.com/watch?v=rk0y6oeI2k0) · [@did:plc:fdjqy2tdbcvcoqhksnrv76dp](https://bsky.app/profile/did:plc:fdjqy2tdbcvcoqhksnrv76dp/post/3mqww2be3as2k)  
-   📹 [video](https://www.youtube.com/watch?v=rk0y6oeI2k0)
+_No corroborated reports this cycle._
 
 ## Developing / unconfirmed
 
@@ -31,10 +26,10 @@
    [@podcast](https://www.youtube.com/watch?v=ZegQhxJrJGo)  
    📹 [video](https://www.youtube.com/watch?v=ZegQhxJrJGo)
 
-![Official UAP statement reported (Petaluma)](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. Official UAP statement reported (Petaluma) — reliability A1 · 1 source(s)  
-   [@podcast](https://www.youtube.com/watch?v=91mfojYSseo)  
-   📹 [video](https://www.youtube.com/watch?v=91mfojYSseo)
+![Official UAP statement reported (Early)](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+5. Official UAP statement reported (Early) — reliability A1 · 1 source(s)  
+   [@podcast](https://www.youtube.com/watch?v=jkYp9peI3aI)  
+   📹 [video](https://www.youtube.com/watch?v=jkYp9peI3aI)
 
 ---
 *Powered by Science Bob News. Free to use with credit (see LICENSE). Headlines are factual restatements in the engine's own words — click through to the linked sources for originals. Reposts of a single origin are collapsed to one source; candidate prosaic explanations are flagged where offered.*
