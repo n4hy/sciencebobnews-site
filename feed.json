@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-07-19 00:00 UTC",
+  "generated_utc": "2026-07-19 00:10 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -113,22 +113,24 @@
       "update": false
     },
     {
-      "headline": "UAP report (Saw)",
+      "headline": "Official UAP statement reported (Petaluma)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "bluesky"
+        "rumble"
       ],
       "sources": [
         {
-          "handle": "did:plc:skmjgdpairfzooakpncltnup",
-          "url": "https://bsky.app/profile/did:plc:skmjgdpairfzooakpncltnup/post/3mqxhwisn6c22"
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=91mfojYSseo"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=91mfojYSseo"
+      ],
       "update": false
     }
   ]
