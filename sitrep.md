@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-07-19 18:50 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-07-19 19:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
@@ -20,15 +20,15 @@
 
 ![Official UAP statement reported (Crop)](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
 3. Official UAP statement reported (Crop) — reliability A1 · 1 source(s)  
-   [@vibewire@mastodon.au](https://mastodon.au/@vibewire/116947692386637232)
+   [@vibewire@mastodon.au](https://mastodon.au/@vibewire/116942550555090693)
 
 ![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
 4. Official UAP statement reported — reliability A1 · 1 source(s)  
-   [@KilleansRow@mastodon.online](https://mastodon.online/@KilleansRow/116938757050812118)
+   [@vibewire@mastodon.au](https://mastodon.au/@vibewire/116948140294262767)
 
 ![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
 5. Official UAP statement reported — reliability A1 · 1 source(s)  
-   [@mahamind@mastodon.africa](https://mastodon.africa/@mahamind/116942221655493578)
+   [@KilleansRow@mastodon.online](https://mastodon.online/@KilleansRow/116938757050812118)
 
 ---
 *Powered by Science Bob News. Free to use with credit (see LICENSE). Headlines are factual restatements in the engine's own words — click through to the linked sources for originals. Reposts of a single origin are collapsed to one source; candidate prosaic explanations are flagged where offered.*
