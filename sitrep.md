@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-07-19 12:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-07-19 12:10 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
@@ -14,25 +14,24 @@
 1. UAP report — reliability A1 · 1 source(s)  
    [@yle_fi_bot@ahlroos.me](https://social.ahlroos.me/@yle_fi_bot/116944912720924063)
 
-![UAP whistleblower testimony reported (Frank)](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
-2. UAP whistleblower testimony reported (Frank) — reliability A1 · 1 source(s)  
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
+2. UAP report — reliability A1 · 1 source(s)  
+   [@did:plc:oxamivs27tngmtdpvbxpuvqb](https://bsky.app/profile/did:plc:oxamivs27tngmtdpvbxpuvqb/post/3mqyqpsdpuk2r)
+
+![UAP report (McMinnville)](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
+3. UAP report (McMinnville) — reliability A1 · 1 source(s)  
+   [@podcast](https://www.youtube.com/watch?v=7OT6uJ0yzVY)  
+   📹 [video](https://www.youtube.com/watch?v=7OT6uJ0yzVY)
+
+![UAP whistleblower testimony reported (Frank)](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
+4. UAP whistleblower testimony reported (Frank) — reliability A1 · 1 source(s)  
    [@podcast](https://www.youtube.com/watch?v=CxvFVjJKZtA)  
    📹 [video](https://www.youtube.com/watch?v=CxvFVjJKZtA)
 
-![UAP whistleblower testimony reported (American)](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
-3. UAP whistleblower testimony reported (American) — reliability A1 · 1 source(s)  
+![UAP whistleblower testimony reported (American)](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+5. UAP whistleblower testimony reported (American) — reliability A1 · 1 source(s)  
    [@podcast](https://www.youtube.com/watch?v=LPtMaGpuK-M)  
    📹 [video](https://www.youtube.com/watch?v=LPtMaGpuK-M)
-
-![UAP report (Australia)](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-4. UAP report (Australia) — reliability A1 · 1 source(s)  
-   [@podcast](https://www.youtube.com/watch?v=ZegQhxJrJGo)  
-   📹 [video](https://www.youtube.com/watch?v=ZegQhxJrJGo)
-
-![Official UAP statement reported (Austin)](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. Official UAP statement reported (Austin) — reliability A1 · 1 source(s)  
-   [@podcast](https://www.youtube.com/watch?v=U04unJVpz8s)  
-   📹 [video](https://www.youtube.com/watch?v=U04unJVpz8s)
 
 ---
 *Powered by Science Bob News. Free to use with credit (see LICENSE). Headlines are factual restatements in the engine's own words — click through to the linked sources for originals. Reposts of a single origin are collapsed to one source; candidate prosaic explanations are flagged where offered.*
