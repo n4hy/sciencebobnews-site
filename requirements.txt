@@ -1,0 +1,14 @@
+# Core (CPU) dependency.
+numpy>=1.21
+
+# Optional accelerator: install the CuPy wheel matching your toolkit to run the
+# identical kernels on a GPU, e.g.
+#   pip install cupy-cuda12x     # CUDA 12.x
+#   pip install cupy-cuda11x     # CUDA 11.x
+#   pip install cupy-rocm-5-0    # ROCm 5.0
+# (left commented so CPU-only installs don't try to build it)
+# cupy-cuda12x>=12.0
+
+# Optional extras.
+# Pillow>=9.0   # load PNG/JPEG/TIFF inputs (otherwise .npy and .pgm work)
+# pytest>=7.0   # run the test suite

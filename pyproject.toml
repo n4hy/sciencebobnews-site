@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "carlotto-stein"
+version = "0.1.0"
+description = "Hardware-accelerated Carlotto-Stein fractal detector for artificial objects on planetary surfaces (JBIS 1990)."
+readme = "carlotto_stein/README.md"
+requires-python = ">=3.9"
+license = { text = "Science Bob News License v1.0" }
+authors = [{ name = "Science Bob News" }]
+keywords = ["fractal", "planetary", "remote-sensing", "gpu", "cupy", "anomaly-detection", "carlotto-stein"]
+dependencies = ["numpy>=1.21"]
+
+[project.optional-dependencies]
+# Pick the wheel matching your CUDA toolkit, e.g. cupy-cuda12x / cupy-cuda11x,
+# or cupy-rocm-5-0 for ROCm.  Kept out of the hard deps so CPU installs stay light.
+gpu = ["cupy-cuda12x>=12.0"]
+image = ["Pillow>=9.0"]
+test = ["pytest>=7.0"]
+
+[project.scripts]
+carlotto-stein = "carlotto_stein.__main__:main"
+
+[tool.setuptools]
+packages = ["carlotto_stein"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
