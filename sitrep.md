@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-07-18 23:50 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-07-19 00:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
@@ -30,10 +30,9 @@
    [@podcast](https://www.youtube.com/watch?v=ZegQhxJrJGo)  
    📹 [video](https://www.youtube.com/watch?v=ZegQhxJrJGo)
 
-![Official UAP statement reported (Petaluma)](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. Official UAP statement reported (Petaluma) — reliability A1 · 1 source(s)  
-   [@podcast](https://www.youtube.com/watch?v=91mfojYSseo)  
-   📹 [video](https://www.youtube.com/watch?v=91mfojYSseo)
+![UAP report (Saw)](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+5. UAP report (Saw) — reliability A1 · 1 source(s)  
+   [@did:plc:skmjgdpairfzooakpncltnup](https://bsky.app/profile/did:plc:skmjgdpairfzooakpncltnup/post/3mqxhwisn6c22)
 
 ---
 *Powered by Science Bob News. Free to use with credit (see LICENSE). Headlines are factual restatements in the engine's own words — click through to the linked sources for originals. Reposts of a single origin are collapsed to one source; candidate prosaic explanations are flagged where offered.*
