@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-07-20 15:40 UTC",
+  "generated_utc": "2026-07-20 15:50 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -29,25 +29,6 @@
       "update": false
     },
     {
-      "headline": "Official UAP statement reported (Crop)",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 1,
-      "platforms": [
-        "mastodon"
-      ],
-      "sources": [
-        {
-          "handle": "vibewire@mastodon.au",
-          "url": "https://mastodon.au/@vibewire/116942550555090693"
-        }
-      ],
-      "videos": [],
-      "update": false
-    },
-    {
       "headline": "UAP report",
       "lane": "developing",
       "status": "DEVELOPING",
@@ -61,25 +42,6 @@
         {
           "handle": "yle_fi_bot@ahlroos.me",
           "url": "https://social.ahlroos.me/@yle_fi_bot/116944912720924063"
-        }
-      ],
-      "videos": [],
-      "update": false
-    },
-    {
-      "headline": "UAP whistleblower testimony reported",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 1,
-      "platforms": [
-        "mastodon"
-      ],
-      "sources": [
-        {
-          "handle": "vibewire@mastodon.au",
-          "url": "https://mastodon.au/@vibewire/116947246139725248"
         }
       ],
       "videos": [],
@@ -124,6 +86,48 @@
       ],
       "videos": [
         "https://www.youtube.com/watch?v=CxvFVjJKZtA"
+      ],
+      "update": false
+    },
+    {
+      "headline": "UAP whistleblower testimony reported (American)",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
+        "rumble"
+      ],
+      "sources": [
+        {
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=LPtMaGpuK-M"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=LPtMaGpuK-M"
+      ],
+      "update": false
+    },
+    {
+      "headline": "UAP report (Australia)",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
+        "rumble"
+      ],
+      "sources": [
+        {
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=ZegQhxJrJGo"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=ZegQhxJrJGo"
       ],
       "update": false
     }
