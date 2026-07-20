@@ -1,12 +1,12 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-07-20 05:50 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-07-20 06:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
-![UAP whistleblower testimony reported](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
-1. **UAP whistleblower testimony reported**  
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
+1. **UAP report**  
    reliability **A1** · P(credible)=1.0 · 2 independent source(s) · mastodon  
-   [@veryexcitingtime](https://mastodon.social/@veryexcitingtime/116943386009393198) · [@vibewire@mastodon.au](https://mastodon.au/@vibewire/116947245997831106)
+   [@KilleansRow@mastodon.online](https://mastodon.online/@KilleansRow/116950757565033042) · [@veryexcitingtime](https://mastodon.social/@veryexcitingtime/116943386009393198)
 
 ## Developing / unconfirmed
 
