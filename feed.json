@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-07-20 06:40 UTC",
+  "generated_utc": "2026-07-20 06:50 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -86,7 +86,7 @@
       "update": false
     },
     {
-      "headline": "Official UAP statement reported (Concrete)",
+      "headline": "Official UAP statement reported (Utah)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
@@ -98,33 +98,31 @@
       "sources": [
         {
           "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=ze5dhbpzszY"
+          "url": "https://www.youtube.com/watch?v=CUnoufRiMrk"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=ze5dhbpzszY"
+        "https://www.youtube.com/watch?v=CUnoufRiMrk"
       ],
       "update": false
     },
     {
-      "headline": "Official UAP statement reported (Deadwood)",
+      "headline": "Official UAP statement reported",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "rumble"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=9fXiv3_PjGY"
+          "handle": "vibewire@mastodon.au",
+          "url": "https://mastodon.au/@vibewire/116947245997831106"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=9fXiv3_PjGY"
-      ],
+      "videos": [],
       "update": false
     }
   ]
