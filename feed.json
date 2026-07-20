@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-07-20 06:10 UTC",
+  "generated_utc": "2026-07-20 06:20 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -86,24 +86,22 @@
       "update": false
     },
     {
-      "headline": "Official UAP statement reported (Early)",
+      "headline": "Official UAP statement reported",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "rumble"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=jkYp9peI3aI"
+          "handle": "vibewire@mastodon.au",
+          "url": "https://mastodon.au/@vibewire/116947245997831106"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=jkYp9peI3aI"
-      ],
+      "videos": [],
       "update": false
     },
     {
@@ -119,7 +117,7 @@
       "sources": [
         {
           "handle": "vibewire@mastodon.au",
-          "url": "https://mastodon.au/@vibewire/116947245997831106"
+          "url": "https://mastodon.au/@vibewire/116948140294262767"
         }
       ],
       "videos": [],
