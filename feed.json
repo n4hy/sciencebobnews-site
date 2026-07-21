@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-07-21 12:30 UTC",
+  "generated_utc": "2026-07-21 12:40 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -38,25 +38,6 @@
         {
           "handle": "inkican",
           "url": "https://mastodon.social/@inkican/116953294536957948"
-        }
-      ],
-      "videos": [],
-      "update": false
-    },
-    {
-      "headline": "UAP report",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 1,
-      "platforms": [
-        "bluesky"
-      ],
-      "sources": [
-        {
-          "handle": "did:plc:u5tx7b4hcowgv3urnzj4xq7z",
-          "url": "https://bsky.app/profile/did:plc:u5tx7b4hcowgv3urnzj4xq7z/post/3mr5srbqfl22c"
         }
       ],
       "videos": [],
@@ -101,6 +82,27 @@
       ],
       "videos": [
         "https://www.youtube.com/watch?v=CxvFVjJKZtA"
+      ],
+      "update": false
+    },
+    {
+      "headline": "UAP whistleblower testimony reported (American)",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
+        "rumble"
+      ],
+      "sources": [
+        {
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=LPtMaGpuK-M"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=LPtMaGpuK-M"
       ],
       "update": false
     }
