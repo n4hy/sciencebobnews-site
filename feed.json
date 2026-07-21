@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-07-21 06:10 UTC",
+  "generated_utc": "2026-07-21 06:20 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -86,6 +86,25 @@
       "update": false
     },
     {
+      "headline": "Official UAP statement reported",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
+        "bluesky"
+      ],
+      "sources": [
+        {
+          "handle": "did:plc:n4qxlew5soqpts52lnszov3d",
+          "url": "https://bsky.app/profile/did:plc:n4qxlew5soqpts52lnszov3d/post/3mr563pvcun2i"
+        }
+      ],
+      "videos": [],
+      "update": false
+    },
+    {
       "headline": "UAP whistleblower testimony reported",
       "lane": "developing",
       "status": "DEVELOPING",
@@ -99,25 +118,6 @@
         {
           "handle": "ScienceBob",
           "url": "https://mastodon.social/@ScienceBob/116955965730636395"
-        }
-      ],
-      "videos": [],
-      "update": false
-    },
-    {
-      "headline": "UAP report (Procreate)",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 1,
-      "platforms": [
-        "mastodon"
-      ],
-      "sources": [
-        {
-          "handle": "mattievictoria@sunny.garden",
-          "url": "https://sunny.garden/@mattievictoria/116943710073567128"
         }
       ],
       "videos": [],
