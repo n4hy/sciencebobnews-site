@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-07-21 04:20 UTC",
+  "generated_utc": "2026-07-21 04:30 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -74,15 +74,18 @@
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "rumble"
       ],
       "sources": [
         {
-          "handle": "vibewire@mastodon.au",
-          "url": "https://mastodon.au/@vibewire/116954403453413553"
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=7QeCQ_6TFfM"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=7QeCQ_6TFfM",
+        "https://youtu.be/8Rr_nE65KkI?si=KxAslF4A6E9LQX6h"
+      ],
       "update": false
     },
     {
@@ -97,30 +100,33 @@
       ],
       "sources": [
         {
-          "handle": "ScienceBob",
-          "url": "https://mastodon.social/@ScienceBob/116955965730636395"
+          "handle": "vibewire@mastodon.au",
+          "url": "https://mastodon.au/@vibewire/116954403453413553"
         }
       ],
       "videos": [],
       "update": false
     },
     {
-      "headline": "UAP report (Procreate)",
+      "headline": "Official UAP statement reported",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "rumble"
       ],
       "sources": [
         {
-          "handle": "mattievictoria@sunny.garden",
-          "url": "https://sunny.garden/@mattievictoria/116943710073567128"
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=dbRG-JnfwoI"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=dbRG-JnfwoI",
+        "https://youtu.be/kccrkCGGzX4?si=yngrpTwmxJhhFH2o"
+      ],
       "update": false
     }
   ]
