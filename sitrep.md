@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-07-22 03:50 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-07-22 04:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 _No corroborated reports this cycle._
@@ -22,9 +22,9 @@ _No corroborated reports this cycle._
 4. UAP whistleblower testimony reported — reliability A1 · 1 source(s)  
    [@ScienceBob](https://mastodon.social/@ScienceBob/116961392212951398)
 
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. UAP report — reliability A1 · 1 source(s)  
-   [@KilleansRow@mastodon.online](https://mastodon.online/@KilleansRow/116950757565033042)
+![Unidentified submerged object (USO) reported](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+5. Unidentified submerged object (USO) reported — reliability A1 · 1 source(s)  
+   [@did:plc:kyyticnvwl3vke6zuhbjgajf](https://bsky.app/profile/did:plc:kyyticnvwl3vke6zuhbjgajf/post/3mr7gqfwyhg2w)
 
 ---
 *Powered by Science Bob News. Free to use with credit (see LICENSE). Headlines are factual restatements in the engine's own words — click through to the linked sources for originals. Reposts of a single origin are collapsed to one source; candidate prosaic explanations are flagged where offered.*
