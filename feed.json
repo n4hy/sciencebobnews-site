@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-07-22 04:00 UTC",
+  "generated_utc": "2026-07-22 04:10 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -44,60 +44,66 @@
       "update": false
     },
     {
-      "headline": "Official UAP statement reported",
+      "headline": "Official UAP statement reported (Concrete)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "rumble"
       ],
       "sources": [
         {
-          "handle": "vibewire@mastodon.au",
-          "url": "https://mastodon.au/@vibewire/116959326535483151"
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=ze5dhbpzszY"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=ze5dhbpzszY"
+      ],
       "update": false
     },
     {
-      "headline": "UAP whistleblower testimony reported",
+      "headline": "Official UAP statement reported (Deadwood)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "rumble"
       ],
       "sources": [
         {
-          "handle": "ScienceBob",
-          "url": "https://mastodon.social/@ScienceBob/116961392212951398"
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=9fXiv3_PjGY"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=9fXiv3_PjGY"
+      ],
       "update": false
     },
     {
-      "headline": "Unidentified submerged object (USO) reported",
+      "headline": "Official UAP statement reported (History)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "bluesky"
+        "rumble"
       ],
       "sources": [
         {
-          "handle": "did:plc:kyyticnvwl3vke6zuhbjgajf",
-          "url": "https://bsky.app/profile/did:plc:kyyticnvwl3vke6zuhbjgajf/post/3mr7gqfwyhg2w"
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=mVKGdqjpbf8"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=mVKGdqjpbf8"
+      ],
       "update": false
     }
   ]
