@@ -2,9 +2,35 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-07-23 13:30 UTC",
+  "generated_utc": "2026-07-23 13:40 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
+    {
+      "headline": "Official UAP statement reported (One)",
+      "lane": "corroborated",
+      "status": "CORROBORATED",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 2,
+      "platforms": [
+        "bluesky",
+        "rumble"
+      ],
+      "sources": [
+        {
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=gQqEkOxMhSQ"
+        },
+        {
+          "handle": "did:plc:c45h73oc2lmzsaawxsbludi6",
+          "url": "https://bsky.app/profile/did:plc:c45h73oc2lmzsaawxsbludi6/post/3mrcxlolhn22q"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=gQqEkOxMhSQ"
+      ],
+      "update": false
+    },
     {
       "headline": "Official UAP statement reported (Newly)",
       "lane": "developing",
