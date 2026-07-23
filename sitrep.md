@@ -1,13 +1,8 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-07-23 01:50 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-07-23 02:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
-
-![UAP congressional hearing reported](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
-1. **UAP congressional hearing reported**  
-   reliability **A1** · P(credible)=1.0 · 2 independent source(s) · bluesky+rumble  
-   [@podcast](https://www.youtube.com/watch?v=5EtgLtKJIZs) · [@did:plc:gk5z43uirziigxsf3m5u2c3m](https://bsky.app/profile/did:plc:gk5z43uirziigxsf3m5u2c3m/post/3mrblzkavbw2s)  
-   📹 [video](https://www.youtube.com/watch?v=5EtgLtKJIZs)
+_No corroborated reports this cycle._
 
 ## Developing / unconfirmed
 
