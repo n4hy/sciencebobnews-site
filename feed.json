@@ -2,9 +2,35 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-07-23 15:00 UTC",
+  "generated_utc": "2026-07-23 15:10 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
+    {
+      "headline": "Official UAP statement reported (UFO)",
+      "lane": "corroborated",
+      "status": "CORROBORATED",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 2,
+      "platforms": [
+        "bluesky",
+        "rumble"
+      ],
+      "sources": [
+        {
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=tgMYNlVpH0c"
+        },
+        {
+          "handle": "did:plc:3v5ungkiad47mcc73zcp5elr",
+          "url": "https://bsky.app/profile/did:plc:3v5ungkiad47mcc73zcp5elr/post/3mrd3wkvxp22l"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=tgMYNlVpH0c"
+      ],
+      "update": false
+    },
     {
       "headline": "Official UAP statement reported (Newly)",
       "lane": "developing",
