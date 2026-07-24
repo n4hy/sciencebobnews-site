@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-07-24 06:20 UTC",
+  "generated_utc": "2026-07-24 06:30 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -25,7 +25,7 @@
       "update": false
     },
     {
-      "headline": "UAP report (McMinnville)",
+      "headline": "UAP report (Early)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
@@ -37,35 +37,16 @@
       "sources": [
         {
           "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=7OT6uJ0yzVY"
+          "url": "https://www.youtube.com/watch?v=IyTeV6kko5A"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=7OT6uJ0yzVY"
+        "https://www.youtube.com/watch?v=IyTeV6kko5A"
       ],
       "update": false
     },
     {
-      "headline": "Official UAP statement reported (Australia)",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 1,
-      "platforms": [
-        "bluesky"
-      ],
-      "sources": [
-        {
-          "handle": "did:plc:oitwewrtllkk22k5ftukypfl",
-          "url": "https://bsky.app/profile/did:plc:oitwewrtllkk22k5ftukypfl/post/3mrepij2pzg2x"
-        }
-      ],
-      "videos": [],
-      "update": false
-    },
-    {
-      "headline": "Official UAP statement reported (UFO)",
+      "headline": "Official UAP statement reported (Early)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
@@ -77,11 +58,11 @@
       "sources": [
         {
           "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=YiNznVZ5ciY"
+          "url": "https://www.youtube.com/watch?v=jkYp9peI3aI"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=YiNznVZ5ciY"
+        "https://www.youtube.com/watch?v=jkYp9peI3aI"
       ],
       "update": false
     },
@@ -99,6 +80,25 @@
         {
           "handle": "KilleansRow@mastodon.online",
           "url": "https://mastodon.online/@KilleansRow/116961753740614244"
+        }
+      ],
+      "videos": [],
+      "update": false
+    },
+    {
+      "headline": "Official UAP statement reported",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
+        "bluesky"
+      ],
+      "sources": [
+        {
+          "handle": "did:plc:cvhr6cjnygs4quyi4k445ypm",
+          "url": "https://bsky.app/profile/did:plc:cvhr6cjnygs4quyi4k445ypm/post/3mreq2kvuhc2f"
         }
       ],
       "videos": [],
