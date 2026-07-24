@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-07-24 06:40 UTC",
+  "generated_utc": "2026-07-24 06:50 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -51,6 +51,25 @@
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
+        "bluesky"
+      ],
+      "sources": [
+        {
+          "handle": "did:plc:pok5hlrmqcnhlrz372fldldr",
+          "url": "https://bsky.app/profile/did:plc:pok5hlrmqcnhlrz372fldldr/post/3mrer65sugs2m"
+        }
+      ],
+      "videos": [],
+      "update": false
+    },
+    {
+      "headline": "Official UAP statement reported",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
         "mastodon"
       ],
       "sources": [
@@ -76,25 +95,6 @@
         {
           "handle": "ScienceBob",
           "url": "https://mastodon.social/@ScienceBob/116973424484715034"
-        }
-      ],
-      "videos": [],
-      "update": false
-    },
-    {
-      "headline": "UAP report (Ensenada)",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 1,
-      "platforms": [
-        "mastodon"
-      ],
-      "sources": [
-        {
-          "handle": "vibewire@mastodon.au",
-          "url": "https://mastodon.au/@vibewire/116956863906475645"
         }
       ],
       "videos": [],
