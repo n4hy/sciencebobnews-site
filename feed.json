@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-07-24 05:10 UTC",
+  "generated_utc": "2026-07-24 05:20 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -25,7 +25,26 @@
       "update": false
     },
     {
-      "headline": "UAP report (Early)",
+      "headline": "Official UAP statement reported",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
+        "mastodon"
+      ],
+      "sources": [
+        {
+          "handle": "KilleansRow@mastodon.online",
+          "url": "https://mastodon.online/@KilleansRow/116961753740614244"
+        }
+      ],
+      "videos": [],
+      "update": false
+    },
+    {
+      "headline": "Official UAP statement reported",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
@@ -37,75 +56,51 @@
       "sources": [
         {
           "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=IyTeV6kko5A"
+          "url": "https://www.youtube.com/watch?v=dbRG-JnfwoI"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=IyTeV6kko5A"
+        "https://www.youtube.com/watch?v=dbRG-JnfwoI",
+        "https://youtu.be/kccrkCGGzX4?si=yngrpTwmxJhhFH2o"
       ],
       "update": false
     },
     {
-      "headline": "Official UAP statement reported (Concrete)",
+      "headline": "Official UAP statement reported",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "rumble"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=ze5dhbpzszY"
+          "handle": "vibewire@mastodon.au",
+          "url": "https://mastodon.au/@vibewire/116970306804199118"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=ze5dhbpzszY"
-      ],
+      "videos": [],
       "update": false
     },
     {
-      "headline": "Official UAP statement reported (Deadwood)",
+      "headline": "UAP whistleblower testimony reported",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "rumble"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=9fXiv3_PjGY"
+          "handle": "ScienceBob",
+          "url": "https://mastodon.social/@ScienceBob/116971773003700482"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=9fXiv3_PjGY"
-      ],
-      "update": false
-    },
-    {
-      "headline": "Official UAP statement reported (History)",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 1,
-      "platforms": [
-        "rumble"
-      ],
-      "sources": [
-        {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=mVKGdqjpbf8"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=mVKGdqjpbf8"
-      ],
+      "videos": [],
       "update": false
     }
   ]
