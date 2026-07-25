@@ -2,60 +2,9 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-07-25 22:10 UTC",
+  "generated_utc": "2026-07-25 22:20 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
-    {
-      "headline": "UAP whistleblower testimony reported (American)",
-      "lane": "corroborated",
-      "status": "CORROBORATED",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 2,
-      "platforms": [
-        "bluesky",
-        "rumble"
-      ],
-      "sources": [
-        {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=LPtMaGpuK-M"
-        },
-        {
-          "handle": "did:plc:m5tta5h2xqtnvu23tniq3zfn",
-          "url": "https://bsky.app/profile/did:plc:m5tta5h2xqtnvu23tniq3zfn/post/3mritgld3vs2b"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=LPtMaGpuK-M"
-      ],
-      "update": false
-    },
-    {
-      "headline": "Official UAP statement reported",
-      "lane": "corroborated",
-      "status": "CORROBORATED",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 2,
-      "platforms": [
-        "mastodon"
-      ],
-      "sources": [
-        {
-          "handle": "tristanmowrey@tristanmowrey.com",
-          "url": "https://tristanmowrey.com/2026/07/24/uap-video/"
-        },
-        {
-          "handle": "KilleansRow@mastodon.online",
-          "url": "https://mastodon.online/@KilleansRow/116961753740614244"
-        }
-      ],
-      "videos": [
-        "https://youtu.be/QEWgEDRv_6c"
-      ],
-      "update": false
-    },
     {
       "headline": "UAP report (Early)",
       "lane": "developing",
@@ -120,6 +69,27 @@
       "update": false
     },
     {
+      "headline": "UAP whistleblower testimony reported (American)",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
+        "rumble"
+      ],
+      "sources": [
+        {
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=LPtMaGpuK-M"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=LPtMaGpuK-M"
+      ],
+      "update": false
+    },
+    {
       "headline": "UAP report (Australia)",
       "lane": "developing",
       "status": "DEVELOPING",
@@ -137,27 +107,6 @@
       ],
       "videos": [
         "https://www.youtube.com/watch?v=ZegQhxJrJGo"
-      ],
-      "update": false
-    },
-    {
-      "headline": "Official UAP statement reported (Concrete)",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 1,
-      "platforms": [
-        "rumble"
-      ],
-      "sources": [
-        {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=ze5dhbpzszY"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=ze5dhbpzszY"
       ],
       "update": false
     }
