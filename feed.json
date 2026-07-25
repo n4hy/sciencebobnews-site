@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-07-25 06:20 UTC",
+  "generated_utc": "2026-07-25 06:30 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -71,7 +71,7 @@
       "update": false
     },
     {
-      "headline": "Official UAP statement reported (Early)",
+      "headline": "UAP report (McMinnville)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
@@ -83,35 +83,16 @@
       "sources": [
         {
           "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=jkYp9peI3aI"
+          "url": "https://www.youtube.com/watch?v=7OT6uJ0yzVY"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=jkYp9peI3aI"
+        "https://www.youtube.com/watch?v=7OT6uJ0yzVY"
       ],
       "update": false
     },
     {
-      "headline": "UAP whistleblower testimony reported",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 1,
-      "platforms": [
-        "mastodon"
-      ],
-      "sources": [
-        {
-          "handle": "vibewire@mastodon.au",
-          "url": "https://mastodon.au/@vibewire/116976793064522407"
-        }
-      ],
-      "videos": [],
-      "update": false
-    },
-    {
-      "headline": "Official UAP statement reported",
+      "headline": "UAP whistleblower testimony reported (Frank)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
@@ -123,11 +104,32 @@
       "sources": [
         {
           "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=VM8ZX9-ruUM"
+          "url": "https://www.youtube.com/watch?v=CxvFVjJKZtA"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=VM8ZX9-ruUM"
+        "https://www.youtube.com/watch?v=CxvFVjJKZtA"
+      ],
+      "update": false
+    },
+    {
+      "headline": "UAP whistleblower testimony reported (American)",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
+        "rumble"
+      ],
+      "sources": [
+        {
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=LPtMaGpuK-M"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=LPtMaGpuK-M"
       ],
       "update": false
     }
