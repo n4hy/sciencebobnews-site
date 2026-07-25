@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-07-25 04:40 UTC",
+  "generated_utc": "2026-07-25 04:50 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -50,48 +50,6 @@
       "update": false
     },
     {
-      "headline": "UAP report (Early)",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 1,
-      "platforms": [
-        "rumble"
-      ],
-      "sources": [
-        {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=IyTeV6kko5A"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=IyTeV6kko5A"
-      ],
-      "update": false
-    },
-    {
-      "headline": "Official UAP statement reported (Early)",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 1,
-      "platforms": [
-        "rumble"
-      ],
-      "sources": [
-        {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=jkYp9peI3aI"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=jkYp9peI3aI"
-      ],
-      "update": false
-    },
-    {
       "headline": "UAP whistleblower testimony reported",
       "lane": "developing",
       "status": "DEVELOPING",
@@ -111,25 +69,60 @@
       "update": false
     },
     {
-      "headline": "Official UAP statement reported",
+      "headline": "UAP whistleblower testimony reported",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "rumble"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=dbRG-JnfwoI"
+          "handle": "ScienceBob",
+          "url": "https://mastodon.social/@ScienceBob/116978615227677719"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=dbRG-JnfwoI",
-        "https://youtu.be/kccrkCGGzX4?si=yngrpTwmxJhhFH2o"
+      "videos": [],
+      "update": false
+    },
+    {
+      "headline": "UAP report",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
+        "mastodon"
       ],
+      "sources": [
+        {
+          "handle": "relaxmilano",
+          "url": "https://mastodon.social/@relaxmilano/116959713562010875"
+        }
+      ],
+      "videos": [],
+      "update": false
+    },
+    {
+      "headline": "UAP report",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
+        "mastodon"
+      ],
+      "sources": [
+        {
+          "handle": "tour@wakoka.com",
+          "url": "https://wakoka.com/@tour/116967738448976330"
+        }
+      ],
+      "videos": [],
       "update": false
     }
   ]
