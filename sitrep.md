@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-07-25 06:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-07-25 06:10 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
@@ -15,21 +15,25 @@
 1. Official UAP statement reported (Newly) — reliability A1 · 1 source(s)  
    [@vibewire@mastodon.au](https://mastodon.au/@vibewire/116957536031397754)
 
-![UAP whistleblower testimony reported](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
-2. UAP whistleblower testimony reported — reliability A1 · 1 source(s)  
-   [@vibewire@mastodon.au](https://mastodon.au/@vibewire/116976793064522407)
+![UAP report (McMinnville)](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
+2. UAP report (McMinnville) — reliability A1 · 1 source(s)  
+   [@podcast](https://www.youtube.com/watch?v=7OT6uJ0yzVY)  
+   📹 [video](https://www.youtube.com/watch?v=7OT6uJ0yzVY)
 
-![UAP whistleblower testimony reported](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
-3. UAP whistleblower testimony reported — reliability A1 · 1 source(s)  
-   [@ScienceBob](https://mastodon.social/@ScienceBob/116978850903987283)
+![Official UAP statement reported (Concrete)](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
+3. Official UAP statement reported (Concrete) — reliability A1 · 1 source(s)  
+   [@podcast](https://www.youtube.com/watch?v=ze5dhbpzszY)  
+   📹 [video](https://www.youtube.com/watch?v=ze5dhbpzszY)
 
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-4. UAP report — reliability A1 · 1 source(s)  
-   [@relaxmilano](https://mastodon.social/@relaxmilano/116959713562010875)
+![Official UAP statement reported (Deadwood)](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
+4. Official UAP statement reported (Deadwood) — reliability A1 · 1 source(s)  
+   [@podcast](https://www.youtube.com/watch?v=9fXiv3_PjGY)  
+   📹 [video](https://www.youtube.com/watch?v=9fXiv3_PjGY)
 
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. UAP report — reliability A1 · 1 source(s)  
-   [@tour@wakoka.com](https://wakoka.com/@tour/116967738448976330)
+![Official UAP statement reported (History)](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+5. Official UAP statement reported (History) — reliability A1 · 1 source(s)  
+   [@podcast](https://www.youtube.com/watch?v=mVKGdqjpbf8)  
+   📹 [video](https://www.youtube.com/watch?v=mVKGdqjpbf8)
 
 ---
 *Powered by Science Bob News. Free to use with credit (see LICENSE). Headlines are factual restatements in the engine's own words — click through to the linked sources for originals. Reposts of a single origin are collapsed to one source; candidate prosaic explanations are flagged where offered.*

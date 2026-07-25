@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-07-25 06:00 UTC",
+  "generated_utc": "2026-07-25 06:10 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -50,79 +50,87 @@
       "update": false
     },
     {
-      "headline": "UAP whistleblower testimony reported",
+      "headline": "UAP report (McMinnville)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "rumble"
       ],
       "sources": [
         {
-          "handle": "vibewire@mastodon.au",
-          "url": "https://mastodon.au/@vibewire/116976793064522407"
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=7OT6uJ0yzVY"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=7OT6uJ0yzVY"
+      ],
       "update": false
     },
     {
-      "headline": "UAP whistleblower testimony reported",
+      "headline": "Official UAP statement reported (Concrete)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "rumble"
       ],
       "sources": [
         {
-          "handle": "ScienceBob",
-          "url": "https://mastodon.social/@ScienceBob/116978850903987283"
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=ze5dhbpzszY"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=ze5dhbpzszY"
+      ],
       "update": false
     },
     {
-      "headline": "UAP report",
+      "headline": "Official UAP statement reported (Deadwood)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "rumble"
       ],
       "sources": [
         {
-          "handle": "relaxmilano",
-          "url": "https://mastodon.social/@relaxmilano/116959713562010875"
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=9fXiv3_PjGY"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=9fXiv3_PjGY"
+      ],
       "update": false
     },
     {
-      "headline": "UAP report",
+      "headline": "Official UAP statement reported (History)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "rumble"
       ],
       "sources": [
         {
-          "handle": "tour@wakoka.com",
-          "url": "https://wakoka.com/@tour/116967738448976330"
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=mVKGdqjpbf8"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=mVKGdqjpbf8"
+      ],
       "update": false
     }
   ]
