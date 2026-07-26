@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-07-26 21:00 UTC",
+  "generated_utc": "2026-07-26 21:10 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -22,8 +22,8 @@
           "url": "https://www.youtube.com/watch?v=ZegQhxJrJGo"
         },
         {
-          "handle": "did:plc:iwhukrylmhhnf55f6ltg2nhj",
-          "url": "https://bsky.app/profile/did:plc:iwhukrylmhhnf55f6ltg2nhj/post/3mrl6o2ww7s22"
+          "handle": "did:plc:ynqbcm6qcplrcetersbllusb",
+          "url": "https://bsky.app/profile/did:plc:ynqbcm6qcplrcetersbllusb/post/3mrl74vm3wk2d"
         }
       ],
       "videos": [
