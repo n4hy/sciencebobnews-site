@@ -2,9 +2,30 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-07-26 09:40 UTC",
+  "generated_utc": "2026-07-26 09:50 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
+    {
+      "headline": "UAP report (Early)",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
+        "rumble"
+      ],
+      "sources": [
+        {
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=IyTeV6kko5A"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=IyTeV6kko5A"
+      ],
+      "update": false
+    },
     {
       "headline": "UAP report (McMinnville)",
       "lane": "developing",
@@ -69,7 +90,7 @@
       "update": false
     },
     {
-      "headline": "Official UAP statement reported (UFO)",
+      "headline": "Official UAP statement reported (Concrete)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
@@ -81,32 +102,11 @@
       "sources": [
         {
           "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=YiNznVZ5ciY"
+          "url": "https://www.youtube.com/watch?v=ze5dhbpzszY"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=YiNznVZ5ciY"
-      ],
-      "update": false
-    },
-    {
-      "headline": "Official UAP statement reported (Austin)",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 1,
-      "platforms": [
-        "rumble"
-      ],
-      "sources": [
-        {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=U04unJVpz8s"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=U04unJVpz8s"
+        "https://www.youtube.com/watch?v=ze5dhbpzszY"
       ],
       "update": false
     }
