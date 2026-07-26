@@ -1,35 +1,35 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-07-26 02:30 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-07-26 02:40 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 _No corroborated reports this cycle._
 
 ## Developing / unconfirmed
 
-![UAP report (Early)](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
-1. UAP report (Early) — reliability A1 · 1 source(s)  
-   [@podcast](https://www.youtube.com/watch?v=IyTeV6kko5A)  
-   📹 [video](https://www.youtube.com/watch?v=IyTeV6kko5A)
-
-![UAP report (McMinnville)](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
-2. UAP report (McMinnville) — reliability A1 · 1 source(s)  
-   [@podcast](https://www.youtube.com/watch?v=7OT6uJ0yzVY)  
-   📹 [video](https://www.youtube.com/watch?v=7OT6uJ0yzVY)
-
-![UAP whistleblower testimony reported (American)](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
-3. UAP whistleblower testimony reported (American) — reliability A1 · 1 source(s)  
+![UAP whistleblower testimony reported (American)](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
+1. UAP whistleblower testimony reported (American) — reliability A1 · 1 source(s)  
    [@podcast](https://www.youtube.com/watch?v=LPtMaGpuK-M)  
    📹 [video](https://www.youtube.com/watch?v=LPtMaGpuK-M)
 
-![UAP report (Australia)](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-4. UAP report (Australia) — reliability A1 · 1 source(s)  
+![UAP report (Australia)](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
+2. UAP report (Australia) — reliability A1 · 1 source(s)  
    [@podcast](https://www.youtube.com/watch?v=ZegQhxJrJGo)  
    📹 [video](https://www.youtube.com/watch?v=ZegQhxJrJGo)
 
-![Official UAP statement reported (Concrete)](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. Official UAP statement reported (Concrete) — reliability A1 · 1 source(s)  
-   [@podcast](https://www.youtube.com/watch?v=ze5dhbpzszY)  
-   📹 [video](https://www.youtube.com/watch?v=ze5dhbpzszY)
+![Official UAP statement reported (Austin)](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
+3. Official UAP statement reported (Austin) — reliability A1 · 1 source(s)  
+   [@podcast](https://www.youtube.com/watch?v=U04unJVpz8s)  
+   📹 [video](https://www.youtube.com/watch?v=U04unJVpz8s)
+
+![Official UAP statement reported (Technology)](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
+4. Official UAP statement reported (Technology) — reliability A1 · 1 source(s)  
+   [@podcast](https://www.youtube.com/watch?v=A7t5jd2FDJ4)  
+   📹 [video](https://www.youtube.com/watch?v=A7t5jd2FDJ4)
+
+![Official UAP statement reported (Simon)](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+5. Official UAP statement reported (Simon) — reliability A1 · 1 source(s)  
+   [@podcast](https://www.youtube.com/watch?v=5CEjriSzF1g)  
+   📹 [video](https://www.youtube.com/watch?v=5CEjriSzF1g)
 
 ---
 *Powered by Science Bob News. Free to use with credit (see LICENSE). Headlines are factual restatements in the engine's own words — click through to the linked sources for originals. Reposts of a single origin are collapsed to one source; candidate prosaic explanations are flagged where offered.*

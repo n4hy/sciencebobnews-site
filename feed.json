@@ -2,51 +2,9 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-07-26 02:30 UTC",
+  "generated_utc": "2026-07-26 02:40 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
-    {
-      "headline": "UAP report (Early)",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 1,
-      "platforms": [
-        "rumble"
-      ],
-      "sources": [
-        {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=IyTeV6kko5A"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=IyTeV6kko5A"
-      ],
-      "update": false
-    },
-    {
-      "headline": "UAP report (McMinnville)",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 1,
-      "platforms": [
-        "rumble"
-      ],
-      "sources": [
-        {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=7OT6uJ0yzVY"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=7OT6uJ0yzVY"
-      ],
-      "update": false
-    },
     {
       "headline": "UAP whistleblower testimony reported (American)",
       "lane": "developing",
@@ -90,7 +48,7 @@
       "update": false
     },
     {
-      "headline": "Official UAP statement reported (Concrete)",
+      "headline": "Official UAP statement reported (Austin)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
@@ -102,11 +60,53 @@
       "sources": [
         {
           "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=ze5dhbpzszY"
+          "url": "https://www.youtube.com/watch?v=U04unJVpz8s"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=ze5dhbpzszY"
+        "https://www.youtube.com/watch?v=U04unJVpz8s"
+      ],
+      "update": false
+    },
+    {
+      "headline": "Official UAP statement reported (Technology)",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
+        "rumble"
+      ],
+      "sources": [
+        {
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=A7t5jd2FDJ4"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=A7t5jd2FDJ4"
+      ],
+      "update": false
+    },
+    {
+      "headline": "Official UAP statement reported (Simon)",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
+        "rumble"
+      ],
+      "sources": [
+        {
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=5CEjriSzF1g"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=5CEjriSzF1g"
       ],
       "update": false
     }
