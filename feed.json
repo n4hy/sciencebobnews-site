@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-07-27 18:20 UTC",
+  "generated_utc": "2026-07-27 18:30 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -48,83 +48,87 @@
       "update": false
     },
     {
-      "headline": "Official UAP statement reported",
+      "headline": "UAP report (Early)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "rumble"
       ],
       "sources": [
         {
-          "handle": "vibewire@mastodon.au",
-          "url": "https://mastodon.au/@vibewire/116992901755718617"
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=IyTeV6kko5A"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=IyTeV6kko5A"
+      ],
       "update": false
     },
     {
-      "headline": "UAP whistleblower testimony reported",
+      "headline": "UAP report (McMinnville)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "rumble"
       ],
       "sources": [
         {
-          "handle": "ScienceBob",
-          "url": "https://mastodon.social/@ScienceBob/116992456134160352"
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=7OT6uJ0yzVY"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=7OT6uJ0yzVY"
+      ],
       "update": false
     },
     {
-      "headline": "UAP report (Usa)",
+      "headline": "UAP whistleblower testimony reported (American)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "rumble"
       ],
       "sources": [
         {
-          "handle": "willamateurish.bsky.social@bsky.brid.gy",
-          "url": "https://bsky.brid.gy/r/https://bsky.app/profile/did:plc:ahhoo6g75dgdbrumz3eosoax/post/3mrk6knuhbc2g"
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=LPtMaGpuK-M"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=LPtMaGpuK-M"
+      ],
       "update": false
     },
     {
-      "headline": "UAP report",
+      "headline": "UAP report (Australia)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
-      "independent_sources": 2,
+      "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "rumble"
       ],
       "sources": [
         {
-          "handle": "nyt_us@robot.villas",
-          "url": "https://www.nytimes.com/2026/07/26/us/paul-andrews-dead.html"
-        },
-        {
-          "handle": "nyt_science@robot.villas",
-          "url": "https://www.nytimes.com/2026/07/26/us/paul-andrews-dead.html"
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=ZegQhxJrJGo"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=ZegQhxJrJGo"
+      ],
       "update": false
     }
   ]
