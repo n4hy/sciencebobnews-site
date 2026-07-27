@@ -1,16 +1,10 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-07-27 14:30 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-07-27 14:40 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
-![Official UAP statement reported (Austin)](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
-1. **Official UAP statement reported (Austin)**  
-   reliability **A1** · P(credible)=1.0 · 2 independent source(s) · bluesky+rumble  
-   [@podcast](https://www.youtube.com/watch?v=U04unJVpz8s) · [@did:plc:lh52slyfeysqwlq3v6ngoelz](https://bsky.app/profile/did:plc:lh52slyfeysqwlq3v6ngoelz/post/3mrn476kyhs2o)  
-   📹 [video](https://www.youtube.com/watch?v=U04unJVpz8s)
-
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_2.svg)
-2. **UAP report**  
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
+1. **UAP report**  
    reliability **A1** · P(credible)=1.0 · 2 independent source(s) · mastodon  
    [@KilleansRow@mastodon.online](https://mastodon.online/@KilleansRow/116992126816698625) · [@kdraven@mysterioustimes.co.uk](https://mysterioustimes.co.uk/2026/07/26/short-story-sunday-the-tide-between-the-stars/)
 
