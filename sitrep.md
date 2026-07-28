@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-07-28 06:20 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-07-28 06:30 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
@@ -26,9 +26,9 @@
 4. UAP whistleblower testimony reported — reliability A1 · 1 source(s)  
    [@ScienceBob](https://mastodon.social/@ScienceBob/116996073990694641)
 
-![Unidentified submerged object (USO) reported](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. Unidentified submerged object (USO) reported — reliability A1 · 1 source(s)  
-   [@did:plc:oing4g7olwnzpcrkpymkv4lo](https://bsky.app/profile/did:plc:oing4g7olwnzpcrkpymkv4lo/post/3mrorecljtw2q)
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+5. UAP report — reliability A1 · 2 source(s)  
+   [@nyt_us@robot.villas](https://www.nytimes.com/2026/07/26/us/paul-andrews-dead.html) · [@nyt_science@robot.villas](https://www.nytimes.com/2026/07/26/us/paul-andrews-dead.html)
 
 ---
 *Powered by Science Bob News. Free to use with credit (see LICENSE). Headlines are factual restatements in the engine's own words — click through to the linked sources for originals. Reposts of a single origin are collapsed to one source; candidate prosaic explanations are flagged where offered.*
