@@ -1,12 +1,12 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-07-28 09:30 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-07-28 09:40 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
 ![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
 1. **UAP report**  
    reliability **A1** · P(credible)=1.0 · 2 independent source(s) · mastodon  
-   [@KilleansRow@mastodon.online](https://mastodon.online/@KilleansRow/116992126816698625) · [@kdraven@mysterioustimes.co.uk](https://mysterioustimes.co.uk/2026/07/26/short-story-sunday-the-tide-between-the-stars/)
+   [@KilleansRow@mastodon.online](https://mastodon.online/@KilleansRow/116996899353044201) · [@kdraven@mysterioustimes.co.uk](https://mysterioustimes.co.uk/2026/07/26/short-story-sunday-the-tide-between-the-stars/)
 
 ## Developing / unconfirmed
 
