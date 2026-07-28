@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-07-28 06:50 UTC",
+  "generated_utc": "2026-07-28 07:00 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -48,83 +48,87 @@
       "update": false
     },
     {
-      "headline": "UAP report",
+      "headline": "UAP report (Early)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "rumble"
       ],
       "sources": [
         {
-          "handle": "paranormalactivity@masto.nu",
-          "url": "https://masto.nu/@paranormalactivity/116993719916167641"
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=IyTeV6kko5A"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=IyTeV6kko5A"
+      ],
       "update": false
     },
     {
-      "headline": "Official UAP statement reported",
+      "headline": "Official UAP statement reported (Deadwood)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "rumble"
       ],
       "sources": [
         {
-          "handle": "vibewire@mastodon.au",
-          "url": "https://mastodon.au/@vibewire/116992901755718617"
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=9fXiv3_PjGY"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=9fXiv3_PjGY"
+      ],
       "update": false
     },
     {
-      "headline": "UAP whistleblower testimony reported",
+      "headline": "Official UAP statement reported (History)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "rumble"
       ],
       "sources": [
         {
-          "handle": "ScienceBob",
-          "url": "https://mastodon.social/@ScienceBob/116996073990694641"
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=mVKGdqjpbf8"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=mVKGdqjpbf8"
+      ],
       "update": false
     },
     {
-      "headline": "UAP report",
+      "headline": "Official UAP statement reported (Missouri)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
-      "independent_sources": 2,
+      "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "rumble"
       ],
       "sources": [
         {
-          "handle": "nyt_us@robot.villas",
-          "url": "https://www.nytimes.com/2026/07/26/us/paul-andrews-dead.html"
-        },
-        {
-          "handle": "nyt_science@robot.villas",
-          "url": "https://www.nytimes.com/2026/07/26/us/paul-andrews-dead.html"
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=m5wlC58ZJ1U"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=m5wlC58ZJ1U"
+      ],
       "update": false
     }
   ]
