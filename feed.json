@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-07-28 05:00 UTC",
+  "generated_utc": "2026-07-28 05:10 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -105,19 +105,19 @@
       "update": false
     },
     {
-      "headline": "Unidentified submerged object (USO) reported",
+      "headline": "UAP report (Usa)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "bluesky"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "did:plc:uzxaseplrpucn5ehwclv4c6g",
-          "url": "https://bsky.app/profile/did:plc:uzxaseplrpucn5ehwclv4c6g/post/3mromvbaowt2z"
+          "handle": "willamateurish.bsky.social@bsky.brid.gy",
+          "url": "https://bsky.brid.gy/r/https://bsky.app/profile/did:plc:ahhoo6g75dgdbrumz3eosoax/post/3mrk6knuhbc2g"
         }
       ],
       "videos": [],
