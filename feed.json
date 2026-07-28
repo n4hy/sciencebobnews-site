@@ -2,9 +2,32 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-07-28 13:00 UTC",
+  "generated_utc": "2026-07-28 13:10 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
+    {
+      "headline": "UAP report",
+      "lane": "corroborated",
+      "status": "CORROBORATED",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 2,
+      "platforms": [
+        "mastodon"
+      ],
+      "sources": [
+        {
+          "handle": "KilleansRow@mastodon.online",
+          "url": "https://mastodon.online/@KilleansRow/116996899353044201"
+        },
+        {
+          "handle": "kdraven@mysterioustimes.co.uk",
+          "url": "https://mysterioustimes.co.uk/2026/07/26/short-story-sunday-the-tide-between-the-stars/"
+        }
+      ],
+      "videos": [],
+      "update": false
+    },
     {
       "headline": "UAP report",
       "lane": "developing",
@@ -25,41 +48,87 @@
       "update": false
     },
     {
-      "headline": "UAP whistleblower testimony reported",
+      "headline": "UAP whistleblower testimony reported (American)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "rumble"
       ],
       "sources": [
         {
-          "handle": "ScienceBob",
-          "url": "https://mastodon.social/@ScienceBob/116996545563147191"
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=LPtMaGpuK-M"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=LPtMaGpuK-M"
+      ],
       "update": false
     },
     {
-      "headline": "UAP report",
+      "headline": "UAP report (Australia)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "rumble"
       ],
       "sources": [
         {
-          "handle": "KilleansRow@mastodon.online",
-          "url": "https://mastodon.online/@KilleansRow/116996899353044201"
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=ZegQhxJrJGo"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=ZegQhxJrJGo"
+      ],
+      "update": false
+    },
+    {
+      "headline": "Official UAP statement reported (Austin)",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
+        "rumble"
+      ],
+      "sources": [
+        {
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=U04unJVpz8s"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=U04unJVpz8s"
+      ],
+      "update": false
+    },
+    {
+      "headline": "Official UAP statement reported (Technology)",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
+        "rumble"
+      ],
+      "sources": [
+        {
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=A7t5jd2FDJ4"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=A7t5jd2FDJ4"
+      ],
       "update": false
     }
   ]
