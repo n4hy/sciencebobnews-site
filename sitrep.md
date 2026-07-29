@@ -1,13 +1,8 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-07-29 00:40 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-07-29 00:50 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
-
-![Official UAP statement reported (Simon)](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
-1. **Official UAP statement reported (Simon)**  
-   reliability **A1** · P(credible)=1.0 · 2 independent source(s) · bluesky+rumble  
-   [@podcast](https://www.youtube.com/watch?v=5CEjriSzF1g) · [@did:plc:63v3l3ohd2geahwn23gon42a](https://bsky.app/profile/did:plc:63v3l3ohd2geahwn23gon42a/post/3mrqh25yrhc2f)  
-   📹 [video](https://www.youtube.com/watch?v=5CEjriSzF1g)
+_No corroborated reports this cycle._
 
 ## Developing / unconfirmed
 
