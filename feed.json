@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-07-29 06:00 UTC",
+  "generated_utc": "2026-07-29 06:10 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -70,19 +70,21 @@
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "rumble"
       ],
       "sources": [
         {
-          "handle": "vibewire@mastodon.au",
-          "url": "https://mastodon.au/@vibewire/116998719164105289"
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=VM8ZX9-ruUM"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=VM8ZX9-ruUM"
+      ],
       "update": false
     },
     {
-      "headline": "UAP whistleblower testimony reported",
+      "headline": "Official UAP statement reported",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
@@ -93,8 +95,8 @@
       ],
       "sources": [
         {
-          "handle": "ScienceBob",
-          "url": "https://mastodon.social/@ScienceBob/117001500122255259"
+          "handle": "vibewire@mastodon.au",
+          "url": "https://mastodon.au/@vibewire/116998719164105289"
         }
       ],
       "videos": [],
