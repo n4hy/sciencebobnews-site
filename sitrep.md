@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-07-29 04:20 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-07-29 04:30 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 _No corroborated reports this cycle._
@@ -14,20 +14,20 @@ _No corroborated reports this cycle._
 2. UAP report (Moon) — reliability A1 · 1 source(s)  
    [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117001180457773006)
 
-![UAP report (Early)](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
-3. UAP report (Early) — reliability A1 · 1 source(s)  
-   [@podcast](https://www.youtube.com/watch?v=IyTeV6kko5A)  
-   📹 [video](https://www.youtube.com/watch?v=IyTeV6kko5A)
+![Official UAP statement reported (Deadwood)](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
+3. Official UAP statement reported (Deadwood) — reliability A1 · 1 source(s)  
+   [@podcast](https://www.youtube.com/watch?v=9fXiv3_PjGY)  
+   📹 [video](https://www.youtube.com/watch?v=9fXiv3_PjGY)
 
-![UAP whistleblower testimony reported (American)](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-4. UAP whistleblower testimony reported (American) — reliability A1 · 1 source(s)  
-   [@podcast](https://www.youtube.com/watch?v=LPtMaGpuK-M)  
-   📹 [video](https://www.youtube.com/watch?v=LPtMaGpuK-M)
+![Official UAP statement reported (History)](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
+4. Official UAP statement reported (History) — reliability A1 · 1 source(s)  
+   [@podcast](https://www.youtube.com/watch?v=mVKGdqjpbf8)  
+   📹 [video](https://www.youtube.com/watch?v=mVKGdqjpbf8)
 
-![UAP report (Australia)](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. UAP report (Australia) — reliability A1 · 1 source(s)  
-   [@podcast](https://www.youtube.com/watch?v=ZegQhxJrJGo)  
-   📹 [video](https://www.youtube.com/watch?v=ZegQhxJrJGo)
+![Official UAP statement reported (International)](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+5. Official UAP statement reported (International) — reliability A1 · 1 source(s)  
+   [@podcast](https://www.youtube.com/watch?v=DD4iB7rkmew)  
+   📹 [video](https://www.youtube.com/watch?v=DD4iB7rkmew)
 
 ---
 *Powered by Science Bob News. Free to use with credit (see LICENSE). Headlines are factual restatements in the engine's own words — click through to the linked sources for originals. Reposts of a single origin are collapsed to one source; candidate prosaic explanations are flagged where offered.*

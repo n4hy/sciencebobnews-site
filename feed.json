@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-07-29 04:20 UTC",
+  "generated_utc": "2026-07-29 04:30 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -44,7 +44,7 @@
       "update": false
     },
     {
-      "headline": "UAP report (Early)",
+      "headline": "Official UAP statement reported (Deadwood)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
@@ -56,16 +56,16 @@
       "sources": [
         {
           "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=IyTeV6kko5A"
+          "url": "https://www.youtube.com/watch?v=9fXiv3_PjGY"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=IyTeV6kko5A"
+        "https://www.youtube.com/watch?v=9fXiv3_PjGY"
       ],
       "update": false
     },
     {
-      "headline": "UAP whistleblower testimony reported (American)",
+      "headline": "Official UAP statement reported (History)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
@@ -77,16 +77,16 @@
       "sources": [
         {
           "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=LPtMaGpuK-M"
+          "url": "https://www.youtube.com/watch?v=mVKGdqjpbf8"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=LPtMaGpuK-M"
+        "https://www.youtube.com/watch?v=mVKGdqjpbf8"
       ],
       "update": false
     },
     {
-      "headline": "UAP report (Australia)",
+      "headline": "Official UAP statement reported (International)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
@@ -98,11 +98,11 @@
       "sources": [
         {
           "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=ZegQhxJrJGo"
+          "url": "https://www.youtube.com/watch?v=DD4iB7rkmew"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=ZegQhxJrJGo"
+        "https://www.youtube.com/watch?v=DD4iB7rkmew"
       ],
       "update": false
     }
