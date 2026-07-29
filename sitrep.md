@@ -1,31 +1,23 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-07-29 19:50 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-07-29 20:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 _No corroborated reports this cycle._
 
 ## Developing / unconfirmed
 
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
-1. UAP report — reliability A1 · 1 source(s)  
-   [@lacaverneeclairee@mamot.fr](https://mamot.fr/@lacaverneeclairee/116986840363279797)
-
-![UAP report (Moon)](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
-2. UAP report (Moon) — reliability A1 · 1 source(s)  
-   [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117001180457773006)
-
-![UAP report (Early)](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
-3. UAP report (Early) — reliability A1 · 1 source(s)  
+![UAP report (Early)](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
+1. UAP report (Early) — reliability A1 · 1 source(s)  
    [@podcast](https://www.youtube.com/watch?v=IyTeV6kko5A)  
    📹 [video](https://www.youtube.com/watch?v=IyTeV6kko5A)
 
-![UAP report (McMinnville)](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-4. UAP report (McMinnville) — reliability A1 · 1 source(s)  
+![UAP report (McMinnville)](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
+2. UAP report (McMinnville) — reliability A1 · 1 source(s)  
    [@podcast](https://www.youtube.com/watch?v=7OT6uJ0yzVY)  
    📹 [video](https://www.youtube.com/watch?v=7OT6uJ0yzVY)
 
-![UAP whistleblower testimony reported (American)](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. UAP whistleblower testimony reported (American) — reliability A1 · 1 source(s)  
+![UAP whistleblower testimony reported (American)](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
+3. UAP whistleblower testimony reported (American) — reliability A1 · 1 source(s)  
    [@podcast](https://www.youtube.com/watch?v=LPtMaGpuK-M)  
    📹 [video](https://www.youtube.com/watch?v=LPtMaGpuK-M)
 
