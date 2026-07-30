@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-07-30 04:30 UTC",
+  "generated_utc": "2026-07-30 04:40 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -19,25 +19,6 @@
         {
           "handle": "vibewire@mastodon.au",
           "url": "https://mastodon.au/@vibewire/117001180457773006"
-        }
-      ],
-      "videos": [],
-      "update": false
-    },
-    {
-      "headline": "Official UAP statement reported",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 1,
-      "platforms": [
-        "bluesky"
-      ],
-      "sources": [
-        {
-          "handle": "did:plc:izlqnv5dtersll3efg6thkv4",
-          "url": "https://bsky.app/profile/did:plc:izlqnv5dtersll3efg6thkv4/post/3mrtgpsyeq72o"
         }
       ],
       "videos": [],
@@ -95,6 +76,25 @@
         {
           "handle": "KilleansRow@mastodon.online",
           "url": "https://mastodon.online/@KilleansRow/116996899353044201"
+        }
+      ],
+      "videos": [],
+      "update": false
+    },
+    {
+      "headline": "UAP report (Käffchen)",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
+        "mastodon"
+      ],
+      "sources": [
+        {
+          "handle": "mosescartoons",
+          "url": "https://mastodon.social/@mosescartoons/117004895529144869"
         }
       ],
       "videos": [],
