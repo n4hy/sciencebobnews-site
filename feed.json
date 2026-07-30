@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-07-30 05:30 UTC",
+  "generated_utc": "2026-07-30 05:40 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -25,79 +25,87 @@
       "update": false
     },
     {
-      "headline": "Official UAP statement reported",
+      "headline": "Official UAP statement reported (Deadwood)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "rumble"
       ],
       "sources": [
         {
-          "handle": "vibewire@mastodon.au",
-          "url": "https://mastodon.au/@vibewire/117004123655983431"
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=9fXiv3_PjGY"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=9fXiv3_PjGY"
+      ],
       "update": false
     },
     {
-      "headline": "UAP whistleblower testimony reported",
+      "headline": "Official UAP statement reported (History)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "rumble"
       ],
       "sources": [
         {
-          "handle": "ScienceBob",
-          "url": "https://mastodon.social/@ScienceBob/117006572602079091"
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=mVKGdqjpbf8"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=mVKGdqjpbf8"
+      ],
       "update": false
     },
     {
-      "headline": "UAP report",
+      "headline": "Official UAP statement reported (International)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "rumble"
       ],
       "sources": [
         {
-          "handle": "KilleansRow@mastodon.online",
-          "url": "https://mastodon.online/@KilleansRow/116996899353044201"
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=DD4iB7rkmew"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=DD4iB7rkmew"
+      ],
       "update": false
     },
     {
-      "headline": "UAP report (Käffchen)",
+      "headline": "Official UAP statement reported (America)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "rumble"
       ],
       "sources": [
         {
-          "handle": "mosescartoons",
-          "url": "https://mastodon.social/@mosescartoons/117004895529144869"
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=twRHqZQca6c"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=twRHqZQca6c"
+      ],
       "update": false
     }
   ]
