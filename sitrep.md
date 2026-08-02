@@ -1,12 +1,12 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-08-02 21:20 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-08-02 21:30 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
 ![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
 1. **UAP report**  
-   reliability **A1** · P(credible)=1.0 · 3 independent source(s) · mastodon  
-   [@KilleansRow@mastodon.online](https://mastodon.online/@KilleansRow/117007295143870862) · [@whispermysteries.wordpress.com@whispermysteries.wordpress.com](https://whispermysteries.wordpress.com/2026/08/02/the-horned-beings-of-brazil-did-the-military-capture-something-beyond-human-understanding/)
+   reliability **A1** · P(credible)=1.0 · 4 independent source(s) · mastodon  
+   [@n_dimension@infosec.exchange](https://infosec.exchange/@n_dimension/117028016111436423) · [@KilleansRow@mastodon.online](https://mastodon.online/@KilleansRow/117007295143870862)
 
 ## Developing / unconfirmed
 
