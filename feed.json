@@ -2,80 +2,27 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-08-02 22:30 UTC",
+  "generated_utc": "2026-08-02 22:40 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
-      "headline": "Official UAP statement reported (Your)",
-      "lane": "developing",
-      "status": "DEVELOPING",
+      "headline": "UAP report",
+      "lane": "corroborated",
+      "status": "CORROBORATED",
       "reliability": "A1",
       "p_credible": 1.0,
-      "independent_sources": 1,
+      "independent_sources": 5,
       "platforms": [
         "mastodon"
       ],
       "sources": [
         {
-          "handle": "vibewire@mastodon.au",
-          "url": "https://mastodon.au/@vibewire/117027404399127988"
-        }
-      ],
-      "videos": [],
-      "update": false
-    },
-    {
-      "headline": "Official UAP statement reported",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 1,
-      "platforms": [
-        "mastodon"
-      ],
-      "sources": [
+          "handle": "Doomscroll@zirk.us",
+          "url": "https://zirk.us/@Doomscroll/117028230320711419"
+        },
         {
-          "handle": "trndgtr",
-          "url": "https://mastodon.social/@trndgtr/117016162188200391"
-        }
-      ],
-      "videos": [],
-      "update": false
-    },
-    {
-      "headline": "Official UAP statement reported",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 1,
-      "platforms": [
-        "mastodon"
-      ],
-      "sources": [
-        {
-          "handle": "vibewire@mastodon.au",
-          "url": "https://mastodon.au/@vibewire/117027404302381497"
-        }
-      ],
-      "videos": [],
-      "update": false
-    },
-    {
-      "headline": "UAP whistleblower testimony reported",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 1,
-      "platforms": [
-        "mastodon"
-      ],
-      "sources": [
-        {
-          "handle": "ScienceBob",
-          "url": "https://mastodon.social/@ScienceBob/117027766944556170"
+          "handle": "n_dimension@infosec.exchange",
+          "url": "https://infosec.exchange/@n_dimension/117028016111436423"
         }
       ],
       "videos": [],
@@ -93,11 +40,93 @@
       ],
       "sources": [
         {
-          "handle": "n_dimension@infosec.exchange",
-          "url": "https://infosec.exchange/@n_dimension/117028016111436423"
+          "handle": "pragmaticmarg@hachyderm.io",
+          "url": "https://hachyderm.io/@pragmaticmarg/117010094817149557"
         }
       ],
       "videos": [],
+      "update": false
+    },
+    {
+      "headline": "UAP report (Moon)",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
+        "mastodon"
+      ],
+      "sources": [
+        {
+          "handle": "vibewire@mastodon.au",
+          "url": "https://mastodon.au/@vibewire/117001180457773006"
+        }
+      ],
+      "videos": [],
+      "update": false
+    },
+    {
+      "headline": "UAP report (Early)",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
+        "rumble"
+      ],
+      "sources": [
+        {
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=IyTeV6kko5A"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=IyTeV6kko5A"
+      ],
+      "update": false
+    },
+    {
+      "headline": "UAP report (McMinnville)",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
+        "rumble"
+      ],
+      "sources": [
+        {
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=7OT6uJ0yzVY"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=7OT6uJ0yzVY"
+      ],
+      "update": false
+    },
+    {
+      "headline": "UAP whistleblower testimony reported (American)",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
+        "rumble"
+      ],
+      "sources": [
+        {
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=LPtMaGpuK-M"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=LPtMaGpuK-M"
+      ],
       "update": false
     }
   ]

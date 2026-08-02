@@ -1,30 +1,37 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-08-02 22:30 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-08-02 22:40 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
-_No corroborated reports this cycle._
+
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
+1. **UAP report**  
+   reliability **A1** · P(credible)=1.0 · 5 independent source(s) · mastodon  
+   [@Doomscroll@zirk.us](https://zirk.us/@Doomscroll/117028230320711419) · [@n_dimension@infosec.exchange](https://infosec.exchange/@n_dimension/117028016111436423)
 
 ## Developing / unconfirmed
 
-![Official UAP statement reported (Your)](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
-1. Official UAP statement reported (Your) — reliability A1 · 1 source(s)  
-   [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117027404399127988)
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
+1. UAP report — reliability A1 · 1 source(s)  
+   [@pragmaticmarg@hachyderm.io](https://hachyderm.io/@pragmaticmarg/117010094817149557)
 
-![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
-2. Official UAP statement reported — reliability A1 · 1 source(s)  
-   [@trndgtr](https://mastodon.social/@trndgtr/117016162188200391)
+![UAP report (Moon)](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
+2. UAP report (Moon) — reliability A1 · 1 source(s)  
+   [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117001180457773006)
 
-![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
-3. Official UAP statement reported — reliability A1 · 1 source(s)  
-   [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117027404302381497)
+![UAP report (Early)](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
+3. UAP report (Early) — reliability A1 · 1 source(s)  
+   [@podcast](https://www.youtube.com/watch?v=IyTeV6kko5A)  
+   📹 [video](https://www.youtube.com/watch?v=IyTeV6kko5A)
 
-![UAP whistleblower testimony reported](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-4. UAP whistleblower testimony reported — reliability A1 · 1 source(s)  
-   [@ScienceBob](https://mastodon.social/@ScienceBob/117027766944556170)
+![UAP report (McMinnville)](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
+4. UAP report (McMinnville) — reliability A1 · 1 source(s)  
+   [@podcast](https://www.youtube.com/watch?v=7OT6uJ0yzVY)  
+   📹 [video](https://www.youtube.com/watch?v=7OT6uJ0yzVY)
 
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. UAP report — reliability A1 · 1 source(s)  
-   [@n_dimension@infosec.exchange](https://infosec.exchange/@n_dimension/117028016111436423)
+![UAP whistleblower testimony reported (American)](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+5. UAP whistleblower testimony reported (American) — reliability A1 · 1 source(s)  
+   [@podcast](https://www.youtube.com/watch?v=LPtMaGpuK-M)  
+   📹 [video](https://www.youtube.com/watch?v=LPtMaGpuK-M)
 
 ---
 *Powered by Science Bob News. Free to use with credit (see LICENSE). Headlines are factual restatements in the engine's own words — click through to the linked sources for originals. Reposts of a single origin are collapsed to one source; candidate prosaic explanations are flagged where offered.*
