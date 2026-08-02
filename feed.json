@@ -2,9 +2,35 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-08-02 19:00 UTC",
+  "generated_utc": "2026-08-02 19:10 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
+    {
+      "headline": "UAP whistleblower testimony reported (American)",
+      "lane": "corroborated",
+      "status": "CORROBORATED",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 2,
+      "platforms": [
+        "bluesky",
+        "rumble"
+      ],
+      "sources": [
+        {
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=LPtMaGpuK-M"
+        },
+        {
+          "handle": "did:plc:zbjyflqcpy3dbf62ypbbx3jd",
+          "url": "https://bsky.app/profile/did:plc:zbjyflqcpy3dbf62ypbbx3jd/post/3ms4l2fijuk2l"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=LPtMaGpuK-M"
+      ],
+      "update": false
+    },
     {
       "headline": "UAP report",
       "lane": "corroborated",
@@ -109,7 +135,7 @@
       "update": false
     },
     {
-      "headline": "UAP whistleblower testimony reported (American)",
+      "headline": "UAP report (Australia)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
@@ -121,11 +147,11 @@
       "sources": [
         {
           "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=LPtMaGpuK-M"
+          "url": "https://www.youtube.com/watch?v=ZegQhxJrJGo"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=LPtMaGpuK-M"
+        "https://www.youtube.com/watch?v=ZegQhxJrJGo"
       ],
       "update": false
     }
