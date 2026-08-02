@@ -2,36 +2,9 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-08-02 11:10 UTC",
+  "generated_utc": "2026-08-02 11:20 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
-    {
-      "headline": "UAP whistleblower testimony reported",
-      "lane": "corroborated",
-      "status": "CORROBORATED",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 2,
-      "platforms": [
-        "bluesky",
-        "rumble"
-      ],
-      "sources": [
-        {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=93moL6Dy0EY"
-        },
-        {
-          "handle": "did:plc:54lvxus5zpnvtmtukgcga24s",
-          "url": "https://bsky.app/profile/did:plc:54lvxus5zpnvtmtukgcga24s/post/3ms3tvh2bs22n"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=93moL6Dy0EY",
-        "https://youtu.be/7OT6uJ0yzVY"
-      ],
-      "update": false
-    },
     {
       "headline": "UAP report",
       "lane": "corroborated",
