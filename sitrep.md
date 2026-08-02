@@ -1,10 +1,16 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-08-02 11:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-08-02 11:10 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
-1. **UAP report**  
+![UAP whistleblower testimony reported](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
+1. **UAP whistleblower testimony reported**  
+   reliability **A1** · P(credible)=1.0 · 2 independent source(s) · bluesky+rumble  
+   [@podcast](https://www.youtube.com/watch?v=93moL6Dy0EY) · [@did:plc:54lvxus5zpnvtmtukgcga24s](https://bsky.app/profile/did:plc:54lvxus5zpnvtmtukgcga24s/post/3ms3tvh2bs22n)  
+   📹 [video](https://www.youtube.com/watch?v=93moL6Dy0EY) · [video](https://youtu.be/7OT6uJ0yzVY)
+
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_2.svg)
+2. **UAP report**  
    reliability **A1** · P(credible)=1.0 · 3 independent source(s) · mastodon  
    [@KilleansRow@mastodon.online](https://mastodon.online/@KilleansRow/117007295143870862) · [@whispermysteries.wordpress.com@whispermysteries.wordpress.com](https://whispermysteries.wordpress.com/2026/08/02/the-horned-beings-of-brazil-did-the-military-capture-something-beyond-human-understanding/)
 
