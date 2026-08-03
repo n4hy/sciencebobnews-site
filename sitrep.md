@@ -1,21 +1,15 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-08-03 00:30 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-08-03 00:40 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
-![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
-1. **Official UAP statement reported**  
-   reliability **A1** · P(credible)=1.0 · 2 independent source(s) · bluesky+rumble  
-   [@podcast](https://www.youtube.com/watch?v=QscaracBciE) · [@did:plc:4ohgm56lvrcj6p7kjgxz5wey](https://bsky.app/profile/did:plc:4ohgm56lvrcj6p7kjgxz5wey/post/3ms54bzz3vu2p)  
-   📹 [video](https://www.youtube.com/watch?v=QscaracBciE)
-
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_2.svg)
-2. **UAP report**  
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
+1. **UAP report**  
    reliability **A1** · P(credible)=1.0 · 2 independent source(s) · mastodon  
    [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117027404399127988) · [@TresFluke@beige.party](https://beige.party/@TresFluke/117028360059260175)
 
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_3.svg)
-3. **UAP report**  
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_2.svg)
+2. **UAP report**  
    reliability **A1** · P(credible)=1.0 · 4 independent source(s) · mastodon  
    [@Doomscroll@zirk.us](https://zirk.us/@Doomscroll/117028230320711419) · [@n_dimension@infosec.exchange](https://infosec.exchange/@n_dimension/117028016111436423)
 
