@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-08-03 10:40 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-08-03 10:50 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
@@ -8,14 +8,8 @@
    reliability **A1** · P(credible)=1.0 · 3 independent source(s) · mastodon  
    [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117027404399127988) · [@theyycmonk@mstdn.ca](https://mstdn.ca/@theyycmonk/117029061136561360)
 
-![UAP report (Israel)](https://n4hy.github.io/sciencebobnews-site/card_c_2.svg)
-2. **UAP report (Israel)**  
-   reliability **A1** · P(credible)=1.0 · 2 independent source(s) · bluesky+rumble  
-   [@podcast](https://www.youtube.com/watch?v=IzRjCEcotTw) · [@did:plc:oa6uujegf3dktjvm2qs7tfee](https://bsky.app/profile/did:plc:oa6uujegf3dktjvm2qs7tfee/post/3ms6colgyes2c)  
-   📹 [video](https://www.youtube.com/watch?v=IzRjCEcotTw)
-
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_3.svg)
-3. **UAP report**  
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_2.svg)
+2. **UAP report**  
    reliability **A1** · P(credible)=1.0 · 4 independent source(s) · mastodon  
    [@Doomscroll@zirk.us](https://zirk.us/@Doomscroll/117028230320711419) · [@n_dimension@infosec.exchange](https://infosec.exchange/@n_dimension/117028016111436423)
 

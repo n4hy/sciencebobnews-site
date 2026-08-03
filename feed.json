@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-08-03 10:40 UTC",
+  "generated_utc": "2026-08-03 10:50 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -26,32 +26,6 @@
         }
       ],
       "videos": [],
-      "update": false
-    },
-    {
-      "headline": "UAP report (Israel)",
-      "lane": "corroborated",
-      "status": "CORROBORATED",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 2,
-      "platforms": [
-        "bluesky",
-        "rumble"
-      ],
-      "sources": [
-        {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=IzRjCEcotTw"
-        },
-        {
-          "handle": "did:plc:oa6uujegf3dktjvm2qs7tfee",
-          "url": "https://bsky.app/profile/did:plc:oa6uujegf3dktjvm2qs7tfee/post/3ms6colgyes2c"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=IzRjCEcotTw"
-      ],
       "update": false
     },
     {
