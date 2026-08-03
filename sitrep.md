@@ -1,17 +1,17 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-08-03 10:50 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-08-03 11:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
-![UAP report (Canada)](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
-1. **UAP report (Canada)**  
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
+1. **UAP report**  
+   reliability **A1** · P(credible)=1.0 · 2 independent source(s) · mastodon  
+   [@Doomscroll@zirk.us](https://zirk.us/@Doomscroll/117028230320711419) · [@n_dimension@infosec.exchange](https://infosec.exchange/@n_dimension/117028016111436423)
+
+![UAP report (Canada)](https://n4hy.github.io/sciencebobnews-site/card_c_2.svg)
+2. **UAP report (Canada)**  
    reliability **A1** · P(credible)=1.0 · 3 independent source(s) · mastodon  
    [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117027404399127988) · [@theyycmonk@mstdn.ca](https://mstdn.ca/@theyycmonk/117029061136561360)
-
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_2.svg)
-2. **UAP report**  
-   reliability **A1** · P(credible)=1.0 · 4 independent source(s) · mastodon  
-   [@Doomscroll@zirk.us](https://zirk.us/@Doomscroll/117028230320711419) · [@n_dimension@infosec.exchange](https://infosec.exchange/@n_dimension/117028016111436423)
 
 ## Developing / unconfirmed
 
