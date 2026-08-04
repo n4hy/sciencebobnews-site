@@ -2,9 +2,35 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-08-04 16:00 UTC",
+  "generated_utc": "2026-08-04 16:10 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
+    {
+      "headline": "UAP report",
+      "lane": "corroborated",
+      "status": "CORROBORATED",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 2,
+      "platforms": [
+        "bluesky",
+        "rumble"
+      ],
+      "sources": [
+        {
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=rk0y6oeI2k0"
+        },
+        {
+          "handle": "did:plc:3r4tlcv62hpq3uumf7jdfr5u",
+          "url": "https://bsky.app/profile/did:plc:3r4tlcv62hpq3uumf7jdfr5u/post/3msberbe6as24"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=rk0y6oeI2k0"
+      ],
+      "update": false
+    },
     {
       "headline": "UAP report",
       "lane": "corroborated",
