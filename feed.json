@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-08-05 03:50 UTC",
+  "generated_utc": "2026-08-05 04:00 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -48,48 +48,6 @@
       "update": false
     },
     {
-      "headline": "UAP report (McMinnville)",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 1,
-      "platforms": [
-        "rumble"
-      ],
-      "sources": [
-        {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=7OT6uJ0yzVY"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=7OT6uJ0yzVY"
-      ],
-      "update": false
-    },
-    {
-      "headline": "Official UAP statement reported (UFO)",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 1,
-      "platforms": [
-        "rumble"
-      ],
-      "sources": [
-        {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=YiNznVZ5ciY"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=YiNznVZ5ciY"
-      ],
-      "update": false
-    },
-    {
       "headline": "Official UAP statement reported (Secret)",
       "lane": "developing",
       "status": "DEVELOPING",
@@ -109,25 +67,64 @@
       "update": false
     },
     {
-      "headline": "UAP whistleblower testimony reported",
+      "headline": "UAP report",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "rumble"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=ivDqdkRyRDw"
+          "handle": "EarthInsider",
+          "url": "https://mastodon.social/@EarthInsider/117040677741973745"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=ivDqdkRyRDw",
-        "https://youtu.be/Ayf92m7zPFY"
+      "videos": [],
+      "update": false
+    },
+    {
+      "headline": "Unidentified submerged object (USO) reported",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
+        "mastodon"
       ],
+      "sources": [
+        {
+          "handle": "ScienceBob",
+          "url": "https://mastodon.social/@ScienceBob/117040664461266126"
+        }
+      ],
+      "videos": [],
+      "update": false
+    },
+    {
+      "headline": "UAP report (Canada)",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 2,
+      "platforms": [
+        "mastodon"
+      ],
+      "sources": [
+        {
+          "handle": "theyycmonk@mstdn.ca",
+          "url": "https://mstdn.ca/@theyycmonk/117029061136561360"
+        },
+        {
+          "handle": "TresFluke@beige.party",
+          "url": "https://beige.party/@TresFluke/117028360059260175"
+        }
+      ],
+      "videos": [],
       "update": false
     }
   ]
