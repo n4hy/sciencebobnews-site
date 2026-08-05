@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-08-05 06:30 UTC",
+  "generated_utc": "2026-08-05 06:40 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -17,12 +17,12 @@
       ],
       "sources": [
         {
-          "handle": "Doomscroll@zirk.us",
-          "url": "https://zirk.us/@Doomscroll/117028230320711419"
+          "handle": "KilleansRow@mastodon.online",
+          "url": "https://mastodon.online/@KilleansRow/117041496580682793"
         },
         {
-          "handle": "n_dimension@infosec.exchange",
-          "url": "https://infosec.exchange/@n_dimension/117028016111436423"
+          "handle": "Doomscroll@zirk.us",
+          "url": "https://zirk.us/@Doomscroll/117028230320711419"
         }
       ],
       "videos": [],
@@ -93,31 +93,35 @@
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "bluesky"
-      ],
-      "sources": [
-        {
-          "handle": "did:plc:65ed5c73pwt2adi42gikcufc",
-          "url": "https://bsky.app/profile/did:plc:65ed5c73pwt2adi42gikcufc/post/3mscvnin6oa2x"
-        }
-      ],
-      "videos": [],
-      "update": false
-    },
-    {
-      "headline": "Unidentified submerged object (USO) reported",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 1,
-      "platforms": [
         "mastodon"
       ],
       "sources": [
         {
           "handle": "ScienceBob",
           "url": "https://mastodon.social/@ScienceBob/117040664461266126"
+        }
+      ],
+      "videos": [],
+      "update": false
+    },
+    {
+      "headline": "UAP report (Canada)",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 2,
+      "platforms": [
+        "mastodon"
+      ],
+      "sources": [
+        {
+          "handle": "theyycmonk@mstdn.ca",
+          "url": "https://mstdn.ca/@theyycmonk/117029061136561360"
+        },
+        {
+          "handle": "TresFluke@beige.party",
+          "url": "https://beige.party/@TresFluke/117028360059260175"
         }
       ],
       "videos": [],
