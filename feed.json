@@ -2,29 +2,10 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-08-05 07:10 UTC",
+  "generated_utc": "2026-08-05 07:20 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
-      "headline": "Official UAP statement reported (Secret)",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 1,
-      "platforms": [
-        "mastodon"
-      ],
-      "sources": [
-        {
-          "handle": "vibewire@mastodon.au",
-          "url": "https://mastodon.au/@vibewire/117038819165119733"
-        }
-      ],
-      "videos": [],
-      "update": false
-    },
-    {
       "headline": "UAP report",
       "lane": "developing",
       "status": "DEVELOPING",
@@ -36,68 +17,95 @@
       ],
       "sources": [
         {
-          "handle": "EarthInsider",
-          "url": "https://mastodon.social/@EarthInsider/117040677741973745"
+          "handle": "veryexcitingtime",
+          "url": "https://mastodon.social/@veryexcitingtime/117028427311169939"
         }
       ],
       "videos": [],
       "update": false
     },
     {
-      "headline": "Unidentified submerged object (USO) reported",
+      "headline": "UAP report (Early)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "rumble"
       ],
       "sources": [
         {
-          "handle": "ScienceBob",
-          "url": "https://mastodon.social/@ScienceBob/117040664461266126"
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=IyTeV6kko5A"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=IyTeV6kko5A"
+      ],
       "update": false
     },
     {
-      "headline": "UAP report",
+      "headline": "UAP report (McMinnville)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "rumble"
       ],
       "sources": [
         {
-          "handle": "TheBison@kolektiva.social",
-          "url": "https://kolektiva.social/@TheBison/117036451617707080"
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=7OT6uJ0yzVY"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=7OT6uJ0yzVY"
+      ],
       "update": false
     },
     {
-      "headline": "UAP report",
+      "headline": "UAP whistleblower testimony reported (American)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "rumble"
       ],
       "sources": [
         {
-          "handle": "pragmaticmarg@hachyderm.io",
-          "url": "https://hachyderm.io/@pragmaticmarg/117037966901397165"
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=LPtMaGpuK-M"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=LPtMaGpuK-M"
+      ],
+      "update": false
+    },
+    {
+      "headline": "UAP report (Australia)",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
+        "rumble"
+      ],
+      "sources": [
+        {
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=ZegQhxJrJGo"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=ZegQhxJrJGo"
+      ],
       "update": false
     }
   ]
