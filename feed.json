@@ -2,27 +2,23 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-08-05 07:00 UTC",
+  "generated_utc": "2026-08-05 07:10 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
-      "headline": "UAP report",
-      "lane": "corroborated",
-      "status": "CORROBORATED",
+      "headline": "Official UAP statement reported (Secret)",
+      "lane": "developing",
+      "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
-      "independent_sources": 2,
+      "independent_sources": 1,
       "platforms": [
         "mastodon"
       ],
       "sources": [
         {
-          "handle": "KilleansRow@mastodon.online",
-          "url": "https://mastodon.online/@KilleansRow/117041496580682793"
-        },
-        {
-          "handle": "Doomscroll@zirk.us",
-          "url": "https://zirk.us/@Doomscroll/117028230320711419"
+          "handle": "vibewire@mastodon.au",
+          "url": "https://mastodon.au/@vibewire/117038819165119733"
         }
       ],
       "videos": [],
@@ -40,95 +36,68 @@
       ],
       "sources": [
         {
-          "handle": "veryexcitingtime",
-          "url": "https://mastodon.social/@veryexcitingtime/117028427311169939"
+          "handle": "EarthInsider",
+          "url": "https://mastodon.social/@EarthInsider/117040677741973745"
         }
       ],
       "videos": [],
       "update": false
     },
     {
-      "headline": "Official UAP statement reported (America)",
+      "headline": "Unidentified submerged object (USO) reported",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "rumble"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=twRHqZQca6c"
+          "handle": "ScienceBob",
+          "url": "https://mastodon.social/@ScienceBob/117040664461266126"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=twRHqZQca6c"
-      ],
+      "videos": [],
       "update": false
     },
     {
-      "headline": "Official UAP statement reported (Missouri)",
+      "headline": "UAP report",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "rumble"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=m5wlC58ZJ1U"
+          "handle": "TheBison@kolektiva.social",
+          "url": "https://kolektiva.social/@TheBison/117036451617707080"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=m5wlC58ZJ1U"
-      ],
+      "videos": [],
       "update": false
     },
     {
-      "headline": "Official UAP statement reported (International)",
+      "headline": "UAP report",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "rumble"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=DD4iB7rkmew"
+          "handle": "pragmaticmarg@hachyderm.io",
+          "url": "https://hachyderm.io/@pragmaticmarg/117037966901397165"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=DD4iB7rkmew"
-      ],
-      "update": false
-    },
-    {
-      "headline": "Official UAP statement reported (UFO)",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 1,
-      "platforms": [
-        "rumble"
-      ],
-      "sources": [
-        {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=vWtSrAiCJ78"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=vWtSrAiCJ78"
-      ],
+      "videos": [],
       "update": false
     }
   ]

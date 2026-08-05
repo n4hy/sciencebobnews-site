@@ -1,38 +1,30 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-08-05 07:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-08-05 07:10 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
-
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
-1. **UAP report**  
-   reliability **A1** · P(credible)=1.0 · 2 independent source(s) · mastodon  
-   [@KilleansRow@mastodon.online](https://mastodon.online/@KilleansRow/117041496580682793) · [@Doomscroll@zirk.us](https://zirk.us/@Doomscroll/117028230320711419)
+_No corroborated reports this cycle._
 
 ## Developing / unconfirmed
 
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
-1. UAP report — reliability A1 · 1 source(s)  
-   [@veryexcitingtime](https://mastodon.social/@veryexcitingtime/117028427311169939)
+![Official UAP statement reported (Secret)](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
+1. Official UAP statement reported (Secret) — reliability A1 · 1 source(s)  
+   [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117038819165119733)
 
-![Official UAP statement reported (America)](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
-2. Official UAP statement reported (America) — reliability A1 · 1 source(s)  
-   [@podcast](https://www.youtube.com/watch?v=twRHqZQca6c)  
-   📹 [video](https://www.youtube.com/watch?v=twRHqZQca6c)
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
+2. UAP report — reliability A1 · 1 source(s)  
+   [@EarthInsider](https://mastodon.social/@EarthInsider/117040677741973745)
 
-![Official UAP statement reported (Missouri)](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
-3. Official UAP statement reported (Missouri) — reliability A1 · 1 source(s)  
-   [@podcast](https://www.youtube.com/watch?v=m5wlC58ZJ1U)  
-   📹 [video](https://www.youtube.com/watch?v=m5wlC58ZJ1U)
+![Unidentified submerged object (USO) reported](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
+3. Unidentified submerged object (USO) reported — reliability A1 · 1 source(s)  
+   [@ScienceBob](https://mastodon.social/@ScienceBob/117040664461266126)
 
-![Official UAP statement reported (International)](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-4. Official UAP statement reported (International) — reliability A1 · 1 source(s)  
-   [@podcast](https://www.youtube.com/watch?v=DD4iB7rkmew)  
-   📹 [video](https://www.youtube.com/watch?v=DD4iB7rkmew)
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
+4. UAP report — reliability A1 · 1 source(s)  
+   [@TheBison@kolektiva.social](https://kolektiva.social/@TheBison/117036451617707080)
 
-![Official UAP statement reported (UFO)](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. Official UAP statement reported (UFO) — reliability A1 · 1 source(s)  
-   [@podcast](https://www.youtube.com/watch?v=vWtSrAiCJ78)  
-   📹 [video](https://www.youtube.com/watch?v=vWtSrAiCJ78)
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+5. UAP report — reliability A1 · 1 source(s)  
+   [@pragmaticmarg@hachyderm.io](https://hachyderm.io/@pragmaticmarg/117037966901397165)
 
 ---
 *Powered by Science Bob News. Free to use with credit (see LICENSE). Headlines are factual restatements in the engine's own words — click through to the linked sources for originals. Reposts of a single origin are collapsed to one source; candidate prosaic explanations are flagged where offered.*
