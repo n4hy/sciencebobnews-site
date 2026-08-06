@@ -2,35 +2,9 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-08-06 17:30 UTC",
+  "generated_utc": "2026-08-06 17:40 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
-    {
-      "headline": "Official UAP statement reported (Simon)",
-      "lane": "corroborated",
-      "status": "CORROBORATED",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 2,
-      "platforms": [
-        "bluesky",
-        "rumble"
-      ],
-      "sources": [
-        {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=5CEjriSzF1g"
-        },
-        {
-          "handle": "did:plc:hfzdu6buhxjet2zt5sod6bux",
-          "url": "https://bsky.app/profile/did:plc:hfzdu6buhxjet2zt5sod6bux/post/3msgj3yhc5k2y"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=5CEjriSzF1g"
-      ],
-      "update": false
-    },
     {
       "headline": "UAP report (Early)",
       "lane": "developing",
