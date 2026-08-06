@@ -2,112 +2,102 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-08-06 04:00 UTC",
+  "generated_utc": "2026-08-06 04:10 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
-      "headline": "UAP report (McMinnville)",
+      "headline": "UAP report",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "rumble"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=7OT6uJ0yzVY"
+          "handle": "vibewire@mastodon.au",
+          "url": "https://mastodon.au/@vibewire/117041956581089818"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=7OT6uJ0yzVY"
-      ],
+      "videos": [],
       "update": false
     },
     {
-      "headline": "Official UAP statement reported (America)",
+      "headline": "Official UAP statement reported",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "rumble"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=twRHqZQca6c"
+          "handle": "vibewire@mastodon.au",
+          "url": "https://mastodon.au/@vibewire/117045312120286789"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=twRHqZQca6c"
-      ],
+      "videos": [],
       "update": false
     },
     {
-      "headline": "Official UAP statement reported (Missouri)",
+      "headline": "UAP report",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "rumble"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=m5wlC58ZJ1U"
+          "handle": "EarthInsider",
+          "url": "https://mastodon.social/@EarthInsider/117040677741973745"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=m5wlC58ZJ1U"
-      ],
+      "videos": [],
       "update": false
     },
     {
-      "headline": "Official UAP statement reported (International)",
+      "headline": "Official UAP statement reported",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "rumble"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=DD4iB7rkmew"
+          "handle": "vibewire@mastodon.au",
+          "url": "https://mastodon.au/@vibewire/117043744550981570"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=DD4iB7rkmew"
-      ],
+      "videos": [],
       "update": false
     },
     {
-      "headline": "Official UAP statement reported (UFO)",
+      "headline": "UAP whistleblower testimony reported",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "rumble"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=vWtSrAiCJ78"
+          "handle": "ScienceBob",
+          "url": "https://mastodon.social/@ScienceBob/117046562705597356"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=vWtSrAiCJ78"
-      ],
+      "videos": [],
       "update": false
     }
   ]
