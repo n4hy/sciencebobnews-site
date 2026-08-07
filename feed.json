@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-08-07 06:20 UTC",
+  "generated_utc": "2026-08-07 06:30 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -50,7 +50,7 @@
       "update": false
     },
     {
-      "headline": "Official UAP statement reported (Early)",
+      "headline": "Official UAP statement reported (America)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
@@ -62,58 +62,20 @@
       "sources": [
         {
           "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=jkYp9peI3aI"
+          "url": "https://www.youtube.com/watch?v=twRHqZQca6c"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=jkYp9peI3aI"
+        "https://www.youtube.com/watch?v=twRHqZQca6c"
       ],
       "update": false
     },
     {
-      "headline": "UAP report",
+      "headline": "Official UAP statement reported (Missouri)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
-      "independent_sources": 1,
-      "platforms": [
-        "mastodon"
-      ],
-      "sources": [
-        {
-          "handle": "vibewire@mastodon.au",
-          "url": "https://mastodon.au/@vibewire/117041956581089818"
-        }
-      ],
-      "videos": [],
-      "update": false
-    },
-    {
-      "headline": "Official UAP statement reported",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 1,
-      "platforms": [
-        "mastodon"
-      ],
-      "sources": [
-        {
-          "handle": "vibewire@mastodon.au",
-          "url": "https://mastodon.au/@vibewire/117045312120286789"
-        }
-      ],
-      "videos": [],
-      "update": false
-    },
-    {
-      "headline": "UAP whistleblower testimony reported",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A1",
-      "p_credible": 0.99,
       "independent_sources": 1,
       "platforms": [
         "rumble"
@@ -121,11 +83,53 @@
       "sources": [
         {
           "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=7gRh5EYbNrQ"
+          "url": "https://www.youtube.com/watch?v=m5wlC58ZJ1U"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=7gRh5EYbNrQ"
+        "https://www.youtube.com/watch?v=m5wlC58ZJ1U"
+      ],
+      "update": false
+    },
+    {
+      "headline": "Official UAP statement reported (International)",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
+        "rumble"
+      ],
+      "sources": [
+        {
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=DD4iB7rkmew"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=DD4iB7rkmew"
+      ],
+      "update": false
+    },
+    {
+      "headline": "Official UAP statement reported (Psychology)",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
+        "rumble"
+      ],
+      "sources": [
+        {
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=mne_PUxB5T8"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=mne_PUxB5T8"
       ],
       "update": false
     }
