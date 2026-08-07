@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-08-07 03:20 UTC",
+  "generated_utc": "2026-08-07 03:30 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -50,6 +50,48 @@
       "update": false
     },
     {
+      "headline": "UAP whistleblower testimony reported (American)",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
+        "rumble"
+      ],
+      "sources": [
+        {
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=LPtMaGpuK-M"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=LPtMaGpuK-M"
+      ],
+      "update": false
+    },
+    {
+      "headline": "UAP report (Australia)",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
+        "rumble"
+      ],
+      "sources": [
+        {
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=ZegQhxJrJGo"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=ZegQhxJrJGo"
+      ],
+      "update": false
+    },
+    {
       "headline": "Official UAP statement reported (America)",
       "lane": "developing",
       "status": "DEVELOPING",
@@ -88,48 +130,6 @@
       ],
       "videos": [
         "https://www.youtube.com/watch?v=m5wlC58ZJ1U"
-      ],
-      "update": false
-    },
-    {
-      "headline": "Official UAP statement reported (International)",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 1,
-      "platforms": [
-        "rumble"
-      ],
-      "sources": [
-        {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=DD4iB7rkmew"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=DD4iB7rkmew"
-      ],
-      "update": false
-    },
-    {
-      "headline": "Official UAP statement reported (Psychology)",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 1,
-      "platforms": [
-        "rumble"
-      ],
-      "sources": [
-        {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=mne_PUxB5T8"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=mne_PUxB5T8"
       ],
       "update": false
     }
