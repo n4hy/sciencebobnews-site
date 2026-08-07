@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-08-07 02:10 UTC",
+  "generated_utc": "2026-08-07 02:20 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -29,27 +29,6 @@
       "update": false
     },
     {
-      "headline": "UAP report (Early)",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 1,
-      "platforms": [
-        "rumble"
-      ],
-      "sources": [
-        {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=IyTeV6kko5A"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=IyTeV6kko5A"
-      ],
-      "update": false
-    },
-    {
       "headline": "UAP report (McMinnville)",
       "lane": "developing",
       "status": "DEVELOPING",
@@ -71,7 +50,7 @@
       "update": false
     },
     {
-      "headline": "UAP whistleblower testimony reported (American)",
+      "headline": "Official UAP statement reported (UFO)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
@@ -83,37 +62,54 @@
       "sources": [
         {
           "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=LPtMaGpuK-M"
+          "url": "https://www.youtube.com/watch?v=YiNznVZ5ciY"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=LPtMaGpuK-M"
+        "https://www.youtube.com/watch?v=YiNznVZ5ciY"
       ],
       "update": false
     },
     {
-      "headline": "UAP report (Australia)",
+      "headline": "UAP report",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "rumble"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=ZegQhxJrJGo"
+          "handle": "vibewire@mastodon.au",
+          "url": "https://mastodon.au/@vibewire/117041956581089818"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=ZegQhxJrJGo"
-      ],
+      "videos": [],
       "update": false
     },
     {
-      "headline": "Official UAP statement reported (America)",
+      "headline": "Official UAP statement reported",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
+        "mastodon"
+      ],
+      "sources": [
+        {
+          "handle": "vibewire@mastodon.au",
+          "url": "https://mastodon.au/@vibewire/117045312120286789"
+        }
+      ],
+      "videos": [],
+      "update": false
+    },
+    {
+      "headline": "UAP whistleblower testimony reported",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
@@ -125,11 +121,12 @@
       "sources": [
         {
           "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=twRHqZQca6c"
+          "url": "https://www.youtube.com/watch?v=vVQgkLAAflo"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=twRHqZQca6c"
+        "https://www.youtube.com/watch?v=vVQgkLAAflo",
+        "https://youtu.be/K4gYHs84BIc?si=NhbY7NV4-sCYMNb_"
       ],
       "update": false
     }
