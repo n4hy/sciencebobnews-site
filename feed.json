@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-08-08 06:20 UTC",
+  "generated_utc": "2026-08-08 06:30 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -23,29 +23,6 @@
         {
           "handle": "theyycmonk@mstdn.ca",
           "url": "https://mstdn.ca/@theyycmonk/117057502795618442"
-        }
-      ],
-      "videos": [],
-      "update": false
-    },
-    {
-      "headline": "UAP report (Europe)",
-      "lane": "corroborated",
-      "status": "CORROBORATED",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 2,
-      "platforms": [
-        "mastodon"
-      ],
-      "sources": [
-        {
-          "handle": "n_dimension@infosec.exchange",
-          "url": "https://infosec.exchange/@n_dimension/117039426780147868"
-        },
-        {
-          "handle": "licho@kolektiva.social",
-          "url": "https://kolektiva.social/@licho/117050791639929326"
         }
       ],
       "videos": [],
