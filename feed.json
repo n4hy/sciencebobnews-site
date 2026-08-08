@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-08-08 06:10 UTC",
+  "generated_utc": "2026-08-08 06:20 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -78,27 +78,6 @@
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "rumble"
-      ],
-      "sources": [
-        {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=VM8ZX9-ruUM"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=VM8ZX9-ruUM"
-      ],
-      "update": false
-    },
-    {
-      "headline": "Official UAP statement reported",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 1,
-      "platforms": [
         "mastodon"
       ],
       "sources": [
@@ -143,6 +122,25 @@
         {
           "handle": "ScienceBob",
           "url": "https://mastodon.social/@ScienceBob/117058359140672280"
+        }
+      ],
+      "videos": [],
+      "update": false
+    },
+    {
+      "headline": "UAP report",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
+        "mastodon"
+      ],
+      "sources": [
+        {
+          "handle": "MDT@mast.lat",
+          "url": "https://mast.lat/@MDT/117045127943752681"
         }
       ],
       "videos": [],

@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-08-08 06:10 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-08-08 06:20 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
@@ -21,20 +21,19 @@
 
 ![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
 2. Official UAP statement reported — reliability A1 · 1 source(s)  
-   [@podcast](https://www.youtube.com/watch?v=VM8ZX9-ruUM)  
-   📹 [video](https://www.youtube.com/watch?v=VM8ZX9-ruUM)
+   [@in.mashable.com@web.brid.gy](https://fed.brid.gy/r/https://in.mashable.com/science/112639/ufo-disclosure-2026-fifth-batch-of-41-classified-files-released-heres-how-to-access)
 
 ![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
 3. Official UAP statement reported — reliability A1 · 1 source(s)  
-   [@in.mashable.com@web.brid.gy](https://fed.brid.gy/r/https://in.mashable.com/science/112639/ufo-disclosure-2026-fifth-batch-of-41-classified-files-released-heres-how-to-access)
-
-![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-4. Official UAP statement reported — reliability A1 · 1 source(s)  
    [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117056048673409167)
 
-![UAP whistleblower testimony reported](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. UAP whistleblower testimony reported — reliability A1 · 1 source(s)  
+![UAP whistleblower testimony reported](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
+4. UAP whistleblower testimony reported — reliability A1 · 1 source(s)  
    [@ScienceBob](https://mastodon.social/@ScienceBob/117058359140672280)
+
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+5. UAP report — reliability A1 · 1 source(s)  
+   [@MDT@mast.lat](https://mast.lat/@MDT/117045127943752681)
 
 ---
 *Powered by Science Bob News. Free to use with credit (see LICENSE). Headlines are factual restatements in the engine's own words — click through to the linked sources for originals. Reposts of a single origin are collapsed to one source; candidate prosaic explanations are flagged where offered.*
