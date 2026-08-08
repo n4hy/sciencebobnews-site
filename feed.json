@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-08-08 08:20 UTC",
+  "generated_utc": "2026-08-08 08:30 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -48,87 +48,79 @@
       "update": false
     },
     {
-      "headline": "UAP report (Early)",
+      "headline": "Official UAP statement reported",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "rumble"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=IyTeV6kko5A"
+          "handle": "in.mashable.com@web.brid.gy",
+          "url": "https://fed.brid.gy/r/https://in.mashable.com/science/112639/ufo-disclosure-2026-fifth-batch-of-41-classified-files-released-heres-how-to-access"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=IyTeV6kko5A"
-      ],
+      "videos": [],
       "update": false
     },
     {
-      "headline": "UAP report (McMinnville)",
+      "headline": "Official UAP statement reported",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "rumble"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=7OT6uJ0yzVY"
+          "handle": "vibewire@mastodon.au",
+          "url": "https://mastodon.au/@vibewire/117056048673409167"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=7OT6uJ0yzVY"
-      ],
+      "videos": [],
       "update": false
     },
     {
-      "headline": "UAP whistleblower testimony reported (American)",
+      "headline": "UAP whistleblower testimony reported",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "rumble"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=LPtMaGpuK-M"
+          "handle": "ScienceBob",
+          "url": "https://mastodon.social/@ScienceBob/117058870331823397"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=LPtMaGpuK-M"
-      ],
+      "videos": [],
       "update": false
     },
     {
-      "headline": "UAP report (Australia)",
+      "headline": "UAP report",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "rumble"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=ZegQhxJrJGo"
+          "handle": "MDT@mast.lat",
+          "url": "https://mast.lat/@MDT/117045127943752681"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=ZegQhxJrJGo"
-      ],
+      "videos": [],
       "update": false
     }
   ]
