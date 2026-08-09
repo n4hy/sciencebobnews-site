@@ -2,9 +2,35 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-08-09 11:30 UTC",
+  "generated_utc": "2026-08-09 11:40 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
+    {
+      "headline": "UAP report (Australia)",
+      "lane": "corroborated",
+      "status": "CORROBORATED",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 2,
+      "platforms": [
+        "bluesky",
+        "rumble"
+      ],
+      "sources": [
+        {
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=ZegQhxJrJGo"
+        },
+        {
+          "handle": "did:plc:xvo7gsaojuuuxc6rlw374pls",
+          "url": "https://bsky.app/profile/did:plc:xvo7gsaojuuuxc6rlw374pls/post/3msnitg35aa26"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=ZegQhxJrJGo"
+      ],
+      "update": false
+    },
     {
       "headline": "UAP report",
       "lane": "corroborated",
@@ -96,27 +122,6 @@
       "update": false
     },
     {
-      "headline": "UAP report (Australia)",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 1,
-      "platforms": [
-        "rumble"
-      ],
-      "sources": [
-        {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=ZegQhxJrJGo"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=ZegQhxJrJGo"
-      ],
-      "update": false
-    },
-    {
       "headline": "Official UAP statement reported (America)",
       "lane": "developing",
       "status": "DEVELOPING",
@@ -134,6 +139,27 @@
       ],
       "videos": [
         "https://www.youtube.com/watch?v=twRHqZQca6c"
+      ],
+      "update": false
+    },
+    {
+      "headline": "Official UAP statement reported (Missouri)",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
+        "rumble"
+      ],
+      "sources": [
+        {
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=m5wlC58ZJ1U"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=m5wlC58ZJ1U"
       ],
       "update": false
     }
