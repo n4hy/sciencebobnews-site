@@ -2,9 +2,35 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-08-10 05:40 UTC",
+  "generated_utc": "2026-08-10 05:50 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
+    {
+      "headline": "UAP report (Black)",
+      "lane": "corroborated",
+      "status": "CORROBORATED",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 2,
+      "platforms": [
+        "bluesky",
+        "rumble"
+      ],
+      "sources": [
+        {
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=37e6pLw0L2I"
+        },
+        {
+          "handle": "did:plc:6gnllxrceoj7na4rmw6owhpv",
+          "url": "https://bsky.app/profile/did:plc:6gnllxrceoj7na4rmw6owhpv/post/3mspfqixbyk2g"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=37e6pLw0L2I"
+      ],
+      "update": false
+    },
     {
       "headline": "UAP report",
       "lane": "developing",
