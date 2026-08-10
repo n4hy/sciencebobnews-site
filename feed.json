@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-08-10 06:50 UTC",
+  "generated_utc": "2026-08-10 07:00 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -31,7 +31,7 @@
       "update": false
     },
     {
-      "headline": "UAP report (Australia)",
+      "headline": "UAP report (Early)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
@@ -43,16 +43,16 @@
       "sources": [
         {
           "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=ZegQhxJrJGo"
+          "url": "https://www.youtube.com/watch?v=IyTeV6kko5A"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=ZegQhxJrJGo"
+        "https://www.youtube.com/watch?v=IyTeV6kko5A"
       ],
       "update": false
     },
     {
-      "headline": "Official UAP statement reported (Technology)",
+      "headline": "UAP report (McMinnville)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
@@ -64,16 +64,16 @@
       "sources": [
         {
           "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=A7t5jd2FDJ4"
+          "url": "https://www.youtube.com/watch?v=7OT6uJ0yzVY"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=A7t5jd2FDJ4"
+        "https://www.youtube.com/watch?v=7OT6uJ0yzVY"
       ],
       "update": false
     },
     {
-      "headline": "Official UAP statement reported (Simon)",
+      "headline": "Official UAP statement reported (International)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
@@ -85,16 +85,16 @@
       "sources": [
         {
           "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=5CEjriSzF1g"
+          "url": "https://www.youtube.com/watch?v=DD4iB7rkmew"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=5CEjriSzF1g"
+        "https://www.youtube.com/watch?v=DD4iB7rkmew"
       ],
       "update": false
     },
     {
-      "headline": "Official UAP statement reported (UFO)",
+      "headline": "Official UAP statement reported (Psychology)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
@@ -106,11 +106,11 @@
       "sources": [
         {
           "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=tgMYNlVpH0c"
+          "url": "https://www.youtube.com/watch?v=mne_PUxB5T8"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=tgMYNlVpH0c"
+        "https://www.youtube.com/watch?v=mne_PUxB5T8"
       ],
       "update": false
     }
