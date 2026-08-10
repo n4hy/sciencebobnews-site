@@ -1,31 +1,11 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-08-10 06:30 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-08-10 06:40 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 _No corroborated reports this cycle._
 
 ## Developing / unconfirmed
-
-![UAP report (Arizona)](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
-1. UAP report (Arizona) — reliability A1 · 2 source(s)  
-   [@kdraven@mysterioustimes.co.uk](https://mysterioustimes.co.uk/2026/08/09/the-travis-walton-hoax/) · [@raurquiz@c.im](https://c.im/@raurquiz/117066708910947794)  
-   📹 [video](https://youtu.be/Bbm9le8oM64?si=u3GVy-fDW4rZMqYw)
-
-![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
-2. Official UAP statement reported — reliability A1 · 1 source(s)  
-   [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117065904264220950)
-
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
-3. UAP report — reliability A1 · 1 source(s)  
-   [@researchbuzz_firehose@rbfirehose.com](https://rbfirehose.com/2026/08/08/us-government-department-of-war-publishes-fifth-release-of-unidentified-anomalous-phenomena-files-on-war-gov-ufo/)
-
-![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-4. Official UAP statement reported — reliability A1 · 1 source(s)  
-   [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117067469358174450)
-
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. UAP report — reliability A1 · 1 source(s)  
-   [@theyycmonk@mstdn.ca](https://mstdn.ca/@theyycmonk/117057502795618442)
+_None._
 
 ---
 *Powered by Science Bob News. Free to use with credit (see LICENSE). Headlines are factual restatements in the engine's own words — click through to the linked sources for originals. Reposts of a single origin are collapsed to one source; candidate prosaic explanations are flagged where offered.*
