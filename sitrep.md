@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-08-11 06:50 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-08-11 07:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 _No corroborated reports this cycle._
@@ -15,17 +15,20 @@ _No corroborated reports this cycle._
 2. UAP report — reliability A1 · 1 source(s)  
    [@nyteknik@friendica.helvetet.eu](https://friendica.helvetet.eu/display/a7e70941-ada94dce-7a7a6cb70eceee45)
 
-![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
-3. Official UAP statement reported — reliability A1 · 1 source(s)  
-   [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117065904264220950)
+![UAP report (Australia)](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
+3. UAP report (Australia) — reliability A1 · 1 source(s)  
+   [@podcast](https://www.youtube.com/watch?v=ZegQhxJrJGo)  
+   📹 [video](https://www.youtube.com/watch?v=ZegQhxJrJGo)
 
-![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-4. Official UAP statement reported — reliability A1 · 1 source(s)  
-   [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117071270801739903)
+![Official UAP statement reported (International)](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
+4. Official UAP statement reported (International) — reliability A1 · 1 source(s)  
+   [@podcast](https://www.youtube.com/watch?v=DD4iB7rkmew)  
+   📹 [video](https://www.youtube.com/watch?v=DD4iB7rkmew)
 
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. UAP report — reliability A1 · 1 source(s)  
-   [@top_news](https://mastodon.social/@top_news/117061418590008764)
+![Official UAP statement reported (Psychology)](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+5. Official UAP statement reported (Psychology) — reliability A1 · 1 source(s)  
+   [@podcast](https://www.youtube.com/watch?v=mne_PUxB5T8)  
+   📹 [video](https://www.youtube.com/watch?v=mne_PUxB5T8)
 
 ---
 *Powered by Science Bob News. Free to use with credit (see LICENSE). Headlines are factual restatements in the engine's own words — click through to the linked sources for originals. Reposts of a single origin are collapsed to one source; candidate prosaic explanations are flagged where offered.*
