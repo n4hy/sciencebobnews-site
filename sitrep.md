@@ -1,17 +1,17 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-08-12 08:20 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-08-12 08:30 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
-![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
-1. **Official UAP statement reported**  
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
+1. **UAP report**  
    reliability **A1** · P(credible)=1.0 · 2 independent source(s) · mastodon  
-   [@Selfie@pixelfed.social](https://pixelfed.social/p/Selfie/992908451493285227) · [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117077754007283605)
+   [@alcornews.bsky.social@bsky.brid.gy](https://fed.brid.gy/r/https://bsky.app/profile/did:plc:3l5f3rhsngpxljnskia73bj7/post/3msuoqvvxbk2e) · [@AlcorNews](https://mastodon.social/@AlcorNews/117081535916346067)
 
 ![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_2.svg)
 2. **UAP report**  
    reliability **A1** · P(credible)=1.0 · 2 independent source(s) · mastodon  
-   [@alcornews.bsky.social@bsky.brid.gy](https://fed.brid.gy/r/https://bsky.app/profile/did:plc:3l5f3rhsngpxljnskia73bj7/post/3msuoqvvxbk2e) · [@AlcorNews](https://mastodon.social/@AlcorNews/117081535916346067)
+   [@zougla](https://mastodon.social/@zougla/117081569875613819) · [@Selfie@pixelfed.social](https://pixelfed.social/p/Selfie/992908451493285227)
 
 ## Developing / unconfirmed
 
