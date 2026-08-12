@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-08-12 19:40 UTC",
+  "generated_utc": "2026-08-12 19:50 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -52,25 +52,6 @@
       "update": false
     },
     {
-      "headline": "Official UAP statement reported (That)",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 1,
-      "platforms": [
-        "mastodon"
-      ],
-      "sources": [
-        {
-          "handle": "vibewire@mastodon.au",
-          "url": "https://mastodon.au/@vibewire/117083582283894370"
-        }
-      ],
-      "videos": [],
-      "update": false
-    },
-    {
       "headline": "Official UAP statement reported (Base)",
       "lane": "developing",
       "status": "DEVELOPING",
@@ -84,25 +65,6 @@
         {
           "handle": "vibewire@mastodon.au",
           "url": "https://mastodon.au/@vibewire/117083582206844137"
-        }
-      ],
-      "videos": [],
-      "update": false
-    },
-    {
-      "headline": "UAP report",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 1,
-      "platforms": [
-        "mastodon"
-      ],
-      "sources": [
-        {
-          "handle": "nyteknik@friendica.helvetet.eu",
-          "url": "https://friendica.helvetet.eu/display/a7e70941-ada94dce-7a7a6cb70eceee45"
         }
       ],
       "videos": [],
@@ -147,6 +109,48 @@
       ],
       "videos": [
         "https://www.youtube.com/watch?v=7OT6uJ0yzVY"
+      ],
+      "update": false
+    },
+    {
+      "headline": "UAP report (Australia)",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
+        "rumble"
+      ],
+      "sources": [
+        {
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=ZegQhxJrJGo"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=ZegQhxJrJGo"
+      ],
+      "update": false
+    },
+    {
+      "headline": "Official UAP statement reported (International)",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
+        "rumble"
+      ],
+      "sources": [
+        {
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=DD4iB7rkmew"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=DD4iB7rkmew"
       ],
       "update": false
     }
