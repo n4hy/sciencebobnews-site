@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-08-13 21:40 UTC",
+  "generated_utc": "2026-08-13 21:50 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -29,98 +29,131 @@
       "update": false
     },
     {
-      "headline": "Official UAP statement reported (That)",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 1,
-      "platforms": [
-        "mastodon"
-      ],
-      "sources": [
-        {
-          "handle": "vibewire@mastodon.au",
-          "url": "https://mastodon.au/@vibewire/117090074549881678"
-        }
-      ],
-      "videos": [],
-      "update": false
-    },
-    {
       "headline": "UAP report",
-      "lane": "developing",
-      "status": "DEVELOPING",
+      "lane": "corroborated",
+      "status": "CORROBORATED",
       "reliability": "A1",
       "p_credible": 1.0,
-      "independent_sources": 1,
+      "independent_sources": 2,
       "platforms": [
         "mastodon"
       ],
       "sources": [
         {
-          "handle": "vibewire@mastodon.au",
-          "url": "https://mastodon.au/@vibewire/117087164265990637"
+          "handle": "KilleansRow@mastodon.online",
+          "url": "https://mastodon.online/@KilleansRow/117086761570315232"
+        },
+        {
+          "handle": "photronicarts@mastodon.linkerror.com",
+          "url": "https://mastodon.linkerror.com/@photronicarts/117085058232230276"
         }
       ],
       "videos": [],
       "update": false
     },
     {
-      "headline": "Official UAP statement reported",
+      "headline": "UAP report (Early)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "rumble"
       ],
       "sources": [
         {
-          "handle": "vibewire@mastodon.au",
-          "url": "https://mastodon.au/@vibewire/117089625413156296"
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=IyTeV6kko5A"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=IyTeV6kko5A"
+      ],
       "update": false
     },
     {
-      "headline": "Unidentified submerged object (USO) reported",
+      "headline": "UAP report (McMinnville)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "rumble"
       ],
       "sources": [
         {
-          "handle": "ScienceBob",
-          "url": "https://mastodon.social/@ScienceBob/117090209640449907"
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=7OT6uJ0yzVY"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=7OT6uJ0yzVY"
+      ],
       "update": false
     },
     {
-      "headline": "UAP report (Star)",
+      "headline": "UAP report (Australia)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "rumble"
       ],
       "sources": [
         {
-          "handle": "bobcromwell@dobbs.town",
-          "url": "https://dobbs.town/@bobcromwell/117088326891817316"
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=ZegQhxJrJGo"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=ZegQhxJrJGo"
+      ],
+      "update": false
+    },
+    {
+      "headline": "Official UAP statement reported (International)",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
+        "rumble"
+      ],
+      "sources": [
+        {
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=DD4iB7rkmew"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=DD4iB7rkmew"
+      ],
+      "update": false
+    },
+    {
+      "headline": "Official UAP statement reported (Psychology)",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
+        "rumble"
+      ],
+      "sources": [
+        {
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=mne_PUxB5T8"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=mne_PUxB5T8"
+      ],
       "update": false
     }
   ]
