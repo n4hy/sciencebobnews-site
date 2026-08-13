@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-08-13 06:20 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-08-13 06:30 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
@@ -12,6 +12,11 @@
 2. **UAP report**  
    reliability **A1** · P(credible)=1.0 · 2 independent source(s) · mastodon  
    [@zougla](https://mastodon.social/@zougla/117081569875613819) · [@Selfie@pixelfed.social](https://pixelfed.social/p/Selfie/992908451493285227)
+
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_3.svg)
+3. **UAP report**  
+   reliability **A1** · P(credible)=1.0 · 2 independent source(s) · mastodon  
+   [@KilleansRow@mastodon.online](https://mastodon.online/@KilleansRow/117086761570315232) · [@photronicarts@mastodon.linkerror.com](https://mastodon.linkerror.com/@photronicarts/117085058232230276)
 
 ## Developing / unconfirmed
 
