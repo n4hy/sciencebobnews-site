@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-08-13 03:30 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-08-13 03:40 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
@@ -23,20 +23,17 @@
 2. Official UAP statement reported (Base) — reliability A1 · 1 source(s)  
    [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117083582206844137)
 
-![Official UAP statement reported (International)](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
-3. Official UAP statement reported (International) — reliability A1 · 1 source(s)  
-   [@podcast](https://www.youtube.com/watch?v=DD4iB7rkmew)  
-   📹 [video](https://www.youtube.com/watch?v=DD4iB7rkmew)
+![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
+3. Official UAP statement reported — reliability A1 · 1 source(s)  
+   [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117077529411784208)
 
-![Official UAP statement reported (Psychology)](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-4. Official UAP statement reported (Psychology) — reliability A1 · 1 source(s)  
-   [@podcast](https://www.youtube.com/watch?v=mne_PUxB5T8)  
-   📹 [video](https://www.youtube.com/watch?v=mne_PUxB5T8)
+![Unidentified submerged object (USO) reported](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
+4. Unidentified submerged object (USO) reported — reliability A1 · 1 source(s)  
+   [@palatsirecords@mastodon.art](https://mastodon.art/@palatsirecords/117078522328631204)
 
-![Official UAP statement reported (UFO)](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. Official UAP statement reported (UFO) — reliability A1 · 1 source(s)  
-   [@podcast](https://www.youtube.com/watch?v=vWtSrAiCJ78)  
-   📹 [video](https://www.youtube.com/watch?v=vWtSrAiCJ78)
+![Unidentified submerged object (USO) reported](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+5. Unidentified submerged object (USO) reported — reliability A1 · 1 source(s)  
+   [@ScienceBob](https://mastodon.social/@ScienceBob/117085884266483764)
 
 ---
 *Powered by Science Bob News. Free to use with credit (see LICENSE). Headlines are factual restatements in the engine's own words — click through to the linked sources for originals. Reposts of a single origin are collapsed to one source; candidate prosaic explanations are flagged where offered.*
