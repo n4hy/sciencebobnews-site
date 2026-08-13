@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-08-13 05:10 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-08-13 05:20 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
@@ -33,7 +33,7 @@
 
 ![Unidentified submerged object (USO) reported](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
 5. Unidentified submerged object (USO) reported — reliability A1 · 1 source(s)  
-   [@ScienceBob](https://mastodon.social/@ScienceBob/117085884266483764)
+   [@did:plc:mwdluszvbklhfiwcbwwc7ses](https://bsky.app/profile/did:plc:mwdluszvbklhfiwcbwwc7ses/post/3msw7nnaail25)
 
 ---
 *Powered by Science Bob News. Free to use with credit (see LICENSE). Headlines are factual restatements in the engine's own words — click through to the linked sources for originals. Reposts of a single origin are collapsed to one source; candidate prosaic explanations are flagged where offered.*
