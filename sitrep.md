@@ -1,20 +1,10 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-08-13 22:10 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-08-13 22:20 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
 ![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
 1. **UAP report**  
-   reliability **A1** · P(credible)=1.0 · 2 independent source(s) · mastodon  
-   [@alcornews.bsky.social@bsky.brid.gy](https://fed.brid.gy/r/https://bsky.app/profile/did:plc:3l5f3rhsngpxljnskia73bj7/post/3msuoqvvxbk2e) · [@AlcorNews](https://mastodon.social/@AlcorNews/117081535916346067)
-
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_2.svg)
-2. **UAP report**  
-   reliability **A1** · P(credible)=1.0 · 2 independent source(s) · bluesky+mastodon  
-   [@zougla](https://mastodon.social/@zougla/117081569875613819) · [@did:plc:ldky5kimhwxdnmsdpvc2odly](https://bsky.app/profile/did:plc:ldky5kimhwxdnmsdpvc2odly/post/3msy2e3nbah2u)
-
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_3.svg)
-3. **UAP report**  
    reliability **A1** · P(credible)=1.0 · 2 independent source(s) · mastodon  
    [@KilleansRow@mastodon.online](https://mastodon.online/@KilleansRow/117086761570315232) · [@photronicarts@mastodon.linkerror.com](https://mastodon.linkerror.com/@photronicarts/117085058232230276)
 
