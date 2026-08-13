@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-08-13 18:30 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-08-13 18:40 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
@@ -11,18 +11,13 @@
 ![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_2.svg)
 2. **UAP report**  
    reliability **A1** · P(credible)=1.0 · 2 independent source(s) · mastodon  
-   [@zougla](https://mastodon.social/@zougla/117081569875613819) · [@Selfie@pixelfed.social](https://pixelfed.social/p/Selfie/992908451493285227)
-
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_3.svg)
-3. **UAP report**  
-   reliability **A1** · P(credible)=1.0 · 2 independent source(s) · mastodon  
    [@KilleansRow@mastodon.online](https://mastodon.online/@KilleansRow/117086761570315232) · [@photronicarts@mastodon.linkerror.com](https://mastodon.linkerror.com/@photronicarts/117085058232230276)
 
 ## Developing / unconfirmed
 
 ![Official UAP statement reported (That)](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
 1. Official UAP statement reported (That) — reliability A1 · 1 source(s)  
-   [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117088950805095666)
+   [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117083582283894370)
 
 ![UAP report (Early)](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
 2. UAP report (Early) — reliability A1 · 1 source(s)  
