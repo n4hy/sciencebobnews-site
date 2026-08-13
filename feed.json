@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-08-13 05:20 UTC",
+  "generated_utc": "2026-08-13 05:30 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -135,12 +135,12 @@
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "bluesky"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "did:plc:mwdluszvbklhfiwcbwwc7ses",
-          "url": "https://bsky.app/profile/did:plc:mwdluszvbklhfiwcbwwc7ses/post/3msw7nnaail25"
+          "handle": "ScienceBob",
+          "url": "https://mastodon.social/@ScienceBob/117085884266483764"
         }
       ],
       "videos": [],
