@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-08-13 02:10 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-08-13 02:20 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
@@ -8,14 +8,8 @@
    reliability **A1** · P(credible)=1.0 · 2 independent source(s) · mastodon  
    [@alcornews.bsky.social@bsky.brid.gy](https://fed.brid.gy/r/https://bsky.app/profile/did:plc:3l5f3rhsngpxljnskia73bj7/post/3msuoqvvxbk2e) · [@AlcorNews](https://mastodon.social/@AlcorNews/117081535916346067)
 
-![UAP report (Black)](https://n4hy.github.io/sciencebobnews-site/card_c_2.svg)
-2. **UAP report (Black)**  
-   reliability **A1** · P(credible)=1.0 · 2 independent source(s) · bluesky+rumble  
-   [@podcast](https://www.youtube.com/watch?v=37e6pLw0L2I) · [@did:plc:ou4ifxiw2xtmxw5ujbscwzwu](https://bsky.app/profile/did:plc:ou4ifxiw2xtmxw5ujbscwzwu/post/3msvx4mfd4i2q)  
-   📹 [video](https://www.youtube.com/watch?v=37e6pLw0L2I)
-
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_3.svg)
-3. **UAP report**  
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_2.svg)
+2. **UAP report**  
    reliability **A1** · P(credible)=1.0 · 2 independent source(s) · mastodon  
    [@zougla](https://mastodon.social/@zougla/117081569875613819) · [@Selfie@pixelfed.social](https://pixelfed.social/p/Selfie/992908451493285227)
 
