@@ -1,26 +1,20 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-08-13 07:30 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-08-13 07:40 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
-![UAP report (Australia)](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
-1. **UAP report (Australia)**  
-   reliability **A1** · P(credible)=1.0 · 2 independent source(s) · bluesky+rumble  
-   [@podcast](https://www.youtube.com/watch?v=ZegQhxJrJGo) · [@did:plc:7gq7zs6pdouydctir4pfn3df](https://bsky.app/profile/did:plc:7gq7zs6pdouydctir4pfn3df/post/3mswgiozzik23)  
-   📹 [video](https://www.youtube.com/watch?v=ZegQhxJrJGo)
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
+1. **UAP report**  
+   reliability **A1** · P(credible)=1.0 · 2 independent source(s) · mastodon  
+   [@alcornews.bsky.social@bsky.brid.gy](https://fed.brid.gy/r/https://bsky.app/profile/did:plc:3l5f3rhsngpxljnskia73bj7/post/3msuoqvvxbk2e) · [@AlcorNews](https://mastodon.social/@AlcorNews/117081535916346067)
 
 ![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_2.svg)
 2. **UAP report**  
    reliability **A1** · P(credible)=1.0 · 2 independent source(s) · mastodon  
-   [@alcornews.bsky.social@bsky.brid.gy](https://fed.brid.gy/r/https://bsky.app/profile/did:plc:3l5f3rhsngpxljnskia73bj7/post/3msuoqvvxbk2e) · [@AlcorNews](https://mastodon.social/@AlcorNews/117081535916346067)
+   [@zougla](https://mastodon.social/@zougla/117081569875613819) · [@Selfie@pixelfed.social](https://pixelfed.social/p/Selfie/992908451493285227)
 
 ![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_3.svg)
 3. **UAP report**  
-   reliability **A1** · P(credible)=1.0 · 2 independent source(s) · mastodon  
-   [@zougla](https://mastodon.social/@zougla/117081569875613819) · [@Selfie@pixelfed.social](https://pixelfed.social/p/Selfie/992908451493285227)
-
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_4.svg)
-4. **UAP report**  
    reliability **A1** · P(credible)=1.0 · 2 independent source(s) · mastodon  
    [@KilleansRow@mastodon.online](https://mastodon.online/@KilleansRow/117086761570315232) · [@photronicarts@mastodon.linkerror.com](https://mastodon.linkerror.com/@photronicarts/117085058232230276)
 
@@ -44,10 +38,10 @@
    [@podcast](https://www.youtube.com/watch?v=7OT6uJ0yzVY)  
    📹 [video](https://www.youtube.com/watch?v=7OT6uJ0yzVY)
 
-![Official UAP statement reported (International)](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. Official UAP statement reported (International) — reliability A1 · 1 source(s)  
-   [@podcast](https://www.youtube.com/watch?v=DD4iB7rkmew)  
-   📹 [video](https://www.youtube.com/watch?v=DD4iB7rkmew)
+![UAP report (Australia)](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+5. UAP report (Australia) — reliability A1 · 1 source(s)  
+   [@podcast](https://www.youtube.com/watch?v=ZegQhxJrJGo)  
+   📹 [video](https://www.youtube.com/watch?v=ZegQhxJrJGo)
 
 ---
 *Powered by Science Bob News. Free to use with credit (see LICENSE). Headlines are factual restatements in the engine's own words — click through to the linked sources for originals. Reposts of a single origin are collapsed to one source; candidate prosaic explanations are flagged where offered.*
