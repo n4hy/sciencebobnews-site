@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-08-14 04:40 UTC",
+  "generated_utc": "2026-08-14 04:50 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -29,7 +29,7 @@
       "update": false
     },
     {
-      "headline": "Official UAP statement reported (International)",
+      "headline": "UAP report (Australia)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
@@ -41,16 +41,16 @@
       "sources": [
         {
           "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=DD4iB7rkmew"
+          "url": "https://www.youtube.com/watch?v=ZegQhxJrJGo"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=DD4iB7rkmew"
+        "https://www.youtube.com/watch?v=ZegQhxJrJGo"
       ],
       "update": false
     },
     {
-      "headline": "Official UAP statement reported (Psychology)",
+      "headline": "Official UAP statement reported (Technology)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
@@ -62,11 +62,32 @@
       "sources": [
         {
           "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=mne_PUxB5T8"
+          "url": "https://www.youtube.com/watch?v=A7t5jd2FDJ4"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=mne_PUxB5T8"
+        "https://www.youtube.com/watch?v=A7t5jd2FDJ4"
+      ],
+      "update": false
+    },
+    {
+      "headline": "Official UAP statement reported (Simon)",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A1",
+      "p_credible": 1.0,
+      "independent_sources": 1,
+      "platforms": [
+        "rumble"
+      ],
+      "sources": [
+        {
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=5CEjriSzF1g"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=5CEjriSzF1g"
       ],
       "update": false
     },
@@ -83,54 +104,31 @@
       "sources": [
         {
           "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=vWtSrAiCJ78"
+          "url": "https://www.youtube.com/watch?v=tgMYNlVpH0c"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=vWtSrAiCJ78"
+        "https://www.youtube.com/watch?v=tgMYNlVpH0c"
       ],
       "update": false
     },
     {
-      "headline": "Official UAP statement reported (America)",
+      "headline": "Official UAP statement reported (That)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "rumble"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=lS9jyOx1j5U"
+          "handle": "vibewire@mastodon.au",
+          "url": "https://mastodon.au/@vibewire/117090074549881678"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=lS9jyOx1j5U"
-      ],
-      "update": false
-    },
-    {
-      "headline": "Official UAP statement reported (Creative)",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A1",
-      "p_credible": 1.0,
-      "independent_sources": 1,
-      "platforms": [
-        "rumble"
-      ],
-      "sources": [
-        {
-          "handle": "podcast",
-          "url": "https://www.youtube.com/watch?v=R4PWuiYVG20"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=R4PWuiYVG20"
-      ],
+      "videos": [],
       "update": false
     }
   ]
