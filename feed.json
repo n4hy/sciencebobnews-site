@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-08-14 11:40 UTC",
+  "generated_utc": "2026-08-14 11:50 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial.",
   "stories": [
     {
@@ -29,98 +29,108 @@
       "update": false
     },
     {
-      "headline": "Official UAP statement reported (That)",
+      "headline": "UAP report (Early)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "rumble"
       ],
       "sources": [
         {
-          "handle": "vibewire@mastodon.au",
-          "url": "https://mastodon.au/@vibewire/117090074549881678"
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=IyTeV6kko5A"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=IyTeV6kko5A"
+      ],
       "update": false
     },
     {
-      "headline": "UAP report",
+      "headline": "UAP report (McMinnville)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "rumble"
       ],
       "sources": [
         {
-          "handle": "vibewire@mastodon.au",
-          "url": "https://mastodon.au/@vibewire/117087164265990637"
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=7OT6uJ0yzVY"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=7OT6uJ0yzVY"
+      ],
       "update": false
     },
     {
-      "headline": "Official UAP statement reported",
+      "headline": "UAP report (Australia)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "rumble"
       ],
       "sources": [
         {
-          "handle": "vibewire@mastodon.au",
-          "url": "https://mastodon.au/@vibewire/117089625413156296"
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=ZegQhxJrJGo"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=ZegQhxJrJGo"
+      ],
       "update": false
     },
     {
-      "headline": "Unidentified submerged object (USO) reported",
+      "headline": "Official UAP statement reported (Early)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "rumble"
       ],
       "sources": [
         {
-          "handle": "ScienceBob",
-          "url": "https://mastodon.social/@ScienceBob/117093512708820013"
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=jkYp9peI3aI"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=jkYp9peI3aI"
+      ],
       "update": false
     },
     {
-      "headline": "UAP report (Star)",
+      "headline": "Official UAP statement reported (UFO)",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A1",
       "p_credible": 1.0,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "rumble"
       ],
       "sources": [
         {
-          "handle": "bobcromwell@dobbs.town",
-          "url": "https://dobbs.town/@bobcromwell/117088326891817316"
+          "handle": "podcast",
+          "url": "https://www.youtube.com/watch?v=YiNznVZ5ciY"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=YiNznVZ5ciY"
+      ],
       "update": false
     }
   ]
