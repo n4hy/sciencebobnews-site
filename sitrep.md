@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-08-14 11:30 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-08-14 11:40 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
@@ -10,30 +10,25 @@
 
 ## Developing / unconfirmed
 
-![UAP report (Early)](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
-1. UAP report (Early) — reliability A1 · 1 source(s)  
-   [@podcast](https://www.youtube.com/watch?v=IyTeV6kko5A)  
-   📹 [video](https://www.youtube.com/watch?v=IyTeV6kko5A)
+![Official UAP statement reported (That)](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
+1. Official UAP statement reported (That) — reliability A1 · 1 source(s)  
+   [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117090074549881678)
 
-![UAP report (McMinnville)](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
-2. UAP report (McMinnville) — reliability A1 · 1 source(s)  
-   [@podcast](https://www.youtube.com/watch?v=7OT6uJ0yzVY)  
-   📹 [video](https://www.youtube.com/watch?v=7OT6uJ0yzVY)
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
+2. UAP report — reliability A1 · 1 source(s)  
+   [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117087164265990637)
 
-![UAP report (Australia)](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
-3. UAP report (Australia) — reliability A1 · 1 source(s)  
-   [@podcast](https://www.youtube.com/watch?v=ZegQhxJrJGo)  
-   📹 [video](https://www.youtube.com/watch?v=ZegQhxJrJGo)
+![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
+3. Official UAP statement reported — reliability A1 · 1 source(s)  
+   [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117089625413156296)
 
-![Official UAP statement reported (International)](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-4. Official UAP statement reported (International) — reliability A1 · 1 source(s)  
-   [@podcast](https://www.youtube.com/watch?v=DD4iB7rkmew)  
-   📹 [video](https://www.youtube.com/watch?v=DD4iB7rkmew)
+![Unidentified submerged object (USO) reported](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
+4. Unidentified submerged object (USO) reported — reliability A1 · 1 source(s)  
+   [@ScienceBob](https://mastodon.social/@ScienceBob/117093512708820013)
 
-![Official UAP statement reported (Psychology)](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. Official UAP statement reported (Psychology) — reliability A1 · 1 source(s)  
-   [@podcast](https://www.youtube.com/watch?v=mne_PUxB5T8)  
-   📹 [video](https://www.youtube.com/watch?v=mne_PUxB5T8)
+![UAP report (Star)](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+5. UAP report (Star) — reliability A1 · 1 source(s)  
+   [@bobcromwell@dobbs.town](https://dobbs.town/@bobcromwell/117088326891817316)
 
 ---
 *Powered by Science Bob News. Free to use with credit (see LICENSE). Headlines are factual restatements in the engine's own words — click through to the linked sources for originals. Reposts of a single origin are collapsed to one source; candidate prosaic explanations are flagged where offered.*
