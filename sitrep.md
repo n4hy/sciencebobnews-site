@@ -1,13 +1,8 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-08-15 02:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-08-15 02:10 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
-
-![UAP report (Israel)](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
-1. **UAP report (Israel)**  
-   reliability **A1** · P(credible)=1.0 · 2 independent source(s) · bluesky+rumble  
-   [@podcast](https://www.youtube.com/watch?v=IzRjCEcotTw) · [@did:plc:fgwuipl2ygjoy2ptdli7fwgs](https://bsky.app/profile/did:plc:fgwuipl2ygjoy2ptdli7fwgs/post/3mt2kz6ijzk22)  
-   📹 [video](https://www.youtube.com/watch?v=IzRjCEcotTw)
+_No corroborated reports this cycle._
 
 ## Developing / unconfirmed
 
