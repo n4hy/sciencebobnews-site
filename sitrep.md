@@ -5,6 +5,9 @@
 _No corroborated reports this cycle._
 
 ## Developing / unconfirmed
+_None._
+
+## Disclosure podcasts
 
 ![OFFICIAL DENIAL | Syfy's First Original Film](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
 1. OFFICIAL DENIAL | Syfy's First Original Film — reliability C4 · 1 source(s)  
@@ -32,4 +35,4 @@ _No corroborated reports this cycle._
    📹 [video](https://www.youtube.com/watch?v=IyTeV6kko5A)
 
 ---
-*Powered by Science Bob News. Free to use with credit (see LICENSE). Headlines are factual restatements in the engine's own words — click through to the linked sources for originals. Reposts of a single origin are collapsed to one source; candidate prosaic explanations are flagged where offered.*
+*Powered by Science Bob News. Free to use with credit (see [LICENSE](LICENSE)). Social-feed headlines are factual restatements in the engine's own words; podcast entries use the episode title. Click through to the linked sources for originals. Reposts of a single origin are collapsed to one source; candidate prosaic explanations are flagged where offered. Machine-readable feed: [feed.json](feed.json).*

@@ -3,11 +3,11 @@
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
   "generated_utc": "2026-08-15 14:00 UTC",
-  "disclaimer": "Reliability ratings are automated, not editorial.",
+  "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
       "headline": "OFFICIAL DENIAL | Syfy's First Original Film",
-      "lane": "developing",
+      "lane": "podcast",
       "status": "DEVELOPING",
       "reliability": "C4",
       "p_credible": 0.55,
@@ -28,7 +28,7 @@
     },
     {
       "headline": "Richard Dolan: UFO/UAP and Whistleblower Breaking News",
-      "lane": "developing",
+      "lane": "podcast",
       "status": "DEVELOPING",
       "reliability": "C4",
       "p_credible": 0.55,
@@ -49,7 +49,7 @@
     },
     {
       "headline": "Air Force Whistleblower Describes Triangle UFO Encounter at Langley!",
-      "lane": "developing",
+      "lane": "podcast",
       "status": "DEVELOPING",
       "reliability": "C4",
       "p_credible": 0.55,
@@ -71,7 +71,7 @@
     },
     {
       "headline": "\"There's Cell Phone Video That Ends the UFO Debate\" — Whistleblower Speaks",
-      "lane": "developing",
+      "lane": "podcast",
       "status": "DEVELOPING",
       "reliability": "C4",
       "p_credible": 0.55,
@@ -93,7 +93,7 @@
     },
     {
       "headline": "I Found New Evidence… The UFO Program “Smoking Gun” Document Is Real!",
-      "lane": "developing",
+      "lane": "podcast",
       "status": "DEVELOPING",
       "reliability": "C4",
       "p_credible": 0.55,
