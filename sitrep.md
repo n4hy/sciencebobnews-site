@@ -1,38 +1,43 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-08-15 14:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-08-16 05:40 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
-_No corroborated reports this cycle._
+
+![OFFICIAL DENIAL | Syfy's First Original Film](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
+1. **OFFICIAL DENIAL | Syfy's First Original Film**  
+   reliability **A3** · P(credible)=1.0 · 2 independent source(s) · bluesky+youtube  
+   [@NeedToKnow](https://www.youtube.com/watch?v=ZegQhxJrJGo) · [@did:plc:6nawyqv4delmsccyvogm6tk6](https://bsky.app/profile/did:plc:6nawyqv4delmsccyvogm6tk6/post/3mt5i2226cc2r)  
+   📹 [video](https://www.youtube.com/watch?v=ZegQhxJrJGo)
 
 ## Developing / unconfirmed
 _None._
 
 ## Disclosure podcasts
 
-![OFFICIAL DENIAL | Syfy's First Original Film](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
-1. OFFICIAL DENIAL | Syfy's First Original Film — reliability C4 · 1 source(s)  
-   [@NeedToKnow](https://www.youtube.com/watch?v=ZegQhxJrJGo)  
-   📹 [video](https://www.youtube.com/watch?v=ZegQhxJrJGo)
-
-![Richard Dolan: UFO/UAP and Whistleblower Breaking News](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
-2. Richard Dolan: UFO/UAP and Whistleblower Breaking News — reliability C4 · 1 source(s)  
+![Richard Dolan: UFO/UAP and Whistleblower Breaking News](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
+1. Richard Dolan: UFO/UAP and Whistleblower Breaking News — reliability C4 · 1 source(s)  
    [@FadeToBlack](https://www.youtube.com/watch?v=7gRh5EYbNrQ)  
    📹 [video](https://www.youtube.com/watch?v=7gRh5EYbNrQ)
 
-![Air Force Whistleblower Describes Triangle UFO Encounter at Langley!](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
-3. Air Force Whistleblower Describes Triangle UFO Encounter at Langley! — reliability C4 · 1 source(s)  
+![Air Force Whistleblower Describes Triangle UFO Encounter at Langley!](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
+2. Air Force Whistleblower Describes Triangle UFO Encounter at Langley! — reliability C4 · 1 source(s)  
    [@AmericanAlchemy](https://www.youtube.com/watch?v=vVQgkLAAflo)  
    📹 [video](https://www.youtube.com/watch?v=vVQgkLAAflo) · [video](https://youtu.be/K4gYHs84BIc?si=NhbY7NV4-sCYMNb_)
 
-!["There's Cell Phone Video That Ends the UFO Debate" — Whistleblower Speaks](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-4. "There's Cell Phone Video That Ends the UFO Debate" — Whistleblower Speaks — reliability C4 · 1 source(s)  
+!["There's Cell Phone Video That Ends the UFO Debate" — Whistleblower Speaks](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
+3. "There's Cell Phone Video That Ends the UFO Debate" — Whistleblower Speaks — reliability C4 · 1 source(s)  
    [@AmericanAlchemy](https://www.youtube.com/watch?v=7I7zAev4Uj4)  
    📹 [video](https://www.youtube.com/watch?v=K4gYHs84BIc) · [video](https://www.youtube.com/watch?v=7I7zAev4Uj4)
 
-![I Found New Evidence… The UFO Program “Smoking Gun” Document Is Real!](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. I Found New Evidence… The UFO Program “Smoking Gun” Document Is Real! — reliability C4 · 1 source(s)  
+![I Found New Evidence… The UFO Program “Smoking Gun” Document Is Real!](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
+4. I Found New Evidence… The UFO Program “Smoking Gun” Document Is Real! — reliability C4 · 1 source(s)  
    [@ProjectUnity](https://www.youtube.com/watch?v=IyTeV6kko5A)  
    📹 [video](https://www.youtube.com/watch?v=IyTeV6kko5A)
+
+![“THE U.S. GOVERNMENT UNDERSTANDS UAP REPRESENT A FORM OF SENTIENT NON-HUMAN INTELLIGENCE”](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+5. “THE U.S. GOVERNMENT UNDERSTANDS UAP REPRESENT A FORM OF SENTIENT NON-HUMAN INTELLIGENCE” — reliability C4 · 1 source(s)  
+   [@Weaponized](https://www.youtube.com/watch?v=ivDqdkRyRDw)  
+   📹 [video](https://www.youtube.com/watch?v=ivDqdkRyRDw) · [video](https://youtu.be/Ayf92m7zPFY)
 
 ---
 *Powered by Science Bob News. Free to use with credit (see [LICENSE](LICENSE)). Social-feed headlines are factual restatements in the engine's own words; podcast entries use the episode title. Click through to the linked sources for originals. Reposts of a single origin are collapsed to one source; candidate prosaic explanations are flagged where offered. Machine-readable feed: [feed.json](feed.json).*
