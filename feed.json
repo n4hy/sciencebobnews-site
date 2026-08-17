@@ -2,102 +2,114 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-08-17 06:40 UTC",
+  "generated_utc": "2026-08-17 06:50 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
-      "headline": "UAP whistleblower testimony reported",
-      "lane": "developing",
+      "headline": "OFFICIAL DENIAL | Syfy's First Original Film",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "A4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "veryexcitingtime",
-          "url": "https://mastodon.social/@veryexcitingtime/117107813366006888"
+          "handle": "NeedToKnow",
+          "url": "https://www.youtube.com/watch?v=ZegQhxJrJGo"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=ZegQhxJrJGo"
+      ],
       "update": false
     },
     {
-      "headline": "Official UAP statement reported",
-      "lane": "developing",
+      "headline": "Air Force Whistleblower Describes Triangle UFO Encounter at Langley!",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "A4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "vibewire@mastodon.au",
-          "url": "https://mastodon.au/@vibewire/117100154754567196"
+          "handle": "AmericanAlchemy",
+          "url": "https://www.youtube.com/watch?v=vVQgkLAAflo"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=vVQgkLAAflo",
+        "https://youtu.be/K4gYHs84BIc?si=NhbY7NV4-sCYMNb_"
+      ],
       "update": false
     },
     {
-      "headline": "Official UAP statement reported",
-      "lane": "developing",
+      "headline": "\"There's Cell Phone Video That Ends the UFO Debate\" — Whistleblower Speaks",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "A4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "vibewire@mastodon.au",
-          "url": "https://mastodon.au/@vibewire/117100376974450147"
+          "handle": "AmericanAlchemy",
+          "url": "https://www.youtube.com/watch?v=7I7zAev4Uj4"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=K4gYHs84BIc",
+        "https://www.youtube.com/watch?v=7I7zAev4Uj4"
+      ],
       "update": false
     },
     {
-      "headline": "Official UAP statement reported",
-      "lane": "developing",
+      "headline": "Dan Aykroyd's Phone Message of December 17, 2017 (Excerpt from SLF #18)",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "A4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "vibewire@mastodon.au",
-          "url": "https://mastodon.au/@vibewire/117106720236145697"
+          "handle": "NeedToKnow",
+          "url": "https://www.youtube.com/watch?v=by3UKCaVOBg"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=by3UKCaVOBg"
+      ],
       "update": false
     },
     {
-      "headline": "Official UAP statement reported",
-      "lane": "developing",
+      "headline": "#75 Is the Tic Tac Really Lockheed Martin Technology? — Need to Know — July 2026",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "A4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "vibewire@mastodon.au",
-          "url": "https://mastodon.au/@vibewire/117106883664343775"
+          "handle": "NeedToKnow",
+          "url": "https://www.youtube.com/watch?v=A7t5jd2FDJ4"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=A7t5jd2FDJ4"
+      ],
       "update": false
     }
   ]
