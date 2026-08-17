@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-08-17 01:30 UTC",
+  "generated_utc": "2026-08-17 01:40 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
@@ -48,6 +48,27 @@
       "update": false
     },
     {
+      "headline": "GRANT CAMERON – UFOs, Disclosure & The Consciousness Connection",
+      "lane": "podcast",
+      "status": "DEVELOPING",
+      "reliability": "C4",
+      "p_credible": 0.55,
+      "independent_sources": 1,
+      "platforms": [
+        "youtube"
+      ],
+      "sources": [
+        {
+          "handle": "SpacedOutRadio",
+          "url": "https://www.youtube.com/watch?v=Ug6sVd7i5YI"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=Ug6sVd7i5YI"
+      ],
+      "update": false
+    },
+    {
       "headline": "Richard Dolan: UFO/UAP and Whistleblower Breaking News",
       "lane": "podcast",
       "status": "DEVELOPING",
@@ -87,28 +108,6 @@
       "videos": [
         "https://www.youtube.com/watch?v=vVQgkLAAflo",
         "https://youtu.be/K4gYHs84BIc?si=NhbY7NV4-sCYMNb_"
-      ],
-      "update": false
-    },
-    {
-      "headline": "\"There's Cell Phone Video That Ends the UFO Debate\" — Whistleblower Speaks",
-      "lane": "podcast",
-      "status": "DEVELOPING",
-      "reliability": "C4",
-      "p_credible": 0.55,
-      "independent_sources": 1,
-      "platforms": [
-        "youtube"
-      ],
-      "sources": [
-        {
-          "handle": "AmericanAlchemy",
-          "url": "https://www.youtube.com/watch?v=7I7zAev4Uj4"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=K4gYHs84BIc",
-        "https://www.youtube.com/watch?v=7I7zAev4Uj4"
       ],
       "update": false
     }
