@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-08-17 02:10 UTC",
+  "generated_utc": "2026-08-17 06:30 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
@@ -27,7 +27,7 @@
       "update": false
     },
     {
-      "headline": "SHE WENT LOOKING FOR BIGFOOT — THEN IT FOUND HER",
+      "headline": "I Found New Evidence… The UFO Program “Smoking Gun” Document Is Real!",
       "lane": "podcast",
       "status": "DEVELOPING",
       "reliability": "C4",
@@ -38,17 +38,17 @@
       ],
       "sources": [
         {
-          "handle": "SpacedOutRadio",
-          "url": "https://www.youtube.com/watch?v=Yja5AEz8ck4"
+          "handle": "ProjectUnity",
+          "url": "https://www.youtube.com/watch?v=IyTeV6kko5A"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=Yja5AEz8ck4"
+        "https://www.youtube.com/watch?v=IyTeV6kko5A"
       ],
       "update": false
     },
     {
-      "headline": "GRANT CAMERON – UFOs, Disclosure & The Consciousness Connection",
+      "headline": "“THE U.S. GOVERNMENT UNDERSTANDS UAP REPRESENT A FORM OF SENTIENT NON-HUMAN INTELLIGENCE”",
       "lane": "podcast",
       "status": "DEVELOPING",
       "reliability": "C4",
@@ -59,17 +59,18 @@
       ],
       "sources": [
         {
-          "handle": "SpacedOutRadio",
-          "url": "https://www.youtube.com/watch?v=Ug6sVd7i5YI"
+          "handle": "Weaponized",
+          "url": "https://www.youtube.com/watch?v=ivDqdkRyRDw"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=Ug6sVd7i5YI"
+        "https://www.youtube.com/watch?v=ivDqdkRyRDw",
+        "https://youtu.be/Ayf92m7zPFY"
       ],
       "update": false
     },
     {
-      "headline": "Richard Dolan: UFO/UAP and Whistleblower Breaking News",
+      "headline": "Space Symposium Hosts First-Ever UFO Panel - David Grusch, Rep Burlison, Rod Roddenberry & Mike Gold",
       "lane": "podcast",
       "status": "DEVELOPING",
       "reliability": "C4",
@@ -80,17 +81,17 @@
       ],
       "sources": [
         {
-          "handle": "FadeToBlack",
-          "url": "https://www.youtube.com/watch?v=7gRh5EYbNrQ"
+          "handle": "Weaponized",
+          "url": "https://www.youtube.com/watch?v=Ayf92m7zPFY"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=7gRh5EYbNrQ"
+        "https://www.youtube.com/watch?v=Ayf92m7zPFY"
       ],
       "update": false
     },
     {
-      "headline": "Air Force Whistleblower Describes Triangle UFO Encounter at Langley!",
+      "headline": "“THE PYRAMID UFO POWER SOURCE - TECHNOLOGY FROM ANOTHER WORLD”",
       "lane": "podcast",
       "status": "DEVELOPING",
       "reliability": "C4",
@@ -101,13 +102,13 @@
       ],
       "sources": [
         {
-          "handle": "AmericanAlchemy",
-          "url": "https://www.youtube.com/watch?v=vVQgkLAAflo"
+          "handle": "Weaponized",
+          "url": "https://www.youtube.com/watch?v=93moL6Dy0EY"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=vVQgkLAAflo",
-        "https://youtu.be/K4gYHs84BIc?si=NhbY7NV4-sCYMNb_"
+        "https://www.youtube.com/watch?v=93moL6Dy0EY",
+        "https://youtu.be/7OT6uJ0yzVY"
       ],
       "update": false
     }
