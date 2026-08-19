@@ -2,115 +2,106 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-08-19 04:20 UTC",
+  "generated_utc": "2026-08-19 04:30 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
-      "headline": "“THE U.S. GOVERNMENT UNDERSTANDS UAP REPRESENT A FORM OF SENTIENT NON-HUMAN INTELLIGENCE”",
-      "lane": "podcast",
+      "headline": "UAP report",
+      "lane": "developing",
       "status": "DEVELOPING",
-      "reliability": "C4",
-      "p_credible": 0.55,
-      "independent_sources": 1,
+      "reliability": "A3",
+      "p_credible": 1.0,
+      "independent_sources": 2,
       "platforms": [
-        "youtube"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "Weaponized",
-          "url": "https://www.youtube.com/watch?v=ivDqdkRyRDw"
+          "handle": "fediboard_science@flipboard.social",
+          "url": "https://flipboard.social/@fediboard_science/117110653679371051"
+        },
+        {
+          "handle": "Econopass@flipboard.com",
+          "url": "https://flipboard.com/@econopass/flipboard-exchange-feed-%F0%9F%97%9E%EF%B8%8F-a2ri49sqz/-/a-Va9YNi-eQoy_8_cbXrdtEg%3Aa%3A4091604380-%2F0"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=ivDqdkRyRDw",
-        "https://youtu.be/Ayf92m7zPFY"
-      ],
+      "videos": [],
       "update": false
     },
     {
-      "headline": "Space Symposium Hosts First-Ever UFO Panel - David Grusch, Rep Burlison, Rod Roddenberry & Mike Gold",
-      "lane": "podcast",
+      "headline": "UAP whistleblower testimony reported",
+      "lane": "developing",
       "status": "DEVELOPING",
-      "reliability": "C4",
+      "reliability": "A4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "youtube"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "Weaponized",
-          "url": "https://www.youtube.com/watch?v=Ayf92m7zPFY"
+          "handle": "veryexcitingtime",
+          "url": "https://mastodon.social/@veryexcitingtime/117107813366006888"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=Ayf92m7zPFY"
-      ],
+      "videos": [],
       "update": false
     },
     {
-      "headline": "“THE PYRAMID UFO POWER SOURCE - TECHNOLOGY FROM ANOTHER WORLD”",
-      "lane": "podcast",
+      "headline": "Official UAP statement reported",
+      "lane": "developing",
       "status": "DEVELOPING",
-      "reliability": "C4",
+      "reliability": "A4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "youtube"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "Weaponized",
-          "url": "https://www.youtube.com/watch?v=93moL6Dy0EY"
+          "handle": "vibewire@mastodon.au",
+          "url": "https://mastodon.au/@vibewire/117117661589898190"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=93moL6Dy0EY",
-        "https://youtu.be/7OT6uJ0yzVY"
-      ],
+      "videos": [],
       "update": false
     },
     {
-      "headline": "They Tried To Frame UFO Whistleblower Dylan Borland For Treason",
-      "lane": "podcast",
+      "headline": "UAP report",
+      "lane": "developing",
       "status": "DEVELOPING",
-      "reliability": "C4",
+      "reliability": "A4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "youtube"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "Weaponized",
-          "url": "https://www.youtube.com/watch?v=7OT6uJ0yzVY"
+          "handle": "draftd@infosec.exchange",
+          "url": "https://infosec.exchange/@draftd/117112579175200334"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=7OT6uJ0yzVY"
-      ],
+      "videos": [],
       "update": false
     },
     {
-      "headline": "\"Our Families Were Targeted\" - UFO WHISTLEBLOWERS",
-      "lane": "podcast",
+      "headline": "UAP report",
+      "lane": "developing",
       "status": "DEVELOPING",
-      "reliability": "C4",
+      "reliability": "A4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "youtube"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "Weaponized",
-          "url": "https://www.youtube.com/watch?v=AyZw31Qr3wY"
+          "handle": "draftd@infosec.exchange",
+          "url": "https://infosec.exchange/@draftd/117114758102351520"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=AyZw31Qr3wY",
-        "https://youtu.be/rk0y6oeI2k0"
-      ],
+      "videos": [],
       "update": false
     }
   ]
