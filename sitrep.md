@@ -1,36 +1,38 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-08-19 06:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-08-19 06:10 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 _No corroborated reports this cycle._
 
 ## Developing / unconfirmed
-
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
-1. UAP report — reliability A3 · 2 source(s)  
-   [@fediboard_science@flipboard.social](https://flipboard.social/@fediboard_science/117110653679371051) · [@Econopass@flipboard.com](https://flipboard.com/@econopass/flipboard-exchange-feed-%F0%9F%97%9E%EF%B8%8F-a2ri49sqz/-/a-Va9YNi-eQoy_8_cbXrdtEg%3Aa%3A4091604380-%2F0)
+_None._
 
 ## Disclosure podcasts
 
-![SHE WENT LOOKING FOR BIGFOOT — THEN IT FOUND HER](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
-1. SHE WENT LOOKING FOR BIGFOOT — THEN IT FOUND HER — reliability C4 · 1 source(s)  
-   [@SpacedOutRadio](https://www.youtube.com/watch?v=Yja5AEz8ck4)  
-   📹 [video](https://www.youtube.com/watch?v=Yja5AEz8ck4)
+![“THE U.S. GOVERNMENT UNDERSTANDS UAP REPRESENT A FORM OF SENTIENT NON-HUMAN INTELLIGENCE”](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
+1. “THE U.S. GOVERNMENT UNDERSTANDS UAP REPRESENT A FORM OF SENTIENT NON-HUMAN INTELLIGENCE” — reliability C4 · 1 source(s)  
+   [@Weaponized](https://www.youtube.com/watch?v=ivDqdkRyRDw)  
+   📹 [video](https://www.youtube.com/watch?v=ivDqdkRyRDw) · [video](https://youtu.be/Ayf92m7zPFY)
 
-![GRANT CAMERON – UFOs, Disclosure & The Consciousness Connection](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
-2. GRANT CAMERON – UFOs, Disclosure & The Consciousness Connection — reliability C4 · 1 source(s)  
-   [@SpacedOutRadio](https://www.youtube.com/watch?v=Ug6sVd7i5YI)  
-   📹 [video](https://www.youtube.com/watch?v=Ug6sVd7i5YI)
+![Space Symposium Hosts First-Ever UFO Panel - David Grusch, Rep Burlison, Rod Roddenberry & Mike Gold](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
+2. Space Symposium Hosts First-Ever UFO Panel - David Grusch, Rep Burlison, Rod Roddenberry & Mike Gold — reliability C4 · 1 source(s)  
+   [@Weaponized](https://www.youtube.com/watch?v=Ayf92m7zPFY)  
+   📹 [video](https://www.youtube.com/watch?v=Ayf92m7zPFY)
 
-![WOW! ROBERT BIGELOW HAS TALKED UFO'S TO PRESIDENT TRUMP!](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-3. WOW! ROBERT BIGELOW HAS TALKED UFO'S TO PRESIDENT TRUMP! — reliability C4 · 1 source(s)  
-   [@SpacedOutRadio](https://www.youtube.com/watch?v=mne_PUxB5T8)  
-   📹 [video](https://www.youtube.com/watch?v=mne_PUxB5T8)
+![“THE PYRAMID UFO POWER SOURCE - TECHNOLOGY FROM ANOTHER WORLD”](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
+3. “THE PYRAMID UFO POWER SOURCE - TECHNOLOGY FROM ANOTHER WORLD” — reliability C4 · 1 source(s)  
+   [@Weaponized](https://www.youtube.com/watch?v=93moL6Dy0EY)  
+   📹 [video](https://www.youtube.com/watch?v=93moL6Dy0EY) · [video](https://youtu.be/7OT6uJ0yzVY)
 
-![Experiencer's Disclosure: Are We Ready for the Truth?](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-4. Experiencer's Disclosure: Are We Ready for the Truth? — reliability C4 · 1 source(s)  
-   [@SpacedOutRadio](https://www.youtube.com/watch?v=vWtSrAiCJ78)  
-   📹 [video](https://www.youtube.com/watch?v=vWtSrAiCJ78)
+![They Tried To Frame UFO Whistleblower Dylan Borland For Treason](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
+4. They Tried To Frame UFO Whistleblower Dylan Borland For Treason — reliability C4 · 1 source(s)  
+   [@Weaponized](https://www.youtube.com/watch?v=7OT6uJ0yzVY)  
+   📹 [video](https://www.youtube.com/watch?v=7OT6uJ0yzVY)
+
+!["Our Families Were Targeted" - UFO WHISTLEBLOWERS](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+5. "Our Families Were Targeted" - UFO WHISTLEBLOWERS — reliability C4 · 1 source(s)  
+   [@Weaponized](https://www.youtube.com/watch?v=AyZw31Qr3wY)  
+   📹 [video](https://www.youtube.com/watch?v=AyZw31Qr3wY) · [video](https://youtu.be/rk0y6oeI2k0)
 
 ---
 *Powered by Science Bob News. Free to use with credit (see [LICENSE](LICENSE)). Social-feed headlines are factual restatements in the engine's own words; podcast entries use the episode title. Click through to the linked sources for originals. Reposts of a single origin are collapsed to one source; candidate prosaic explanations are flagged where offered. Machine-readable feed: [feed.json](feed.json).*
