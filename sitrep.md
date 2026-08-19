@@ -1,33 +1,38 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-08-19 03:20 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-08-19 03:30 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 _No corroborated reports this cycle._
 
 ## Developing / unconfirmed
-
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
-1. UAP report — reliability A3 · 2 source(s)  
-   [@fediboard_science@flipboard.social](https://flipboard.social/@fediboard_science/117110653679371051) · [@Econopass@flipboard.com](https://flipboard.com/@econopass/flipboard-exchange-feed-%F0%9F%97%9E%EF%B8%8F-a2ri49sqz/-/a-Va9YNi-eQoy_8_cbXrdtEg%3Aa%3A4091604380-%2F0)
-
-![UAP whistleblower testimony reported](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
-2. UAP whistleblower testimony reported — reliability A4 · 1 source(s)  
-   [@veryexcitingtime](https://mastodon.social/@veryexcitingtime/117107813366006888)
-
-![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-3. Official UAP statement reported — reliability A4 · 1 source(s)  
-   [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117117661589898190)
-
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-4. UAP report — reliability A4 · 1 source(s)  
-   [@draftd@infosec.exchange](https://infosec.exchange/@draftd/117112579175200334)
+_None._
 
 ## Disclosure podcasts
 
-![Disclosure Capitol Steps](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
-1. Disclosure Capitol Steps — reliability C4 · 1 source(s)  
-   [@OrbisParanormal](https://www.youtube.com/watch?v=VM8ZX9-ruUM)  
-   📹 [video](https://www.youtube.com/watch?v=VM8ZX9-ruUM)
+![Richard Dolan: UFO/UAP and Whistleblower Breaking News](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
+1. Richard Dolan: UFO/UAP and Whistleblower Breaking News — reliability C4 · 1 source(s)  
+   [@FadeToBlack](https://www.youtube.com/watch?v=7gRh5EYbNrQ)  
+   📹 [video](https://www.youtube.com/watch?v=7gRh5EYbNrQ)
+
+![I Found New Evidence… The UFO Program “Smoking Gun” Document Is Real!](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
+2. I Found New Evidence… The UFO Program “Smoking Gun” Document Is Real! — reliability C4 · 1 source(s)  
+   [@ProjectUnity](https://www.youtube.com/watch?v=IyTeV6kko5A)  
+   📹 [video](https://www.youtube.com/watch?v=IyTeV6kko5A)
+
+![“THE U.S. GOVERNMENT UNDERSTANDS UAP REPRESENT A FORM OF SENTIENT NON-HUMAN INTELLIGENCE”](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
+3. “THE U.S. GOVERNMENT UNDERSTANDS UAP REPRESENT A FORM OF SENTIENT NON-HUMAN INTELLIGENCE” — reliability C4 · 1 source(s)  
+   [@Weaponized](https://www.youtube.com/watch?v=ivDqdkRyRDw)  
+   📹 [video](https://www.youtube.com/watch?v=ivDqdkRyRDw) · [video](https://youtu.be/Ayf92m7zPFY)
+
+![Space Symposium Hosts First-Ever UFO Panel - David Grusch, Rep Burlison, Rod Roddenberry & Mike Gold](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
+4. Space Symposium Hosts First-Ever UFO Panel - David Grusch, Rep Burlison, Rod Roddenberry & Mike Gold — reliability C4 · 1 source(s)  
+   [@Weaponized](https://www.youtube.com/watch?v=Ayf92m7zPFY)  
+   📹 [video](https://www.youtube.com/watch?v=Ayf92m7zPFY)
+
+![“THE PYRAMID UFO POWER SOURCE - TECHNOLOGY FROM ANOTHER WORLD”](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+5. “THE PYRAMID UFO POWER SOURCE - TECHNOLOGY FROM ANOTHER WORLD” — reliability C4 · 1 source(s)  
+   [@Weaponized](https://www.youtube.com/watch?v=93moL6Dy0EY)  
+   📹 [video](https://www.youtube.com/watch?v=93moL6Dy0EY) · [video](https://youtu.be/7OT6uJ0yzVY)
 
 ---
 *Powered by Science Bob News. Free to use with credit (see [LICENSE](LICENSE)). Social-feed headlines are factual restatements in the engine's own words; podcast entries use the episode title. Click through to the linked sources for originals. Reposts of a single origin are collapsed to one source; candidate prosaic explanations are flagged where offered. Machine-readable feed: [feed.json](feed.json).*
