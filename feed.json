@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-08-19 05:50 UTC",
+  "generated_utc": "2026-08-19 06:00 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
@@ -29,79 +29,87 @@
       "update": false
     },
     {
-      "headline": "UAP whistleblower testimony reported",
-      "lane": "developing",
+      "headline": "SHE WENT LOOKING FOR BIGFOOT — THEN IT FOUND HER",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "A4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "veryexcitingtime",
-          "url": "https://mastodon.social/@veryexcitingtime/117107813366006888"
+          "handle": "SpacedOutRadio",
+          "url": "https://www.youtube.com/watch?v=Yja5AEz8ck4"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=Yja5AEz8ck4"
+      ],
       "update": false
     },
     {
-      "headline": "Official UAP statement reported",
-      "lane": "developing",
+      "headline": "GRANT CAMERON – UFOs, Disclosure & The Consciousness Connection",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "A4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "vibewire@mastodon.au",
-          "url": "https://mastodon.au/@vibewire/117117661589898190"
+          "handle": "SpacedOutRadio",
+          "url": "https://www.youtube.com/watch?v=Ug6sVd7i5YI"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=Ug6sVd7i5YI"
+      ],
       "update": false
     },
     {
-      "headline": "UAP report",
-      "lane": "developing",
+      "headline": "WOW! ROBERT BIGELOW HAS TALKED UFO'S TO PRESIDENT TRUMP!",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "A4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "draftd@infosec.exchange",
-          "url": "https://infosec.exchange/@draftd/117112579175200334"
+          "handle": "SpacedOutRadio",
+          "url": "https://www.youtube.com/watch?v=mne_PUxB5T8"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=mne_PUxB5T8"
+      ],
       "update": false
     },
     {
-      "headline": "UAP report",
-      "lane": "developing",
+      "headline": "Experiencer's Disclosure: Are We Ready for the Truth?",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "A4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "draftd@infosec.exchange",
-          "url": "https://infosec.exchange/@draftd/117114758102351520"
+          "handle": "SpacedOutRadio",
+          "url": "https://www.youtube.com/watch?v=vWtSrAiCJ78"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=vWtSrAiCJ78"
+      ],
       "update": false
     }
   ]
