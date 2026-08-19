@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-08-19 11:20 UTC",
+  "generated_utc": "2026-08-19 11:30 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
@@ -27,7 +27,7 @@
       "update": false
     },
     {
-      "headline": "“THE U.S. GOVERNMENT UNDERSTANDS UAP REPRESENT A FORM OF SENTIENT NON-HUMAN INTELLIGENCE”",
+      "headline": "SHE WENT LOOKING FOR BIGFOOT — THEN IT FOUND HER",
       "lane": "podcast",
       "status": "DEVELOPING",
       "reliability": "C4",
@@ -38,18 +38,17 @@
       ],
       "sources": [
         {
-          "handle": "Weaponized",
-          "url": "https://www.youtube.com/watch?v=ivDqdkRyRDw"
+          "handle": "SpacedOutRadio",
+          "url": "https://www.youtube.com/watch?v=Yja5AEz8ck4"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=ivDqdkRyRDw",
-        "https://youtu.be/Ayf92m7zPFY"
+        "https://www.youtube.com/watch?v=Yja5AEz8ck4"
       ],
       "update": false
     },
     {
-      "headline": "Space Symposium Hosts First-Ever UFO Panel - David Grusch, Rep Burlison, Rod Roddenberry & Mike Gold",
+      "headline": "GRANT CAMERON – UFOs, Disclosure & The Consciousness Connection",
       "lane": "podcast",
       "status": "DEVELOPING",
       "reliability": "C4",
@@ -60,17 +59,17 @@
       ],
       "sources": [
         {
-          "handle": "Weaponized",
-          "url": "https://www.youtube.com/watch?v=Ayf92m7zPFY"
+          "handle": "SpacedOutRadio",
+          "url": "https://www.youtube.com/watch?v=Ug6sVd7i5YI"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=Ayf92m7zPFY"
+        "https://www.youtube.com/watch?v=Ug6sVd7i5YI"
       ],
       "update": false
     },
     {
-      "headline": "“THE PYRAMID UFO POWER SOURCE - TECHNOLOGY FROM ANOTHER WORLD”",
+      "headline": "Richard Dolan: UFO/UAP and Whistleblower Breaking News",
       "lane": "podcast",
       "status": "DEVELOPING",
       "reliability": "C4",
@@ -81,18 +80,17 @@
       ],
       "sources": [
         {
-          "handle": "Weaponized",
-          "url": "https://www.youtube.com/watch?v=93moL6Dy0EY"
+          "handle": "FadeToBlack",
+          "url": "https://www.youtube.com/watch?v=7gRh5EYbNrQ"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=93moL6Dy0EY",
-        "https://youtu.be/7OT6uJ0yzVY"
+        "https://www.youtube.com/watch?v=7gRh5EYbNrQ"
       ],
       "update": false
     },
     {
-      "headline": "They Tried To Frame UFO Whistleblower Dylan Borland For Treason",
+      "headline": "Air Force Whistleblower Describes Triangle UFO Encounter at Langley!",
       "lane": "podcast",
       "status": "DEVELOPING",
       "reliability": "C4",
@@ -103,12 +101,13 @@
       ],
       "sources": [
         {
-          "handle": "Weaponized",
-          "url": "https://www.youtube.com/watch?v=7OT6uJ0yzVY"
+          "handle": "AmericanAlchemy",
+          "url": "https://www.youtube.com/watch?v=vVQgkLAAflo"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=7OT6uJ0yzVY"
+        "https://www.youtube.com/watch?v=vVQgkLAAflo",
+        "https://youtu.be/K4gYHs84BIc?si=NhbY7NV4-sCYMNb_"
       ],
       "update": false
     }
