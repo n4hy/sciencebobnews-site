@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-08-19 02:30 UTC",
+  "generated_utc": "2026-08-19 02:40 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
@@ -86,24 +86,22 @@
       "update": false
     },
     {
-      "headline": "Richard Dolan: UFO/UAP and Whistleblower Breaking News",
-      "lane": "podcast",
+      "headline": "UAP report",
+      "lane": "developing",
       "status": "DEVELOPING",
-      "reliability": "C4",
+      "reliability": "A4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "youtube"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "FadeToBlack",
-          "url": "https://www.youtube.com/watch?v=7gRh5EYbNrQ"
+          "handle": "draftd@infosec.exchange",
+          "url": "https://infosec.exchange/@draftd/117114758102351520"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=7gRh5EYbNrQ"
-      ],
+      "videos": [],
       "update": false
     }
   ]
