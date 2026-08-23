@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-08-19 20:40 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-08-23 22:40 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 _No corroborated reports this cycle._
@@ -29,10 +29,10 @@ _None._
    [@FadeToBlack](https://www.youtube.com/watch?v=7gRh5EYbNrQ)  
    📹 [video](https://www.youtube.com/watch?v=7gRh5EYbNrQ)
 
-![Air Force Whistleblower Describes Triangle UFO Encounter at Langley!](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. Air Force Whistleblower Describes Triangle UFO Encounter at Langley! — reliability C4 · 1 source(s)  
-   [@AmericanAlchemy](https://www.youtube.com/watch?v=vVQgkLAAflo)  
-   📹 [video](https://www.youtube.com/watch?v=vVQgkLAAflo) · [video](https://youtu.be/K4gYHs84BIc?si=NhbY7NV4-sCYMNb_)
+!["There's Cell Phone Video That Ends the UFO Debate" — Whistleblower Speaks](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+5. "There's Cell Phone Video That Ends the UFO Debate" — Whistleblower Speaks — reliability C4 · 1 source(s)  
+   [@AmericanAlchemy](https://www.youtube.com/watch?v=7I7zAev4Uj4)  
+   📹 [video](https://www.youtube.com/watch?v=K4gYHs84BIc) · [video](https://www.youtube.com/watch?v=7I7zAev4Uj4)
 
 ---
 *Powered by Science Bob News. Free to use with credit (see [LICENSE](LICENSE)). Social-feed headlines are factual restatements in the engine's own words; podcast entries use the episode title. Click through to the linked sources for originals. Reposts of a single origin are collapsed to one source; candidate prosaic explanations are flagged where offered. Machine-readable feed: [feed.json](feed.json).*
