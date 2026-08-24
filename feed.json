@@ -2,9 +2,30 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-08-24 07:00 UTC",
+  "generated_utc": "2026-08-24 07:10 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
+    {
+      "headline": "OFFICIAL DENIAL | Syfy's First Original Film",
+      "lane": "podcast",
+      "status": "DEVELOPING",
+      "reliability": "C4",
+      "p_credible": 0.55,
+      "independent_sources": 1,
+      "platforms": [
+        "youtube"
+      ],
+      "sources": [
+        {
+          "handle": "NeedToKnow",
+          "url": "https://www.youtube.com/watch?v=ZegQhxJrJGo"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=ZegQhxJrJGo"
+      ],
+      "update": false
+    },
     {
       "headline": "SHE WENT LOOKING FOR BIGFOOT — THEN IT FOUND HER",
       "lane": "podcast",
@@ -87,28 +108,6 @@
       "videos": [
         "https://www.youtube.com/watch?v=K4gYHs84BIc",
         "https://www.youtube.com/watch?v=7I7zAev4Uj4"
-      ],
-      "update": false
-    },
-    {
-      "headline": "“THE U.S. GOVERNMENT UNDERSTANDS UAP REPRESENT A FORM OF SENTIENT NON-HUMAN INTELLIGENCE”",
-      "lane": "podcast",
-      "status": "DEVELOPING",
-      "reliability": "C4",
-      "p_credible": 0.55,
-      "independent_sources": 1,
-      "platforms": [
-        "youtube"
-      ],
-      "sources": [
-        {
-          "handle": "Weaponized",
-          "url": "https://www.youtube.com/watch?v=ivDqdkRyRDw"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=ivDqdkRyRDw",
-        "https://youtu.be/Ayf92m7zPFY"
       ],
       "update": false
     }
