@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-08-24 05:50 UTC",
+  "generated_utc": "2026-08-24 06:00 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
@@ -82,24 +82,22 @@
       "update": false
     },
     {
-      "headline": "Disclosure Capitol Steps",
-      "lane": "podcast",
+      "headline": "UAP report",
+      "lane": "developing",
       "status": "DEVELOPING",
-      "reliability": "C4",
+      "reliability": "A4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "youtube"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "OrbisParanormal",
-          "url": "https://www.youtube.com/watch?v=VM8ZX9-ruUM"
+          "handle": "KilleansRow@mastodon.online",
+          "url": "https://mastodon.online/@KilleansRow/117138164186895726"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=VM8ZX9-ruUM"
-      ],
+      "videos": [],
       "update": false
     }
   ]
