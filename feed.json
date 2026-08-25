@@ -2,9 +2,28 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-08-25 05:50 UTC",
+  "generated_utc": "2026-08-25 06:00 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
+    {
+      "headline": "Official UAP statement reported",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A4",
+      "p_credible": 0.55,
+      "independent_sources": 1,
+      "platforms": [
+        "bluesky"
+      ],
+      "sources": [
+        {
+          "handle": "did:plc:biug6mgsk6i7ymfdop2dqeva",
+          "url": "https://bsky.app/profile/did:plc:biug6mgsk6i7ymfdop2dqeva/post/3mtv5c7so7525"
+        }
+      ],
+      "videos": [],
+      "update": false
+    },
     {
       "headline": "Official UAP statement reported",
       "lane": "developing",
@@ -63,45 +82,22 @@
       "update": false
     },
     {
-      "headline": "Richard Dolan: UFO/UAP and Whistleblower Breaking News",
-      "lane": "podcast",
+      "headline": "UAP report",
+      "lane": "developing",
       "status": "DEVELOPING",
-      "reliability": "C4",
+      "reliability": "A4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "youtube"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "FadeToBlack",
-          "url": "https://www.youtube.com/watch?v=7gRh5EYbNrQ"
+          "handle": "KilleansRow@mastodon.online",
+          "url": "https://mastodon.online/@KilleansRow/117138164186895726"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=7gRh5EYbNrQ"
-      ],
-      "update": false
-    },
-    {
-      "headline": "Ep 2343: Noe Torres: South Texas UFOs",
-      "lane": "podcast",
-      "status": "DEVELOPING",
-      "reliability": "C4",
-      "p_credible": 0.55,
-      "independent_sources": 1,
-      "platforms": [
-        "youtube"
-      ],
-      "sources": [
-        {
-          "handle": "FadeToBlack",
-          "url": "https://www.youtube.com/watch?v=LYEYjdbYW9I"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=LYEYjdbYW9I"
-      ],
+      "videos": [],
       "update": false
     }
   ]
