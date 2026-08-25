@@ -2,26 +2,49 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-08-25 02:40 UTC",
+  "generated_utc": "2026-08-25 02:50 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
-      "headline": "UAP whistleblower testimony reported",
-      "lane": "developing",
+      "headline": "Richard Dolan: UFO/UAP and Whistleblower Breaking News",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "A4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "bluesky"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "did:plc:ydtkqchf6rjsto4ipsbriwid",
-          "url": "https://bsky.app/profile/did:plc:ydtkqchf6rjsto4ipsbriwid/post/3mtus4k2o3m2j"
+          "handle": "FadeToBlack",
+          "url": "https://www.youtube.com/watch?v=7gRh5EYbNrQ"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=7gRh5EYbNrQ"
+      ],
+      "update": false
+    },
+    {
+      "headline": "Ep 2343: Noe Torres: South Texas UFOs",
+      "lane": "podcast",
+      "status": "DEVELOPING",
+      "reliability": "C4",
+      "p_credible": 0.55,
+      "independent_sources": 1,
+      "platforms": [
+        "youtube"
+      ],
+      "sources": [
+        {
+          "handle": "FadeToBlack",
+          "url": "https://www.youtube.com/watch?v=LYEYjdbYW9I"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=LYEYjdbYW9I"
+      ],
       "update": false
     },
     {
@@ -46,7 +69,7 @@
       "update": false
     },
     {
-      "headline": "BREAKING: Ross Coulthart CALLS OUT Lue Elizondo as a UFO Gatekeeper!",
+      "headline": "“THE U.S. GOVERNMENT UNDERSTANDS UAP REPRESENT A FORM OF SENTIENT NON-HUMAN INTELLIGENCE”",
       "lane": "podcast",
       "status": "DEVELOPING",
       "reliability": "C4",
@@ -57,17 +80,18 @@
       ],
       "sources": [
         {
-          "handle": "ProjectUnity",
-          "url": "https://www.youtube.com/watch?v=jkYp9peI3aI"
+          "handle": "Weaponized",
+          "url": "https://www.youtube.com/watch?v=ivDqdkRyRDw"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=jkYp9peI3aI"
+        "https://www.youtube.com/watch?v=ivDqdkRyRDw",
+        "https://youtu.be/Ayf92m7zPFY"
       ],
       "update": false
     },
     {
-      "headline": "Deep Tech CEO Speaks Up On AI Threats, UFO Coverups & Ancient Civilisations",
+      "headline": "Space Symposium Hosts First-Ever UFO Panel - David Grusch, Rep Burlison, Rod Roddenberry & Mike Gold",
       "lane": "podcast",
       "status": "DEVELOPING",
       "reliability": "C4",
@@ -78,34 +102,12 @@
       ],
       "sources": [
         {
-          "handle": "ProjectUnity",
-          "url": "https://www.youtube.com/watch?v=v4e0rsklWPM"
+          "handle": "Weaponized",
+          "url": "https://www.youtube.com/watch?v=Ayf92m7zPFY"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=v4e0rsklWPM"
-      ],
-      "update": false
-    },
-    {
-      "headline": "NASA Plasmoids Are They Alive? Shocking Research Revealed!",
-      "lane": "podcast",
-      "status": "DEVELOPING",
-      "reliability": "C4",
-      "p_credible": 0.55,
-      "independent_sources": 1,
-      "platforms": [
-        "youtube"
-      ],
-      "sources": [
-        {
-          "handle": "ProjectUnity",
-          "url": "https://www.youtube.com/shorts/H9utxvygRCc"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=F0rYPr-pnWs&t=1764s",
-        "https://www.youtube.com/shorts/H9utxvygRCc"
+        "https://www.youtube.com/watch?v=Ayf92m7zPFY"
       ],
       "update": false
     }
