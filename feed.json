@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-08-25 03:00 UTC",
+  "generated_utc": "2026-08-25 03:10 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
@@ -56,52 +56,48 @@
       "sources": [
         {
           "handle": "ScienceBob",
-          "url": "https://mastodon.social/@ScienceBob/117152023177961328"
+          "url": "https://mastodon.social/@ScienceBob/117153910722451084"
         }
       ],
       "videos": [],
       "update": false
     },
     {
-      "headline": "Richard Dolan: UFO/UAP and Whistleblower Breaking News",
-      "lane": "podcast",
+      "headline": "UAP report",
+      "lane": "developing",
       "status": "DEVELOPING",
-      "reliability": "C4",
+      "reliability": "A4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "youtube"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "FadeToBlack",
-          "url": "https://www.youtube.com/watch?v=7gRh5EYbNrQ"
+          "handle": "KilleansRow@mastodon.online",
+          "url": "https://mastodon.online/@KilleansRow/117138164186895726"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=7gRh5EYbNrQ"
-      ],
+      "videos": [],
       "update": false
     },
     {
-      "headline": "Ep 2343: Noe Torres: South Texas UFOs",
-      "lane": "podcast",
+      "headline": "UAP report (Kelly)",
+      "lane": "developing",
       "status": "DEVELOPING",
-      "reliability": "C4",
+      "reliability": "A4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "youtube"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "FadeToBlack",
-          "url": "https://www.youtube.com/watch?v=LYEYjdbYW9I"
+          "handle": "donutage",
+          "url": "https://mastodon.social/@donutage/117135749524891991"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=LYEYjdbYW9I"
-      ],
+      "videos": [],
       "update": false
     }
   ]
