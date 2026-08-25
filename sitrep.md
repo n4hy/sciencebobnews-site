@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-08-25 05:10 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-08-25 05:20 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 _No corroborated reports this cycle._
@@ -16,15 +16,15 @@ _No corroborated reports this cycle._
 
 ![Unidentified submerged object (USO) reported](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
 3. Unidentified submerged object (USO) reported — reliability A4 · 1 source(s)  
-   [@did:plc:srsij6dqzig4bo5v7npw4w3v](https://bsky.app/profile/did:plc:srsij6dqzig4bo5v7npw4w3v/post/3mtv2iqssxn2e)
-
-![Unidentified submerged object (USO) reported](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-4. Unidentified submerged object (USO) reported — reliability A4 · 1 source(s)  
    [@ScienceBob](https://mastodon.social/@ScienceBob/117153910722451084)
 
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. UAP report — reliability A4 · 1 source(s)  
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
+4. UAP report — reliability A4 · 1 source(s)  
    [@KilleansRow@mastodon.online](https://mastodon.online/@KilleansRow/117138164186895726)
+
+![UAP report (Kelly)](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+5. UAP report (Kelly) — reliability A4 · 1 source(s)  
+   [@donutage](https://mastodon.social/@donutage/117135749524891991)
 
 ## Disclosure podcasts
 _None this cycle._
