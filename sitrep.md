@@ -1,38 +1,36 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-08-25 02:30 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-08-25 02:40 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 _No corroborated reports this cycle._
 
 ## Developing / unconfirmed
-_None._
+
+![UAP whistleblower testimony reported](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+1. UAP whistleblower testimony reported — reliability A4 · 1 source(s)  
+   [@did:plc:ydtkqchf6rjsto4ipsbriwid](https://bsky.app/profile/did:plc:ydtkqchf6rjsto4ipsbriwid/post/3mtus4k2o3m2j)
 
 ## Disclosure podcasts
 
-![SHE WENT LOOKING FOR BIGFOOT — THEN IT FOUND HER](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
-1. SHE WENT LOOKING FOR BIGFOOT — THEN IT FOUND HER — reliability C4 · 1 source(s)  
-   [@SpacedOutRadio](https://www.youtube.com/watch?v=Yja5AEz8ck4)  
-   📹 [video](https://www.youtube.com/watch?v=Yja5AEz8ck4)
+![I Found New Evidence… The UFO Program “Smoking Gun” Document Is Real!](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
+1. I Found New Evidence… The UFO Program “Smoking Gun” Document Is Real! — reliability C4 · 1 source(s)  
+   [@ProjectUnity](https://www.youtube.com/watch?v=IyTeV6kko5A)  
+   📹 [video](https://www.youtube.com/watch?v=IyTeV6kko5A)
 
-![GRANT CAMERON – UFOs, Disclosure & The Consciousness Connection](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
-2. GRANT CAMERON – UFOs, Disclosure & The Consciousness Connection — reliability C4 · 1 source(s)  
-   [@SpacedOutRadio](https://www.youtube.com/watch?v=Ug6sVd7i5YI)  
-   📹 [video](https://www.youtube.com/watch?v=Ug6sVd7i5YI)
+![BREAKING: Ross Coulthart CALLS OUT Lue Elizondo as a UFO Gatekeeper!](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
+2. BREAKING: Ross Coulthart CALLS OUT Lue Elizondo as a UFO Gatekeeper! — reliability C4 · 1 source(s)  
+   [@ProjectUnity](https://www.youtube.com/watch?v=jkYp9peI3aI)  
+   📹 [video](https://www.youtube.com/watch?v=jkYp9peI3aI)
 
-![ARE EXTRATERRESTRIALS HELPING AWAKEN HUMAN CONSCIOUSNESS?](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
-3. ARE EXTRATERRESTRIALS HELPING AWAKEN HUMAN CONSCIOUSNESS? — reliability C4 · 1 source(s)  
-   [@SpacedOutRadio](https://www.youtube.com/watch?v=ovVvC9NI-a4)  
-   📹 [video](https://www.youtube.com/watch?v=ovVvC9NI-a4)
+![Deep Tech CEO Speaks Up On AI Threats, UFO Coverups & Ancient Civilisations](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
+3. Deep Tech CEO Speaks Up On AI Threats, UFO Coverups & Ancient Civilisations — reliability C4 · 1 source(s)  
+   [@ProjectUnity](https://www.youtube.com/watch?v=v4e0rsklWPM)  
+   📹 [video](https://www.youtube.com/watch?v=v4e0rsklWPM)
 
-![THIS GUY hunts down MONSTERS and LEGENDS!](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-4. THIS GUY hunts down MONSTERS and LEGENDS! — reliability C4 · 1 source(s)  
-   [@SpacedOutRadio](https://www.youtube.com/watch?v=kREHg4IDyBo)  
-   📹 [video](https://www.youtube.com/watch?v=kREHg4IDyBo)
-
-![CHASING GHOSTS INTO THE DEAD OF NIGHT](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. CHASING GHOSTS INTO THE DEAD OF NIGHT — reliability C4 · 1 source(s)  
-   [@SpacedOutRadio](https://www.youtube.com/watch?v=rgp6azDQtUM)  
-   📹 [video](https://www.youtube.com/watch?v=rgp6azDQtUM)
+![NASA Plasmoids Are They Alive? Shocking Research Revealed!](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
+4. NASA Plasmoids Are They Alive? Shocking Research Revealed! — reliability C4 · 1 source(s)  
+   [@ProjectUnity](https://www.youtube.com/shorts/H9utxvygRCc)  
+   📹 [video](https://www.youtube.com/watch?v=F0rYPr-pnWs&t=1764s) · [video](https://www.youtube.com/shorts/H9utxvygRCc)
 
 ---
 *Powered by Science Bob News. Free to use with credit (see [LICENSE](LICENSE)). Social-feed headlines are factual restatements in the engine's own words; podcast entries use the episode title. Click through to the linked sources for originals. Reposts of a single origin are collapsed to one source; candidate prosaic explanations are flagged where offered. Machine-readable feed: [feed.json](feed.json).*

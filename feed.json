@@ -2,11 +2,30 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-08-25 02:30 UTC",
+  "generated_utc": "2026-08-25 02:40 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
-      "headline": "SHE WENT LOOKING FOR BIGFOOT — THEN IT FOUND HER",
+      "headline": "UAP whistleblower testimony reported",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A4",
+      "p_credible": 0.55,
+      "independent_sources": 1,
+      "platforms": [
+        "bluesky"
+      ],
+      "sources": [
+        {
+          "handle": "did:plc:ydtkqchf6rjsto4ipsbriwid",
+          "url": "https://bsky.app/profile/did:plc:ydtkqchf6rjsto4ipsbriwid/post/3mtus4k2o3m2j"
+        }
+      ],
+      "videos": [],
+      "update": false
+    },
+    {
+      "headline": "I Found New Evidence… The UFO Program “Smoking Gun” Document Is Real!",
       "lane": "podcast",
       "status": "DEVELOPING",
       "reliability": "C4",
@@ -17,17 +36,17 @@
       ],
       "sources": [
         {
-          "handle": "SpacedOutRadio",
-          "url": "https://www.youtube.com/watch?v=Yja5AEz8ck4"
+          "handle": "ProjectUnity",
+          "url": "https://www.youtube.com/watch?v=IyTeV6kko5A"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=Yja5AEz8ck4"
+        "https://www.youtube.com/watch?v=IyTeV6kko5A"
       ],
       "update": false
     },
     {
-      "headline": "GRANT CAMERON – UFOs, Disclosure & The Consciousness Connection",
+      "headline": "BREAKING: Ross Coulthart CALLS OUT Lue Elizondo as a UFO Gatekeeper!",
       "lane": "podcast",
       "status": "DEVELOPING",
       "reliability": "C4",
@@ -38,17 +57,17 @@
       ],
       "sources": [
         {
-          "handle": "SpacedOutRadio",
-          "url": "https://www.youtube.com/watch?v=Ug6sVd7i5YI"
+          "handle": "ProjectUnity",
+          "url": "https://www.youtube.com/watch?v=jkYp9peI3aI"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=Ug6sVd7i5YI"
+        "https://www.youtube.com/watch?v=jkYp9peI3aI"
       ],
       "update": false
     },
     {
-      "headline": "ARE EXTRATERRESTRIALS HELPING AWAKEN HUMAN CONSCIOUSNESS?",
+      "headline": "Deep Tech CEO Speaks Up On AI Threats, UFO Coverups & Ancient Civilisations",
       "lane": "podcast",
       "status": "DEVELOPING",
       "reliability": "C4",
@@ -59,17 +78,17 @@
       ],
       "sources": [
         {
-          "handle": "SpacedOutRadio",
-          "url": "https://www.youtube.com/watch?v=ovVvC9NI-a4"
+          "handle": "ProjectUnity",
+          "url": "https://www.youtube.com/watch?v=v4e0rsklWPM"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=ovVvC9NI-a4"
+        "https://www.youtube.com/watch?v=v4e0rsklWPM"
       ],
       "update": false
     },
     {
-      "headline": "THIS GUY hunts down MONSTERS and LEGENDS!",
+      "headline": "NASA Plasmoids Are They Alive? Shocking Research Revealed!",
       "lane": "podcast",
       "status": "DEVELOPING",
       "reliability": "C4",
@@ -80,33 +99,13 @@
       ],
       "sources": [
         {
-          "handle": "SpacedOutRadio",
-          "url": "https://www.youtube.com/watch?v=kREHg4IDyBo"
+          "handle": "ProjectUnity",
+          "url": "https://www.youtube.com/shorts/H9utxvygRCc"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=kREHg4IDyBo"
-      ],
-      "update": false
-    },
-    {
-      "headline": "CHASING GHOSTS INTO THE DEAD OF NIGHT",
-      "lane": "podcast",
-      "status": "DEVELOPING",
-      "reliability": "C4",
-      "p_credible": 0.55,
-      "independent_sources": 1,
-      "platforms": [
-        "youtube"
-      ],
-      "sources": [
-        {
-          "handle": "SpacedOutRadio",
-          "url": "https://www.youtube.com/watch?v=rgp6azDQtUM"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=rgp6azDQtUM"
+        "https://www.youtube.com/watch?v=F0rYPr-pnWs&t=1764s",
+        "https://www.youtube.com/shorts/H9utxvygRCc"
       ],
       "update": false
     }
