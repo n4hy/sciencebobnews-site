@@ -2,11 +2,34 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-08-25 07:00 UTC",
+  "generated_utc": "2026-09-08 08:40 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
-      "headline": "OFFICIAL DENIAL | Syfy's First Original Film",
+      "headline": "UAP whistleblower testimony reported",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A3",
+      "p_credible": 1.0,
+      "independent_sources": 2,
+      "platforms": [
+        "mastodon"
+      ],
+      "sources": [
+        {
+          "handle": "KilleansRow@mastodon.online",
+          "url": "https://mastodon.online/@KilleansRow/117233792743952076"
+        },
+        {
+          "handle": "n_dimension@infosec.exchange",
+          "url": "https://infosec.exchange/@n_dimension/117177734564895371"
+        }
+      ],
+      "videos": [],
+      "update": false
+    },
+    {
+      "headline": "A New Wave of UFO News - Why They’re Spying on Whistleblowers",
       "lane": "podcast",
       "status": "DEVELOPING",
       "reliability": "C4",
@@ -17,17 +40,17 @@
       ],
       "sources": [
         {
-          "handle": "NeedToKnow",
-          "url": "https://www.youtube.com/watch?v=ZegQhxJrJGo"
+          "handle": "Weaponized",
+          "url": "https://www.youtube.com/watch?v=mNfsX2RbZ2M"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=ZegQhxJrJGo"
+        "https://www.youtube.com/watch?v=mNfsX2RbZ2M"
       ],
       "update": false
     },
     {
-      "headline": "SHE WENT LOOKING FOR BIGFOOT — THEN IT FOUND HER",
+      "headline": "The UFO Wizard: Searching for UFO's and Disclosure",
       "lane": "podcast",
       "status": "DEVELOPING",
       "reliability": "C4",
@@ -39,16 +62,16 @@
       "sources": [
         {
           "handle": "SpacedOutRadio",
-          "url": "https://www.youtube.com/watch?v=Yja5AEz8ck4"
+          "url": "https://www.youtube.com/watch?v=YlvkfvRRrr4"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=Yja5AEz8ck4"
+        "https://www.youtube.com/watch?v=YlvkfvRRrr4"
       ],
       "update": false
     },
     {
-      "headline": "GRANT CAMERON – UFOs, Disclosure & The Consciousness Connection",
+      "headline": "Pentagon Whistleblower: \"We Reverse Engineered UFO Propulsion\"",
       "lane": "podcast",
       "status": "DEVELOPING",
       "reliability": "C4",
@@ -59,17 +82,18 @@
       ],
       "sources": [
         {
-          "handle": "SpacedOutRadio",
-          "url": "https://www.youtube.com/watch?v=Ug6sVd7i5YI"
+          "handle": "AmericanAlchemy",
+          "url": "https://www.youtube.com/watch?v=T-jgL2h_ii0"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=Ug6sVd7i5YI"
+        "https://www.youtube.com/watch?v=T-jgL2h_ii0",
+        "https://youtu.be/yGtVzBbUvx4"
       ],
       "update": false
     },
     {
-      "headline": "Richard Dolan: UFO/UAP and Whistleblower Breaking News",
+      "headline": "Space Symposium Hosts First-Ever UFO Panel - David Grusch, Rep Burlison, Rod Roddenberry & Mike Gold",
       "lane": "podcast",
       "status": "DEVELOPING",
       "reliability": "C4",
@@ -80,33 +104,12 @@
       ],
       "sources": [
         {
-          "handle": "FadeToBlack",
-          "url": "https://www.youtube.com/watch?v=7gRh5EYbNrQ"
+          "handle": "Weaponized",
+          "url": "https://www.youtube.com/watch?v=Ayf92m7zPFY"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=7gRh5EYbNrQ"
-      ],
-      "update": false
-    },
-    {
-      "headline": "Ep 2343: Noe Torres: South Texas UFOs",
-      "lane": "podcast",
-      "status": "DEVELOPING",
-      "reliability": "C4",
-      "p_credible": 0.55,
-      "independent_sources": 1,
-      "platforms": [
-        "youtube"
-      ],
-      "sources": [
-        {
-          "handle": "FadeToBlack",
-          "url": "https://www.youtube.com/watch?v=LYEYjdbYW9I"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=LYEYjdbYW9I"
+        "https://www.youtube.com/watch?v=Ayf92m7zPFY"
       ],
       "update": false
     }
