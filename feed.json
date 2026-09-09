@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-09-08 14:40 UTC",
+  "generated_utc": "2026-09-09 19:30 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
@@ -48,7 +48,7 @@
       "update": false
     },
     {
-      "headline": "UAP report",
+      "headline": "Official UAP statement reported",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A4",
@@ -59,8 +59,8 @@
       ],
       "sources": [
         {
-          "handle": "verdadeufo",
-          "url": "https://mastodon.social/@verdadeufo/117221979506564378"
+          "handle": "vibewire@mastodon.au",
+          "url": "https://mastodon.au/@vibewire/117241308166174247"
         }
       ],
       "videos": [],
@@ -79,14 +79,14 @@
       "sources": [
         {
           "handle": "vibewire@mastodon.au",
-          "url": "https://mastodon.au/@vibewire/117235926123378620"
+          "url": "https://mastodon.au/@vibewire/117241756450321555"
         }
       ],
       "videos": [],
       "update": false
     },
     {
-      "headline": "Unidentified submerged object (USO) reported",
+      "headline": "UAP report",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A4",
@@ -97,8 +97,8 @@
       ],
       "sources": [
         {
-          "handle": "ScienceBob",
-          "url": "https://mastodon.social/@ScienceBob/117234834847695075"
+          "handle": "verdadeufo",
+          "url": "https://mastodon.social/@verdadeufo/117221979506564378"
         }
       ],
       "videos": [],
