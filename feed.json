@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-09-10 00:40 UTC",
+  "generated_utc": "2026-09-10 00:50 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
@@ -93,7 +93,7 @@
       "update": false
     },
     {
-      "headline": "Pentagon Whistleblower: \"We Reverse Engineered UFO Propulsion\"",
+      "headline": "The UFO Wizard: Searching for UFO's and Disclosure",
       "lane": "podcast",
       "status": "DEVELOPING",
       "reliability": "C4",
@@ -104,13 +104,12 @@
       ],
       "sources": [
         {
-          "handle": "AmericanAlchemy",
-          "url": "https://www.youtube.com/watch?v=T-jgL2h_ii0"
+          "handle": "SpacedOutRadio",
+          "url": "https://www.youtube.com/watch?v=YlvkfvRRrr4"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=T-jgL2h_ii0",
-        "https://youtu.be/yGtVzBbUvx4"
+        "https://www.youtube.com/watch?v=YlvkfvRRrr4"
       ],
       "update": false
     }
