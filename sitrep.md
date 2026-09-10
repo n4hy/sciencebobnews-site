@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-09-10 04:30 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-09-10 04:40 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 _No corroborated reports this cycle._
@@ -8,7 +8,7 @@ _No corroborated reports this cycle._
 
 ![UAP whistleblower testimony reported](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
 1. UAP whistleblower testimony reported — reliability A3 · 2 source(s)  
-   [@KilleansRow@mastodon.online](https://mastodon.online/@KilleansRow/117233792743952076) · [@n_dimension@infosec.exchange](https://infosec.exchange/@n_dimension/117177734564895371)
+   [@KilleansRow@mastodon.online](https://mastodon.online/@KilleansRow/117244871322514253) · [@n_dimension@infosec.exchange](https://infosec.exchange/@n_dimension/117177734564895371)
 
 ![UAP whistleblower testimony reported](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
 2. UAP whistleblower testimony reported — reliability A4 · 1 source(s)  
