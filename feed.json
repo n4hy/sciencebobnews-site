@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-09-10 16:30 UTC",
+  "generated_utc": "2026-09-10 16:40 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
@@ -29,79 +29,87 @@
       "update": false
     },
     {
-      "headline": "UAP whistleblower testimony reported",
-      "lane": "developing",
+      "headline": "Dan Aykroyd's Phone Message of December 17, 2017 (Excerpt from SLF #18)",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "A4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "veryexcitingtime",
-          "url": "https://mastodon.social/@veryexcitingtime/117187002221640183"
+          "handle": "NeedToKnow",
+          "url": "https://www.youtube.com/watch?v=by3UKCaVOBg"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=by3UKCaVOBg"
+      ],
       "update": false
     },
     {
-      "headline": "UAP report",
-      "lane": "developing",
+      "headline": "#29 THE X-FILES: THE TRUTH IS COMPLICATED | Sound, Light & Frequency",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "A4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "verdadeufo",
-          "url": "https://mastodon.social/@verdadeufo/117221979506564378"
+          "handle": "NeedToKnow",
+          "url": "https://www.youtube.com/watch?v=-q-WseItlrE"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=-q-WseItlrE"
+      ],
       "update": false
     },
     {
-      "headline": "Official UAP statement reported",
-      "lane": "developing",
+      "headline": "#20 MISSING TIME IT WAS — Sound, Light & Frequency",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "A4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "vibewire@mastodon.au",
-          "url": "https://mastodon.au/@vibewire/117247612054069794"
+          "handle": "NeedToKnow",
+          "url": "https://www.youtube.com/watch?v=5CEjriSzF1g"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=5CEjriSzF1g"
+      ],
       "update": false
     },
     {
-      "headline": "Unidentified submerged object (USO) reported",
-      "lane": "developing",
+      "headline": "Bryce Zabel on The Dr. Phil Podcast (Excerpts)",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "A4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "ScienceBob",
-          "url": "https://mastodon.social/@ScienceBob/117245451339818664"
+          "handle": "NeedToKnow",
+          "url": "https://www.youtube.com/watch?v=QscaracBciE"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=QscaracBciE"
+      ],
       "update": false
     }
   ]
