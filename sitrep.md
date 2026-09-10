@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-09-10 02:50 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-09-10 04:30 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 _No corroborated reports this cycle._
@@ -16,11 +16,11 @@ _No corroborated reports this cycle._
 
 ![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
 3. Official UAP statement reported — reliability A4 · 1 source(s)  
-   [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117241756450321555)
+   [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117241308166174247)
 
 ![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
 4. Official UAP statement reported — reliability A4 · 1 source(s)  
-   [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117241308166174247)
+   [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117241756450321555)
 
 ![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
 5. UAP report — reliability A4 · 1 source(s)  
