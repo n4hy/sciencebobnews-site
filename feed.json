@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-09-10 01:50 UTC",
+  "generated_utc": "2026-09-10 02:00 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
@@ -29,87 +29,79 @@
       "update": false
     },
     {
-      "headline": "The UFO Wizard: Searching for UFO's and Disclosure",
-      "lane": "podcast",
+      "headline": "UAP whistleblower testimony reported",
+      "lane": "developing",
       "status": "DEVELOPING",
-      "reliability": "C4",
+      "reliability": "A4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "youtube"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "SpacedOutRadio",
-          "url": "https://www.youtube.com/watch?v=YlvkfvRRrr4"
+          "handle": "veryexcitingtime",
+          "url": "https://mastodon.social/@veryexcitingtime/117187002221640183"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=YlvkfvRRrr4"
-      ],
+      "videos": [],
       "update": false
     },
     {
-      "headline": "Michael Ryan: Canada’s Most Mysterious UFO Encounters & Witness Cases",
-      "lane": "podcast",
+      "headline": "Official UAP statement reported",
+      "lane": "developing",
       "status": "DEVELOPING",
-      "reliability": "C4",
+      "reliability": "A4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "youtube"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "SpacedOutRadio",
-          "url": "https://www.youtube.com/watch?v=hxXz6IMncjY"
+          "handle": "vibewire@mastodon.au",
+          "url": "https://mastodon.au/@vibewire/117241756450321555"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=hxXz6IMncjY"
-      ],
+      "videos": [],
       "update": false
     },
     {
-      "headline": "Lon Strickler's Chasing Down the BEST Monster Stories Around!",
-      "lane": "podcast",
+      "headline": "Official UAP statement reported",
+      "lane": "developing",
       "status": "DEVELOPING",
-      "reliability": "C4",
+      "reliability": "A4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "youtube"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "SpacedOutRadio",
-          "url": "https://www.youtube.com/watch?v=pgaucE7rBgg"
+          "handle": "vibewire@mastodon.au",
+          "url": "https://mastodon.au/@vibewire/117241308166174247"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=pgaucE7rBgg"
-      ],
+      "videos": [],
       "update": false
     },
     {
-      "headline": "Bill Konkolesky: Alien Abductions, UFO Encounters & TRUE Experiencer Stories",
-      "lane": "podcast",
+      "headline": "UAP report",
+      "lane": "developing",
       "status": "DEVELOPING",
-      "reliability": "C4",
+      "reliability": "A4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "youtube"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "SpacedOutRadio",
-          "url": "https://www.youtube.com/watch?v=qdF_RT69xWw"
+          "handle": "verdadeufo",
+          "url": "https://mastodon.social/@verdadeufo/117221979506564378"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=qdF_RT69xWw"
-      ],
+      "videos": [],
       "update": false
     }
   ]
