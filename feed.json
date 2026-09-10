@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-09-10 22:10 UTC",
+  "generated_utc": "2026-09-10 22:20 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
@@ -29,88 +29,79 @@
       "update": false
     },
     {
-      "headline": "A New Wave of UFO News - Why They’re Spying on Whistleblowers",
-      "lane": "podcast",
+      "headline": "UAP whistleblower testimony reported",
+      "lane": "developing",
       "status": "DEVELOPING",
-      "reliability": "C4",
+      "reliability": "A4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "youtube"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "Weaponized",
-          "url": "https://www.youtube.com/watch?v=mNfsX2RbZ2M"
+          "handle": "veryexcitingtime",
+          "url": "https://mastodon.social/@veryexcitingtime/117187002221640183"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=mNfsX2RbZ2M"
-      ],
+      "videos": [],
       "update": false
     },
     {
-      "headline": "“AARO TRIED TO FORCE HIM INTO A SCIF TO SILENCE HIM”",
-      "lane": "podcast",
+      "headline": "UAP report",
+      "lane": "developing",
       "status": "DEVELOPING",
-      "reliability": "C4",
+      "reliability": "A4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "youtube"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "Weaponized",
-          "url": "https://www.youtube.com/watch?v=n2Ulq8uygYw"
+          "handle": "verdadeufo",
+          "url": "https://mastodon.social/@verdadeufo/117221979506564378"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=n2Ulq8uygYw",
-        "https://youtu.be/YEO7dy88pyw"
-      ],
+      "videos": [],
       "update": false
     },
     {
-      "headline": "He Saw Four TIC TAC UFOs - Then AARO Came Calling",
-      "lane": "podcast",
+      "headline": "Official UAP statement reported",
+      "lane": "developing",
       "status": "DEVELOPING",
-      "reliability": "C4",
+      "reliability": "A4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "youtube"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "Weaponized",
-          "url": "https://www.youtube.com/watch?v=YEO7dy88pyw"
+          "handle": "vibewire@mastodon.au",
+          "url": "https://mastodon.au/@vibewire/117247612054069794"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=YEO7dy88pyw"
-      ],
+      "videos": [],
       "update": false
     },
     {
-      "headline": "Why UAP investigations remain trapped in separate silos",
-      "lane": "podcast",
+      "headline": "Unidentified submerged object (USO) reported",
+      "lane": "developing",
       "status": "DEVELOPING",
-      "reliability": "C4",
+      "reliability": "A4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "youtube"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "Weaponized",
-          "url": "https://www.youtube.com/shorts/OmJnWCf7hr8"
+          "handle": "ScienceBob",
+          "url": "https://mastodon.social/@ScienceBob/117247810895348609"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/shorts/OmJnWCf7hr8"
-      ],
+      "videos": [],
       "update": false
     }
   ]
