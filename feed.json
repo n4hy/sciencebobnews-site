@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-09-10 22:00 UTC",
+  "generated_utc": "2026-09-10 22:10 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
@@ -29,7 +29,7 @@
       "update": false
     },
     {
-      "headline": "Dan Aykroyd's Phone Message of December 17, 2017 (Excerpt from SLF #18)",
+      "headline": "A New Wave of UFO News - Why They’re Spying on Whistleblowers",
       "lane": "podcast",
       "status": "DEVELOPING",
       "reliability": "C4",
@@ -40,17 +40,17 @@
       ],
       "sources": [
         {
-          "handle": "NeedToKnow",
-          "url": "https://www.youtube.com/watch?v=by3UKCaVOBg"
+          "handle": "Weaponized",
+          "url": "https://www.youtube.com/watch?v=mNfsX2RbZ2M"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=by3UKCaVOBg"
+        "https://www.youtube.com/watch?v=mNfsX2RbZ2M"
       ],
       "update": false
     },
     {
-      "headline": "#29 THE X-FILES: THE TRUTH IS COMPLICATED | Sound, Light & Frequency",
+      "headline": "“AARO TRIED TO FORCE HIM INTO A SCIF TO SILENCE HIM”",
       "lane": "podcast",
       "status": "DEVELOPING",
       "reliability": "C4",
@@ -61,17 +61,18 @@
       ],
       "sources": [
         {
-          "handle": "NeedToKnow",
-          "url": "https://www.youtube.com/watch?v=-q-WseItlrE"
+          "handle": "Weaponized",
+          "url": "https://www.youtube.com/watch?v=n2Ulq8uygYw"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=-q-WseItlrE"
+        "https://www.youtube.com/watch?v=n2Ulq8uygYw",
+        "https://youtu.be/YEO7dy88pyw"
       ],
       "update": false
     },
     {
-      "headline": "#20 MISSING TIME IT WAS — Sound, Light & Frequency",
+      "headline": "He Saw Four TIC TAC UFOs - Then AARO Came Calling",
       "lane": "podcast",
       "status": "DEVELOPING",
       "reliability": "C4",
@@ -82,17 +83,17 @@
       ],
       "sources": [
         {
-          "handle": "NeedToKnow",
-          "url": "https://www.youtube.com/watch?v=5CEjriSzF1g"
+          "handle": "Weaponized",
+          "url": "https://www.youtube.com/watch?v=YEO7dy88pyw"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=5CEjriSzF1g"
+        "https://www.youtube.com/watch?v=YEO7dy88pyw"
       ],
       "update": false
     },
     {
-      "headline": "Bryce Zabel on The Dr. Phil Podcast (Excerpts)",
+      "headline": "Why UAP investigations remain trapped in separate silos",
       "lane": "podcast",
       "status": "DEVELOPING",
       "reliability": "C4",
@@ -103,12 +104,12 @@
       ],
       "sources": [
         {
-          "handle": "NeedToKnow",
-          "url": "https://www.youtube.com/watch?v=QscaracBciE"
+          "handle": "Weaponized",
+          "url": "https://www.youtube.com/shorts/OmJnWCf7hr8"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=QscaracBciE"
+        "https://www.youtube.com/shorts/OmJnWCf7hr8"
       ],
       "update": false
     }

@@ -1,36 +1,36 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-09-10 22:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-09-10 22:10 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 _No corroborated reports this cycle._
 
 ## Developing / unconfirmed
 
-![UAP whistleblower testimony reported](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
+![UAP whistleblower testimony reported](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
 1. UAP whistleblower testimony reported — reliability A3 · 2 source(s)  
    [@KilleansRow@mastodon.online](https://mastodon.online/@KilleansRow/117244871322514253) · [@n_dimension@infosec.exchange](https://infosec.exchange/@n_dimension/117177734564895371)
 
 ## Disclosure podcasts
 
-![Dan Aykroyd's Phone Message of December 17, 2017 (Excerpt from SLF #18)](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
-1. Dan Aykroyd's Phone Message of December 17, 2017 (Excerpt from SLF #18) — reliability C4 · 1 source(s)  
-   [@NeedToKnow](https://www.youtube.com/watch?v=by3UKCaVOBg)  
-   📹 [video](https://www.youtube.com/watch?v=by3UKCaVOBg)
+![A New Wave of UFO News - Why They’re Spying on Whistleblowers](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
+1. A New Wave of UFO News - Why They’re Spying on Whistleblowers — reliability C4 · 1 source(s)  
+   [@Weaponized](https://www.youtube.com/watch?v=mNfsX2RbZ2M)  
+   📹 [video](https://www.youtube.com/watch?v=mNfsX2RbZ2M)
 
-![#29 THE X-FILES: THE TRUTH IS COMPLICATED | Sound, Light & Frequency](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
-2. #29 THE X-FILES: THE TRUTH IS COMPLICATED | Sound, Light & Frequency — reliability C4 · 1 source(s)  
-   [@NeedToKnow](https://www.youtube.com/watch?v=-q-WseItlrE)  
-   📹 [video](https://www.youtube.com/watch?v=-q-WseItlrE)
+![“AARO TRIED TO FORCE HIM INTO A SCIF TO SILENCE HIM”](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
+2. “AARO TRIED TO FORCE HIM INTO A SCIF TO SILENCE HIM” — reliability C4 · 1 source(s)  
+   [@Weaponized](https://www.youtube.com/watch?v=n2Ulq8uygYw)  
+   📹 [video](https://www.youtube.com/watch?v=n2Ulq8uygYw) · [video](https://youtu.be/YEO7dy88pyw)
 
-![#20 MISSING TIME IT WAS — Sound, Light & Frequency](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-3. #20 MISSING TIME IT WAS — Sound, Light & Frequency — reliability C4 · 1 source(s)  
-   [@NeedToKnow](https://www.youtube.com/watch?v=5CEjriSzF1g)  
-   📹 [video](https://www.youtube.com/watch?v=5CEjriSzF1g)
+![He Saw Four TIC TAC UFOs - Then AARO Came Calling](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
+3. He Saw Four TIC TAC UFOs - Then AARO Came Calling — reliability C4 · 1 source(s)  
+   [@Weaponized](https://www.youtube.com/watch?v=YEO7dy88pyw)  
+   📹 [video](https://www.youtube.com/watch?v=YEO7dy88pyw)
 
-![Bryce Zabel on The Dr. Phil Podcast (Excerpts)](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-4. Bryce Zabel on The Dr. Phil Podcast (Excerpts) — reliability C4 · 1 source(s)  
-   [@NeedToKnow](https://www.youtube.com/watch?v=QscaracBciE)  
-   📹 [video](https://www.youtube.com/watch?v=QscaracBciE)
+![Why UAP investigations remain trapped in separate silos](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
+4. Why UAP investigations remain trapped in separate silos — reliability C4 · 1 source(s)  
+   [@Weaponized](https://www.youtube.com/shorts/OmJnWCf7hr8)  
+   📹 [video](https://www.youtube.com/shorts/OmJnWCf7hr8)
 
 ---
 *Powered by Science Bob News. Free to use with credit (see [LICENSE](LICENSE)). Social-feed headlines are factual restatements in the engine's own words; podcast entries use the episode title. Click through to the linked sources for originals. Reposts of a single origin are collapsed to one source; candidate prosaic explanations are flagged where offered. Machine-readable feed: [feed.json](feed.json).*
