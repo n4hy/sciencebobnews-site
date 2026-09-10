@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-09-10 02:20 UTC",
+  "generated_utc": "2026-09-10 02:30 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
@@ -29,70 +29,6 @@
       "update": false
     },
     {
-      "headline": "A New Wave of UFO News - Why They’re Spying on Whistleblowers",
-      "lane": "podcast",
-      "status": "DEVELOPING",
-      "reliability": "C4",
-      "p_credible": 0.55,
-      "independent_sources": 1,
-      "platforms": [
-        "youtube"
-      ],
-      "sources": [
-        {
-          "handle": "Weaponized",
-          "url": "https://www.youtube.com/watch?v=mNfsX2RbZ2M"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=mNfsX2RbZ2M"
-      ],
-      "update": false
-    },
-    {
-      "headline": "“AARO TRIED TO FORCE HIM INTO A SCIF TO SILENCE HIM”",
-      "lane": "podcast",
-      "status": "DEVELOPING",
-      "reliability": "C4",
-      "p_credible": 0.55,
-      "independent_sources": 1,
-      "platforms": [
-        "youtube"
-      ],
-      "sources": [
-        {
-          "handle": "Weaponized",
-          "url": "https://www.youtube.com/watch?v=n2Ulq8uygYw"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=n2Ulq8uygYw",
-        "https://youtu.be/YEO7dy88pyw"
-      ],
-      "update": false
-    },
-    {
-      "headline": "He Saw Four TIC TAC UFOs - Then AARO Came Calling",
-      "lane": "podcast",
-      "status": "DEVELOPING",
-      "reliability": "C4",
-      "p_credible": 0.55,
-      "independent_sources": 1,
-      "platforms": [
-        "youtube"
-      ],
-      "sources": [
-        {
-          "handle": "Weaponized",
-          "url": "https://www.youtube.com/watch?v=YEO7dy88pyw"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=YEO7dy88pyw"
-      ],
-      "update": false
-    },
-    {
       "headline": "The UFO Wizard: Searching for UFO's and Disclosure",
       "lane": "podcast",
       "status": "DEVELOPING",
@@ -110,6 +46,70 @@
       ],
       "videos": [
         "https://www.youtube.com/watch?v=YlvkfvRRrr4"
+      ],
+      "update": false
+    },
+    {
+      "headline": "Pentagon Whistleblower: \"We Reverse Engineered UFO Propulsion\"",
+      "lane": "podcast",
+      "status": "DEVELOPING",
+      "reliability": "C4",
+      "p_credible": 0.55,
+      "independent_sources": 1,
+      "platforms": [
+        "youtube"
+      ],
+      "sources": [
+        {
+          "handle": "AmericanAlchemy",
+          "url": "https://www.youtube.com/watch?v=T-jgL2h_ii0"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=T-jgL2h_ii0",
+        "https://youtu.be/yGtVzBbUvx4"
+      ],
+      "update": false
+    },
+    {
+      "headline": "Dan Aykroyd's Phone Message of December 17, 2017 (Excerpt from SLF #18)",
+      "lane": "podcast",
+      "status": "DEVELOPING",
+      "reliability": "C4",
+      "p_credible": 0.55,
+      "independent_sources": 1,
+      "platforms": [
+        "youtube"
+      ],
+      "sources": [
+        {
+          "handle": "NeedToKnow",
+          "url": "https://www.youtube.com/watch?v=by3UKCaVOBg"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=by3UKCaVOBg"
+      ],
+      "update": false
+    },
+    {
+      "headline": "#29 THE X-FILES: THE TRUTH IS COMPLICATED | Sound, Light & Frequency",
+      "lane": "podcast",
+      "status": "DEVELOPING",
+      "reliability": "C4",
+      "p_credible": 0.55,
+      "independent_sources": 1,
+      "platforms": [
+        "youtube"
+      ],
+      "sources": [
+        {
+          "handle": "NeedToKnow",
+          "url": "https://www.youtube.com/watch?v=-q-WseItlrE"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=-q-WseItlrE"
       ],
       "update": false
     }
