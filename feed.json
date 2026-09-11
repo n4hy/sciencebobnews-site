@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-09-11 02:00 UTC",
+  "generated_utc": "2026-09-11 02:10 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
@@ -26,28 +26,6 @@
         }
       ],
       "videos": [],
-      "update": false
-    },
-    {
-      "headline": "Pentagon Whistleblower: \"We Reverse Engineered UFO Propulsion\"",
-      "lane": "podcast",
-      "status": "DEVELOPING",
-      "reliability": "C4",
-      "p_credible": 0.55,
-      "independent_sources": 1,
-      "platforms": [
-        "youtube"
-      ],
-      "sources": [
-        {
-          "handle": "AmericanAlchemy",
-          "url": "https://www.youtube.com/watch?v=T-jgL2h_ii0"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=T-jgL2h_ii0",
-        "https://youtu.be/yGtVzBbUvx4"
-      ],
       "update": false
     },
     {
@@ -93,7 +71,7 @@
       "update": false
     },
     {
-      "headline": "Ep 2346: Dr. Jonathan Kendall: The Mystery of UFOs",
+      "headline": "#20 MISSING TIME IT WAS — Sound, Light & Frequency",
       "lane": "podcast",
       "status": "DEVELOPING",
       "reliability": "C4",
@@ -104,12 +82,33 @@
       ],
       "sources": [
         {
-          "handle": "FadeToBlack",
-          "url": "https://www.youtube.com/watch?v=jb7Q9V4tmUw"
+          "handle": "NeedToKnow",
+          "url": "https://www.youtube.com/watch?v=5CEjriSzF1g"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=jb7Q9V4tmUw"
+        "https://www.youtube.com/watch?v=5CEjriSzF1g"
+      ],
+      "update": false
+    },
+    {
+      "headline": "Bryce Zabel on The Dr. Phil Podcast (Excerpts)",
+      "lane": "podcast",
+      "status": "DEVELOPING",
+      "reliability": "C4",
+      "p_credible": 0.55,
+      "independent_sources": 1,
+      "platforms": [
+        "youtube"
+      ],
+      "sources": [
+        {
+          "handle": "NeedToKnow",
+          "url": "https://www.youtube.com/watch?v=QscaracBciE"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=QscaracBciE"
       ],
       "update": false
     }
