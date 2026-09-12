@@ -2,113 +2,102 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-09-12 03:40 UTC",
+  "generated_utc": "2026-09-12 04:00 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
-      "headline": "A New Wave of UFO News - Why They’re Spying on Whistleblowers",
-      "lane": "podcast",
+      "headline": "UAP whistleblower testimony reported",
+      "lane": "developing",
       "status": "DEVELOPING",
-      "reliability": "C4",
+      "reliability": "A4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "youtube"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "Weaponized",
-          "url": "https://www.youtube.com/watch?v=mNfsX2RbZ2M"
+          "handle": "veryexcitingtime",
+          "url": "https://mastodon.social/@veryexcitingtime/117187002221640183"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=mNfsX2RbZ2M"
-      ],
+      "videos": [],
       "update": false
     },
     {
-      "headline": "“AARO TRIED TO FORCE HIM INTO A SCIF TO SILENCE HIM”",
-      "lane": "podcast",
+      "headline": "Official UAP statement reported",
+      "lane": "developing",
       "status": "DEVELOPING",
-      "reliability": "C4",
+      "reliability": "A4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "youtube"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "Weaponized",
-          "url": "https://www.youtube.com/watch?v=n2Ulq8uygYw"
+          "handle": "vibewire@mastodon.au",
+          "url": "https://mastodon.au/@vibewire/117253672350509704"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=n2Ulq8uygYw",
-        "https://youtu.be/YEO7dy88pyw"
-      ],
+      "videos": [],
       "update": false
     },
     {
-      "headline": "He Saw Four TIC TAC UFOs - Then AARO Came Calling",
-      "lane": "podcast",
+      "headline": "Official UAP statement reported",
+      "lane": "developing",
       "status": "DEVELOPING",
-      "reliability": "C4",
+      "reliability": "A4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "youtube"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "Weaponized",
-          "url": "https://www.youtube.com/watch?v=YEO7dy88pyw"
+          "handle": "vibewire@mastodon.au",
+          "url": "https://mastodon.au/@vibewire/117253448364686520"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=YEO7dy88pyw"
-      ],
+      "videos": [],
       "update": false
     },
     {
-      "headline": "Why UAP investigations remain trapped in separate silos",
-      "lane": "podcast",
+      "headline": "Official UAP statement reported",
+      "lane": "developing",
       "status": "DEVELOPING",
-      "reliability": "C4",
+      "reliability": "A4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "youtube"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "Weaponized",
-          "url": "https://www.youtube.com/shorts/OmJnWCf7hr8"
+          "handle": "KilleansRow@mastodon.online",
+          "url": "https://mastodon.online/@KilleansRow/117244871322514253"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/shorts/OmJnWCf7hr8"
-      ],
+      "videos": [],
       "update": false
     },
     {
-      "headline": "They Tried To Frame UFO Whistleblower Dylan Borland For Treason",
-      "lane": "podcast",
+      "headline": "UAP report",
+      "lane": "developing",
       "status": "DEVELOPING",
-      "reliability": "C4",
+      "reliability": "A4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "youtube"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "Weaponized",
-          "url": "https://www.youtube.com/watch?v=7OT6uJ0yzVY"
+          "handle": "verdadeufo",
+          "url": "https://mastodon.social/@verdadeufo/117221979506564378"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=7OT6uJ0yzVY"
-      ],
+      "videos": [],
       "update": false
     }
   ]
