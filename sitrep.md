@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-09-12 05:20 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-09-12 05:30 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 _No corroborated reports this cycle._
@@ -9,30 +9,30 @@ _None._
 
 ## Disclosure podcasts
 
-![Dan Aykroyd's Phone Message of December 17, 2017 (Excerpt from SLF #18)](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
-1. Dan Aykroyd's Phone Message of December 17, 2017 (Excerpt from SLF #18) — reliability C4 · 1 source(s)  
-   [@NeedToKnow](https://www.youtube.com/watch?v=by3UKCaVOBg)  
-   📹 [video](https://www.youtube.com/watch?v=by3UKCaVOBg)
+![A New Wave of UFO News - Why They’re Spying on Whistleblowers](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
+1. A New Wave of UFO News - Why They’re Spying on Whistleblowers — reliability C4 · 1 source(s)  
+   [@Weaponized](https://www.youtube.com/watch?v=mNfsX2RbZ2M)  
+   📹 [video](https://www.youtube.com/watch?v=mNfsX2RbZ2M)
 
-![#29 THE X-FILES: THE TRUTH IS COMPLICATED | Sound, Light & Frequency](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
-2. #29 THE X-FILES: THE TRUTH IS COMPLICATED | Sound, Light & Frequency — reliability C4 · 1 source(s)  
-   [@NeedToKnow](https://www.youtube.com/watch?v=-q-WseItlrE)  
-   📹 [video](https://www.youtube.com/watch?v=-q-WseItlrE)
+![“AARO TRIED TO FORCE HIM INTO A SCIF TO SILENCE HIM”](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
+2. “AARO TRIED TO FORCE HIM INTO A SCIF TO SILENCE HIM” — reliability C4 · 1 source(s)  
+   [@Weaponized](https://www.youtube.com/watch?v=n2Ulq8uygYw)  
+   📹 [video](https://www.youtube.com/watch?v=n2Ulq8uygYw) · [video](https://youtu.be/YEO7dy88pyw)
 
-![Disclosure Capitol Steps](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
-3. Disclosure Capitol Steps — reliability C4 · 1 source(s)  
-   [@OrbisParanormal](https://www.youtube.com/watch?v=VM8ZX9-ruUM)  
-   📹 [video](https://www.youtube.com/watch?v=VM8ZX9-ruUM)
+![He Saw Four TIC TAC UFOs - Then AARO Came Calling](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
+3. He Saw Four TIC TAC UFOs - Then AARO Came Calling — reliability C4 · 1 source(s)  
+   [@Weaponized](https://www.youtube.com/watch?v=YEO7dy88pyw)  
+   📹 [video](https://www.youtube.com/watch?v=YEO7dy88pyw)
 
-![#20 MISSING TIME IT WAS — Sound, Light & Frequency](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-4. #20 MISSING TIME IT WAS — Sound, Light & Frequency — reliability C4 · 1 source(s)  
-   [@NeedToKnow](https://www.youtube.com/watch?v=5CEjriSzF1g)  
-   📹 [video](https://www.youtube.com/watch?v=5CEjriSzF1g)
+![Why UAP investigations remain trapped in separate silos](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
+4. Why UAP investigations remain trapped in separate silos — reliability C4 · 1 source(s)  
+   [@Weaponized](https://www.youtube.com/shorts/OmJnWCf7hr8)  
+   📹 [video](https://www.youtube.com/shorts/OmJnWCf7hr8)
 
-![Bryce Zabel on The Dr. Phil Podcast (Excerpts)](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. Bryce Zabel on The Dr. Phil Podcast (Excerpts) — reliability C4 · 1 source(s)  
-   [@NeedToKnow](https://www.youtube.com/watch?v=QscaracBciE)  
-   📹 [video](https://www.youtube.com/watch?v=QscaracBciE)
+![They Tried To Frame UFO Whistleblower Dylan Borland For Treason](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+5. They Tried To Frame UFO Whistleblower Dylan Borland For Treason — reliability C4 · 1 source(s)  
+   [@Weaponized](https://www.youtube.com/watch?v=7OT6uJ0yzVY)  
+   📹 [video](https://www.youtube.com/watch?v=7OT6uJ0yzVY)
 
 ---
 *Powered by Science Bob News. Free to use with credit (see [LICENSE](LICENSE)). Social-feed headlines are factual restatements in the engine's own words; podcast entries use the episode title. Click through to the linked sources for originals. Reposts of a single origin are collapsed to one source; candidate prosaic explanations are flagged where offered. Machine-readable feed: [feed.json](feed.json).*
