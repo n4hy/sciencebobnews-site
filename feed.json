@@ -2,11 +2,11 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-09-16 17:00 UTC",
+  "generated_utc": "2026-09-21 17:30 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
-      "headline": "Unidentified submerged object (USO) reported",
+      "headline": "UAP report",
       "lane": "developing",
       "status": "DEVELOPING",
       "reliability": "A4",
@@ -18,7 +18,7 @@
       "sources": [
         {
           "handle": "ScienceBob",
-          "url": "https://mastodon.social/@ScienceBob/117279661087387778"
+          "url": "https://mastodon.social/@ScienceBob/117310096286190011"
         }
       ],
       "videos": [],
@@ -37,7 +37,26 @@
       "sources": [
         {
           "handle": "vibewire@mastodon.au",
-          "url": "https://mastodon.au/@vibewire/117281378259628014"
+          "url": "https://mastodon.au/@vibewire/117303666245858193"
+        }
+      ],
+      "videos": [],
+      "update": false
+    },
+    {
+      "headline": "Official UAP statement reported",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A4",
+      "p_credible": 0.55,
+      "independent_sources": 1,
+      "platforms": [
+        "mastodon"
+      ],
+      "sources": [
+        {
+          "handle": "vibewire@mastodon.au",
+          "url": "https://mastodon.au/@vibewire/117310176196130826"
         }
       ],
       "videos": [],
@@ -55,8 +74,8 @@
       ],
       "sources": [
         {
-          "handle": "GetMusic",
-          "url": "https://mastodon.social/@GetMusic/117278756291668916"
+          "handle": "CaptMikeYates@tech.lgbt",
+          "url": "https://tech.lgbt/@CaptMikeYates/117303446456916136"
         }
       ],
       "videos": [],
@@ -74,27 +93,8 @@
       ],
       "sources": [
         {
-          "handle": "pantaloon@famichiki.jp",
-          "url": "https://famichiki.jp/@pantaloon/117280372565090052"
-        }
-      ],
-      "videos": [],
-      "update": false
-    },
-    {
-      "headline": "UAP report",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A4",
-      "p_credible": 0.55,
-      "independent_sources": 1,
-      "platforms": [
-        "mastodon"
-      ],
-      "sources": [
-        {
-          "handle": "theyycmonk@mstdn.ca",
-          "url": "https://mstdn.ca/@theyycmonk/117281604855467925"
+          "handle": "juergen_hubert@tomes.tchncs.de",
+          "url": "https://tomes.tchncs.de/user/juergen_hubert/comment/34811"
         }
       ],
       "videos": [],
