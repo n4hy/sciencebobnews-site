@@ -2,102 +2,112 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-09-21 20:30 UTC",
+  "generated_utc": "2026-09-21 20:40 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
-      "headline": "Official UAP statement reported",
-      "lane": "developing",
+      "headline": "He Saw Four TIC TAC UFOs - Then AARO Came Calling",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "A4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "vibewire@mastodon.au",
-          "url": "https://mastodon.au/@vibewire/117303666245858193"
+          "handle": "Weaponized",
+          "url": "https://www.youtube.com/watch?v=YEO7dy88pyw"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=YEO7dy88pyw"
+      ],
       "update": false
     },
     {
-      "headline": "Official UAP statement reported",
-      "lane": "developing",
+      "headline": "Why UAP investigations remain trapped in separate silos",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "A4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "KilleansRow@mastodon.online",
-          "url": "https://mastodon.online/@KilleansRow/117307989820845026"
+          "handle": "Weaponized",
+          "url": "https://www.youtube.com/shorts/OmJnWCf7hr8"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/shorts/OmJnWCf7hr8"
+      ],
       "update": false
     },
     {
-      "headline": "Official UAP statement reported",
-      "lane": "developing",
+      "headline": "The New UFO Whistleblower Waiver - 20 Questions The Government Wouldn’t Answer",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "A4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "vibewire@mastodon.au",
-          "url": "https://mastodon.au/@vibewire/117310400379454947"
+          "handle": "Weaponized",
+          "url": "https://www.youtube.com/watch?v=7el7tjycfvI"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=7el7tjycfvI"
+      ],
       "update": false
     },
     {
-      "headline": "UAP whistleblower testimony reported",
-      "lane": "developing",
+      "headline": "The Pentagon documents that pulled George Knapp into UFO reporting",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "A4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "killbait",
-          "url": "https://mastodon.social/@killbait/117287565876223337"
+          "handle": "Weaponized",
+          "url": "https://www.youtube.com/shorts/ji_m5EF-igw"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/shorts/ji_m5EF-igw"
+      ],
       "update": false
     },
     {
-      "headline": "Unidentified submerged object (USO) reported",
-      "lane": "developing",
+      "headline": "A UAP witness describes the sound that pulled him outside",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "A4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "ScienceBob",
-          "url": "https://mastodon.social/@ScienceBob/117310803974973905"
+          "handle": "Weaponized",
+          "url": "https://www.youtube.com/shorts/LzdrQ-B3p7A"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/shorts/LzdrQ-B3p7A"
+      ],
       "update": false
     }
   ]
