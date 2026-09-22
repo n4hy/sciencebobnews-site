@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-09-22 00:50 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-09-22 01:20 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 _No corroborated reports this cycle._
@@ -8,23 +8,23 @@ _No corroborated reports this cycle._
 
 ![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
 1. Official UAP statement reported — reliability A4 · 1 source(s)  
-   [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117303666245858193)
+   [@KilleansRow@mastodon.online](https://mastodon.online/@KilleansRow/117307989820845026)
 
 ![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
 2. Official UAP statement reported — reliability A4 · 1 source(s)  
-   [@KilleansRow@mastodon.online](https://mastodon.online/@KilleansRow/117307989820845026)
-
-![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
-3. Official UAP statement reported — reliability A4 · 1 source(s)  
    [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117310400379454947)
 
-![UAP whistleblower testimony reported](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-4. UAP whistleblower testimony reported — reliability A4 · 1 source(s)  
+![UAP whistleblower testimony reported](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
+3. UAP whistleblower testimony reported — reliability A4 · 1 source(s)  
    [@killbait](https://mastodon.social/@killbait/117287565876223337)
 
-![Unidentified submerged object (USO) reported](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. Unidentified submerged object (USO) reported — reliability A4 · 1 source(s)  
+![Unidentified submerged object (USO) reported](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
+4. Unidentified submerged object (USO) reported — reliability A4 · 1 source(s)  
    [@ScienceBob](https://mastodon.social/@ScienceBob/117311039719732341)
+
+![UAP report (Tehran)](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+5. UAP report (Tehran) — reliability A4 · 1 source(s)  
+   [@sillymickel.bsky.social@bsky.brid.gy](https://fed.brid.gy/r/https://bsky.app/profile/did:plc:7nguzszlvpdpdmtc47zp22ur/post/3mvz3lm6qwc23)
 
 ## Disclosure podcasts
 _None this cycle._
