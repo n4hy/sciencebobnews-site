@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-09-22 02:10 UTC",
+  "generated_utc": "2026-09-22 02:20 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
@@ -63,46 +63,41 @@
       "update": false
     },
     {
-      "headline": "Disclosure Capitol Steps",
-      "lane": "podcast",
+      "headline": "Unidentified submerged object (USO) reported",
+      "lane": "developing",
       "status": "DEVELOPING",
-      "reliability": "C4",
+      "reliability": "A4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "youtube"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "OrbisParanormal",
-          "url": "https://www.youtube.com/watch?v=VM8ZX9-ruUM"
+          "handle": "ScienceBob",
+          "url": "https://mastodon.social/@ScienceBob/117312219406281060"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=VM8ZX9-ruUM"
-      ],
+      "videos": [],
       "update": false
     },
     {
-      "headline": "Whitley Strieber on Disclosure and the Real Alien Agenda | ep. 96",
-      "lane": "podcast",
+      "headline": "UAP report (Tehran)",
+      "lane": "developing",
       "status": "DEVELOPING",
-      "reliability": "C4",
+      "reliability": "A4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "youtube"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "Area52",
-          "url": "https://www.youtube.com/watch?v=2ZpTkEeMF3w"
+          "handle": "sillymickel.bsky.social@bsky.brid.gy",
+          "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:7nguzszlvpdpdmtc47zp22ur/post/3mvz3lm6qwc23"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=Cv-sk4vt-qU&",
-        "https://www.youtube.com/watch?v=2ZpTkEeMF3w"
-      ],
+      "videos": [],
       "update": false
     }
   ]
