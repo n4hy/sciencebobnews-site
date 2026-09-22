@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-09-22 01:20 UTC",
+  "generated_utc": "2026-09-22 01:40 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
@@ -44,60 +44,69 @@
       "update": false
     },
     {
-      "headline": "UAP whistleblower testimony reported",
-      "lane": "developing",
+      "headline": "Whitley Strieber on Disclosure and the Real Alien Agenda | ep. 96",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "A4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "killbait",
-          "url": "https://mastodon.social/@killbait/117287565876223337"
+          "handle": "Area52",
+          "url": "https://www.youtube.com/watch?v=2ZpTkEeMF3w"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=Cv-sk4vt-qU&",
+        "https://www.youtube.com/watch?v=2ZpTkEeMF3w"
+      ],
       "update": false
     },
     {
-      "headline": "Unidentified submerged object (USO) reported",
-      "lane": "developing",
+      "headline": "Hillary Clinton’s BOTCHED Plan for UFO Disclosure (ft. Grant Cameron)",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "A4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "ScienceBob",
-          "url": "https://mastodon.social/@ScienceBob/117311039719732341"
+          "handle": "AmericanAlchemy",
+          "url": "https://www.youtube.com/watch?v=C4ffgOnScjo"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=C4ffgOnScjo",
+        "https://youtu.be/fpUa3xJN64Q?si=_mCDKoyrxZm6o5nE"
+      ],
       "update": false
     },
     {
-      "headline": "UAP report (Tehran)",
-      "lane": "developing",
+      "headline": "NASA Plasmoids Are They Alive? Shocking Research Revealed!",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "A4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "sillymickel.bsky.social@bsky.brid.gy",
-          "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:7nguzszlvpdpdmtc47zp22ur/post/3mvz3lm6qwc23"
+          "handle": "ProjectUnity",
+          "url": "https://www.youtube.com/shorts/H9utxvygRCc"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=F0rYPr-pnWs&t=1764s",
+        "https://www.youtube.com/shorts/H9utxvygRCc"
+      ],
       "update": false
     }
   ]
