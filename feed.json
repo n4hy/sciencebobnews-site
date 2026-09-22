@@ -2,68 +2,11 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-09-22 07:00 UTC",
+  "generated_utc": "2026-09-22 07:10 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
-      "headline": "Official UAP statement reported",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A4",
-      "p_credible": 0.55,
-      "independent_sources": 1,
-      "platforms": [
-        "mastodon"
-      ],
-      "sources": [
-        {
-          "handle": "vibewire@mastodon.au",
-          "url": "https://mastodon.au/@vibewire/117310400379454947"
-        }
-      ],
-      "videos": [],
-      "update": false
-    },
-    {
-      "headline": "Official UAP statement reported",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A4",
-      "p_credible": 0.55,
-      "independent_sources": 1,
-      "platforms": [
-        "mastodon"
-      ],
-      "sources": [
-        {
-          "handle": "KilleansRow@mastodon.online",
-          "url": "https://mastodon.online/@KilleansRow/117307989820845026"
-        }
-      ],
-      "videos": [],
-      "update": false
-    },
-    {
-      "headline": "UAP whistleblower testimony reported",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A4",
-      "p_credible": 0.55,
-      "independent_sources": 1,
-      "platforms": [
-        "mastodon"
-      ],
-      "sources": [
-        {
-          "handle": "killbait",
-          "url": "https://mastodon.social/@killbait/117287565876223337"
-        }
-      ],
-      "videos": [],
-      "update": false
-    },
-    {
-      "headline": "Whitley Strieber on Disclosure and the Real Alien Agenda | ep. 96",
+      "headline": "He Saw Four TIC TAC UFOs - Then AARO Came Calling",
       "lane": "podcast",
       "status": "DEVELOPING",
       "reliability": "C4",
@@ -74,18 +17,17 @@
       ],
       "sources": [
         {
-          "handle": "Area52",
-          "url": "https://www.youtube.com/watch?v=2ZpTkEeMF3w"
+          "handle": "Weaponized",
+          "url": "https://www.youtube.com/watch?v=YEO7dy88pyw"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=Cv-sk4vt-qU&",
-        "https://www.youtube.com/watch?v=2ZpTkEeMF3w"
+        "https://www.youtube.com/watch?v=YEO7dy88pyw"
       ],
       "update": false
     },
     {
-      "headline": "NASA Plasmoids Are They Alive? Shocking Research Revealed!",
+      "headline": "Why UAP investigations remain trapped in separate silos",
       "lane": "podcast",
       "status": "DEVELOPING",
       "reliability": "C4",
@@ -96,13 +38,75 @@
       ],
       "sources": [
         {
-          "handle": "ProjectUnity",
-          "url": "https://www.youtube.com/shorts/H9utxvygRCc"
+          "handle": "Weaponized",
+          "url": "https://www.youtube.com/shorts/OmJnWCf7hr8"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=F0rYPr-pnWs&t=1764s",
-        "https://www.youtube.com/shorts/H9utxvygRCc"
+        "https://www.youtube.com/shorts/OmJnWCf7hr8"
+      ],
+      "update": false
+    },
+    {
+      "headline": "The New UFO Whistleblower Waiver - 20 Questions The Government Wouldn’t Answer",
+      "lane": "podcast",
+      "status": "DEVELOPING",
+      "reliability": "C4",
+      "p_credible": 0.55,
+      "independent_sources": 1,
+      "platforms": [
+        "youtube"
+      ],
+      "sources": [
+        {
+          "handle": "Weaponized",
+          "url": "https://www.youtube.com/watch?v=7el7tjycfvI"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=7el7tjycfvI"
+      ],
+      "update": false
+    },
+    {
+      "headline": "The Pentagon documents that pulled George Knapp into UFO reporting",
+      "lane": "podcast",
+      "status": "DEVELOPING",
+      "reliability": "C4",
+      "p_credible": 0.55,
+      "independent_sources": 1,
+      "platforms": [
+        "youtube"
+      ],
+      "sources": [
+        {
+          "handle": "Weaponized",
+          "url": "https://www.youtube.com/shorts/ji_m5EF-igw"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/shorts/ji_m5EF-igw"
+      ],
+      "update": false
+    },
+    {
+      "headline": "A UAP witness describes the sound that pulled him outside",
+      "lane": "podcast",
+      "status": "DEVELOPING",
+      "reliability": "C4",
+      "p_credible": 0.55,
+      "independent_sources": 1,
+      "platforms": [
+        "youtube"
+      ],
+      "sources": [
+        {
+          "handle": "Weaponized",
+          "url": "https://www.youtube.com/shorts/LzdrQ-B3p7A"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/shorts/LzdrQ-B3p7A"
       ],
       "update": false
     }
