@@ -2,11 +2,30 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-01 02:30 UTC",
+  "generated_utc": "2026-10-01 02:40 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
-      "headline": "The New UFO Whistleblower Waiver - 20 Questions The Government Wouldn’t Answer",
+      "headline": "UAP report",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A4",
+      "p_credible": 0.55,
+      "independent_sources": 1,
+      "platforms": [
+        "mastodon"
+      ],
+      "sources": [
+        {
+          "handle": "aftonbladet@friendica.helvetet.eu",
+          "url": "https://friendica.helvetet.eu/display/a7e70941-9f2246a1-a2cb0d12e461186b"
+        }
+      ],
+      "videos": [],
+      "update": false
+    },
+    {
+      "headline": "#29 THE X-FILES: THE TRUTH IS COMPLICATED — Sound, Light & Frequency",
       "lane": "podcast",
       "status": "DEVELOPING",
       "reliability": "C4",
@@ -17,17 +36,17 @@
       ],
       "sources": [
         {
-          "handle": "Weaponized",
-          "url": "https://www.youtube.com/watch?v=7el7tjycfvI"
+          "handle": "NeedToKnow",
+          "url": "https://www.youtube.com/watch?v=-q-WseItlrE"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=7el7tjycfvI"
+        "https://www.youtube.com/watch?v=-q-WseItlrE"
       ],
       "update": false
     },
     {
-      "headline": "Tranch 6 of the UFO FILES is out!  LOVE IT OR LOATHE IT?",
+      "headline": "Bryce Zabel on The Dr. Phil Podcast (Excerpts)",
       "lane": "podcast",
       "status": "DEVELOPING",
       "reliability": "C4",
@@ -38,17 +57,17 @@
       ],
       "sources": [
         {
-          "handle": "SpacedOutRadio",
-          "url": "https://www.youtube.com/watch?v=vcNt_7eYy90"
+          "handle": "NeedToKnow",
+          "url": "https://www.youtube.com/watch?v=QscaracBciE"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=vcNt_7eYy90"
+        "https://www.youtube.com/watch?v=QscaracBciE"
       ],
       "update": false
     },
     {
-      "headline": "“WHO ACTUALLY PROTECTS THE UFO WHISTLEBLOWERS?”",
+      "headline": "#22 LOST AND FOUND ET — Sound, Light & Frequency",
       "lane": "podcast",
       "status": "DEVELOPING",
       "reliability": "C4",
@@ -59,18 +78,17 @@
       ],
       "sources": [
         {
-          "handle": "Weaponized",
-          "url": "https://www.youtube.com/watch?v=jOgPQghjSKM"
+          "handle": "NeedToKnow",
+          "url": "https://www.youtube.com/watch?v=tgMYNlVpH0c"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=jOgPQghjSKM",
-        "https://youtu.be/7el7tjycfvI"
+        "https://www.youtube.com/watch?v=tgMYNlVpH0c"
       ],
       "update": false
     },
     {
-      "headline": "Mike Gold challenges secrecy surrounding UAP information",
+      "headline": "#76 Whose Narrative Is It Anyway? — Need to Know — August 2026",
       "lane": "podcast",
       "status": "DEVELOPING",
       "reliability": "C4",
@@ -81,34 +99,12 @@
       ],
       "sources": [
         {
-          "handle": "Weaponized",
-          "url": "https://www.youtube.com/shorts/V0cSdVOqcmk"
+          "handle": "NeedToKnow",
+          "url": "https://www.youtube.com/watch?v=1w9SLXu4_No"
         }
       ],
       "videos": [
-        "https://www.youtube.com/shorts/V0cSdVOqcmk"
-      ],
-      "update": false
-    },
-    {
-      "headline": "“WHERE ARE THE MISSING UFO FILES?”",
-      "lane": "podcast",
-      "status": "DEVELOPING",
-      "reliability": "C4",
-      "p_credible": 0.55,
-      "independent_sources": 1,
-      "platforms": [
-        "youtube"
-      ],
-      "sources": [
-        {
-          "handle": "Weaponized",
-          "url": "https://www.youtube.com/watch?v=WxxOVPXvA7c"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=WxxOVPXvA7c",
-        "https://youtu.be/8FXCiExnziU"
+        "https://www.youtube.com/watch?v=1w9SLXu4_No"
       ],
       "update": false
     }
