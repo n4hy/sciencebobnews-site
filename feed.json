@@ -2,28 +2,9 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-01 04:40 UTC",
+  "generated_utc": "2026-10-01 06:10 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
-    {
-      "headline": "UAP report",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A4",
-      "p_credible": 0.55,
-      "independent_sources": 1,
-      "platforms": [
-        "mastodon"
-      ],
-      "sources": [
-        {
-          "handle": "aftonbladet@friendica.helvetet.eu",
-          "url": "https://friendica.helvetet.eu/display/a7e70941-9f2246a1-a2cb0d12e461186b"
-        }
-      ],
-      "videos": [],
-      "update": false
-    },
     {
       "headline": "UAP whistleblower testimony reported",
       "lane": "developing",
@@ -95,6 +76,25 @@
         {
           "handle": "ScienceBob",
           "url": "https://mastodon.social/@ScienceBob/117361292763859475"
+        }
+      ],
+      "videos": [],
+      "update": false
+    },
+    {
+      "headline": "UAP report",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A4",
+      "p_credible": 0.55,
+      "independent_sources": 1,
+      "platforms": [
+        "mastodon"
+      ],
+      "sources": [
+        {
+          "handle": "trndgtr",
+          "url": "https://mastodon.social/@trndgtr/117363565888803239"
         }
       ],
       "videos": [],
