@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-01 10:00 UTC",
+  "generated_utc": "2026-10-01 17:20 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
@@ -48,28 +48,6 @@
       "update": false
     },
     {
-      "headline": "“WHO ACTUALLY PROTECTS THE UFO WHISTLEBLOWERS?”",
-      "lane": "podcast",
-      "status": "DEVELOPING",
-      "reliability": "C4",
-      "p_credible": 0.55,
-      "independent_sources": 1,
-      "platforms": [
-        "youtube"
-      ],
-      "sources": [
-        {
-          "handle": "Weaponized",
-          "url": "https://www.youtube.com/watch?v=jOgPQghjSKM"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=jOgPQghjSKM",
-        "https://youtu.be/7el7tjycfvI"
-      ],
-      "update": false
-    },
-    {
       "headline": "Mike Gold challenges secrecy surrounding UAP information",
       "lane": "podcast",
       "status": "DEVELOPING",
@@ -109,6 +87,27 @@
       "videos": [
         "https://www.youtube.com/watch?v=WxxOVPXvA7c",
         "https://youtu.be/8FXCiExnziU"
+      ],
+      "update": false
+    },
+    {
+      "headline": "#29 THE X-FILES: THE TRUTH IS COMPLICATED — Sound, Light & Frequency",
+      "lane": "podcast",
+      "status": "DEVELOPING",
+      "reliability": "C4",
+      "p_credible": 0.55,
+      "independent_sources": 1,
+      "platforms": [
+        "youtube"
+      ],
+      "sources": [
+        {
+          "handle": "NeedToKnow",
+          "url": "https://www.youtube.com/watch?v=-q-WseItlrE"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=-q-WseItlrE"
       ],
       "update": false
     }
