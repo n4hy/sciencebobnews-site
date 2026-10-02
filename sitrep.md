@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-02 07:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-02 07:10 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 _No corroborated reports this cycle._
@@ -14,25 +14,25 @@ _None._
    [@SpacedOutRadio](https://www.youtube.com/watch?v=vcNt_7eYy90)  
    📹 [video](https://www.youtube.com/watch?v=vcNt_7eYy90)
 
-![Spaced Out Radio is live!](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
-2. Spaced Out Radio is live! — reliability C4 · 1 source(s)  
-   [@SpacedOutRadio](https://www.youtube.com/watch?v=0VxlLsY-JGk)  
-   📹 [video](https://www.youtube.com/watch?v=0VxlLsY-JGk)
+![Mike Gold challenges secrecy surrounding UAP information](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
+2. Mike Gold challenges secrecy surrounding UAP information — reliability C4 · 1 source(s)  
+   [@Weaponized](https://www.youtube.com/shorts/V0cSdVOqcmk)  
+   📹 [video](https://www.youtube.com/shorts/V0cSdVOqcmk)
 
-![UFOs From an Intel Perspective | Steven D. Kelley](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
-3. UFOs From an Intel Perspective | Steven D. Kelley — reliability C4 · 1 source(s)  
-   [@SpacedOutRadio](https://www.youtube.com/watch?v=DjSVJo-AGVQ)  
-   📹 [video](https://www.youtube.com/watch?v=DjSVJo-AGVQ)
+![“WHERE ARE THE MISSING UFO FILES?”](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
+3. “WHERE ARE THE MISSING UFO FILES?” — reliability C4 · 1 source(s)  
+   [@Weaponized](https://www.youtube.com/watch?v=WxxOVPXvA7c)  
+   📹 [video](https://www.youtube.com/watch?v=WxxOVPXvA7c) · [video](https://youtu.be/8FXCiExnziU)
 
-![UFOs Through First Nations Eyes: Ancient Knowledge Meets the Phenomenon](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-4. UFOs Through First Nations Eyes: Ancient Knowledge Meets the Phenomenon — reliability C4 · 1 source(s)  
-   [@SpacedOutRadio](https://www.youtube.com/watch?v=X0aSF3sg5UA)  
-   📹 [video](https://www.youtube.com/watch?v=X0aSF3sg5UA)
+![“DID THE PRESIDENT AUTHORIZE UFO SHOOTDOWNS?”](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
+4. “DID THE PRESIDENT AUTHORIZE UFO SHOOTDOWNS?” — reliability C4 · 1 source(s)  
+   [@Weaponized](https://www.youtube.com/watch?v=z1dU3oW-lRg)  
+   📹 [video](https://www.youtube.com/watch?v=z1dU3oW-lRg) · [video](https://youtu.be/7Ht63W-nBYA)
 
-![WHAT IS THE PARANORMAL? Inside the Unknown!](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. WHAT IS THE PARANORMAL? Inside the Unknown! — reliability C4 · 1 source(s)  
-   [@SpacedOutRadio](https://www.youtube.com/watch?v=dMd3Eonu8Yg)  
-   📹 [video](https://www.youtube.com/watch?v=dMd3Eonu8Yg)
+![Did Trump Authorize The Shootdown Of UFOs?](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+5. Did Trump Authorize The Shootdown Of UFOs? — reliability C4 · 1 source(s)  
+   [@Weaponized](https://www.youtube.com/watch?v=7Ht63W-nBYA)  
+   📹 [video](https://www.youtube.com/watch?v=7Ht63W-nBYA)
 
 ---
 *Powered by Science Bob News. Free to use with credit (see [LICENSE](LICENSE)). Social-feed headlines are factual restatements in the engine's own words; podcast entries use the episode title. Click through to the linked sources for originals. Reposts of a single origin are collapsed to one source; candidate prosaic explanations are flagged where offered. Machine-readable feed: [feed.json](feed.json).*
