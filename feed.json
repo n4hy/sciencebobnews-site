@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-02 05:30 UTC",
+  "generated_utc": "2026-10-02 05:40 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
@@ -25,70 +25,64 @@
       "update": false
     },
     {
-      "headline": "#29 THE X-FILES: THE TRUTH IS COMPLICATED — Sound, Light & Frequency",
-      "lane": "podcast",
+      "headline": "Official UAP statement reported",
+      "lane": "developing",
       "status": "DEVELOPING",
-      "reliability": "C4",
+      "reliability": "A4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "youtube"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "NeedToKnow",
-          "url": "https://www.youtube.com/watch?v=-q-WseItlrE"
+          "handle": "vibewire@mastodon.au",
+          "url": "https://mastodon.au/@vibewire/117366008554218489"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=-q-WseItlrE"
-      ],
+      "videos": [],
       "update": false
     },
     {
-      "headline": "Bryce Zabel on The Dr. Phil Podcast (Excerpts)",
-      "lane": "podcast",
+      "headline": "UAP whistleblower testimony reported",
+      "lane": "developing",
       "status": "DEVELOPING",
-      "reliability": "C4",
+      "reliability": "A4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "youtube"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "NeedToKnow",
-          "url": "https://www.youtube.com/watch?v=QscaracBciE"
+          "handle": "ScienceBob",
+          "url": "https://mastodon.social/@ScienceBob/117368134725137375"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=QscaracBciE"
-      ],
+      "videos": [],
       "update": false
     },
     {
-      "headline": "#22 LOST AND FOUND ET — Sound, Light & Frequency",
-      "lane": "podcast",
+      "headline": "UAP report",
+      "lane": "developing",
       "status": "DEVELOPING",
-      "reliability": "C4",
+      "reliability": "A4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "youtube"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "NeedToKnow",
-          "url": "https://www.youtube.com/watch?v=tgMYNlVpH0c"
+          "handle": "trndgtr",
+          "url": "https://mastodon.social/@trndgtr/117363565888803239"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=tgMYNlVpH0c"
-      ],
+      "videos": [],
       "update": false
     },
     {
-      "headline": "#76 Whose Narrative Is It Anyway? — Need to Know — August 2026",
+      "headline": "The Power of the Heart's Electromagnetic Field Will Shock You!",
       "lane": "podcast",
       "status": "DEVELOPING",
       "reliability": "C4",
@@ -99,12 +93,13 @@
       ],
       "sources": [
         {
-          "handle": "NeedToKnow",
-          "url": "https://www.youtube.com/watch?v=1w9SLXu4_No"
+          "handle": "ProjectUnity",
+          "url": "https://www.youtube.com/shorts/P4c1VIhhoDg"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=1w9SLXu4_No"
+        "https://www.youtube.com/watch?v=F0rYPr-pnWs&t=1764s",
+        "https://www.youtube.com/shorts/P4c1VIhhoDg"
       ],
       "update": false
     }
