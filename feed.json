@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-02 01:50 UTC",
+  "generated_utc": "2026-10-02 02:00 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
@@ -44,60 +44,67 @@
       "update": false
     },
     {
-      "headline": "UAP whistleblower testimony reported",
-      "lane": "developing",
+      "headline": "The New UFO Whistleblower Waiver - 20 Questions The Government Wouldn’t Answer",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "A4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "ScienceBob",
-          "url": "https://mastodon.social/@ScienceBob/117368134725137375"
+          "handle": "Weaponized",
+          "url": "https://www.youtube.com/watch?v=7el7tjycfvI"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=7el7tjycfvI"
+      ],
       "update": false
     },
     {
-      "headline": "UAP report",
-      "lane": "developing",
+      "headline": "Mike Gold challenges secrecy surrounding UAP information",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "A4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "trndgtr",
-          "url": "https://mastodon.social/@trndgtr/117363565888803239"
+          "handle": "Weaponized",
+          "url": "https://www.youtube.com/shorts/V0cSdVOqcmk"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/shorts/V0cSdVOqcmk"
+      ],
       "update": false
     },
     {
-      "headline": "UAP report",
-      "lane": "developing",
+      "headline": "“WHERE ARE THE MISSING UFO FILES?”",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "A4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "carabanchelnet@masto.es",
-          "url": "https://masto.es/@carabanchelnet/117335503440309129"
+          "handle": "Weaponized",
+          "url": "https://www.youtube.com/watch?v=WxxOVPXvA7c"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=WxxOVPXvA7c",
+        "https://youtu.be/8FXCiExnziU"
+      ],
       "update": false
     }
   ]
