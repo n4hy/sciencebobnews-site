@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-02 06:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-02 06:10 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 _No corroborated reports this cycle._
@@ -16,18 +16,18 @@ _No corroborated reports this cycle._
 
 ![UAP whistleblower testimony reported](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
 3. UAP whistleblower testimony reported — reliability A4 · 1 source(s)  
-   [@ScienceBob](https://mastodon.social/@ScienceBob/117368134725137375)
+   [@ScienceBob](https://mastodon.social/@ScienceBob/117369786204003102)
 
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
 4. UAP report — reliability A4 · 1 source(s)  
    [@trndgtr](https://mastodon.social/@trndgtr/117363565888803239)
 
-## Disclosure podcasts
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+5. UAP report — reliability A4 · 1 source(s)  
+   [@carabanchelnet@masto.es](https://masto.es/@carabanchelnet/117335503440309129)
 
-![US sensors caught Russian vessels meeting with a UFO...](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-1. US sensors caught Russian vessels meeting with a UFO... — reliability C4 · 1 source(s)  
-   [@AmericanAlchemy](https://www.youtube.com/shorts/f9qx_LHmWG0)  
-   📹 [video](https://www.youtube.com/shorts/f9qx_LHmWG0) · [video](https://youtu.be/yGtVzBbUvx4?si=jD-gfP6UBFjI0uQH)
+## Disclosure podcasts
+_None this cycle._
 
 ---
 *Powered by Science Bob News. Free to use with credit (see [LICENSE](LICENSE)). Social-feed headlines are factual restatements in the engine's own words; podcast entries use the episode title. Click through to the linked sources for originals. Reposts of a single origin are collapsed to one source; candidate prosaic explanations are flagged where offered. Machine-readable feed: [feed.json](feed.json).*
