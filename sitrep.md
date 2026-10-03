@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-03 03:10 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-03 03:20 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 _No corroborated reports this cycle._
@@ -14,13 +14,13 @@ _No corroborated reports this cycle._
 2. Official UAP statement reported — reliability A4 · 1 source(s)  
    [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117371640481670009)
 
-![UAP whistleblower testimony reported](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
-3. UAP whistleblower testimony reported — reliability A4 · 1 source(s)  
-   [@ScienceBob](https://mastodon.social/@ScienceBob/117374268857225967)
+![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
+3. Official UAP statement reported — reliability A4 · 1 source(s)  
+   [@did:plc:wimxhyj6jm3v7rs72wouqpf3](https://bsky.app/profile/did:plc:wimxhyj6jm3v7rs72wouqpf3/post/3mwwwk5bjy32y)
 
-![Unidentified submerged object (USO) reported](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-4. Unidentified submerged object (USO) reported — reliability A4 · 1 source(s)  
-   [@did:plc:osfmk2gkraypeji7awusrvjr](https://bsky.app/profile/did:plc:osfmk2gkraypeji7awusrvjr/post/3mwwvya52gk27)
+![UAP whistleblower testimony reported](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
+4. UAP whistleblower testimony reported — reliability A4 · 1 source(s)  
+   [@ScienceBob](https://mastodon.social/@ScienceBob/117374268857225967)
 
 ![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
 5. UAP report — reliability A4 · 1 source(s)  
