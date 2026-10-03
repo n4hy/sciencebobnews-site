@@ -2,11 +2,68 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-03 04:20 UTC",
+  "generated_utc": "2026-10-03 04:30 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
-      "headline": "Tranch 6 of the UFO FILES is out!  LOVE IT OR LOATHE IT?",
+      "headline": "UAP whistleblower testimony reported",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A4",
+      "p_credible": 0.55,
+      "independent_sources": 1,
+      "platforms": [
+        "mastodon"
+      ],
+      "sources": [
+        {
+          "handle": "veryexcitingtime",
+          "url": "https://mastodon.social/@veryexcitingtime/117355606206940659"
+        }
+      ],
+      "videos": [],
+      "update": false
+    },
+    {
+      "headline": "Official UAP statement reported",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A4",
+      "p_credible": 0.55,
+      "independent_sources": 1,
+      "platforms": [
+        "mastodon"
+      ],
+      "sources": [
+        {
+          "handle": "vibewire@mastodon.au",
+          "url": "https://mastodon.au/@vibewire/117371640481670009"
+        }
+      ],
+      "videos": [],
+      "update": false
+    },
+    {
+      "headline": "Unidentified submerged object (USO) reported",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A4",
+      "p_credible": 0.55,
+      "independent_sources": 1,
+      "platforms": [
+        "mastodon"
+      ],
+      "sources": [
+        {
+          "handle": "trndgtr",
+          "url": "https://mastodon.social/@trndgtr/117374992215469354"
+        }
+      ],
+      "videos": [],
+      "update": false
+    },
+    {
+      "headline": "Does this hurt the credibility of UFO whistleblowers?",
       "lane": "podcast",
       "status": "DEVELOPING",
       "reliability": "C4",
@@ -17,17 +74,18 @@
       ],
       "sources": [
         {
-          "handle": "SpacedOutRadio",
-          "url": "https://www.youtube.com/watch?v=vcNt_7eYy90"
+          "handle": "AmericanAlchemy",
+          "url": "https://www.youtube.com/shorts/RhF40CfWgSw"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=vcNt_7eYy90"
+        "https://www.youtube.com/shorts/RhF40CfWgSw",
+        "https://youtu.be/ATJwqp5twAg?si=MTBMVPQM-LNLyqN_"
       ],
       "update": false
     },
     {
-      "headline": "#29 THE X-FILES: THE TRUTH IS COMPLICATED — Sound, Light & Frequency",
+      "headline": "Disclosure Capitol Steps",
       "lane": "podcast",
       "status": "DEVELOPING",
       "reliability": "C4",
@@ -38,75 +96,12 @@
       ],
       "sources": [
         {
-          "handle": "NeedToKnow",
-          "url": "https://www.youtube.com/watch?v=-q-WseItlrE"
+          "handle": "OrbisParanormal",
+          "url": "https://www.youtube.com/watch?v=VM8ZX9-ruUM"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=-q-WseItlrE"
-      ],
-      "update": false
-    },
-    {
-      "headline": "Spaced Out Radio is live!",
-      "lane": "podcast",
-      "status": "DEVELOPING",
-      "reliability": "C4",
-      "p_credible": 0.55,
-      "independent_sources": 1,
-      "platforms": [
-        "youtube"
-      ],
-      "sources": [
-        {
-          "handle": "SpacedOutRadio",
-          "url": "https://www.youtube.com/watch?v=0VxlLsY-JGk"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=0VxlLsY-JGk"
-      ],
-      "update": false
-    },
-    {
-      "headline": "UFOs From an Intel Perspective | Steven D. Kelley",
-      "lane": "podcast",
-      "status": "DEVELOPING",
-      "reliability": "C4",
-      "p_credible": 0.55,
-      "independent_sources": 1,
-      "platforms": [
-        "youtube"
-      ],
-      "sources": [
-        {
-          "handle": "SpacedOutRadio",
-          "url": "https://www.youtube.com/watch?v=DjSVJo-AGVQ"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=DjSVJo-AGVQ"
-      ],
-      "update": false
-    },
-    {
-      "headline": "UFOs Through First Nations Eyes: Ancient Knowledge Meets the Phenomenon",
-      "lane": "podcast",
-      "status": "DEVELOPING",
-      "reliability": "C4",
-      "p_credible": 0.55,
-      "independent_sources": 1,
-      "platforms": [
-        "youtube"
-      ],
-      "sources": [
-        {
-          "handle": "SpacedOutRadio",
-          "url": "https://www.youtube.com/watch?v=X0aSF3sg5UA"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=X0aSF3sg5UA"
+        "https://www.youtube.com/watch?v=VM8ZX9-ruUM"
       ],
       "update": false
     }
