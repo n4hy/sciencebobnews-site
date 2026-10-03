@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-03 01:20 UTC",
+  "generated_utc": "2026-10-03 01:30 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
@@ -44,6 +44,25 @@
       "update": false
     },
     {
+      "headline": "Official UAP statement reported",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "A4",
+      "p_credible": 0.55,
+      "independent_sources": 1,
+      "platforms": [
+        "bluesky"
+      ],
+      "sources": [
+        {
+          "handle": "did:plc:dv5spjpqtyui6kpqktnsfh57",
+          "url": "https://bsky.app/profile/did:plc:dv5spjpqtyui6kpqktnsfh57/post/3mwwqfcdwi726"
+        }
+      ],
+      "videos": [],
+      "update": false
+    },
+    {
       "headline": "UAP whistleblower testimony reported",
       "lane": "developing",
       "status": "DEVELOPING",
@@ -63,46 +82,22 @@
       "update": false
     },
     {
-      "headline": "The Power of the Heart's Electromagnetic Field Will Shock You!",
-      "lane": "podcast",
+      "headline": "UAP report",
+      "lane": "developing",
       "status": "DEVELOPING",
-      "reliability": "C4",
+      "reliability": "A4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "youtube"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "ProjectUnity",
-          "url": "https://www.youtube.com/shorts/P4c1VIhhoDg"
+          "handle": "KilleansRow@mastodon.online",
+          "url": "https://mastodon.online/@KilleansRow/117358772064819154"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=F0rYPr-pnWs&t=1764s",
-        "https://www.youtube.com/shorts/P4c1VIhhoDg"
-      ],
-      "update": false
-    },
-    {
-      "headline": "\"My Father Was a Russian UFO Physicist... I Have His Documents\"",
-      "lane": "podcast",
-      "status": "DEVELOPING",
-      "reliability": "C4",
-      "p_credible": 0.55,
-      "independent_sources": 1,
-      "platforms": [
-        "youtube"
-      ],
-      "sources": [
-        {
-          "handle": "ProjectUnity",
-          "url": "https://www.youtube.com/watch?v=qXWfSpH218w"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=qXWfSpH218w"
-      ],
+      "videos": [],
       "update": false
     }
   ]
