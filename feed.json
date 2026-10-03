@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-03 01:10 UTC",
+  "generated_utc": "2026-10-03 01:20 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
@@ -63,41 +63,46 @@
       "update": false
     },
     {
-      "headline": "UAP report",
-      "lane": "developing",
+      "headline": "The Power of the Heart's Electromagnetic Field Will Shock You!",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "A4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "KilleansRow@mastodon.online",
-          "url": "https://mastodon.online/@KilleansRow/117358772064819154"
+          "handle": "ProjectUnity",
+          "url": "https://www.youtube.com/shorts/P4c1VIhhoDg"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=F0rYPr-pnWs&t=1764s",
+        "https://www.youtube.com/shorts/P4c1VIhhoDg"
+      ],
       "update": false
     },
     {
-      "headline": "UAP report",
-      "lane": "developing",
+      "headline": "\"My Father Was a Russian UFO Physicist... I Have His Documents\"",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "A4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "Connectparanormal",
-          "url": "https://mastodon.social/@Connectparanormal/117350476669778444"
+          "handle": "ProjectUnity",
+          "url": "https://www.youtube.com/watch?v=qXWfSpH218w"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=qXWfSpH218w"
+      ],
       "update": false
     }
   ]
