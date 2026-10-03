@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-03 04:40 UTC",
+  "generated_utc": "2026-10-03 04:50 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
@@ -82,25 +82,22 @@
       "update": false
     },
     {
-      "headline": "Does this hurt the credibility of UFO whistleblowers?",
-      "lane": "podcast",
+      "headline": "UAP report",
+      "lane": "developing",
       "status": "DEVELOPING",
-      "reliability": "C4",
+      "reliability": "A4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "youtube"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "AmericanAlchemy",
-          "url": "https://www.youtube.com/shorts/RhF40CfWgSw"
+          "handle": "KilleansRow@mastodon.online",
+          "url": "https://mastodon.online/@KilleansRow/117375026762588928"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/shorts/RhF40CfWgSw",
-        "https://youtu.be/ATJwqp5twAg?si=MTBMVPQM-LNLyqN_"
-      ],
+      "videos": [],
       "update": false
     }
   ]
