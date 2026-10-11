@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-03 07:10 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-11 01:10 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 _No corroborated reports this cycle._
@@ -8,31 +8,7 @@ _No corroborated reports this cycle._
 _None._
 
 ## Disclosure podcasts
-
-![Tranch 6 of the UFO FILES is out!  LOVE IT OR LOATHE IT?](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
-1. Tranch 6 of the UFO FILES is out!  LOVE IT OR LOATHE IT? — reliability C4 · 1 source(s)  
-   [@SpacedOutRadio](https://www.youtube.com/watch?v=vcNt_7eYy90)  
-   📹 [video](https://www.youtube.com/watch?v=vcNt_7eYy90)
-
-![Does this hurt the credibility of UFO whistleblowers?](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
-2. Does this hurt the credibility of UFO whistleblowers? — reliability C4 · 1 source(s)  
-   [@AmericanAlchemy](https://www.youtube.com/shorts/RhF40CfWgSw)  
-   📹 [video](https://www.youtube.com/shorts/RhF40CfWgSw) · [video](https://youtu.be/ATJwqp5twAg?si=MTBMVPQM-LNLyqN_)
-
-![Mike Gold challenges secrecy surrounding UAP information](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
-3. Mike Gold challenges secrecy surrounding UAP information — reliability C4 · 1 source(s)  
-   [@Weaponized](https://www.youtube.com/shorts/V0cSdVOqcmk)  
-   📹 [video](https://www.youtube.com/shorts/V0cSdVOqcmk)
-
-![“WHERE ARE THE MISSING UFO FILES?”](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-4. “WHERE ARE THE MISSING UFO FILES?” — reliability C4 · 1 source(s)  
-   [@Weaponized](https://www.youtube.com/watch?v=WxxOVPXvA7c)  
-   📹 [video](https://www.youtube.com/watch?v=WxxOVPXvA7c) · [video](https://youtu.be/8FXCiExnziU)
-
-![“DID THE PRESIDENT AUTHORIZE UFO SHOOTDOWNS?”](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. “DID THE PRESIDENT AUTHORIZE UFO SHOOTDOWNS?” — reliability C4 · 1 source(s)  
-   [@Weaponized](https://www.youtube.com/watch?v=z1dU3oW-lRg)  
-   📹 [video](https://www.youtube.com/watch?v=z1dU3oW-lRg) · [video](https://youtu.be/7Ht63W-nBYA)
+_None this cycle._
 
 ---
 *Powered by Science Bob News. Free to use with credit (see [LICENSE](LICENSE)). Social-feed headlines are factual restatements in the engine's own words; podcast entries use the episode title. Click through to the linked sources for originals. Reposts of a single origin are collapsed to one source; candidate prosaic explanations are flagged where offered. Machine-readable feed: [feed.json](feed.json).*
