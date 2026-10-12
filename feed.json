@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-12 07:00 UTC",
+  "generated_utc": "2026-10-12 07:10 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
@@ -69,7 +69,7 @@
       "update": false
     },
     {
-      "headline": ": ALIEN CONTACT: Who—or What—Is Reaching Out?",
+      "headline": "“DID THE PRESIDENT AUTHORIZE UFO SHOOTDOWNS?”",
       "lane": "podcast",
       "status": "DEVELOPING",
       "reliability": "C4",
@@ -80,17 +80,18 @@
       ],
       "sources": [
         {
-          "handle": "SpacedOutRadio",
-          "url": "https://www.youtube.com/watch?v=5iXLI65fgVM"
+          "handle": "Weaponized",
+          "url": "https://www.youtube.com/watch?v=z1dU3oW-lRg"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=5iXLI65fgVM"
+        "https://www.youtube.com/watch?v=z1dU3oW-lRg",
+        "https://youtu.be/7Ht63W-nBYA"
       ],
       "update": false
     },
     {
-      "headline": "GLOWING SASQUATCH? The Bizarre Side of Bigfoot",
+      "headline": "Did Trump Authorize The Shootdown Of UFOs?",
       "lane": "podcast",
       "status": "DEVELOPING",
       "reliability": "C4",
@@ -101,12 +102,12 @@
       ],
       "sources": [
         {
-          "handle": "SpacedOutRadio",
-          "url": "https://www.youtube.com/watch?v=5-AeU3p66Sg"
+          "handle": "Weaponized",
+          "url": "https://www.youtube.com/watch?v=7Ht63W-nBYA"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=5-AeU3p66Sg"
+        "https://www.youtube.com/watch?v=7Ht63W-nBYA"
       ],
       "update": false
     }
