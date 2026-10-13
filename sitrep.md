@@ -1,38 +1,35 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-13 02:30 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-13 02:40 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 _No corroborated reports this cycle._
 
 ## Developing / unconfirmed
-_None._
+
+![UAP congressional hearing reported](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
+1. UAP congressional hearing reported — reliability A4 · 1 source(s)  
+   [@pepperqi.bsky.social@bsky.brid.gy](https://fed.brid.gy/r/https://bsky.app/profile/did:plc:crquu3blyn4b2adgj5hhb66p/post/3mxempo2nek26)
+
+![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+2. Official UAP statement reported — reliability A4 · 1 source(s)  
+   [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117428522006912294)
 
 ## Disclosure podcasts
 
-![WHISTLEBLOWERS & UFOs: Who’s Really Telling the Truth?](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
-1. WHISTLEBLOWERS & UFOs: Who’s Really Telling the Truth? — reliability C4 · 1 source(s)  
-   [@SpacedOutRadio](https://www.youtube.com/watch?v=YOhphy3bEvg)  
-   📹 [video](https://www.youtube.com/watch?v=YOhphy3bEvg)
-
-![A Deep Look Into a Potential UFO Cover Up!](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
-2. A Deep Look Into a Potential UFO Cover Up! — reliability C4 · 1 source(s)  
-   [@SpacedOutRadio](https://www.youtube.com/watch?v=qkz5nyCjHdM)  
-   📹 [video](https://www.youtube.com/watch?v=qkz5nyCjHdM)
-
-![UFO Secrets, UAP Stories and Government Secrets on NHI](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
-3. UFO Secrets, UAP Stories and Government Secrets on NHI — reliability C4 · 1 source(s)  
-   [@SpacedOutRadio](https://www.youtube.com/watch?v=seNQZdUu_WM)  
-   📹 [video](https://www.youtube.com/watch?v=seNQZdUu_WM)
-
-![#29 THE X-FILES: THE TRUTH IS COMPLICATED — Sound, Light & Frequency](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-4. #29 THE X-FILES: THE TRUTH IS COMPLICATED — Sound, Light & Frequency — reliability C4 · 1 source(s)  
+![#29 THE X-FILES: THE TRUTH IS COMPLICATED — Sound, Light & Frequency](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
+1. #29 THE X-FILES: THE TRUTH IS COMPLICATED — Sound, Light & Frequency — reliability C4 · 1 source(s)  
    [@NeedToKnow](https://www.youtube.com/watch?v=-q-WseItlrE)  
    📹 [video](https://www.youtube.com/watch?v=-q-WseItlrE)
 
-![: ALIEN CONTACT: Who—or What—Is Reaching Out?](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. : ALIEN CONTACT: Who—or What—Is Reaching Out? — reliability C4 · 1 source(s)  
-   [@SpacedOutRadio](https://www.youtube.com/watch?v=5iXLI65fgVM)  
-   📹 [video](https://www.youtube.com/watch?v=5iXLI65fgVM)
+![#76 Whose Narrative Is It Anyway? — Need to Know — August 2026](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
+2. #76 Whose Narrative Is It Anyway? — Need to Know — August 2026 — reliability C4 · 1 source(s)  
+   [@NeedToKnow](https://www.youtube.com/watch?v=1w9SLXu4_No)  
+   📹 [video](https://www.youtube.com/watch?v=1w9SLXu4_No)
+
+![#78 Can the Phenomenon Be Both Hardware & Consciousness? — Need To Know — October 2026](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
+3. #78 Can the Phenomenon Be Both Hardware & Consciousness? — Need To Know — October 2026 — reliability C4 · 1 source(s)  
+   [@NeedToKnow](https://www.youtube.com/watch?v=tiyL75kAOqQ)  
+   📹 [video](https://www.youtube.com/watch?v=tiyL75kAOqQ)
 
 ---
 *Powered by Science Bob News. Free to use with credit (see [LICENSE](LICENSE)). Social-feed headlines are factual restatements in the engine's own words; podcast entries use the episode title. Click through to the linked sources for originals. Reposts of a single origin are collapsed to one source; candidate prosaic explanations are flagged where offered. Machine-readable feed: [feed.json](feed.json).*
