@@ -1,33 +1,38 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-13 06:50 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-13 07:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 _No corroborated reports this cycle._
 
 ## Developing / unconfirmed
-
-![UAP congressional hearing reported](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
-1. UAP congressional hearing reported — reliability A4 · 1 source(s)  
-   [@pepperqi.bsky.social@bsky.brid.gy](https://fed.brid.gy/r/https://bsky.app/profile/did:plc:crquu3blyn4b2adgj5hhb66p/post/3mxempo2nek26)
-
-![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
-2. Official UAP statement reported — reliability A4 · 1 source(s)  
-   [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117428522006912294)
-
-![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
-3. Official UAP statement reported — reliability A4 · 1 source(s)  
-   [@unexplainedie](https://mastodon.social/@unexplainedie/117410964381860390)
-
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-4. UAP report — reliability A4 · 1 source(s)  
-   [@judgement-bot.bsky.social@bsky.brid.gy](https://bsky.brid.gy/r/https://bsky.app/profile/did:plc:xvo7gsaojuuuxc6rlw374pls/post/3mxnn2trguy24)
-
-![Unidentified submerged object (USO) reported](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. Unidentified submerged object (USO) reported — reliability A4 · 1 source(s)  
-   [@ScienceBob](https://mastodon.social/@ScienceBob/117431127892933077)
+_None._
 
 ## Disclosure podcasts
-_None this cycle._
+
+![“DID THE PRESIDENT AUTHORIZE UFO SHOOTDOWNS?”](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
+1. “DID THE PRESIDENT AUTHORIZE UFO SHOOTDOWNS?” — reliability C4 · 1 source(s)  
+   [@Weaponized](https://www.youtube.com/watch?v=z1dU3oW-lRg)  
+   📹 [video](https://www.youtube.com/watch?v=z1dU3oW-lRg) · [video](https://youtu.be/7Ht63W-nBYA)
+
+![Did Trump Authorize The Shootdown Of UFOs?](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
+2. Did Trump Authorize The Shootdown Of UFOs? — reliability C4 · 1 source(s)  
+   [@Weaponized](https://www.youtube.com/watch?v=7Ht63W-nBYA)  
+   📹 [video](https://www.youtube.com/watch?v=7Ht63W-nBYA)
+
+![Why disclosure still requires sustained pressure](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
+3. Why disclosure still requires sustained pressure — reliability C4 · 1 source(s)  
+   [@Weaponized](https://www.youtube.com/shorts/FLptMj7wuUY)  
+   📹 [video](https://www.youtube.com/shorts/FLptMj7wuUY)
+
+![Disclosure Capitol Steps](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
+4. Disclosure Capitol Steps — reliability C4 · 1 source(s)  
+   [@OrbisParanormal](https://www.youtube.com/watch?v=VM8ZX9-ruUM)  
+   📹 [video](https://www.youtube.com/watch?v=VM8ZX9-ruUM)
+
+![Why the disclosure fight depends on persistence](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+5. Why the disclosure fight depends on persistence — reliability C4 · 1 source(s)  
+   [@Weaponized](https://www.youtube.com/shorts/0uuCTzxF1qg)  
+   📹 [video](https://www.youtube.com/shorts/0uuCTzxF1qg)
 
 ---
 *Powered by Science Bob News. Free to use with credit (see [LICENSE](LICENSE)). Social-feed headlines are factual restatements in the engine's own words; podcast entries use the episode title. Click through to the linked sources for originals. Reposts of a single origin are collapsed to one source; candidate prosaic explanations are flagged where offered. Machine-readable feed: [feed.json](feed.json).*
