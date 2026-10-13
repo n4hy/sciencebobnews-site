@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-13 02:40 UTC",
+  "generated_utc": "2026-10-13 02:50 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
@@ -44,66 +44,60 @@
       "update": false
     },
     {
-      "headline": "#29 THE X-FILES: THE TRUTH IS COMPLICATED — Sound, Light & Frequency",
-      "lane": "podcast",
+      "headline": "Official UAP statement reported",
+      "lane": "developing",
       "status": "DEVELOPING",
-      "reliability": "C4",
+      "reliability": "A4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "youtube"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "NeedToKnow",
-          "url": "https://www.youtube.com/watch?v=-q-WseItlrE"
+          "handle": "unexplainedie",
+          "url": "https://mastodon.social/@unexplainedie/117410964381860390"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=-q-WseItlrE"
-      ],
+      "videos": [],
       "update": false
     },
     {
-      "headline": "#76 Whose Narrative Is It Anyway? — Need to Know — August 2026",
-      "lane": "podcast",
+      "headline": "UAP report",
+      "lane": "developing",
       "status": "DEVELOPING",
-      "reliability": "C4",
+      "reliability": "A4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "youtube"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "NeedToKnow",
-          "url": "https://www.youtube.com/watch?v=1w9SLXu4_No"
+          "handle": "judgement-bot.bsky.social@bsky.brid.gy",
+          "url": "https://bsky.brid.gy/r/https://bsky.app/profile/did:plc:xvo7gsaojuuuxc6rlw374pls/post/3mxnn2trguy24"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=1w9SLXu4_No"
-      ],
+      "videos": [],
       "update": false
     },
     {
-      "headline": "#78 Can the Phenomenon Be Both Hardware & Consciousness? — Need To Know — October 2026",
-      "lane": "podcast",
+      "headline": "Unidentified submerged object (USO) reported",
+      "lane": "developing",
       "status": "DEVELOPING",
-      "reliability": "C4",
+      "reliability": "A4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "youtube"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "NeedToKnow",
-          "url": "https://www.youtube.com/watch?v=tiyL75kAOqQ"
+          "handle": "ScienceBob",
+          "url": "https://mastodon.social/@ScienceBob/117431127892933077"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=tiyL75kAOqQ"
-      ],
+      "videos": [],
       "update": false
     }
   ]
