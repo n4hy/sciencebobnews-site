@@ -2,102 +2,113 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-14 05:10 UTC",
+  "generated_utc": "2026-10-14 07:00 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
-      "headline": "Official UAP statement reported",
-      "lane": "developing",
+      "headline": "“DID THE PRESIDENT AUTHORIZE UFO SHOOTDOWNS?”",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "A4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "vibewire@mastodon.au",
-          "url": "https://mastodon.au/@vibewire/117433799677340321"
+          "handle": "Weaponized",
+          "url": "https://www.youtube.com/watch?v=z1dU3oW-lRg"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=z1dU3oW-lRg",
+        "https://youtu.be/7Ht63W-nBYA"
+      ],
       "update": false
     },
     {
-      "headline": "Official UAP statement reported",
-      "lane": "developing",
+      "headline": "Did Trump Authorize The Shootdown Of UFOs?",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "A4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "vibewire@mastodon.au",
-          "url": "https://mastodon.au/@vibewire/117434707849304373"
+          "handle": "Weaponized",
+          "url": "https://www.youtube.com/watch?v=7Ht63W-nBYA"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=7Ht63W-nBYA"
+      ],
       "update": false
     },
     {
-      "headline": "Unidentified submerged object (USO) reported",
-      "lane": "developing",
+      "headline": "Why disclosure still requires sustained pressure",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "A4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "ScienceBob",
-          "url": "https://mastodon.social/@ScienceBob/117432543511834872"
+          "handle": "Weaponized",
+          "url": "https://www.youtube.com/shorts/FLptMj7wuUY"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/shorts/FLptMj7wuUY"
+      ],
       "update": false
     },
     {
-      "headline": "UAP report",
-      "lane": "developing",
+      "headline": "Why the disclosure fight depends on persistence",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "A4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "bobthetraveler@mastodon.world",
-          "url": "https://mastodon.world/@bobthetraveler/117429727465304492"
+          "handle": "Weaponized",
+          "url": "https://www.youtube.com/shorts/0uuCTzxF1qg"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/shorts/0uuCTzxF1qg"
+      ],
       "update": false
     },
     {
-      "headline": "UAP report (London)",
-      "lane": "developing",
+      "headline": "Col. Philip Corso recounts a perfect missile test",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "A4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "x@niwego.com",
-          "url": "https://niwego.com/display/a081e5c3-136a-cabb-ee6e-5b6329962724"
+          "handle": "Weaponized",
+          "url": "https://www.youtube.com/shorts/nYuqptAhkzc"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/shorts/nYuqptAhkzc"
+      ],
       "update": false
     }
   ]
