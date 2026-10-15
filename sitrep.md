@@ -1,11 +1,30 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-15 12:50 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-15 16:20 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 _No corroborated reports this cycle._
 
 ## Developing / unconfirmed
-_None._
+
+![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
+1. Official UAP statement reported — reliability A4 · 1 source(s)  
+   [@bahamondes](https://mastodon.social/@bahamondes/117441983909703241)
+
+![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
+2. Official UAP statement reported — reliability A4 · 1 source(s)  
+   [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117445736444184586)
+
+![Unidentified submerged object (USO) reported](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
+3. Unidentified submerged object (USO) reported — reliability A4 · 1 source(s)  
+   [@ScienceBob](https://mastodon.social/@ScienceBob/117444575887125198)
+
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
+4. UAP report — reliability A4 · 1 source(s)  
+   [@trndgtr](https://mastodon.social/@trndgtr/117440025768398794)
+
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+5. UAP report — reliability A4 · 1 source(s)  
+   [@nyeug](https://mastodon.social/@nyeug/117445653303226433)
 
 ## Disclosure podcasts
 _None this cycle._
