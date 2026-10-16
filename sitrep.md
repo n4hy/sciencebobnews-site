@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-15 16:20 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-16 16:10 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 _No corroborated reports this cycle._
@@ -8,23 +8,23 @@ _No corroborated reports this cycle._
 
 ![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
 1. Official UAP statement reported — reliability A4 · 1 source(s)  
-   [@bahamondes](https://mastodon.social/@bahamondes/117441983909703241)
+   [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117445736444184586)
 
 ![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
 2. Official UAP statement reported — reliability A4 · 1 source(s)  
-   [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117445736444184586)
+   [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117451363107466097)
 
-![Unidentified submerged object (USO) reported](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
-3. Unidentified submerged object (USO) reported — reliability A4 · 1 source(s)  
-   [@ScienceBob](https://mastodon.social/@ScienceBob/117444575887125198)
+![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
+3. Official UAP statement reported — reliability A4 · 1 source(s)  
+   [@unexplainedie](https://mastodon.social/@unexplainedie/117449996054191524)
 
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-4. UAP report — reliability A4 · 1 source(s)  
-   [@trndgtr](https://mastodon.social/@trndgtr/117440025768398794)
+![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
+4. Official UAP statement reported — reliability A4 · 1 source(s)  
+   [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117451362986474747)
 
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. UAP report — reliability A4 · 1 source(s)  
-   [@nyeug](https://mastodon.social/@nyeug/117445653303226433)
+![UAP whistleblower testimony reported](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+5. UAP whistleblower testimony reported — reliability A4 · 1 source(s)  
+   [@ScienceBob](https://mastodon.social/@ScienceBob/117451417876666567)
 
 ## Disclosure podcasts
 _None this cycle._
