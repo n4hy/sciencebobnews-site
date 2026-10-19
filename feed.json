@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-19 00:40 UTC",
+  "generated_utc": "2026-10-19 00:50 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
@@ -25,79 +25,87 @@
       "update": false
     },
     {
-      "headline": "Unidentified submerged object (USO) reported",
-      "lane": "developing",
+      "headline": "#35 WHY DO ROCKSTARS SEE UFOS? — Sound, Light & Frequency",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "A4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "bluesky"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "did:plc:shrsmgpwm5lycrfqcuphidns",
-          "url": "https://bsky.app/profile/did:plc:shrsmgpwm5lycrfqcuphidns/post/3my6v2nbozf2x"
+          "handle": "NeedToKnow",
+          "url": "https://www.youtube.com/watch?v=GgjkPj3nh98"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=GgjkPj3nh98"
+      ],
       "update": false
     },
     {
-      "headline": "Unidentified submerged object (USO) reported",
-      "lane": "developing",
+      "headline": "#29 THE X-FILES: THE TRUTH IS COMPLICATED — Sound, Light & Frequency",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "A4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "ScienceBob",
-          "url": "https://mastodon.social/@ScienceBob/117464669239838365"
+          "handle": "NeedToKnow",
+          "url": "https://www.youtube.com/watch?v=-q-WseItlrE"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=-q-WseItlrE"
+      ],
       "update": false
     },
     {
-      "headline": "Official UAP statement reported",
-      "lane": "developing",
+      "headline": "#79 Jay Stratton Steps Out of the Shadows - Need To Know",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "F6",
-      "p_credible": 0.0,
-      "independent_sources": 1,
-      "platforms": [
-        "mastodon"
-      ],
-      "sources": [
-        {
-          "handle": "technowsrriors",
-          "url": "https://mastodon.social/@technowsrriors/117461484696656770"
-        }
-      ],
-      "videos": [],
-      "update": false
-    },
-    {
-      "headline": "UAP report",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "brianvastag@mas.to",
-          "url": "https://mas.to/@brianvastag/117453717112990399"
+          "handle": "NeedToKnow",
+          "url": "https://www.youtube.com/watch?v=Qia10hvAmXA"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=Qia10hvAmXA"
+      ],
+      "update": false
+    },
+    {
+      "headline": "#78 Can the Phenomenon Be Both Hardware & Consciousness? — Need To Know — October 2026",
+      "lane": "podcast",
+      "status": "DEVELOPING",
+      "reliability": "C4",
+      "p_credible": 0.55,
+      "independent_sources": 1,
+      "platforms": [
+        "youtube"
+      ],
+      "sources": [
+        {
+          "handle": "NeedToKnow",
+          "url": "https://www.youtube.com/watch?v=tiyL75kAOqQ"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=tiyL75kAOqQ"
+      ],
       "update": false
     }
   ]
