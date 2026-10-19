@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-19 06:00 UTC",
+  "generated_utc": "2026-10-19 06:10 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
@@ -44,69 +44,60 @@
       "update": false
     },
     {
-      "headline": "And this is why we don’t trust the Government on UFO disclosure… - Richard Doty | ep. 100",
-      "lane": "podcast",
+      "headline": "UAP report",
+      "lane": "developing",
       "status": "DEVELOPING",
-      "reliability": "C4",
+      "reliability": "D4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "youtube"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "Area52",
-          "url": "https://www.youtube.com/watch?v=vatEIiY3bKM"
+          "handle": "brianvastag@mas.to",
+          "url": "https://mas.to/@brianvastag/117453717112990399"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=T-3CmY_ztwo&",
-        "https://www.youtube.com/watch?v=vatEIiY3bKM"
-      ],
+      "videos": [],
       "update": false
     },
     {
-      "headline": "Richard Doty (Ex-OSI) Leaks Roswell & Kingman UFO Crash Details | ep. 100",
-      "lane": "podcast",
+      "headline": "Sensor / radar UAP detection reported",
+      "lane": "developing",
       "status": "DEVELOPING",
-      "reliability": "C4",
-      "p_credible": 0.55,
+      "reliability": "F6",
+      "p_credible": 0.0,
       "independent_sources": 1,
       "platforms": [
-        "youtube"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "Area52",
-          "url": "https://www.youtube.com/watch?v=-Vfy1EYCRfA"
+          "handle": "AreciboSignal",
+          "url": "https://mastodon.social/@AreciboSignal/117451654525322809"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=T-3CmY_ztwo&",
-        "https://www.youtube.com/watch?v=-Vfy1EYCRfA"
-      ],
+      "videos": [],
       "update": false
     },
     {
-      "headline": "Hal Puthoff and I reported to a buried UFO... - Richard Doty | ep. 100",
-      "lane": "podcast",
+      "headline": "UAP report",
+      "lane": "developing",
       "status": "DEVELOPING",
-      "reliability": "C4",
+      "reliability": "D4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "youtube"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "Area52",
-          "url": "https://www.youtube.com/watch?v=tSK12Nb7XMU"
+          "handle": "mutantesde",
+          "url": "https://mastodon.social/@mutantesde/117460940896503019"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=T-3CmY_ztwo&",
-        "https://www.youtube.com/watch?v=tSK12Nb7XMU"
-      ],
+      "videos": [],
       "update": false
     }
   ]
