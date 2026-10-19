@@ -1,38 +1,33 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-19 00:20 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-19 00:40 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 _No corroborated reports this cycle._
 
 ## Developing / unconfirmed
-_None._
+
+![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
+1. Official UAP statement reported — reliability A4 · 1 source(s)  
+   [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117463242114563007)
+
+![Unidentified submerged object (USO) reported](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
+2. Unidentified submerged object (USO) reported — reliability A4 · 1 source(s)  
+   [@did:plc:shrsmgpwm5lycrfqcuphidns](https://bsky.app/profile/did:plc:shrsmgpwm5lycrfqcuphidns/post/3my6v2nbozf2x)
+
+![Unidentified submerged object (USO) reported](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
+3. Unidentified submerged object (USO) reported — reliability A4 · 1 source(s)  
+   [@ScienceBob](https://mastodon.social/@ScienceBob/117464669239838365)
+
+![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
+4. Official UAP statement reported — reliability F6 · 1 source(s)  
+   [@technowsrriors](https://mastodon.social/@technowsrriors/117461484696656770)
+
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+5. UAP report — reliability A4 · 1 source(s)  
+   [@brianvastag@mas.to](https://mas.to/@brianvastag/117453717112990399)
 
 ## Disclosure podcasts
-
-![#35 WHY DO ROCKSTARS SEE UFOS? — Sound, Light & Frequency](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
-1. #35 WHY DO ROCKSTARS SEE UFOS? — Sound, Light & Frequency — reliability C4 · 1 source(s)  
-   [@NeedToKnow](https://www.youtube.com/watch?v=GgjkPj3nh98)  
-   📹 [video](https://www.youtube.com/watch?v=GgjkPj3nh98)
-
-![WHISTLEBLOWERS & UFOs: Who’s Really Telling the Truth?](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
-2. WHISTLEBLOWERS & UFOs: Who’s Really Telling the Truth? — reliability C4 · 1 source(s)  
-   [@SpacedOutRadio](https://www.youtube.com/watch?v=YOhphy3bEvg)  
-   📹 [video](https://www.youtube.com/watch?v=YOhphy3bEvg)
-
-![A Deep Look Into a Potential UFO Cover Up!](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
-3. A Deep Look Into a Potential UFO Cover Up! — reliability C4 · 1 source(s)  
-   [@SpacedOutRadio](https://www.youtube.com/watch?v=qkz5nyCjHdM)  
-   📹 [video](https://www.youtube.com/watch?v=qkz5nyCjHdM)
-
-![UFO Secrets, UAP Stories and Government Secrets on NHI](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-4. UFO Secrets, UAP Stories and Government Secrets on NHI — reliability C4 · 1 source(s)  
-   [@SpacedOutRadio](https://www.youtube.com/watch?v=seNQZdUu_WM)  
-   📹 [video](https://www.youtube.com/watch?v=seNQZdUu_WM)
-
-![Did Trump Authorize The Shootdown Of UFOs?](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. Did Trump Authorize The Shootdown Of UFOs? — reliability C4 · 1 source(s)  
-   [@Weaponized](https://www.youtube.com/watch?v=7Ht63W-nBYA)  
-   📹 [video](https://www.youtube.com/watch?v=7Ht63W-nBYA)
+_None this cycle._
 
 ---
 *Powered by Science Bob News. Free to use with credit (see [LICENSE](LICENSE)). Social-feed headlines are factual restatements in the engine's own words; podcast entries use the episode title. Click through to the linked sources for originals. Reposts of a single origin are collapsed to one source; candidate prosaic explanations are flagged where offered. Machine-readable feed: [feed.json](feed.json).*
