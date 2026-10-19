@@ -1,8 +1,19 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-19 19:10 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-19 21:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
-_No corroborated reports this cycle._
+
+![#30 PROJECT BLUE BOOK: UFO TV CREATORS TALK SHOP — Sound, Light & Frequency](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
+1. **#30 PROJECT BLUE BOOK: UFO TV CREATORS TALK SHOP — Sound, Light & Frequency**  
+   reliability **C3** · P(credible)=1.0 · 2 independent source(s) · bluesky+youtube  
+   [@NeedToKnow](https://www.youtube.com/watch?v=JChXX2IAa2o) · [@did:plc:nqxjy3npon47lw7k4alsbouf](https://bsky.app/profile/did:plc:nqxjy3npon47lw7k4alsbouf/post/3myaza3zk2c2z)  
+   📹 [video](https://www.youtube.com/watch?v=JChXX2IAa2o)
+
+![#27 PEAKS AND VALLEYS OF WOO — Sound, Light & Frequency](https://n4hy.github.io/sciencebobnews-site/card_c_2.svg)
+2. **#27 PEAKS AND VALLEYS OF WOO — Sound, Light & Frequency**  
+   reliability **C3** · P(credible)=1.0 · 2 independent source(s) · bluesky+youtube  
+   [@NeedToKnow](https://www.youtube.com/watch?v=LvYmWCnNc1Y) · [@did:plc:3iltugf5ocp757s6mt3grnmz](https://bsky.app/profile/did:plc:3iltugf5ocp757s6mt3grnmz/post/3myazabohz32p)  
+   📹 [video](https://www.youtube.com/watch?v=LvYmWCnNc1Y)
 
 ## Developing / unconfirmed
 _None._
