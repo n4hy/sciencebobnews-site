@@ -2,102 +2,112 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-19 01:10 UTC",
+  "generated_utc": "2026-10-19 01:20 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
-      "headline": "Official UAP statement reported",
-      "lane": "developing",
+      "headline": "Did Trump Authorize The Shootdown Of UFOs?",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "A4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "vibewire@mastodon.au",
-          "url": "https://mastodon.au/@vibewire/117463242114563007"
+          "handle": "Weaponized",
+          "url": "https://www.youtube.com/watch?v=7Ht63W-nBYA"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=7Ht63W-nBYA"
+      ],
       "update": false
     },
     {
-      "headline": "Unidentified submerged object (USO) reported",
-      "lane": "developing",
+      "headline": "Why disclosure still requires sustained pressure",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "A4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "ScienceBob",
-          "url": "https://mastodon.social/@ScienceBob/117464669239838365"
+          "handle": "Weaponized",
+          "url": "https://www.youtube.com/shorts/FLptMj7wuUY"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/shorts/FLptMj7wuUY"
+      ],
       "update": false
     },
     {
-      "headline": "Official UAP statement reported",
-      "lane": "developing",
+      "headline": "What does speaking out cost? | Dylan Borland | WEAPONIZED",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "F6",
-      "p_credible": 0.0,
-      "independent_sources": 1,
-      "platforms": [
-        "mastodon"
-      ],
-      "sources": [
-        {
-          "handle": "technowsrriors",
-          "url": "https://mastodon.social/@technowsrriors/117461484696656770"
-        }
-      ],
-      "videos": [],
-      "update": false
-    },
-    {
-      "headline": "UAP report",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "A4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "brianvastag@mas.to",
-          "url": "https://mas.to/@brianvastag/117453717112990399"
+          "handle": "Weaponized",
+          "url": "https://www.youtube.com/shorts/TBwmwoqvhOc"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/shorts/TBwmwoqvhOc"
+      ],
       "update": false
     },
     {
-      "headline": "Sensor / radar UAP detection reported",
-      "lane": "developing",
+      "headline": "Why the disclosure fight depends on persistence",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "F6",
-      "p_credible": 0.0,
+      "reliability": "C4",
+      "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "AreciboSignal",
-          "url": "https://mastodon.social/@AreciboSignal/117451654525322809"
+          "handle": "Weaponized",
+          "url": "https://www.youtube.com/shorts/0uuCTzxF1qg"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/shorts/0uuCTzxF1qg"
+      ],
+      "update": false
+    },
+    {
+      "headline": "Col. Philip Corso recounts a perfect missile test",
+      "lane": "podcast",
+      "status": "DEVELOPING",
+      "reliability": "C4",
+      "p_credible": 0.55,
+      "independent_sources": 1,
+      "platforms": [
+        "youtube"
+      ],
+      "sources": [
+        {
+          "handle": "Weaponized",
+          "url": "https://www.youtube.com/shorts/nYuqptAhkzc"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/shorts/nYuqptAhkzc"
+      ],
       "update": false
     }
   ]
