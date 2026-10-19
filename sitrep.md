@@ -1,38 +1,49 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-18 23:40 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-19 00:10 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
-_No corroborated reports this cycle._
+
+![#35 WHY DO ROCKSTARS SEE UFOS? — Sound, Light & Frequency](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
+1. **#35 WHY DO ROCKSTARS SEE UFOS? — Sound, Light & Frequency**  
+   reliability **A3** · P(credible)=1.0 · 2 independent source(s) · bluesky+youtube  
+   [@NeedToKnow](https://www.youtube.com/watch?v=GgjkPj3nh98) · [@did:plc:v7pxdausl6js5a5gxfpht66e](https://bsky.app/profile/did:plc:v7pxdausl6js5a5gxfpht66e/post/3my6tf3e5hr2g)  
+   📹 [video](https://www.youtube.com/watch?v=GgjkPj3nh98)
+
+![#29 THE X-FILES: THE TRUTH IS COMPLICATED — Sound, Light & Frequency](https://n4hy.github.io/sciencebobnews-site/card_c_2.svg)
+2. **#29 THE X-FILES: THE TRUTH IS COMPLICATED — Sound, Light & Frequency**  
+   reliability **A3** · P(credible)=1.0 · 2 independent source(s) · bluesky+youtube  
+   [@NeedToKnow](https://www.youtube.com/watch?v=-q-WseItlrE) · [@did:plc:v7pxdausl6js5a5gxfpht66e](https://bsky.app/profile/did:plc:v7pxdausl6js5a5gxfpht66e/post/3my6tf4anoq2r)  
+   📹 [video](https://www.youtube.com/watch?v=-q-WseItlrE)
 
 ## Developing / unconfirmed
 _None._
 
 ## Disclosure podcasts
 
-![#35 WHY DO ROCKSTARS SEE UFOS? — Sound, Light & Frequency](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
-1. #35 WHY DO ROCKSTARS SEE UFOS? — Sound, Light & Frequency — reliability C4 · 1 source(s)  
-   [@NeedToKnow](https://www.youtube.com/watch?v=GgjkPj3nh98)  
-   📹 [video](https://www.youtube.com/watch?v=GgjkPj3nh98)
-
-![WHISTLEBLOWERS & UFOs: Who’s Really Telling the Truth?](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
-2. WHISTLEBLOWERS & UFOs: Who’s Really Telling the Truth? — reliability C4 · 1 source(s)  
+![WHISTLEBLOWERS & UFOs: Who’s Really Telling the Truth?](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
+1. WHISTLEBLOWERS & UFOs: Who’s Really Telling the Truth? — reliability C4 · 1 source(s)  
    [@SpacedOutRadio](https://www.youtube.com/watch?v=YOhphy3bEvg)  
    📹 [video](https://www.youtube.com/watch?v=YOhphy3bEvg)
 
-![A Deep Look Into a Potential UFO Cover Up!](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
-3. A Deep Look Into a Potential UFO Cover Up! — reliability C4 · 1 source(s)  
+![A Deep Look Into a Potential UFO Cover Up!](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
+2. A Deep Look Into a Potential UFO Cover Up! — reliability C4 · 1 source(s)  
    [@SpacedOutRadio](https://www.youtube.com/watch?v=qkz5nyCjHdM)  
    📹 [video](https://www.youtube.com/watch?v=qkz5nyCjHdM)
 
-![UFO Secrets, UAP Stories and Government Secrets on NHI](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-4. UFO Secrets, UAP Stories and Government Secrets on NHI — reliability C4 · 1 source(s)  
+![UFO Secrets, UAP Stories and Government Secrets on NHI](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
+3. UFO Secrets, UAP Stories and Government Secrets on NHI — reliability C4 · 1 source(s)  
    [@SpacedOutRadio](https://www.youtube.com/watch?v=seNQZdUu_WM)  
    📹 [video](https://www.youtube.com/watch?v=seNQZdUu_WM)
 
-![Did Trump Authorize The Shootdown Of UFOs?](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. Did Trump Authorize The Shootdown Of UFOs? — reliability C4 · 1 source(s)  
+![Did Trump Authorize The Shootdown Of UFOs?](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
+4. Did Trump Authorize The Shootdown Of UFOs? — reliability C4 · 1 source(s)  
    [@Weaponized](https://www.youtube.com/watch?v=7Ht63W-nBYA)  
    📹 [video](https://www.youtube.com/watch?v=7Ht63W-nBYA)
+
+![Why disclosure still requires sustained pressure](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+5. Why disclosure still requires sustained pressure — reliability C4 · 1 source(s)  
+   [@Weaponized](https://www.youtube.com/shorts/FLptMj7wuUY)  
+   📹 [video](https://www.youtube.com/shorts/FLptMj7wuUY)
 
 ---
 *Powered by Science Bob News. Free to use with credit (see [LICENSE](LICENSE)). Social-feed headlines are factual restatements in the engine's own words; podcast entries use the episode title. Click through to the linked sources for originals. Reposts of a single origin are collapsed to one source; candidate prosaic explanations are flagged where offered. Machine-readable feed: [feed.json](feed.json).*
