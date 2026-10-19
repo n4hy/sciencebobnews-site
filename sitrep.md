@@ -1,16 +1,10 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-19 13:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-19 13:10 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
-![#29 THE X-FILES: THE TRUTH IS COMPLICATED — Sound, Light & Frequency](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
-1. **#29 THE X-FILES: THE TRUTH IS COMPLICATED — Sound, Light & Frequency**  
-   reliability **C3** · P(credible)=1.0 · 2 independent source(s) · bluesky+youtube  
-   [@NeedToKnow](https://www.youtube.com/watch?v=-q-WseItlrE) · [@did:plc:wbrh5dtvbxrqigotdy4lwcor](https://bsky.app/profile/did:plc:wbrh5dtvbxrqigotdy4lwcor/post/3mya6ftd7hk2m)  
-   📹 [video](https://www.youtube.com/watch?v=-q-WseItlrE)
-
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_2.svg)
-2. **UAP report**  
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
+1. **UAP report**  
    reliability **D3** · P(credible)=1.0 · 2 independent source(s) · mastodon  
    [@unexplainedie](https://mastodon.social/@unexplainedie/117466961495247440) · [@brianvastag@mas.to](https://mas.to/@brianvastag/117453717112990399)
 
