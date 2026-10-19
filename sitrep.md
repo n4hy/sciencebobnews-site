@@ -1,38 +1,35 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-19 05:50 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-19 06:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 _No corroborated reports this cycle._
 
 ## Developing / unconfirmed
-_None._
+
+![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
+1. Official UAP statement reported — reliability D4 · 1 source(s)  
+   [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117463242114563007)
+
+![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
+2. Official UAP statement reported — reliability F6 · 1 source(s)  
+   [@technowsrriors](https://mastodon.social/@technowsrriors/117461484696656770)
 
 ## Disclosure podcasts
 
-![Bigfoot, Dogman & Terrifying Cryptid Encounters](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
-1. Bigfoot, Dogman & Terrifying Cryptid Encounters — reliability C4 · 1 source(s)  
-   [@SpacedOutRadio](https://www.youtube.com/watch?v=a0Tzc8CaBEA)  
-   📹 [video](https://www.youtube.com/watch?v=a0Tzc8CaBEA)
+![And this is why we don’t trust the Government on UFO disclosure… - Richard Doty | ep. 100](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
+1. And this is why we don’t trust the Government on UFO disclosure… - Richard Doty | ep. 100 — reliability C4 · 1 source(s)  
+   [@Area52](https://www.youtube.com/watch?v=vatEIiY3bKM)  
+   📹 [video](https://www.youtube.com/watch?v=T-3CmY_ztwo&) · [video](https://www.youtube.com/watch?v=vatEIiY3bKM)
 
-![A Deep Look Into a Potential UFO Cover Up!](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
-2. A Deep Look Into a Potential UFO Cover Up! — reliability C4 · 1 source(s)  
-   [@SpacedOutRadio](https://www.youtube.com/watch?v=qkz5nyCjHdM)  
-   📹 [video](https://www.youtube.com/watch?v=qkz5nyCjHdM)
+![Richard Doty (Ex-OSI) Leaks Roswell & Kingman UFO Crash Details | ep. 100](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
+2. Richard Doty (Ex-OSI) Leaks Roswell & Kingman UFO Crash Details | ep. 100 — reliability C4 · 1 source(s)  
+   [@Area52](https://www.youtube.com/watch?v=-Vfy1EYCRfA)  
+   📹 [video](https://www.youtube.com/watch?v=T-3CmY_ztwo&) · [video](https://www.youtube.com/watch?v=-Vfy1EYCRfA)
 
-![UFO Secrets, UAP Stories and Government Secrets on NHI](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
-3. UFO Secrets, UAP Stories and Government Secrets on NHI — reliability C4 · 1 source(s)  
-   [@SpacedOutRadio](https://www.youtube.com/watch?v=seNQZdUu_WM)  
-   📹 [video](https://www.youtube.com/watch?v=seNQZdUu_WM)
-
-![The Lady - Predictions - UFOs with Josh Rutledge](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-4. The Lady - Predictions - UFOs with Josh Rutledge — reliability C4 · 1 source(s)  
-   [@SpacedOutRadio](https://www.youtube.com/watch?v=JRSi6CEu5lo)  
-   📹 [video](https://www.youtube.com/watch?v=JRSi6CEu5lo)
-
-![Telepathy, Aliens & Demons: Who’s Really Inside Our Heads?](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. Telepathy, Aliens & Demons: Who’s Really Inside Our Heads? — reliability C4 · 1 source(s)  
-   [@SpacedOutRadio](https://www.youtube.com/watch?v=abiV2DoE8sk)  
-   📹 [video](https://www.youtube.com/watch?v=abiV2DoE8sk)
+![Hal Puthoff and I reported to a buried UFO... - Richard Doty | ep. 100](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+3. Hal Puthoff and I reported to a buried UFO... - Richard Doty | ep. 100 — reliability C4 · 1 source(s)  
+   [@Area52](https://www.youtube.com/watch?v=tSK12Nb7XMU)  
+   📹 [video](https://www.youtube.com/watch?v=T-3CmY_ztwo&) · [video](https://www.youtube.com/watch?v=tSK12Nb7XMU)
 
 ---
 *Powered by Science Bob News. Free to use with credit (see [LICENSE](LICENSE)). Social-feed headlines are factual restatements in the engine's own words; podcast entries use the episode title. Click through to the linked sources for originals. Reposts of a single origin are collapsed to one source; candidate prosaic explanations are flagged where offered. Machine-readable feed: [feed.json](feed.json).*
