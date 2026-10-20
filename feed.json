@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-20 01:50 UTC",
+  "generated_utc": "2026-10-20 02:00 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
@@ -25,87 +25,79 @@
       "update": false
     },
     {
-      "headline": "#35 WHY DO ROCKSTARS SEE UFOS? — Sound, Light & Frequency",
-      "lane": "podcast",
+      "headline": "Official UAP statement reported",
+      "lane": "developing",
       "status": "DEVELOPING",
-      "reliability": "C4",
+      "reliability": "E4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "youtube"
+        "bluesky"
       ],
       "sources": [
         {
-          "handle": "NeedToKnow",
-          "url": "https://www.youtube.com/watch?v=GgjkPj3nh98"
+          "handle": "did:plc:biug6mgsk6i7ymfdop2dqeva",
+          "url": "https://bsky.app/profile/did:plc:biug6mgsk6i7ymfdop2dqeva/post/3mybjylhrso2k"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=GgjkPj3nh98"
-      ],
+      "videos": [],
       "update": false
     },
     {
-      "headline": "#29 THE X-FILES: THE TRUTH IS COMPLICATED — Sound, Light & Frequency",
-      "lane": "podcast",
+      "headline": "UAP report",
+      "lane": "developing",
       "status": "DEVELOPING",
-      "reliability": "C4",
+      "reliability": "D4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "youtube"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "NeedToKnow",
-          "url": "https://www.youtube.com/watch?v=-q-WseItlrE"
+          "handle": "unexplainedie",
+          "url": "https://mastodon.social/@unexplainedie/117466961495247440"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=-q-WseItlrE"
-      ],
+      "videos": [],
       "update": false
     },
     {
-      "headline": "#79 Jay Stratton Steps Out of the Shadows — Need To Know",
-      "lane": "podcast",
+      "headline": "UAP report",
+      "lane": "developing",
       "status": "DEVELOPING",
-      "reliability": "C4",
+      "reliability": "D4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "youtube"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "NeedToKnow",
-          "url": "https://www.youtube.com/watch?v=d6hqLZ-aLRU"
+          "handle": "Haaikoe@pixelfed.social",
+          "url": "https://pixelfed.social/p/Haaikoe/1017939147213045706"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=d6hqLZ-aLRU"
-      ],
+      "videos": [],
       "update": false
     },
     {
-      "headline": "#78 Can the Phenomenon Be Both Hardware & Consciousness? — Need To Know — October 2026",
-      "lane": "podcast",
+      "headline": "UAP report (Lake Cote)",
+      "lane": "developing",
       "status": "DEVELOPING",
-      "reliability": "C4",
+      "reliability": "E4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "youtube"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "NeedToKnow",
-          "url": "https://www.youtube.com/watch?v=tiyL75kAOqQ"
+          "handle": "thirdbookofthedead",
+          "url": "https://mastodon.social/@thirdbookofthedead/117467315177744851"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=tiyL75kAOqQ"
-      ],
+      "videos": [],
       "update": false
     }
   ]

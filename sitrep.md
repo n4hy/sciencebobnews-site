@@ -1,36 +1,33 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-20 01:50 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-20 02:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 _No corroborated reports this cycle._
 
 ## Developing / unconfirmed
 
-![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
 1. Official UAP statement reported — reliability D4 · 1 source(s)  
    [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117468407841157863)
 
+![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
+2. Official UAP statement reported — reliability E4 · 1 source(s)  
+   [@did:plc:biug6mgsk6i7ymfdop2dqeva](https://bsky.app/profile/did:plc:biug6mgsk6i7ymfdop2dqeva/post/3mybjylhrso2k)
+
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
+3. UAP report — reliability D4 · 1 source(s)  
+   [@unexplainedie](https://mastodon.social/@unexplainedie/117466961495247440)
+
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
+4. UAP report — reliability D4 · 1 source(s)  
+   [@Haaikoe@pixelfed.social](https://pixelfed.social/p/Haaikoe/1017939147213045706)
+
+![UAP report (Lake Cote)](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+5. UAP report (Lake Cote) — reliability E4 · 1 source(s)  
+   [@thirdbookofthedead](https://mastodon.social/@thirdbookofthedead/117467315177744851)
+
 ## Disclosure podcasts
-
-![#35 WHY DO ROCKSTARS SEE UFOS? — Sound, Light & Frequency](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
-1. #35 WHY DO ROCKSTARS SEE UFOS? — Sound, Light & Frequency — reliability C4 · 1 source(s)  
-   [@NeedToKnow](https://www.youtube.com/watch?v=GgjkPj3nh98)  
-   📹 [video](https://www.youtube.com/watch?v=GgjkPj3nh98)
-
-![#29 THE X-FILES: THE TRUTH IS COMPLICATED — Sound, Light & Frequency](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
-2. #29 THE X-FILES: THE TRUTH IS COMPLICATED — Sound, Light & Frequency — reliability C4 · 1 source(s)  
-   [@NeedToKnow](https://www.youtube.com/watch?v=-q-WseItlrE)  
-   📹 [video](https://www.youtube.com/watch?v=-q-WseItlrE)
-
-![#79 Jay Stratton Steps Out of the Shadows — Need To Know](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
-3. #79 Jay Stratton Steps Out of the Shadows — Need To Know — reliability C4 · 1 source(s)  
-   [@NeedToKnow](https://www.youtube.com/watch?v=d6hqLZ-aLRU)  
-   📹 [video](https://www.youtube.com/watch?v=d6hqLZ-aLRU)
-
-![#78 Can the Phenomenon Be Both Hardware & Consciousness? — Need To Know — October 2026](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-4. #78 Can the Phenomenon Be Both Hardware & Consciousness? — Need To Know — October 2026 — reliability C4 · 1 source(s)  
-   [@NeedToKnow](https://www.youtube.com/watch?v=tiyL75kAOqQ)  
-   📹 [video](https://www.youtube.com/watch?v=tiyL75kAOqQ)
+_None this cycle._
 
 ---
 *Powered by Science Bob News. Free to use with credit (see [LICENSE](LICENSE)). Social-feed headlines are factual restatements in the engine's own words; podcast entries use the episode title. Click through to the linked sources for originals. Reposts of a single origin are collapsed to one source; candidate prosaic explanations are flagged where offered. Machine-readable feed: [feed.json](feed.json).*
