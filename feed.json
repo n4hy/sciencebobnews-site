@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-20 17:10 UTC",
+  "generated_utc": "2026-10-20 19:10 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
@@ -22,7 +22,7 @@
         },
         {
           "handle": "uapfinder",
-          "url": "https://mastodon.social/@uapfinder/117474326967143434"
+          "url": "https://mastodon.social/@uapfinder/117474796364775977"
         }
       ],
       "videos": [],
