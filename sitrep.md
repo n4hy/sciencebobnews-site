@@ -1,12 +1,12 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-20 20:20 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-20 21:10 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
 ![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
 1. **UAP report**  
    reliability **D3** · P(credible)=1.0 · 2 independent source(s) · mastodon  
-   [@kdraven@mysterioustimes.co.uk](https://mysterioustimes.co.uk/2026/10/20/xx-the-abduction/) · [@uapfinder](https://mastodon.social/@uapfinder/117474796364775977)
+   [@kdraven@mysterioustimes.co.uk](https://mysterioustimes.co.uk/2026/10/20/xx-the-abduction/) · [@uapfinder](https://mastodon.social/@uapfinder/117475268175065038)
 
 ## Developing / unconfirmed
 _None._
