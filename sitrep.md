@@ -1,10 +1,16 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-20 09:40 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-20 13:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
-![UAP report (Curlew Mountains)](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
-1. **UAP report (Curlew Mountains)**  
+![#29 THE X-FILES: THE TRUTH IS COMPLICATED — Sound, Light & Frequency](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
+1. **#29 THE X-FILES: THE TRUTH IS COMPLICATED — Sound, Light & Frequency**  
+   reliability **C3** · P(credible)=1.0 · 2 independent source(s) · bluesky+youtube  
+   [@NeedToKnow](https://www.youtube.com/watch?v=-q-WseItlrE) · [@did:plc:op3eidpileylba2tahvzlchk](https://bsky.app/profile/did:plc:op3eidpileylba2tahvzlchk/post/3mycouusgjy2a)  
+   📹 [video](https://www.youtube.com/watch?v=-q-WseItlrE)
+
+![UAP report (Curlew Mountains)](https://n4hy.github.io/sciencebobnews-site/card_c_2.svg)
+2. **UAP report (Curlew Mountains)**  
    reliability **D3** · P(credible)=1.0 · 2 independent source(s) · mastodon  
    [@unexplainedie](https://mastodon.social/@unexplainedie/117472567673220592) · [@uapfinder](https://mastodon.social/@uapfinder/117470079727233641)
 
