@@ -2,102 +2,112 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-20 06:20 UTC",
+  "generated_utc": "2026-10-20 07:00 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
-      "headline": "Official UAP statement reported",
-      "lane": "developing",
+      "headline": "Bigfoot, Dogman & Terrifying Cryptid Encounters",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "D4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "vibewire@mastodon.au",
-          "url": "https://mastodon.au/@vibewire/117468407841157863"
+          "handle": "SpacedOutRadio",
+          "url": "https://www.youtube.com/watch?v=a0Tzc8CaBEA"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=a0Tzc8CaBEA"
+      ],
       "update": false
     },
     {
-      "headline": "UAP report",
-      "lane": "developing",
+      "headline": "#35 WHY DO ROCKSTARS SEE UFOS? — Sound, Light & Frequency",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "D4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "unexplainedie",
-          "url": "https://mastodon.social/@unexplainedie/117466961495247440"
+          "handle": "NeedToKnow",
+          "url": "https://www.youtube.com/watch?v=GgjkPj3nh98"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=GgjkPj3nh98"
+      ],
       "update": false
     },
     {
-      "headline": "UAP report",
-      "lane": "developing",
+      "headline": "A Deep Look Into a Potential UFO Cover Up!",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "D4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "Haaikoe@pixelfed.social",
-          "url": "https://pixelfed.social/p/Haaikoe/1017939147213045706"
+          "handle": "SpacedOutRadio",
+          "url": "https://www.youtube.com/watch?v=qkz5nyCjHdM"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=qkz5nyCjHdM"
+      ],
       "update": false
     },
     {
-      "headline": "UAP report",
-      "lane": "developing",
+      "headline": "UFO Secrets, UAP Stories and Government Secrets on NHI",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "D4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "bahamondes",
-          "url": "https://mastodon.social/@bahamondes/117470836961760431"
+          "handle": "SpacedOutRadio",
+          "url": "https://www.youtube.com/watch?v=seNQZdUu_WM"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=seNQZdUu_WM"
+      ],
       "update": false
     },
     {
-      "headline": "UAP report (Lake Cote)",
-      "lane": "developing",
+      "headline": "Why disclosure still requires sustained pressure",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "E4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "thirdbookofthedead",
-          "url": "https://mastodon.social/@thirdbookofthedead/117467315177744851"
+          "handle": "Weaponized",
+          "url": "https://www.youtube.com/shorts/FLptMj7wuUY"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/shorts/FLptMj7wuUY"
+      ],
       "update": false
     }
   ]
