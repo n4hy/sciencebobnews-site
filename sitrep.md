@@ -1,8 +1,12 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-20 07:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-20 09:40 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
-_No corroborated reports this cycle._
+
+![UAP report (Curlew Mountains)](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
+1. **UAP report (Curlew Mountains)**  
+   reliability **D3** · P(credible)=1.0 · 2 independent source(s) · mastodon  
+   [@unexplainedie](https://mastodon.social/@unexplainedie/117472567673220592) · [@uapfinder](https://mastodon.social/@uapfinder/117470079727233641)
 
 ## Developing / unconfirmed
 _None._
