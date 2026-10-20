@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-20 00:20 UTC",
+  "generated_utc": "2026-10-20 00:30 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
@@ -25,7 +25,26 @@
       "update": false
     },
     {
-      "headline": "Why disclosure still requires sustained pressure",
+      "headline": "UAP report",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "D4",
+      "p_credible": 0.55,
+      "independent_sources": 1,
+      "platforms": [
+        "mastodon"
+      ],
+      "sources": [
+        {
+          "handle": "unexplainedie",
+          "url": "https://mastodon.social/@unexplainedie/117466961495247440"
+        }
+      ],
+      "videos": [],
+      "update": false
+    },
+    {
+      "headline": "\"My Father Was a Russian UFO Physicist... I Have His Documents\"",
       "lane": "podcast",
       "status": "DEVELOPING",
       "reliability": "C4",
@@ -36,17 +55,17 @@
       ],
       "sources": [
         {
-          "handle": "Weaponized",
-          "url": "https://www.youtube.com/shorts/FLptMj7wuUY"
+          "handle": "ProjectUnity",
+          "url": "https://www.youtube.com/watch?v=qXWfSpH218w"
         }
       ],
       "videos": [
-        "https://www.youtube.com/shorts/FLptMj7wuUY"
+        "https://www.youtube.com/watch?v=qXWfSpH218w"
       ],
       "update": false
     },
     {
-      "headline": "What does speaking out cost? | Dylan Borland | WEAPONIZED",
+      "headline": "Leaked Russian UFO Docs Reveal Alien Tech Secrets",
       "lane": "podcast",
       "status": "DEVELOPING",
       "reliability": "C4",
@@ -57,17 +76,18 @@
       ],
       "sources": [
         {
-          "handle": "Weaponized",
-          "url": "https://www.youtube.com/shorts/TBwmwoqvhOc"
+          "handle": "ProjectUnity",
+          "url": "https://www.youtube.com/shorts/Qt6djQSy1x8"
         }
       ],
       "videos": [
-        "https://www.youtube.com/shorts/TBwmwoqvhOc"
+        "https://www.youtube.com/watch?v=qXWfSpH218w",
+        "https://www.youtube.com/shorts/Qt6djQSy1x8"
       ],
       "update": false
     },
     {
-      "headline": "Why the disclosure fight depends on persistence",
+      "headline": "Is UFO Tech Human Tech!?",
       "lane": "podcast",
       "status": "DEVELOPING",
       "reliability": "C4",
@@ -78,33 +98,13 @@
       ],
       "sources": [
         {
-          "handle": "Weaponized",
-          "url": "https://www.youtube.com/shorts/0uuCTzxF1qg"
+          "handle": "ProjectUnity",
+          "url": "https://www.youtube.com/shorts/KxmV6PEPd4Q"
         }
       ],
       "videos": [
-        "https://www.youtube.com/shorts/0uuCTzxF1qg"
-      ],
-      "update": false
-    },
-    {
-      "headline": "Col. Philip Corso recounts a perfect missile test",
-      "lane": "podcast",
-      "status": "DEVELOPING",
-      "reliability": "C4",
-      "p_credible": 0.55,
-      "independent_sources": 1,
-      "platforms": [
-        "youtube"
-      ],
-      "sources": [
-        {
-          "handle": "Weaponized",
-          "url": "https://www.youtube.com/shorts/nYuqptAhkzc"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/shorts/nYuqptAhkzc"
+        "https://www.youtube.com/watch?v=qXWfSpH218w",
+        "https://www.youtube.com/shorts/KxmV6PEPd4Q"
       ],
       "update": false
     }
