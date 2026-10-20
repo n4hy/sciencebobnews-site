@@ -1,13 +1,8 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-20 01:10 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-20 01:20 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
-
-![#30 PROJECT BLUE BOOK: UFO TV CREATORS TALK SHOP — Sound, Light & Frequency](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
-1. **#30 PROJECT BLUE BOOK: UFO TV CREATORS TALK SHOP — Sound, Light & Frequency**  
-   reliability **C3** · P(credible)=1.0 · 2 independent source(s) · bluesky+youtube  
-   [@NeedToKnow](https://www.youtube.com/watch?v=JChXX2IAa2o) · [@did:plc:n2xz4zggqc2ehpyf4bdvt5wt](https://bsky.app/profile/did:plc:n2xz4zggqc2ehpyf4bdvt5wt/post/3mybh7dvfxj25)  
-   📹 [video](https://www.youtube.com/watch?v=JChXX2IAa2o)
+_No corroborated reports this cycle._
 
 ## Developing / unconfirmed
 _None._
