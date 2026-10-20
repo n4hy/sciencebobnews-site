@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-20 04:40 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-20 04:50 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 _No corroborated reports this cycle._
@@ -22,9 +22,9 @@ _No corroborated reports this cycle._
 4. UAP report — reliability D4 · 1 source(s)  
    [@bahamondes](https://mastodon.social/@bahamondes/117470836961760431)
 
-![UAP report (Lake Cote)](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. UAP report (Lake Cote) — reliability E4 · 1 source(s)  
-   [@thirdbookofthedead](https://mastodon.social/@thirdbookofthedead/117467315177744851)
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+5. UAP report — reliability E4 · 1 source(s)  
+   [@did:plc:xl4t6log7dir5jjaooeyk2xp](https://bsky.app/profile/did:plc:xl4t6log7dir5jjaooeyk2xp/post/3mybtijuteu2j)
 
 ## Disclosure podcasts
 _None this cycle._
