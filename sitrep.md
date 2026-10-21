@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-21 02:30 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-21 02:40 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
@@ -9,32 +9,27 @@
    [@kdraven@mysterioustimes.co.uk](https://mysterioustimes.co.uk/2026/10/20/xx-the-abduction/) · [@uapfinder](https://mastodon.social/@uapfinder/117475740042772311)
 
 ## Developing / unconfirmed
-_None._
+
+![Official UAP statement reported (Tulsa)](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
+1. Official UAP statement reported (Tulsa) — reliability D4 · 1 source(s)  
+   [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117475367177860845)
+
+![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
+2. Official UAP statement reported — reliability D4 · 1 source(s)  
+   [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117473573677772894)
+
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
+3. UAP report — reliability D4 · 1 source(s)  
+   [@unexplainedie](https://mastodon.social/@unexplainedie/117466961495247440)
+
+![UAP report (Curlew Mountains)](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+4. UAP report (Curlew Mountains) — reliability D4 · 1 source(s)  
+   [@unexplainedie](https://mastodon.social/@unexplainedie/117472567673220592)
 
 ## Disclosure podcasts
 
-![#35 WHY DO ROCKSTARS SEE UFOS? — Sound, Light & Frequency](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
-1. #35 WHY DO ROCKSTARS SEE UFOS? — Sound, Light & Frequency — reliability C4 · 1 source(s)  
-   [@NeedToKnow](https://www.youtube.com/watch?v=GgjkPj3nh98)  
-   📹 [video](https://www.youtube.com/watch?v=GgjkPj3nh98)
-
-![#29 THE X-FILES: THE TRUTH IS COMPLICATED — Sound, Light & Frequency](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
-2. #29 THE X-FILES: THE TRUTH IS COMPLICATED — Sound, Light & Frequency — reliability C4 · 1 source(s)  
-   [@NeedToKnow](https://www.youtube.com/watch?v=-q-WseItlrE)  
-   📹 [video](https://www.youtube.com/watch?v=-q-WseItlrE)
-
-![#79 Jay Stratton Steps Out of the Shadows — Need To Know](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
-3. #79 Jay Stratton Steps Out of the Shadows — Need To Know — reliability C4 · 1 source(s)  
-   [@NeedToKnow](https://www.youtube.com/watch?v=d6hqLZ-aLRU)  
-   📹 [video](https://www.youtube.com/watch?v=d6hqLZ-aLRU)
-
-![Disclosure Capitol Steps](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-4. Disclosure Capitol Steps — reliability C4 · 1 source(s)  
-   [@OrbisParanormal](https://www.youtube.com/watch?v=VM8ZX9-ruUM)  
-   📹 [video](https://www.youtube.com/watch?v=VM8ZX9-ruUM)
-
-![And this is why we don’t trust the Government on UFO disclosure… - Richard Doty | ep. 100](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. And this is why we don’t trust the Government on UFO disclosure… - Richard Doty | ep. 100 — reliability C4 · 1 source(s)  
+![And this is why we don’t trust the Government on UFO disclosure… - Richard Doty | ep. 100](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
+1. And this is why we don’t trust the Government on UFO disclosure… - Richard Doty | ep. 100 — reliability C4 · 1 source(s)  
    [@Area52](https://www.youtube.com/watch?v=vatEIiY3bKM)  
    📹 [video](https://www.youtube.com/watch?v=T-3CmY_ztwo&) · [video](https://www.youtube.com/watch?v=vatEIiY3bKM)
 
