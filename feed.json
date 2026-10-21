@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-21 23:30 UTC",
+  "generated_utc": "2026-10-21 23:40 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
@@ -29,98 +29,109 @@
       "update": false
     },
     {
-      "headline": "Official UAP statement reported",
-      "lane": "developing",
+      "headline": "#35 WHY DO ROCKSTARS SEE UFOS? — Sound, Light & Frequency",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "D4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "vibewire@mastodon.au",
-          "url": "https://mastodon.au/@vibewire/117479403447604962"
+          "handle": "NeedToKnow",
+          "url": "https://www.youtube.com/watch?v=GgjkPj3nh98"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=GgjkPj3nh98"
+      ],
       "update": false
     },
     {
-      "headline": "UAP report (Curlew Mountains)",
-      "lane": "developing",
+      "headline": "Why disclosure still requires sustained pressure",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "D4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "unexplainedie",
-          "url": "https://mastodon.social/@unexplainedie/117479355367144948"
+          "handle": "Weaponized",
+          "url": "https://www.youtube.com/shorts/FLptMj7wuUY"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/shorts/FLptMj7wuUY"
+      ],
       "update": false
     },
     {
-      "headline": "UAP report (Lough Foyle)",
-      "lane": "developing",
+      "headline": "What does speaking out cost? | Dylan Borland | WEAPONIZED",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "D4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "unexplainedie",
-          "url": "https://mastodon.social/@unexplainedie/117478177299454095"
+          "handle": "Weaponized",
+          "url": "https://www.youtube.com/shorts/TBwmwoqvhOc"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/shorts/TBwmwoqvhOc"
+      ],
       "update": false
     },
     {
-      "headline": "UAP report",
-      "lane": "developing",
+      "headline": "“THIS IS THE FIRST TIME I’VE TALKED ABOUT THIS ON CAMERA”",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "D4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "inhll@pixelfed.social",
-          "url": "https://pixelfed.social/p/inhll/1018341637652492218"
+          "handle": "Weaponized",
+          "url": "https://www.youtube.com/watch?v=sIBjOCENWmg"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=sIBjOCENWmg",
+        "https://youtu.be/9GblwqzGFAY"
+      ],
       "update": false
     },
     {
-      "headline": "UAP report",
-      "lane": "developing",
+      "headline": "Jay Stratton’s FIRST-EVER Interview - Before The World Knew His Name",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "D4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "eugenialoli",
-          "url": "https://mastodon.social/@eugenialoli/117479121781445343"
+          "handle": "Weaponized",
+          "url": "https://www.youtube.com/watch?v=9GblwqzGFAY"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=9GblwqzGFAY"
+      ],
       "update": false
     }
   ]
