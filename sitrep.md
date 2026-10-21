@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-21 04:40 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-21 04:50 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
@@ -18,17 +18,17 @@
 2. Official UAP statement reported — reliability D4 · 1 source(s)  
    [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117473573677772894)
 
-![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
-3. Official UAP statement reported — reliability E4 · 1 source(s)  
-   [@did:plc:6zk2tjoim3dlkg3a37jgadoq](https://bsky.app/profile/did:plc:6zk2tjoim3dlkg3a37jgadoq/post/3myedfnix2g2j)
-
-![UAP report (Curlew Mountains)](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-4. UAP report (Curlew Mountains) — reliability D4 · 1 source(s)  
+![UAP report (Curlew Mountains)](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
+3. UAP report (Curlew Mountains) — reliability D4 · 1 source(s)  
    [@unexplainedie](https://mastodon.social/@unexplainedie/117472567673220592)
+
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
+4. UAP report — reliability D4 · 1 source(s)  
+   [@Haaikoe@pixelfed.social](https://pixelfed.social/p/Haaikoe/1017939147213045706)
 
 ![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
 5. UAP report — reliability D4 · 1 source(s)  
-   [@Haaikoe@pixelfed.social](https://pixelfed.social/p/Haaikoe/1017939147213045706)
+   [@bahamondes](https://mastodon.social/@bahamondes/117470836961760431)
 
 ## Disclosure podcasts
 _None this cycle._
