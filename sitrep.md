@@ -1,16 +1,10 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-21 07:10 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-21 07:20 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
-![#28 AN ET WALKS INTO A BAR — Sound, Light & Frequency](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
-1. **#28 AN ET WALKS INTO A BAR — Sound, Light & Frequency**  
-   reliability **C3** · P(credible)=1.0 · 2 independent source(s) · bluesky+youtube  
-   [@NeedToKnow](https://www.youtube.com/watch?v=-YPt99VUUcQ) · [@did:plc:xl4t6log7dir5jjaooeyk2xp](https://bsky.app/profile/did:plc:xl4t6log7dir5jjaooeyk2xp/post/3myelrs2v7d2p)  
-   📹 [video](https://www.youtube.com/watch?v=-YPt99VUUcQ)
-
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_2.svg)
-2. **UAP report**  
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
+1. **UAP report**  
    reliability **D3** · P(credible)=1.0 · 2 independent source(s) · mastodon  
    [@kdraven@mysterioustimes.co.uk](https://mysterioustimes.co.uk/2026/10/20/xx-the-abduction/) · [@uapfinder](https://mastodon.social/@uapfinder/117475740042772311)
 
