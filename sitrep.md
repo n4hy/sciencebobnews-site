@@ -1,26 +1,30 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-21 13:10 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-21 13:20 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
-
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
-1. **UAP report**  
-   reliability **D3** · P(credible)=1.0 · 2 independent source(s) · mastodon  
-   [@kdraven@mysterioustimes.co.uk](https://mysterioustimes.co.uk/2026/10/20/xx-the-abduction/) · [@uapfinder](https://mastodon.social/@uapfinder/117479045543971291)
+_No corroborated reports this cycle._
 
 ## Developing / unconfirmed
 
-![UAP report (Lough Foyle)](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
-1. UAP report (Lough Foyle) — reliability D4 · 1 source(s)  
+![Official UAP statement reported (Tulsa)](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
+1. Official UAP statement reported (Tulsa) — reliability D4 · 1 source(s)  
+   [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117475367177860845)
+
+![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
+2. Official UAP statement reported — reliability D4 · 1 source(s)  
+   [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117478954762237101)
+
+![UAP report (Lough Foyle)](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
+3. UAP report (Lough Foyle) — reliability D4 · 1 source(s)  
    [@unexplainedie](https://mastodon.social/@unexplainedie/117478177299454095)
 
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
-2. UAP report — reliability D4 · 1 source(s)  
-   [@Haaikoe@pixelfed.social](https://pixelfed.social/p/Haaikoe/1017939147213045706)
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
+4. UAP report — reliability D4 · 1 source(s)  
+   [@brewminate](https://mastodon.social/@brewminate/117474401982687115)
 
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
-3. UAP report — reliability D4 · 1 source(s)  
-   [@bahamondes](https://mastodon.social/@bahamondes/117470836961760431)
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+5. UAP report — reliability D4 · 1 source(s)  
+   [@relaxmilano](https://mastodon.social/@relaxmilano/117475451074900731)
 
 ## Disclosure podcasts
 _None this cycle._
