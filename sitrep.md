@@ -1,10 +1,16 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-21 07:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-21 07:10 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
-1. **UAP report**  
+![#28 AN ET WALKS INTO A BAR — Sound, Light & Frequency](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
+1. **#28 AN ET WALKS INTO A BAR — Sound, Light & Frequency**  
+   reliability **C3** · P(credible)=1.0 · 2 independent source(s) · bluesky+youtube  
+   [@NeedToKnow](https://www.youtube.com/watch?v=-YPt99VUUcQ) · [@did:plc:xl4t6log7dir5jjaooeyk2xp](https://bsky.app/profile/did:plc:xl4t6log7dir5jjaooeyk2xp/post/3myelrs2v7d2p)  
+   📹 [video](https://www.youtube.com/watch?v=-YPt99VUUcQ)
+
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_2.svg)
+2. **UAP report**  
    reliability **D3** · P(credible)=1.0 · 2 independent source(s) · mastodon  
    [@kdraven@mysterioustimes.co.uk](https://mysterioustimes.co.uk/2026/10/20/xx-the-abduction/) · [@uapfinder](https://mastodon.social/@uapfinder/117475740042772311)
 
@@ -18,25 +24,25 @@ _None._
    [@SpacedOutRadio](https://www.youtube.com/watch?v=a0Tzc8CaBEA)  
    📹 [video](https://www.youtube.com/watch?v=a0Tzc8CaBEA)
 
-![A Deep Look Into a Potential UFO Cover Up!](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
-2. A Deep Look Into a Potential UFO Cover Up! — reliability C4 · 1 source(s)  
+![#35 WHY DO ROCKSTARS SEE UFOS? — Sound, Light & Frequency](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
+2. #35 WHY DO ROCKSTARS SEE UFOS? — Sound, Light & Frequency — reliability C4 · 1 source(s)  
+   [@NeedToKnow](https://www.youtube.com/watch?v=GgjkPj3nh98)  
+   📹 [video](https://www.youtube.com/watch?v=GgjkPj3nh98)
+
+![A Deep Look Into a Potential UFO Cover Up!](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
+3. A Deep Look Into a Potential UFO Cover Up! — reliability C4 · 1 source(s)  
    [@SpacedOutRadio](https://www.youtube.com/watch?v=qkz5nyCjHdM)  
    📹 [video](https://www.youtube.com/watch?v=qkz5nyCjHdM)
 
-![UFO Secrets, UAP Stories and Government Secrets on NHI](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
-3. UFO Secrets, UAP Stories and Government Secrets on NHI — reliability C4 · 1 source(s)  
+![UFO Secrets, UAP Stories and Government Secrets on NHI](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
+4. UFO Secrets, UAP Stories and Government Secrets on NHI — reliability C4 · 1 source(s)  
    [@SpacedOutRadio](https://www.youtube.com/watch?v=seNQZdUu_WM)  
    📹 [video](https://www.youtube.com/watch?v=seNQZdUu_WM)
 
-![The Lady - Predictions - UFOs with Josh Rutledge](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-4. The Lady - Predictions - UFOs with Josh Rutledge — reliability C4 · 1 source(s)  
-   [@SpacedOutRadio](https://www.youtube.com/watch?v=JRSi6CEu5lo)  
-   📹 [video](https://www.youtube.com/watch?v=JRSi6CEu5lo)
-
-![Telepathy, Aliens & Demons: Who’s Really Inside Our Heads?](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. Telepathy, Aliens & Demons: Who’s Really Inside Our Heads? — reliability C4 · 1 source(s)  
-   [@SpacedOutRadio](https://www.youtube.com/watch?v=abiV2DoE8sk)  
-   📹 [video](https://www.youtube.com/watch?v=abiV2DoE8sk)
+![Why disclosure still requires sustained pressure](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+5. Why disclosure still requires sustained pressure — reliability C4 · 1 source(s)  
+   [@Weaponized](https://www.youtube.com/shorts/FLptMj7wuUY)  
+   📹 [video](https://www.youtube.com/shorts/FLptMj7wuUY)
 
 ---
 *Powered by Science Bob News. Free to use with credit (see [LICENSE](LICENSE)). Social-feed headlines are factual restatements in the engine's own words; podcast entries use the episode title. Click through to the linked sources for originals. Reposts of a single origin are collapsed to one source; candidate prosaic explanations are flagged where offered. Machine-readable feed: [feed.json](feed.json).*
