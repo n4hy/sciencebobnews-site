@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-22 05:40 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-22 06:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
@@ -14,21 +14,21 @@
 1. Official UAP statement reported — reliability D4 · 1 source(s)  
    [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117479403447604962)
 
-![UAP report (Lough Foyle)](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
-2. UAP report (Lough Foyle) — reliability D4 · 1 source(s)  
-   [@unexplainedie](https://mastodon.social/@unexplainedie/117478177299454095)
+![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
+2. Official UAP statement reported — reliability E4 · 1 source(s)  
+   [@did:plc:6zk2tjoim3dlkg3a37jgadoq](https://bsky.app/profile/did:plc:6zk2tjoim3dlkg3a37jgadoq/post/3mygydngjyo22)
 
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
-3. UAP report — reliability D4 · 1 source(s)  
-   [@unexplainedie](https://mastodon.social/@unexplainedie/117479355367144948)
+![UAP report (Lough Foyle)](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
+3. UAP report (Lough Foyle) — reliability D4 · 1 source(s)  
+   [@unexplainedie](https://mastodon.social/@unexplainedie/117478177299454095)
 
 ![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
 4. UAP report — reliability D4 · 1 source(s)  
-   [@eugenialoli](https://mastodon.social/@eugenialoli/117479121781445343)
+   [@unexplainedie](https://mastodon.social/@unexplainedie/117479355367144948)
 
 ![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. UAP report — reliability E4 · 1 source(s)  
-   [@nyeug](https://mastodon.social/@nyeug/117482882047065590)
+5. UAP report — reliability D4 · 1 source(s)  
+   [@eugenialoli](https://mastodon.social/@eugenialoli/117479121781445343)
 
 ## Disclosure podcasts
 _None this cycle._
