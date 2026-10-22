@@ -2,11 +2,11 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-22 08:40 UTC",
+  "generated_utc": "2026-10-22 08:50 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
-      "headline": "#35 WHY DO ROCKSTARS SEE UFOS? — Sound, Light & Frequency",
+      "headline": "#28 AN ET WALKS INTO A BAR — Sound, Light & Frequency",
       "lane": "corroborated",
       "status": "CORROBORATED",
       "reliability": "C3",
@@ -19,15 +19,15 @@
       "sources": [
         {
           "handle": "NeedToKnow",
-          "url": "https://www.youtube.com/watch?v=GgjkPj3nh98"
+          "url": "https://www.youtube.com/watch?v=-YPt99VUUcQ"
         },
         {
-          "handle": "did:plc:6zk2tjoim3dlkg3a37jgadoq",
-          "url": "https://bsky.app/profile/did:plc:6zk2tjoim3dlkg3a37jgadoq/post/3myhbbqalhl2v"
+          "handle": "did:plc:xl4t6log7dir5jjaooeyk2xp",
+          "url": "https://bsky.app/profile/did:plc:xl4t6log7dir5jjaooeyk2xp/post/3myhbtjxzb22h"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=GgjkPj3nh98"
+        "https://www.youtube.com/watch?v=-YPt99VUUcQ"
       ],
       "update": false
     },
@@ -72,6 +72,27 @@
       ],
       "videos": [
         "https://www.youtube.com/watch?v=a0Tzc8CaBEA"
+      ],
+      "update": false
+    },
+    {
+      "headline": "#35 WHY DO ROCKSTARS SEE UFOS? — Sound, Light & Frequency",
+      "lane": "podcast",
+      "status": "DEVELOPING",
+      "reliability": "C4",
+      "p_credible": 0.55,
+      "independent_sources": 1,
+      "platforms": [
+        "youtube"
+      ],
+      "sources": [
+        {
+          "handle": "NeedToKnow",
+          "url": "https://www.youtube.com/watch?v=GgjkPj3nh98"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=GgjkPj3nh98"
       ],
       "update": false
     },
@@ -135,27 +156,6 @@
       ],
       "videos": [
         "https://www.youtube.com/shorts/FLptMj7wuUY"
-      ],
-      "update": false
-    },
-    {
-      "headline": "What does speaking out cost? | Dylan Borland | WEAPONIZED",
-      "lane": "podcast",
-      "status": "DEVELOPING",
-      "reliability": "C4",
-      "p_credible": 0.55,
-      "independent_sources": 1,
-      "platforms": [
-        "youtube"
-      ],
-      "sources": [
-        {
-          "handle": "Weaponized",
-          "url": "https://www.youtube.com/shorts/TBwmwoqvhOc"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/shorts/TBwmwoqvhOc"
       ],
       "update": false
     }
