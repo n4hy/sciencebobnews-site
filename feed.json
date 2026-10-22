@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-22 04:10 UTC",
+  "generated_utc": "2026-10-22 04:20 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
@@ -29,7 +29,45 @@
       "update": false
     },
     {
-      "headline": "Why disclosure still requires sustained pressure",
+      "headline": "Official UAP statement reported",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "D4",
+      "p_credible": 0.55,
+      "independent_sources": 1,
+      "platforms": [
+        "mastodon"
+      ],
+      "sources": [
+        {
+          "handle": "vibewire@mastodon.au",
+          "url": "https://mastodon.au/@vibewire/117479403447604962"
+        }
+      ],
+      "videos": [],
+      "update": false
+    },
+    {
+      "headline": "UAP report (Lough Foyle)",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "D4",
+      "p_credible": 0.55,
+      "independent_sources": 1,
+      "platforms": [
+        "mastodon"
+      ],
+      "sources": [
+        {
+          "handle": "unexplainedie",
+          "url": "https://mastodon.social/@unexplainedie/117478177299454095"
+        }
+      ],
+      "videos": [],
+      "update": false
+    },
+    {
+      "headline": "\"My Father Was a Russian UFO Physicist... I Have His Documents\"",
       "lane": "podcast",
       "status": "DEVELOPING",
       "reliability": "C4",
@@ -40,17 +78,17 @@
       ],
       "sources": [
         {
-          "handle": "Weaponized",
-          "url": "https://www.youtube.com/shorts/FLptMj7wuUY"
+          "handle": "ProjectUnity",
+          "url": "https://www.youtube.com/watch?v=qXWfSpH218w"
         }
       ],
       "videos": [
-        "https://www.youtube.com/shorts/FLptMj7wuUY"
+        "https://www.youtube.com/watch?v=qXWfSpH218w"
       ],
       "update": false
     },
     {
-      "headline": "What does speaking out cost? | Dylan Borland | WEAPONIZED",
+      "headline": "Leaked Russian UFO Docs Reveal Alien Tech Secrets",
       "lane": "podcast",
       "status": "DEVELOPING",
       "reliability": "C4",
@@ -61,17 +99,18 @@
       ],
       "sources": [
         {
-          "handle": "Weaponized",
-          "url": "https://www.youtube.com/shorts/TBwmwoqvhOc"
+          "handle": "ProjectUnity",
+          "url": "https://www.youtube.com/shorts/Qt6djQSy1x8"
         }
       ],
       "videos": [
-        "https://www.youtube.com/shorts/TBwmwoqvhOc"
+        "https://www.youtube.com/watch?v=qXWfSpH218w",
+        "https://www.youtube.com/shorts/Qt6djQSy1x8"
       ],
       "update": false
     },
     {
-      "headline": "“THIS IS THE FIRST TIME I’VE TALKED ABOUT THIS ON CAMERA”",
+      "headline": "Is UFO Tech Human Tech!?",
       "lane": "podcast",
       "status": "DEVELOPING",
       "reliability": "C4",
@@ -82,55 +121,13 @@
       ],
       "sources": [
         {
-          "handle": "Weaponized",
-          "url": "https://www.youtube.com/watch?v=sIBjOCENWmg"
+          "handle": "ProjectUnity",
+          "url": "https://www.youtube.com/shorts/KxmV6PEPd4Q"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=sIBjOCENWmg",
-        "https://youtu.be/9GblwqzGFAY"
-      ],
-      "update": false
-    },
-    {
-      "headline": "Jay Stratton’s FIRST-EVER Interview - Before The World Knew His Name",
-      "lane": "podcast",
-      "status": "DEVELOPING",
-      "reliability": "C4",
-      "p_credible": 0.55,
-      "independent_sources": 1,
-      "platforms": [
-        "youtube"
-      ],
-      "sources": [
-        {
-          "handle": "Weaponized",
-          "url": "https://www.youtube.com/watch?v=9GblwqzGFAY"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=9GblwqzGFAY"
-      ],
-      "update": false
-    },
-    {
-      "headline": "Why the disclosure fight depends on persistence",
-      "lane": "podcast",
-      "status": "DEVELOPING",
-      "reliability": "C4",
-      "p_credible": 0.55,
-      "independent_sources": 1,
-      "platforms": [
-        "youtube"
-      ],
-      "sources": [
-        {
-          "handle": "Weaponized",
-          "url": "https://www.youtube.com/shorts/0uuCTzxF1qg"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/shorts/0uuCTzxF1qg"
+        "https://www.youtube.com/watch?v=qXWfSpH218w",
+        "https://www.youtube.com/shorts/KxmV6PEPd4Q"
       ],
       "update": false
     }
