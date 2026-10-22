@@ -2,35 +2,9 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-22 21:20 UTC",
+  "generated_utc": "2026-10-22 21:30 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
-    {
-      "headline": "#79 Jay Stratton Steps Out of the Shadows — Need To Know",
-      "lane": "corroborated",
-      "status": "CORROBORATED",
-      "reliability": "C3",
-      "p_credible": 1.0,
-      "independent_sources": 2,
-      "platforms": [
-        "bluesky",
-        "youtube"
-      ],
-      "sources": [
-        {
-          "handle": "NeedToKnow",
-          "url": "https://www.youtube.com/watch?v=d6hqLZ-aLRU"
-        },
-        {
-          "handle": "did:plc:agsxcs6ogdn5rbu46rgzkvts",
-          "url": "https://bsky.app/profile/did:plc:agsxcs6ogdn5rbu46rgzkvts/post/3myilqp6ebi2s"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=d6hqLZ-aLRU"
-      ],
-      "update": false
-    },
     {
       "headline": "Bigfoot, Dogman & Terrifying Cryptid Encounters",
       "lane": "podcast",
