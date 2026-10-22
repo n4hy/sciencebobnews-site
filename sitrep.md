@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-22 23:20 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-22 23:30 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 _No corroborated reports this cycle._
@@ -10,21 +10,21 @@ _No corroborated reports this cycle._
 1. Official UAP statement reported — reliability D4 · 1 source(s)  
    [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117486167307351546)
 
-![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
-2. Official UAP statement reported — reliability E4 · 1 source(s)  
-   [@did:plc:zp6l74pg7ucqhdafxawhwjeb](https://bsky.app/profile/did:plc:zp6l74pg7ucqhdafxawhwjeb/post/3myishaqega27)
-
-![UAP report (Lough Foyle)](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
-3. UAP report (Lough Foyle) — reliability D4 · 1 source(s)  
+![UAP report (Lough Foyle)](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
+2. UAP report (Lough Foyle) — reliability D4 · 1 source(s)  
    [@unexplainedie](https://mastodon.social/@unexplainedie/117478177299454095)
+
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
+3. UAP report — reliability D4 · 1 source(s)  
+   [@unexplainedie](https://mastodon.social/@unexplainedie/117479355367144948)
 
 ![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
 4. UAP report — reliability D4 · 1 source(s)  
-   [@unexplainedie](https://mastodon.social/@unexplainedie/117479355367144948)
+   [@skeptix_ev](https://mastodon.social/@skeptix_ev/117484170635415830)
 
 ## Disclosure podcasts
 
-![Ep 2366: Carl Crusher: Calling UFOs](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
+![Ep 2366: Carl Crusher: Calling UFOs](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
 1. Ep 2366: Carl Crusher: Calling UFOs — reliability C4 · 1 source(s)  
    [@FadeToBlack](https://www.youtube.com/watch?v=qs-WP2FU6Po)  
    📹 [video](https://www.youtube.com/watch?v=qs-WP2FU6Po)
