@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-22 00:00 UTC",
+  "generated_utc": "2026-10-22 00:10 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
@@ -48,25 +48,6 @@
       "update": false
     },
     {
-      "headline": "Official UAP statement reported",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "E4",
-      "p_credible": 0.55,
-      "independent_sources": 1,
-      "platforms": [
-        "bluesky"
-      ],
-      "sources": [
-        {
-          "handle": "did:plc:nspncuxik6xw67jckhqgw5en",
-          "url": "https://bsky.app/profile/did:plc:nspncuxik6xw67jckhqgw5en/post/3myge7vdmtd2o"
-        }
-      ],
-      "videos": [],
-      "update": false
-    },
-    {
       "headline": "UAP report (Curlew Mountains)",
       "lane": "developing",
       "status": "DEVELOPING",
@@ -105,22 +86,46 @@
       "update": false
     },
     {
-      "headline": "UAP report",
-      "lane": "developing",
+      "headline": "\"My Father Was a Russian UFO Physicist... I Have His Documents\"",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "D4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "inhll@pixelfed.social",
-          "url": "https://pixelfed.social/p/inhll/1018341637652492218"
+          "handle": "ProjectUnity",
+          "url": "https://www.youtube.com/watch?v=qXWfSpH218w"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=qXWfSpH218w"
+      ],
+      "update": false
+    },
+    {
+      "headline": "Leaked Russian UFO Docs Reveal Alien Tech Secrets",
+      "lane": "podcast",
+      "status": "DEVELOPING",
+      "reliability": "C4",
+      "p_credible": 0.55,
+      "independent_sources": 1,
+      "platforms": [
+        "youtube"
+      ],
+      "sources": [
+        {
+          "handle": "ProjectUnity",
+          "url": "https://www.youtube.com/shorts/Qt6djQSy1x8"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=qXWfSpH218w",
+        "https://www.youtube.com/shorts/Qt6djQSy1x8"
+      ],
       "update": false
     }
   ]
