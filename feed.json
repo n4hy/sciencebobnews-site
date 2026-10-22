@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-22 23:30 UTC",
+  "generated_utc": "2026-10-22 23:40 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
@@ -82,24 +82,22 @@
       "update": false
     },
     {
-      "headline": "Ep 2366: Carl Crusher: Calling UFOs",
-      "lane": "podcast",
+      "headline": "UAP report",
+      "lane": "developing",
       "status": "DEVELOPING",
-      "reliability": "C4",
+      "reliability": "D4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "youtube"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "FadeToBlack",
-          "url": "https://www.youtube.com/watch?v=qs-WP2FU6Po"
+          "handle": "PlayersPatchwork@universeodon.com",
+          "url": "https://universeodon.com/@PlayersPatchwork/117485688344115890"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=qs-WP2FU6Po"
-      ],
+      "videos": [],
       "update": false
     }
   ]
