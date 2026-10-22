@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-22 01:30 UTC",
+  "generated_utc": "2026-10-22 01:50 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
@@ -97,8 +97,8 @@
       ],
       "sources": [
         {
-          "handle": "inhll@pixelfed.social",
-          "url": "https://pixelfed.social/p/inhll/1018341637652492218"
+          "handle": "eugenialoli",
+          "url": "https://mastodon.social/@eugenialoli/117479121781445343"
         }
       ],
       "videos": [],
@@ -108,7 +108,7 @@
       "headline": "UAP report",
       "lane": "developing",
       "status": "DEVELOPING",
-      "reliability": "D4",
+      "reliability": "E4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
@@ -116,8 +116,8 @@
       ],
       "sources": [
         {
-          "handle": "eugenialoli",
-          "url": "https://mastodon.social/@eugenialoli/117479121781445343"
+          "handle": "nyeug",
+          "url": "https://mastodon.social/@nyeug/117482036777688845"
         }
       ],
       "videos": [],
