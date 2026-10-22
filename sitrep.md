@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-22 05:10 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-22 05:20 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
@@ -28,7 +28,7 @@
 
 ![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
 5. UAP report — reliability E4 · 1 source(s)  
-   [@nyeug](https://mastodon.social/@nyeug/117482036777688845)
+   [@nyeug](https://mastodon.social/@nyeug/117482869491480361)
 
 ## Disclosure podcasts
 _None this cycle._
