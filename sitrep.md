@@ -1,8 +1,13 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-22 14:10 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-22 16:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
-_No corroborated reports this cycle._
+
+![#27 PEAKS AND VALLEYS OF WOO — Sound, Light & Frequency](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
+1. **#27 PEAKS AND VALLEYS OF WOO — Sound, Light & Frequency**  
+   reliability **C3** · P(credible)=1.0 · 2 independent source(s) · bluesky+youtube  
+   [@NeedToKnow](https://www.youtube.com/watch?v=LvYmWCnNc1Y) · [@did:plc:bofejikz4cj4rlu6f3b6jpio](https://bsky.app/profile/did:plc:bofejikz4cj4rlu6f3b6jpio/post/3myhzuhd4sb2o)  
+   📹 [video](https://www.youtube.com/watch?v=LvYmWCnNc1Y)
 
 ## Developing / unconfirmed
 _None._
