@@ -1,13 +1,13 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-22 21:10 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-22 21:20 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
-![#29 THE X-FILES: THE TRUTH IS COMPLICATED — Sound, Light & Frequency](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
-1. **#29 THE X-FILES: THE TRUTH IS COMPLICATED — Sound, Light & Frequency**  
+![#79 Jay Stratton Steps Out of the Shadows — Need To Know](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
+1. **#79 Jay Stratton Steps Out of the Shadows — Need To Know**  
    reliability **C3** · P(credible)=1.0 · 2 independent source(s) · bluesky+youtube  
-   [@NeedToKnow](https://www.youtube.com/watch?v=-q-WseItlrE) · [@did:plc:cfgbo3tf6sfkps7j2o4jndvh](https://bsky.app/profile/did:plc:cfgbo3tf6sfkps7j2o4jndvh/post/3myil6tozwo2s)  
-   📹 [video](https://www.youtube.com/watch?v=-q-WseItlrE)
+   [@NeedToKnow](https://www.youtube.com/watch?v=d6hqLZ-aLRU) · [@did:plc:agsxcs6ogdn5rbu46rgzkvts](https://bsky.app/profile/did:plc:agsxcs6ogdn5rbu46rgzkvts/post/3myilqp6ebi2s)  
+   📹 [video](https://www.youtube.com/watch?v=d6hqLZ-aLRU)
 
 ## Developing / unconfirmed
 _None._
