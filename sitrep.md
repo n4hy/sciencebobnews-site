@@ -1,13 +1,8 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-22 17:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-22 17:10 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
-
-![Col. Philip Corso recounts a perfect missile test](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
-1. **Col. Philip Corso recounts a perfect missile test**  
-   reliability **C3** · P(credible)=1.0 · 2 independent source(s) · bluesky+youtube  
-   [@Weaponized](https://www.youtube.com/shorts/nYuqptAhkzc) · [@did:plc:g3sf7v3xzs5ncp6o7kyimhs6](https://bsky.app/profile/did:plc:g3sf7v3xzs5ncp6o7kyimhs6/post/3myi57viuoz2m)  
-   📹 [video](https://www.youtube.com/shorts/nYuqptAhkzc)
+_No corroborated reports this cycle._
 
 ## Developing / unconfirmed
 _None._
