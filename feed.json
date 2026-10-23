@@ -2,9 +2,62 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-23 15:00 UTC",
+  "generated_utc": "2026-10-23 15:10 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
+    {
+      "headline": "#29 THE X-FILES: THE TRUTH IS COMPLICATED — Sound, Light & Frequency",
+      "lane": "corroborated",
+      "status": "CORROBORATED",
+      "reliability": "C3",
+      "p_credible": 1.0,
+      "independent_sources": 2,
+      "platforms": [
+        "bluesky",
+        "youtube"
+      ],
+      "sources": [
+        {
+          "handle": "NeedToKnow",
+          "url": "https://www.youtube.com/watch?v=-q-WseItlrE"
+        },
+        {
+          "handle": "did:plc:wp7ri5ld2cstlpfmoaehkng6",
+          "url": "https://bsky.app/profile/did:plc:wp7ri5ld2cstlpfmoaehkng6/post/3mykhk5sjcc2q"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=-q-WseItlrE"
+      ],
+      "update": false
+    },
+    {
+      "headline": "#30 PROJECT BLUE BOOK: UFO TV CREATORS TALK SHOP — Sound, Light & Frequency",
+      "lane": "corroborated",
+      "status": "CORROBORATED",
+      "reliability": "C3",
+      "p_credible": 1.0,
+      "independent_sources": 2,
+      "platforms": [
+        "bluesky",
+        "youtube"
+      ],
+      "sources": [
+        {
+          "handle": "NeedToKnow",
+          "url": "https://www.youtube.com/watch?v=JChXX2IAa2o"
+        },
+        {
+          "handle": "did:plc:xyh5r5xy2s2jh3kqzsmmqlql",
+          "url": "https://bsky.app/profile/did:plc:xyh5r5xy2s2jh3kqzsmmqlql/post/3mykhk5tx222p"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=JChXX2IAa2o",
+        "https://www.youtube.com/watch?v=wBk63T_IyYg"
+      ],
+      "update": false
+    },
     {
       "headline": "UAP report",
       "lane": "corroborated",
