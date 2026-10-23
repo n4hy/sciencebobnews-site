@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-23 06:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-23 06:10 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 _No corroborated reports this cycle._
@@ -10,21 +10,21 @@ _No corroborated reports this cycle._
 1. Official UAP statement reported — reliability D4 · 1 source(s)  
    [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117486167307351546)
 
-![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
-2. Official UAP statement reported — reliability E4 · 1 source(s)  
-   [@did:plc:2jhafkqchjitfrgohxadx33y](https://bsky.app/profile/did:plc:2jhafkqchjitfrgohxadx33y/post/3myjismrdyp26)
-
-![UAP report (Lough Foyle)](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
-3. UAP report (Lough Foyle) — reliability D4 · 1 source(s)  
+![UAP report (Lough Foyle)](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
+2. UAP report (Lough Foyle) — reliability D4 · 1 source(s)  
    [@unexplainedie](https://mastodon.social/@unexplainedie/117478177299454095)
+
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
+3. UAP report — reliability D4 · 1 source(s)  
+   [@unexplainedie](https://mastodon.social/@unexplainedie/117479355367144948)
 
 ![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
 4. UAP report — reliability D4 · 1 source(s)  
-   [@unexplainedie](https://mastodon.social/@unexplainedie/117479355367144948)
+   [@skeptix_ev](https://mastodon.social/@skeptix_ev/117484170635415830)
 
 ![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
 5. UAP report — reliability D4 · 1 source(s)  
-   [@skeptix_ev](https://mastodon.social/@skeptix_ev/117484170635415830)
+   [@PlayersPatchwork@universeodon.com](https://universeodon.com/@PlayersPatchwork/117485688344115890)
 
 ## Disclosure podcasts
 _None this cycle._

@@ -16,19 +16,19 @@
   </g>
   <g transform="translate(28,28)">
     <rect width="124" height="124" rx="14" fill="#0d162e" opacity="0.55"/>
-    <rect x="2" y="2" width="120" height="120" rx="12" fill="none" stroke="#e74c3c" stroke-width="3"/>
+    <rect x="2" y="2" width="120" height="120" rx="12" fill="none" stroke="#e67e22" stroke-width="3"/>
     <text x="62" y="68" font-family="Helvetica, Arial, sans-serif" font-size="52" font-weight="800"
-          text-anchor="middle" fill="#fff">E</text>
+          text-anchor="middle" fill="#fff">D</text>
     <text x="62" y="102" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="600"
-          text-anchor="middle" fill="#e74c3c">4</text>
+          text-anchor="middle" fill="#e67e22">4</text>
   </g>
   <g transform="translate(176,30)">
     <rect width="180" height="22" rx="11" fill="rgba(255,255,255,0.16)"/>
     <text x="14" y="16" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700"
           fill="#fff" letter-spacing="2">🔭 DEVELOPING</text>
   </g>
-  <text x="176" y="82" font-family="Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#fff">Official UAP statement reported</text>
+  <text x="176" y="82" font-family="Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#fff">UAP report (Lough Foyle)</text>
   <g transform="translate(176,134)" font-family="Helvetica, Arial, sans-serif" fill="#fff" opacity="0.92">
-    <text x="0" y="14" font-size="13">P(credible) 0.55 · 1 indep · bluesky</text>
+    <text x="0" y="14" font-size="13">P(credible) 0.55 · 1 indep · mastodon</text>
   </g>
 </svg>
