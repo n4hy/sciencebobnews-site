@@ -1,22 +1,10 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-23 15:10 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-23 15:20 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
-![#29 THE X-FILES: THE TRUTH IS COMPLICATED — Sound, Light & Frequency](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
-1. **#29 THE X-FILES: THE TRUTH IS COMPLICATED — Sound, Light & Frequency**  
-   reliability **C3** · P(credible)=1.0 · 2 independent source(s) · bluesky+youtube  
-   [@NeedToKnow](https://www.youtube.com/watch?v=-q-WseItlrE) · [@did:plc:wp7ri5ld2cstlpfmoaehkng6](https://bsky.app/profile/did:plc:wp7ri5ld2cstlpfmoaehkng6/post/3mykhk5sjcc2q)  
-   📹 [video](https://www.youtube.com/watch?v=-q-WseItlrE)
-
-![#30 PROJECT BLUE BOOK: UFO TV CREATORS TALK SHOP — Sound, Light & Frequency](https://n4hy.github.io/sciencebobnews-site/card_c_2.svg)
-2. **#30 PROJECT BLUE BOOK: UFO TV CREATORS TALK SHOP — Sound, Light & Frequency**  
-   reliability **C3** · P(credible)=1.0 · 2 independent source(s) · bluesky+youtube  
-   [@NeedToKnow](https://www.youtube.com/watch?v=JChXX2IAa2o) · [@did:plc:xyh5r5xy2s2jh3kqzsmmqlql](https://bsky.app/profile/did:plc:xyh5r5xy2s2jh3kqzsmmqlql/post/3mykhk5tx222p)  
-   📹 [video](https://www.youtube.com/watch?v=JChXX2IAa2o) · [video](https://www.youtube.com/watch?v=wBk63T_IyYg)
-
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_3.svg)
-3. **UAP report**  
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
+1. **UAP report**  
    reliability **D3** · P(credible)=1.0 · 2 independent source(s) · mastodon  
    [@KilleansRow@mastodon.online](https://mastodon.online/@KilleansRow/117489171326521371) · [@PlayersPatchwork@universeodon.com](https://universeodon.com/@PlayersPatchwork/117485688344115890)
 
