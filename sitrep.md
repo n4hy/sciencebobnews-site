@@ -1,13 +1,8 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-23 22:30 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-23 22:40 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
-
-![A Deep Look Into a Potential UFO Cover Up!](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
-1. **A Deep Look Into a Potential UFO Cover Up!**  
-   reliability **C3** · P(credible)=1.0 · 2 independent source(s) · bluesky+youtube  
-   [@SpacedOutRadio](https://www.youtube.com/watch?v=qkz5nyCjHdM) · [@did:plc:r2zq365s6dtxgx47cvs4oixl](https://bsky.app/profile/did:plc:r2zq365s6dtxgx47cvs4oixl/post/3myla4tl7ss2f)  
-   📹 [video](https://www.youtube.com/watch?v=qkz5nyCjHdM)
+_No corroborated reports this cycle._
 
 ## Developing / unconfirmed
 _None._
@@ -24,20 +19,20 @@ _None._
    [@NeedToKnow](https://www.youtube.com/watch?v=GgjkPj3nh98)  
    📹 [video](https://www.youtube.com/watch?v=GgjkPj3nh98)
 
-![UFO Secrets, UAP Stories and Government Secrets on NHI](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
-3. UFO Secrets, UAP Stories and Government Secrets on NHI — reliability C4 · 1 source(s)  
+![A Deep Look Into a Potential UFO Cover Up!](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
+3. A Deep Look Into a Potential UFO Cover Up! — reliability C4 · 1 source(s)  
+   [@SpacedOutRadio](https://www.youtube.com/watch?v=qkz5nyCjHdM)  
+   📹 [video](https://www.youtube.com/watch?v=qkz5nyCjHdM)
+
+![UFO Secrets, UAP Stories and Government Secrets on NHI](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
+4. UFO Secrets, UAP Stories and Government Secrets on NHI — reliability C4 · 1 source(s)  
    [@SpacedOutRadio](https://www.youtube.com/watch?v=seNQZdUu_WM)  
    📹 [video](https://www.youtube.com/watch?v=seNQZdUu_WM)
 
-![What does speaking out cost? | Dylan Borland | WEAPONIZED](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-4. What does speaking out cost? | Dylan Borland | WEAPONIZED — reliability C4 · 1 source(s)  
+![What does speaking out cost? | Dylan Borland | WEAPONIZED](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+5. What does speaking out cost? | Dylan Borland | WEAPONIZED — reliability C4 · 1 source(s)  
    [@Weaponized](https://www.youtube.com/shorts/TBwmwoqvhOc)  
    📹 [video](https://www.youtube.com/shorts/TBwmwoqvhOc)
-
-![“THIS IS THE FIRST TIME I’VE TALKED ABOUT THIS ON CAMERA”](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. “THIS IS THE FIRST TIME I’VE TALKED ABOUT THIS ON CAMERA” — reliability C4 · 1 source(s)  
-   [@Weaponized](https://www.youtube.com/watch?v=sIBjOCENWmg)  
-   📹 [video](https://www.youtube.com/watch?v=sIBjOCENWmg) · [video](https://youtu.be/9GblwqzGFAY)
 
 ---
 *Powered by Science Bob News. Free to use with credit (see [LICENSE](LICENSE)). Social-feed headlines are factual restatements in the engine's own words; podcast entries use the episode title. Click through to the linked sources for originals. Reposts of a single origin are collapsed to one source; candidate prosaic explanations are flagged where offered. Machine-readable feed: [feed.json](feed.json).*
