@@ -1,10 +1,16 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-23 11:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-23 12:10 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
-1. **UAP report**  
+![#28 AN ET WALKS INTO A BAR — Sound, Light & Frequency](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
+1. **#28 AN ET WALKS INTO A BAR — Sound, Light & Frequency**  
+   reliability **C3** · P(credible)=1.0 · 2 independent source(s) · bluesky+youtube  
+   [@NeedToKnow](https://www.youtube.com/watch?v=-YPt99VUUcQ) · [@did:plc:2jhafkqchjitfrgohxadx33y](https://bsky.app/profile/did:plc:2jhafkqchjitfrgohxadx33y/post/3myk5i5dy2t2l)  
+   📹 [video](https://www.youtube.com/watch?v=-YPt99VUUcQ)
+
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_2.svg)
+2. **UAP report**  
    reliability **D3** · P(credible)=1.0 · 2 independent source(s) · mastodon  
    [@KilleansRow@mastodon.online](https://mastodon.online/@KilleansRow/117489171326521371) · [@PlayersPatchwork@universeodon.com](https://universeodon.com/@PlayersPatchwork/117485688344115890)
 
