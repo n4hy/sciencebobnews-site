@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-23 02:20 UTC",
+  "generated_utc": "2026-10-23 02:30 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
@@ -44,60 +44,68 @@
       "update": false
     },
     {
-      "headline": "UAP report",
-      "lane": "developing",
+      "headline": "\"My Father Was a Russian UFO Physicist... I Have His Documents\"",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "D4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "unexplainedie",
-          "url": "https://mastodon.social/@unexplainedie/117479355367144948"
+          "handle": "ProjectUnity",
+          "url": "https://www.youtube.com/watch?v=qXWfSpH218w"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=qXWfSpH218w"
+      ],
       "update": false
     },
     {
-      "headline": "UAP report",
-      "lane": "developing",
+      "headline": "Leaked Russian UFO Docs Reveal Alien Tech Secrets",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "D4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "skeptix_ev",
-          "url": "https://mastodon.social/@skeptix_ev/117484170635415830"
+          "handle": "ProjectUnity",
+          "url": "https://www.youtube.com/shorts/Qt6djQSy1x8"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=qXWfSpH218w",
+        "https://www.youtube.com/shorts/Qt6djQSy1x8"
+      ],
       "update": false
     },
     {
-      "headline": "UAP report",
-      "lane": "developing",
+      "headline": "Is UFO Tech Human Tech!?",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "D4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "PlayersPatchwork@universeodon.com",
-          "url": "https://universeodon.com/@PlayersPatchwork/117485688344115890"
+          "handle": "ProjectUnity",
+          "url": "https://www.youtube.com/shorts/KxmV6PEPd4Q"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=qXWfSpH218w",
+        "https://www.youtube.com/shorts/KxmV6PEPd4Q"
+      ],
       "update": false
     }
   ]
