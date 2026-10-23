@@ -2,9 +2,35 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-23 13:40 UTC",
+  "generated_utc": "2026-10-23 13:50 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
+    {
+      "headline": "#24 MAKING (AND FAKING) ALIENS — Sound, Light & Frequency",
+      "lane": "corroborated",
+      "status": "CORROBORATED",
+      "reliability": "C3",
+      "p_credible": 1.0,
+      "independent_sources": 2,
+      "platforms": [
+        "bluesky",
+        "youtube"
+      ],
+      "sources": [
+        {
+          "handle": "NeedToKnow",
+          "url": "https://www.youtube.com/watch?v=OORAxQMInH0"
+        },
+        {
+          "handle": "did:plc:7jkp4gufuoa4ysoxjnsd5uvj",
+          "url": "https://bsky.app/profile/did:plc:7jkp4gufuoa4ysoxjnsd5uvj/post/3mykd2y73p22b"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=OORAxQMInH0"
+      ],
+      "update": false
+    },
     {
       "headline": "UAP report",
       "lane": "corroborated",

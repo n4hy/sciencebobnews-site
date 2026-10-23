@@ -1,10 +1,16 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-23 13:40 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-23 13:50 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
-1. **UAP report**  
+![#24 MAKING (AND FAKING) ALIENS — Sound, Light & Frequency](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
+1. **#24 MAKING (AND FAKING) ALIENS — Sound, Light & Frequency**  
+   reliability **C3** · P(credible)=1.0 · 2 independent source(s) · bluesky+youtube  
+   [@NeedToKnow](https://www.youtube.com/watch?v=OORAxQMInH0) · [@did:plc:7jkp4gufuoa4ysoxjnsd5uvj](https://bsky.app/profile/did:plc:7jkp4gufuoa4ysoxjnsd5uvj/post/3mykd2y73p22b)  
+   📹 [video](https://www.youtube.com/watch?v=OORAxQMInH0)
+
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_2.svg)
+2. **UAP report**  
    reliability **D3** · P(credible)=1.0 · 2 independent source(s) · mastodon  
    [@KilleansRow@mastodon.online](https://mastodon.online/@KilleansRow/117489171326521371) · [@PlayersPatchwork@universeodon.com](https://universeodon.com/@PlayersPatchwork/117485688344115890)
 
