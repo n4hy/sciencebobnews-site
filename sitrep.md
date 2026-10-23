@@ -1,43 +1,34 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-23 01:20 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-23 01:30 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
-
-![#30 PROJECT BLUE BOOK: UFO TV CREATORS TALK SHOP — Sound, Light & Frequency](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
-1. **#30 PROJECT BLUE BOOK: UFO TV CREATORS TALK SHOP — Sound, Light & Frequency**  
-   reliability **C3** · P(credible)=1.0 · 2 independent source(s) · bluesky+youtube  
-   [@NeedToKnow](https://www.youtube.com/watch?v=JChXX2IAa2o) · [@did:plc:uwl6atgpbqehumm7b74nklox](https://bsky.app/profile/did:plc:uwl6atgpbqehumm7b74nklox/post/3myiz5zrsa32k)  
-   📹 [video](https://www.youtube.com/watch?v=JChXX2IAa2o)
+_No corroborated reports this cycle._
 
 ## Developing / unconfirmed
-_None._
+
+![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
+1. Official UAP statement reported — reliability D4 · 1 source(s)  
+   [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117486167307351546)
+
+![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
+2. Official UAP statement reported — reliability E4 · 1 source(s)  
+   [@did:plc:sgty4g46w67iqwdhrzbgfz3m](https://bsky.app/profile/did:plc:sgty4g46w67iqwdhrzbgfz3m/post/3myizpsrbps2x)
+
+![UAP report (Lough Foyle)](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
+3. UAP report (Lough Foyle) — reliability D4 · 1 source(s)  
+   [@unexplainedie](https://mastodon.social/@unexplainedie/117478177299454095)
 
 ## Disclosure podcasts
 
-![Bigfoot, Dogman & Terrifying Cryptid Encounters](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
-1. Bigfoot, Dogman & Terrifying Cryptid Encounters — reliability C4 · 1 source(s)  
-   [@SpacedOutRadio](https://www.youtube.com/watch?v=a0Tzc8CaBEA)  
-   📹 [video](https://www.youtube.com/watch?v=a0Tzc8CaBEA)
+![And this is why we don’t trust the Government on UFO disclosure… - Richard Doty | ep. 100](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
+1. And this is why we don’t trust the Government on UFO disclosure… - Richard Doty | ep. 100 — reliability C4 · 1 source(s)  
+   [@Area52](https://www.youtube.com/watch?v=vatEIiY3bKM)  
+   📹 [video](https://www.youtube.com/watch?v=T-3CmY_ztwo&) · [video](https://www.youtube.com/watch?v=vatEIiY3bKM)
 
-![#35 WHY DO ROCKSTARS SEE UFOS? — Sound, Light & Frequency](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
-2. #35 WHY DO ROCKSTARS SEE UFOS? — Sound, Light & Frequency — reliability C4 · 1 source(s)  
-   [@NeedToKnow](https://www.youtube.com/watch?v=GgjkPj3nh98)  
-   📹 [video](https://www.youtube.com/watch?v=GgjkPj3nh98)
-
-![A Deep Look Into a Potential UFO Cover Up!](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
-3. A Deep Look Into a Potential UFO Cover Up! — reliability C4 · 1 source(s)  
-   [@SpacedOutRadio](https://www.youtube.com/watch?v=qkz5nyCjHdM)  
-   📹 [video](https://www.youtube.com/watch?v=qkz5nyCjHdM)
-
-![UFO Secrets, UAP Stories and Government Secrets on NHI](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-4. UFO Secrets, UAP Stories and Government Secrets on NHI — reliability C4 · 1 source(s)  
-   [@SpacedOutRadio](https://www.youtube.com/watch?v=seNQZdUu_WM)  
-   📹 [video](https://www.youtube.com/watch?v=seNQZdUu_WM)
-
-![Why disclosure still requires sustained pressure](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. Why disclosure still requires sustained pressure — reliability C4 · 1 source(s)  
-   [@Weaponized](https://www.youtube.com/shorts/FLptMj7wuUY)  
-   📹 [video](https://www.youtube.com/shorts/FLptMj7wuUY)
+![Richard Doty (Ex-OSI) Leaks Roswell & Kingman UFO Crash Details | ep. 100](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+2. Richard Doty (Ex-OSI) Leaks Roswell & Kingman UFO Crash Details | ep. 100 — reliability C4 · 1 source(s)  
+   [@Area52](https://www.youtube.com/watch?v=-Vfy1EYCRfA)  
+   📹 [video](https://www.youtube.com/watch?v=T-3CmY_ztwo&) · [video](https://www.youtube.com/watch?v=-Vfy1EYCRfA)
 
 ---
 *Powered by Science Bob News. Free to use with credit (see [LICENSE](LICENSE)). Social-feed headlines are factual restatements in the engine's own words; podcast entries use the episode title. Click through to the linked sources for originals. Reposts of a single origin are collapsed to one source; candidate prosaic explanations are flagged where offered. Machine-readable feed: [feed.json](feed.json).*
