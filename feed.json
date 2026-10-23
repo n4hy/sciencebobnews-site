@@ -2,102 +2,112 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-23 06:10 UTC",
+  "generated_utc": "2026-10-23 07:00 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
-      "headline": "Official UAP statement reported",
-      "lane": "developing",
+      "headline": "Bigfoot, Dogman & Terrifying Cryptid Encounters",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "D4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "vibewire@mastodon.au",
-          "url": "https://mastodon.au/@vibewire/117486167307351546"
+          "handle": "SpacedOutRadio",
+          "url": "https://www.youtube.com/watch?v=a0Tzc8CaBEA"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=a0Tzc8CaBEA"
+      ],
       "update": false
     },
     {
-      "headline": "UAP report (Lough Foyle)",
-      "lane": "developing",
+      "headline": "A Deep Look Into a Potential UFO Cover Up!",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "D4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "unexplainedie",
-          "url": "https://mastodon.social/@unexplainedie/117478177299454095"
+          "handle": "SpacedOutRadio",
+          "url": "https://www.youtube.com/watch?v=qkz5nyCjHdM"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=qkz5nyCjHdM"
+      ],
       "update": false
     },
     {
-      "headline": "UAP report",
-      "lane": "developing",
+      "headline": "UFO Secrets, UAP Stories and Government Secrets on NHI",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "D4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "unexplainedie",
-          "url": "https://mastodon.social/@unexplainedie/117479355367144948"
+          "handle": "SpacedOutRadio",
+          "url": "https://www.youtube.com/watch?v=seNQZdUu_WM"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=seNQZdUu_WM"
+      ],
       "update": false
     },
     {
-      "headline": "UAP report",
-      "lane": "developing",
+      "headline": "The Lady - Predictions - UFOs with Josh Rutledge",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "D4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "skeptix_ev",
-          "url": "https://mastodon.social/@skeptix_ev/117484170635415830"
+          "handle": "SpacedOutRadio",
+          "url": "https://www.youtube.com/watch?v=JRSi6CEu5lo"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=JRSi6CEu5lo"
+      ],
       "update": false
     },
     {
-      "headline": "UAP report",
-      "lane": "developing",
+      "headline": "Telepathy, Aliens & Demons: Who’s Really Inside Our Heads?",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "D4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "PlayersPatchwork@universeodon.com",
-          "url": "https://universeodon.com/@PlayersPatchwork/117485688344115890"
+          "handle": "SpacedOutRadio",
+          "url": "https://www.youtube.com/watch?v=abiV2DoE8sk"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=abiV2DoE8sk"
+      ],
       "update": false
     }
   ]
