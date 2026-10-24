@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-24 09:50 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-24 10:10 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
@@ -7,6 +7,12 @@
 1. **UAP report (Europe)**  
    reliability **D3** · P(credible)=1.0 · 2 independent source(s) · mastodon  
    [@KilleansRow@mastodon.online](https://mastodon.online/@KilleansRow/117489171326521371) · [@thirdbookofthedead](https://mastodon.social/@thirdbookofthedead/117495252678330075)
+
+![#27 PEAKS AND VALLEYS OF WOO — Sound, Light & Frequency](https://n4hy.github.io/sciencebobnews-site/card_c_2.svg)
+2. **#27 PEAKS AND VALLEYS OF WOO — Sound, Light & Frequency**  
+   reliability **C3** · P(credible)=1.0 · 2 independent source(s) · bluesky+youtube  
+   [@NeedToKnow](https://www.youtube.com/watch?v=LvYmWCnNc1Y) · [@did:plc:akamyvhk6gwklgg74p327ovw](https://bsky.app/profile/did:plc:akamyvhk6gwklgg74p327ovw/post/3mymhai42mk22)  
+   📹 [video](https://www.youtube.com/watch?v=LvYmWCnNc1Y)
 
 ## Developing / unconfirmed
 _None._
