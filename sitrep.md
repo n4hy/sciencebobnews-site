@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-24 02:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-24 02:10 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 _No corroborated reports this cycle._
@@ -24,15 +24,15 @@ _None._
    [@SpacedOutRadio](https://www.youtube.com/watch?v=seNQZdUu_WM)  
    📹 [video](https://www.youtube.com/watch?v=seNQZdUu_WM)
 
-![What does speaking out cost? | Dylan Borland | WEAPONIZED](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-4. What does speaking out cost? | Dylan Borland | WEAPONIZED — reliability C4 · 1 source(s)  
-   [@Weaponized](https://www.youtube.com/shorts/TBwmwoqvhOc)  
-   📹 [video](https://www.youtube.com/shorts/TBwmwoqvhOc)
+![The Lady - Predictions - UFOs with Josh Rutledge](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
+4. The Lady - Predictions - UFOs with Josh Rutledge — reliability C4 · 1 source(s)  
+   [@SpacedOutRadio](https://www.youtube.com/watch?v=JRSi6CEu5lo)  
+   📹 [video](https://www.youtube.com/watch?v=JRSi6CEu5lo)
 
-![“THIS IS THE FIRST TIME I’VE TALKED ABOUT THIS ON CAMERA”](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. “THIS IS THE FIRST TIME I’VE TALKED ABOUT THIS ON CAMERA” — reliability C4 · 1 source(s)  
-   [@Weaponized](https://www.youtube.com/watch?v=sIBjOCENWmg)  
-   📹 [video](https://www.youtube.com/watch?v=sIBjOCENWmg) · [video](https://youtu.be/9GblwqzGFAY)
+![Telepathy, Aliens & Demons: Who’s Really Inside Our Heads?](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+5. Telepathy, Aliens & Demons: Who’s Really Inside Our Heads? — reliability C4 · 1 source(s)  
+   [@SpacedOutRadio](https://www.youtube.com/watch?v=abiV2DoE8sk)  
+   📹 [video](https://www.youtube.com/watch?v=abiV2DoE8sk)
 
 ---
 *Powered by Science Bob News. Free to use with credit (see [LICENSE](LICENSE)). Social-feed headlines are factual restatements in the engine's own words; podcast entries use the episode title. Click through to the linked sources for originals. Reposts of a single origin are collapsed to one source; candidate prosaic explanations are flagged where offered. Machine-readable feed: [feed.json](feed.json).*
