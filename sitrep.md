@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-24 04:20 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-24 04:40 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 _No corroborated reports this cycle._
@@ -15,16 +15,16 @@ _No corroborated reports this cycle._
    [@in.mashable.com@web.brid.gy](https://fed.brid.gy/r/https://in.mashable.com/science/115320/ufo-disclosure-2026-department-of-war-releases-7th-batch-of-files-heres-how-to-access)
 
 ![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
-3. Official UAP statement reported — reliability D4 · 1 source(s)  
-   [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117491765833724211)
+3. Official UAP statement reported — reliability E4 · 1 source(s)  
+   [@did:plc:6zk2tjoim3dlkg3a37jgadoq](https://bsky.app/profile/did:plc:6zk2tjoim3dlkg3a37jgadoq/post/3mylusfu3rw2p)
 
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-4. UAP report — reliability D4 · 1 source(s)  
-   [@KilleansRow@mastodon.online](https://mastodon.online/@KilleansRow/117489171326521371)
+![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
+4. Official UAP statement reported — reliability D4 · 1 source(s)  
+   [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117491765833724211)
 
 ![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
 5. UAP report — reliability D4 · 1 source(s)  
-   [@nicemicro@fosstodon.org](https://fosstodon.org/@nicemicro/117490037571797616)
+   [@KilleansRow@mastodon.online](https://mastodon.online/@KilleansRow/117489171326521371)
 
 ## Disclosure podcasts
 _None this cycle._
