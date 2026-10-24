@@ -2,9 +2,35 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-24 07:10 UTC",
+  "generated_utc": "2026-10-24 08:00 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
+    {
+      "headline": "The Lady - Predictions - UFOs with Josh Rutledge",
+      "lane": "corroborated",
+      "status": "CORROBORATED",
+      "reliability": "C3",
+      "p_credible": 1.0,
+      "independent_sources": 2,
+      "platforms": [
+        "bluesky",
+        "youtube"
+      ],
+      "sources": [
+        {
+          "handle": "SpacedOutRadio",
+          "url": "https://www.youtube.com/watch?v=JRSi6CEu5lo"
+        },
+        {
+          "handle": "did:plc:g7mooud3lpnnznpe3zukar75",
+          "url": "https://bsky.app/profile/did:plc:g7mooud3lpnnznpe3zukar75/post/3mym7y5qsd52m"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=JRSi6CEu5lo"
+      ],
+      "update": false
+    },
     {
       "headline": "Bigfoot, Dogman & Terrifying Cryptid Encounters",
       "lane": "podcast",
