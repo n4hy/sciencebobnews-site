@@ -1,13 +1,8 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-24 08:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-24 08:10 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
-
-![The Lady - Predictions - UFOs with Josh Rutledge](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
-1. **The Lady - Predictions - UFOs with Josh Rutledge**  
-   reliability **C3** · P(credible)=1.0 · 2 independent source(s) · bluesky+youtube  
-   [@SpacedOutRadio](https://www.youtube.com/watch?v=JRSi6CEu5lo) · [@did:plc:g7mooud3lpnnznpe3zukar75](https://bsky.app/profile/did:plc:g7mooud3lpnnznpe3zukar75/post/3mym7y5qsd52m)  
-   📹 [video](https://www.youtube.com/watch?v=JRSi6CEu5lo)
+_No corroborated reports this cycle._
 
 ## Developing / unconfirmed
 _None._
