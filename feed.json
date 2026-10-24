@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-24 00:40 UTC",
+  "generated_utc": "2026-10-24 01:40 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
@@ -25,79 +25,88 @@
       "update": false
     },
     {
-      "headline": "Official UAP statement reported",
-      "lane": "developing",
+      "headline": "What does speaking out cost? | Dylan Borland | WEAPONIZED",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "D4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "in.mashable.com@web.brid.gy",
-          "url": "https://fed.brid.gy/r/https://in.mashable.com/science/115320/ufo-disclosure-2026-department-of-war-releases-7th-batch-of-files-heres-how-to-access"
+          "handle": "Weaponized",
+          "url": "https://www.youtube.com/shorts/TBwmwoqvhOc"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/shorts/TBwmwoqvhOc"
+      ],
       "update": false
     },
     {
-      "headline": "Official UAP statement reported",
-      "lane": "developing",
+      "headline": "“THIS IS THE FIRST TIME I’VE TALKED ABOUT THIS ON CAMERA”",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "D4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "vibewire@mastodon.au",
-          "url": "https://mastodon.au/@vibewire/117491765833724211"
+          "handle": "Weaponized",
+          "url": "https://www.youtube.com/watch?v=sIBjOCENWmg"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=sIBjOCENWmg",
+        "https://youtu.be/9GblwqzGFAY"
+      ],
       "update": false
     },
     {
-      "headline": "UAP report",
-      "lane": "developing",
+      "headline": "Jay Stratton’s FIRST-EVER Interview - Before The World Knew His Name",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "D4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "KilleansRow@mastodon.online",
-          "url": "https://mastodon.online/@KilleansRow/117489171326521371"
+          "handle": "Weaponized",
+          "url": "https://www.youtube.com/watch?v=9GblwqzGFAY"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=9GblwqzGFAY"
+      ],
       "update": false
     },
     {
-      "headline": "UAP report",
-      "lane": "developing",
+      "headline": "Col. Philip Corso recounts a perfect missile test",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "D4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "nicemicro@fosstodon.org",
-          "url": "https://fosstodon.org/@nicemicro/117490037571797616"
+          "handle": "Weaponized",
+          "url": "https://www.youtube.com/shorts/nYuqptAhkzc"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/shorts/nYuqptAhkzc"
+      ],
       "update": false
     }
   ]
