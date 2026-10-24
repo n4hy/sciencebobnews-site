@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-24 04:40 UTC",
+  "generated_utc": "2026-10-24 04:50 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
@@ -47,25 +47,6 @@
       "headline": "Official UAP statement reported",
       "lane": "developing",
       "status": "DEVELOPING",
-      "reliability": "E4",
-      "p_credible": 0.55,
-      "independent_sources": 1,
-      "platforms": [
-        "bluesky"
-      ],
-      "sources": [
-        {
-          "handle": "did:plc:6zk2tjoim3dlkg3a37jgadoq",
-          "url": "https://bsky.app/profile/did:plc:6zk2tjoim3dlkg3a37jgadoq/post/3mylusfu3rw2p"
-        }
-      ],
-      "videos": [],
-      "update": false
-    },
-    {
-      "headline": "Official UAP statement reported",
-      "lane": "developing",
-      "status": "DEVELOPING",
       "reliability": "D4",
       "p_credible": 0.55,
       "independent_sources": 1,
@@ -95,6 +76,25 @@
         {
           "handle": "KilleansRow@mastodon.online",
           "url": "https://mastodon.online/@KilleansRow/117489171326521371"
+        }
+      ],
+      "videos": [],
+      "update": false
+    },
+    {
+      "headline": "UAP report",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "D4",
+      "p_credible": 0.55,
+      "independent_sources": 1,
+      "platforms": [
+        "mastodon"
+      ],
+      "sources": [
+        {
+          "handle": "nicemicro@fosstodon.org",
+          "url": "https://fosstodon.org/@nicemicro/117490037571797616"
         }
       ],
       "videos": [],
