@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-24 13:10 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-24 20:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
@@ -37,6 +37,10 @@ _None._
 5. What does speaking out cost? | Dylan Borland | WEAPONIZED — reliability C4 · 1 source(s)  
    [@Weaponized](https://www.youtube.com/shorts/TBwmwoqvhOc)  
    📹 [video](https://www.youtube.com/shorts/TBwmwoqvhOc)
+
+## From ProbedSpace on X (last 24 h)
+- 2026-10-24 15:10 UTC — “UFO research with houseplants. In 2010, BAASS placed tobacco and spiderwort at the Utah ranch as biosensors for DNA-damaging exposure. The report says it was t…” [@ProbedSpace](https://x.com/ProbedSpace/status/2114011699191914617)
+- 2026-10-23 20:57 UTC — “A silent black triangle, seen by eye and through a thermal device. A 2026 FBI report in Release 07 records two agents' account of a rapid climb and descent. Th…” [@ProbedSpace](https://x.com/ProbedSpace/status/2113736490278625488)
 
 ---
 *Powered by Science Bob News. Free to use with credit (see [LICENSE](LICENSE)). Social-feed headlines are factual restatements in the engine's own words; podcast entries use the episode title. Click through to the linked sources for originals. Reposts of a single origin are collapsed to one source; candidate prosaic explanations are flagged where offered. Machine-readable feed: [feed.json](feed.json).*
