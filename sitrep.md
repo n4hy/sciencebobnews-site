@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-25 01:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-25 02:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
@@ -34,6 +34,7 @@
 _None this cycle._
 
 ## From ProbedSpace on X (last 24 h)
+- 2026-10-25 01:33 UTC — “Release 07 of the Pentagon's UFO files in 70 seconds: 28 documents spanning 77 years, from a 1949 letter to Kenneth Arnold to an FBI report from this June.” [@ProbedSpace](https://x.com/ProbedSpace/status/2114168460682965331)
 - 2026-10-24 15:10 UTC — “UFO research with houseplants. In 2010, BAASS placed tobacco and spiderwort at the Utah ranch as biosensors for DNA-damaging exposure. The report says it was t…” [@ProbedSpace](https://x.com/ProbedSpace/status/2114011699191914617)
 
 ---
