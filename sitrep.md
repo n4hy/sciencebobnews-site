@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-25 07:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-25 08:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
@@ -18,25 +18,25 @@ _None._
    [@SpacedOutRadio](https://www.youtube.com/watch?v=a0Tzc8CaBEA)  
    📹 [video](https://www.youtube.com/watch?v=a0Tzc8CaBEA)
 
-![A Deep Look Into a Potential UFO Cover Up!](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
-2. A Deep Look Into a Potential UFO Cover Up! — reliability C4 · 1 source(s)  
+![#35 WHY DO ROCKSTARS SEE UFOS? — Sound, Light & Frequency](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
+2. #35 WHY DO ROCKSTARS SEE UFOS? — Sound, Light & Frequency — reliability C4 · 1 source(s)  
+   [@NeedToKnow](https://www.youtube.com/watch?v=GgjkPj3nh98)  
+   📹 [video](https://www.youtube.com/watch?v=GgjkPj3nh98)
+
+![A Deep Look Into a Potential UFO Cover Up!](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
+3. A Deep Look Into a Potential UFO Cover Up! — reliability C4 · 1 source(s)  
    [@SpacedOutRadio](https://www.youtube.com/watch?v=qkz5nyCjHdM)  
    📹 [video](https://www.youtube.com/watch?v=qkz5nyCjHdM)
 
-![UFO Secrets, UAP Stories and Government Secrets on NHI](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
-3. UFO Secrets, UAP Stories and Government Secrets on NHI — reliability C4 · 1 source(s)  
+![UFO Secrets, UAP Stories and Government Secrets on NHI](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
+4. UFO Secrets, UAP Stories and Government Secrets on NHI — reliability C4 · 1 source(s)  
    [@SpacedOutRadio](https://www.youtube.com/watch?v=seNQZdUu_WM)  
    📹 [video](https://www.youtube.com/watch?v=seNQZdUu_WM)
 
-![What does speaking out cost? | Dylan Borland | WEAPONIZED](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-4. What does speaking out cost? | Dylan Borland | WEAPONIZED — reliability C4 · 1 source(s)  
+![What does speaking out cost? | Dylan Borland | WEAPONIZED](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+5. What does speaking out cost? | Dylan Borland | WEAPONIZED — reliability C4 · 1 source(s)  
    [@Weaponized](https://www.youtube.com/shorts/TBwmwoqvhOc)  
    📹 [video](https://www.youtube.com/shorts/TBwmwoqvhOc)
-
-![“THIS IS THE FIRST TIME I’VE TALKED ABOUT THIS ON CAMERA”](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. “THIS IS THE FIRST TIME I’VE TALKED ABOUT THIS ON CAMERA” — reliability C4 · 1 source(s)  
-   [@Weaponized](https://www.youtube.com/watch?v=sIBjOCENWmg)  
-   📹 [video](https://www.youtube.com/watch?v=sIBjOCENWmg) · [video](https://youtu.be/9GblwqzGFAY)
 
 ## From ProbedSpace on X (last 24 h)
 - 2026-10-25 01:33 UTC — “Release 07 of the Pentagon's UFO files in 70 seconds: 28 documents spanning 77 years, from a 1949 letter to Kenneth Arnold to an FBI report from this June.” [@ProbedSpace](https://x.com/ProbedSpace/status/2114168460682965331)
