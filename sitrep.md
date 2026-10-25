@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-25 02:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-25 07:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
@@ -9,29 +9,34 @@
    [@KilleansRow@mastodon.online](https://mastodon.online/@KilleansRow/117489171326521371) · [@thirdbookofthedead](https://mastodon.social/@thirdbookofthedead/117495252678330075)
 
 ## Developing / unconfirmed
-
-![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
-1. Official UAP statement reported — reliability D4 · 1 source(s)  
-   [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117496466405456031)
-
-![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
-2. Official UAP statement reported — reliability D4 · 1 source(s)  
-   [@wellborn.net@bsky.brid.gy](https://fed.brid.gy/r/https://bsky.app/profile/did:plc:jjheidmljqrsatjic4e6hmm2/post/3mykdcnymxk2j)
-
-![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
-3. Official UAP statement reported — reliability D4 · 1 source(s)  
-   [@in.mashable.com@web.brid.gy](https://fed.brid.gy/r/https://in.mashable.com/science/115320/ufo-disclosure-2026-department-of-war-releases-7th-batch-of-files-heres-how-to-access)
-
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-4. UAP report — reliability E4 · 1 source(s)  
-   [@nyheter24@friendica.helvetet.eu](https://friendica.helvetet.eu/display/a7e70941-3c5d2744-2bc97d78b919ce5f)
-
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. UAP report — reliability D4 · 1 source(s)  
-   [@novinysk@zpravobot.news](https://zpravobot.news/@novinysk/117496758639233112)
+_None._
 
 ## Disclosure podcasts
-_None this cycle._
+
+![Bigfoot, Dogman & Terrifying Cryptid Encounters](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
+1. Bigfoot, Dogman & Terrifying Cryptid Encounters — reliability C4 · 1 source(s)  
+   [@SpacedOutRadio](https://www.youtube.com/watch?v=a0Tzc8CaBEA)  
+   📹 [video](https://www.youtube.com/watch?v=a0Tzc8CaBEA)
+
+![A Deep Look Into a Potential UFO Cover Up!](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
+2. A Deep Look Into a Potential UFO Cover Up! — reliability C4 · 1 source(s)  
+   [@SpacedOutRadio](https://www.youtube.com/watch?v=qkz5nyCjHdM)  
+   📹 [video](https://www.youtube.com/watch?v=qkz5nyCjHdM)
+
+![UFO Secrets, UAP Stories and Government Secrets on NHI](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
+3. UFO Secrets, UAP Stories and Government Secrets on NHI — reliability C4 · 1 source(s)  
+   [@SpacedOutRadio](https://www.youtube.com/watch?v=seNQZdUu_WM)  
+   📹 [video](https://www.youtube.com/watch?v=seNQZdUu_WM)
+
+![What does speaking out cost? | Dylan Borland | WEAPONIZED](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
+4. What does speaking out cost? | Dylan Borland | WEAPONIZED — reliability C4 · 1 source(s)  
+   [@Weaponized](https://www.youtube.com/shorts/TBwmwoqvhOc)  
+   📹 [video](https://www.youtube.com/shorts/TBwmwoqvhOc)
+
+![“THIS IS THE FIRST TIME I’VE TALKED ABOUT THIS ON CAMERA”](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+5. “THIS IS THE FIRST TIME I’VE TALKED ABOUT THIS ON CAMERA” — reliability C4 · 1 source(s)  
+   [@Weaponized](https://www.youtube.com/watch?v=sIBjOCENWmg)  
+   📹 [video](https://www.youtube.com/watch?v=sIBjOCENWmg) · [video](https://youtu.be/9GblwqzGFAY)
 
 ## From ProbedSpace on X (last 24 h)
 - 2026-10-25 01:33 UTC — “Release 07 of the Pentagon's UFO files in 70 seconds: 28 documents spanning 77 years, from a 1949 letter to Kenneth Arnold to an FBI report from this June.” [@ProbedSpace](https://x.com/ProbedSpace/status/2114168460682965331)
