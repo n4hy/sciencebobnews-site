@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-25 17:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-25 18:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
@@ -9,31 +9,37 @@
    [@alcornews.bsky.social@bsky.brid.gy](https://fed.brid.gy/r/https://bsky.app/profile/did:plc:3l5f3rhsngpxljnskia73bj7/post/3myou67liek2v) · [@AlcorNews](https://mastodon.social/@AlcorNews/117500750689952698)
 
 ## Developing / unconfirmed
-
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
-1. UAP report — reliability D4 · 1 source(s)  
-   [@solarphasing](https://mastodon.social/@solarphasing/117500541453932253)
-
-![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
-2. Official UAP statement reported — reliability D4 · 1 source(s)  
-   [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117501842815731177)
-
-![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
-3. Official UAP statement reported — reliability D4 · 1 source(s)  
-   [@wellborn.net@bsky.brid.gy](https://fed.brid.gy/r/https://bsky.app/profile/did:plc:jjheidmljqrsatjic4e6hmm2/post/3mykdcnymxk2j)
-
-![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-4. Official UAP statement reported — reliability D4 · 1 source(s)  
-   [@in.mashable.com@web.brid.gy](https://fed.brid.gy/r/https://in.mashable.com/science/115320/ufo-disclosure-2026-department-of-war-releases-7th-batch-of-files-heres-how-to-access)
-
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. UAP report — reliability E4 · 1 source(s)  
-   [@nyheter24@friendica.helvetet.eu](https://friendica.helvetet.eu/display/a7e70941-3c5d2744-2bc97d78b919ce5f)
+_None._
 
 ## Disclosure podcasts
-_None this cycle._
+
+![Bigfoot, Dogman & Terrifying Cryptid Encounters](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
+1. Bigfoot, Dogman & Terrifying Cryptid Encounters — reliability C4 · 1 source(s)  
+   [@SpacedOutRadio](https://www.youtube.com/watch?v=a0Tzc8CaBEA)  
+   📹 [video](https://www.youtube.com/watch?v=a0Tzc8CaBEA)
+
+![#35 WHY DO ROCKSTARS SEE UFOS? — Sound, Light & Frequency](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
+2. #35 WHY DO ROCKSTARS SEE UFOS? — Sound, Light & Frequency — reliability C4 · 1 source(s)  
+   [@NeedToKnow](https://www.youtube.com/watch?v=GgjkPj3nh98)  
+   📹 [video](https://www.youtube.com/watch?v=GgjkPj3nh98)
+
+![A Deep Look Into a Potential UFO Cover Up!](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
+3. A Deep Look Into a Potential UFO Cover Up! — reliability C4 · 1 source(s)  
+   [@SpacedOutRadio](https://www.youtube.com/watch?v=qkz5nyCjHdM)  
+   📹 [video](https://www.youtube.com/watch?v=qkz5nyCjHdM)
+
+![UFO Secrets, UAP Stories and Government Secrets on NHI](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
+4. UFO Secrets, UAP Stories and Government Secrets on NHI — reliability C4 · 1 source(s)  
+   [@SpacedOutRadio](https://www.youtube.com/watch?v=seNQZdUu_WM)  
+   📹 [video](https://www.youtube.com/watch?v=seNQZdUu_WM)
+
+![What does speaking out cost? | Dylan Borland | WEAPONIZED](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+5. What does speaking out cost? | Dylan Borland | WEAPONIZED — reliability C4 · 1 source(s)  
+   [@Weaponized](https://www.youtube.com/shorts/TBwmwoqvhOc)  
+   📹 [video](https://www.youtube.com/shorts/TBwmwoqvhOc)
 
 ## From ProbedSpace on X (last 24 h)
+- 2026-10-25 17:38 UTC — “What went into BAASS’s Tic Tac calculations? Release 07 shows BAASS calculating speeds for a reported 60,000-foot descent. The exact time was unknown, so it us…” [@ProbedSpace](https://x.com/ProbedSpace/status/2114411366979080240)
 - 2026-10-25 01:33 UTC — “Release 07 of the Pentagon's UFO files in 70 seconds: 28 documents spanning 77 years, from a 1949 letter to Kenneth Arnold to an FBI report from this June.” [@ProbedSpace](https://x.com/ProbedSpace/status/2114168460682965331)
 
 ---
