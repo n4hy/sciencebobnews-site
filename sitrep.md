@@ -1,16 +1,10 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-25 13:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-25 14:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
-![#27 PEAKS AND VALLEYS OF WOO — Sound, Light & Frequency](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
-1. **#27 PEAKS AND VALLEYS OF WOO — Sound, Light & Frequency**  
-   reliability **C3** · P(credible)=1.0 · 2 independent source(s) · bluesky+youtube  
-   [@NeedToKnow](https://www.youtube.com/watch?v=LvYmWCnNc1Y) · [@did:plc:2peq6vdr5mx2qrvf6ff5jqg2](https://bsky.app/profile/did:plc:2peq6vdr5mx2qrvf6ff5jqg2/post/3mypb7dff7p2x)  
-   📹 [video](https://www.youtube.com/watch?v=LvYmWCnNc1Y)
-
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_2.svg)
-2. **UAP report**  
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
+1. **UAP report**  
    reliability **D3** · P(credible)=1.0 · 2 independent source(s) · mastodon  
    [@alcornews.bsky.social@bsky.brid.gy](https://fed.brid.gy/r/https://bsky.app/profile/did:plc:3l5f3rhsngpxljnskia73bj7/post/3myou67liek2v) · [@AlcorNews](https://mastodon.social/@AlcorNews/117500750689952698)
 
