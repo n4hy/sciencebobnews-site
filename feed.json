@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-24 23:00 UTC",
+  "generated_utc": "2026-10-25 01:00 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
@@ -29,108 +29,98 @@
       "update": false
     },
     {
-      "headline": "Bigfoot, Dogman & Terrifying Cryptid Encounters",
-      "lane": "podcast",
+      "headline": "Official UAP statement reported",
+      "lane": "developing",
       "status": "DEVELOPING",
-      "reliability": "C4",
+      "reliability": "D4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "youtube"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "SpacedOutRadio",
-          "url": "https://www.youtube.com/watch?v=a0Tzc8CaBEA"
+          "handle": "vibewire@mastodon.au",
+          "url": "https://mastodon.au/@vibewire/117496466405456031"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=a0Tzc8CaBEA"
-      ],
+      "videos": [],
       "update": false
     },
     {
-      "headline": "#35 WHY DO ROCKSTARS SEE UFOS? — Sound, Light & Frequency",
-      "lane": "podcast",
+      "headline": "Official UAP statement reported",
+      "lane": "developing",
       "status": "DEVELOPING",
-      "reliability": "C4",
+      "reliability": "D4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "youtube"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "NeedToKnow",
-          "url": "https://www.youtube.com/watch?v=GgjkPj3nh98"
+          "handle": "wellborn.net@bsky.brid.gy",
+          "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:jjheidmljqrsatjic4e6hmm2/post/3mykdcnymxk2j"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=GgjkPj3nh98"
-      ],
+      "videos": [],
       "update": false
     },
     {
-      "headline": "A Deep Look Into a Potential UFO Cover Up!",
-      "lane": "podcast",
+      "headline": "Official UAP statement reported",
+      "lane": "developing",
       "status": "DEVELOPING",
-      "reliability": "C4",
+      "reliability": "D4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "youtube"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "SpacedOutRadio",
-          "url": "https://www.youtube.com/watch?v=qkz5nyCjHdM"
+          "handle": "in.mashable.com@web.brid.gy",
+          "url": "https://fed.brid.gy/r/https://in.mashable.com/science/115320/ufo-disclosure-2026-department-of-war-releases-7th-batch-of-files-heres-how-to-access"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=qkz5nyCjHdM"
-      ],
+      "videos": [],
       "update": false
     },
     {
-      "headline": "UFO Secrets, UAP Stories and Government Secrets on NHI",
-      "lane": "podcast",
+      "headline": "UAP report",
+      "lane": "developing",
       "status": "DEVELOPING",
-      "reliability": "C4",
+      "reliability": "E4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "youtube"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "SpacedOutRadio",
-          "url": "https://www.youtube.com/watch?v=seNQZdUu_WM"
+          "handle": "nyheter24@friendica.helvetet.eu",
+          "url": "https://friendica.helvetet.eu/display/a7e70941-3c5d2744-2bc97d78b919ce5f"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=seNQZdUu_WM"
-      ],
+      "videos": [],
       "update": false
     },
     {
-      "headline": "What does speaking out cost? | Dylan Borland | WEAPONIZED",
-      "lane": "podcast",
+      "headline": "UAP report",
+      "lane": "developing",
       "status": "DEVELOPING",
-      "reliability": "C4",
+      "reliability": "D4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "youtube"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "Weaponized",
-          "url": "https://www.youtube.com/shorts/TBwmwoqvhOc"
+          "handle": "novinysk@zpravobot.news",
+          "url": "https://zpravobot.news/@novinysk/117496758639233112"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/shorts/TBwmwoqvhOc"
-      ],
+      "videos": [],
       "update": false
     }
   ],
