@@ -1,38 +1,33 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-26 21:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-26 23:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 _No corroborated reports this cycle._
 
 ## Developing / unconfirmed
-_None._
+
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
+1. UAP report — reliability D4 · 1 source(s)  
+   [@veryexcitingtime](https://mastodon.social/@veryexcitingtime/117504875874752934)
+
+![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
+2. Official UAP statement reported — reliability D4 · 1 source(s)  
+   [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117508568073298487)
+
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
+3. UAP report — reliability D4 · 1 source(s)  
+   [@yuichi_asama@mstdn.jp](https://mstdn.jp/@yuichi_asama/117504902772960793)
+
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+4. UAP report — reliability E4 · 1 source(s)  
+   [@uapfinder](https://mastodon.social/@uapfinder/117507336908294941)
 
 ## Disclosure podcasts
 
-![“I Heard That a Robot Solved the Math Problem You Worked On”](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
-1. “I Heard That a Robot Solved the Math Problem You Worked On” — reliability C4 · 1 source(s)  
-   [@TheoriesOfEverything](https://www.youtube.com/watch?v=3yXtXTwz4J4)  
-   📹 [video](https://www.youtube.com/watch?v=3yXtXTwz4J4) · [video](https://youtu.be/GcbLL4C3VwY)
-
-![If AI Breaks Bitcoin, You'd Have to Warn the Whole World](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
-2. If AI Breaks Bitcoin, You'd Have to Warn the Whole World — reliability C4 · 1 source(s)  
-   [@TheoriesOfEverything](https://www.youtube.com/shorts/Q6BYD91DlMA)  
-   📹 [video](https://www.youtube.com/shorts/Q6BYD91DlMA) · [video](https://youtu.be/3yXtXTwz4J4)
-
-![Bigfoot, Dogman & Terrifying Cryptid Encounters](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
-3. Bigfoot, Dogman & Terrifying Cryptid Encounters — reliability C4 · 1 source(s)  
-   [@SpacedOutRadio](https://www.youtube.com/watch?v=a0Tzc8CaBEA)  
-   📹 [video](https://www.youtube.com/watch?v=a0Tzc8CaBEA)
-
-![#35 WHY DO ROCKSTARS SEE UFOS? — Sound, Light & Frequency](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-4. #35 WHY DO ROCKSTARS SEE UFOS? — Sound, Light & Frequency — reliability C4 · 1 source(s)  
-   [@NeedToKnow](https://www.youtube.com/watch?v=GgjkPj3nh98)  
-   📹 [video](https://www.youtube.com/watch?v=GgjkPj3nh98)
-
-![UFO Secrets, UAP Stories and Government Secrets on NHI](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. UFO Secrets, UAP Stories and Government Secrets on NHI — reliability C4 · 1 source(s)  
-   [@SpacedOutRadio](https://www.youtube.com/watch?v=seNQZdUu_WM)  
-   📹 [video](https://www.youtube.com/watch?v=seNQZdUu_WM)
+![Disclosure Capitol Steps](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
+1. Disclosure Capitol Steps — reliability C4 · 1 source(s)  
+   [@OrbisParanormal](https://www.youtube.com/watch?v=VM8ZX9-ruUM)  
+   📹 [video](https://www.youtube.com/watch?v=VM8ZX9-ruUM)
 
 ## From ProbedSpace on X (last 24 h)
 - 2026-10-26 18:29 UTC — “234,364 UFO reports in one archive. BAASS's March 2009 report gives that count for Project Capella, then spells out the limits: duplicate reports, explained ca…” [@ProbedSpace](https://x.com/ProbedSpace/status/2114786495928455488)

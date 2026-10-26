@@ -2,97 +2,87 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-26 21:00 UTC",
+  "generated_utc": "2026-10-26 23:00 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
-      "headline": "“I Heard That a Robot Solved the Math Problem You Worked On”",
-      "lane": "podcast",
+      "headline": "UAP report",
+      "lane": "developing",
       "status": "DEVELOPING",
-      "reliability": "C4",
+      "reliability": "D4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "youtube"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "TheoriesOfEverything",
-          "url": "https://www.youtube.com/watch?v=3yXtXTwz4J4"
+          "handle": "veryexcitingtime",
+          "url": "https://mastodon.social/@veryexcitingtime/117504875874752934"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=3yXtXTwz4J4",
-        "https://youtu.be/GcbLL4C3VwY"
-      ],
+      "videos": [],
       "update": false
     },
     {
-      "headline": "If AI Breaks Bitcoin, You'd Have to Warn the Whole World",
-      "lane": "podcast",
+      "headline": "Official UAP statement reported",
+      "lane": "developing",
       "status": "DEVELOPING",
-      "reliability": "C4",
+      "reliability": "D4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "youtube"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "TheoriesOfEverything",
-          "url": "https://www.youtube.com/shorts/Q6BYD91DlMA"
+          "handle": "vibewire@mastodon.au",
+          "url": "https://mastodon.au/@vibewire/117508568073298487"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/shorts/Q6BYD91DlMA",
-        "https://youtu.be/3yXtXTwz4J4"
-      ],
+      "videos": [],
       "update": false
     },
     {
-      "headline": "Bigfoot, Dogman & Terrifying Cryptid Encounters",
-      "lane": "podcast",
+      "headline": "UAP report",
+      "lane": "developing",
       "status": "DEVELOPING",
-      "reliability": "C4",
+      "reliability": "D4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "youtube"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "SpacedOutRadio",
-          "url": "https://www.youtube.com/watch?v=a0Tzc8CaBEA"
+          "handle": "yuichi_asama@mstdn.jp",
+          "url": "https://mstdn.jp/@yuichi_asama/117504902772960793"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=a0Tzc8CaBEA"
-      ],
+      "videos": [],
       "update": false
     },
     {
-      "headline": "#35 WHY DO ROCKSTARS SEE UFOS? — Sound, Light & Frequency",
-      "lane": "podcast",
+      "headline": "UAP report",
+      "lane": "developing",
       "status": "DEVELOPING",
-      "reliability": "C4",
+      "reliability": "E4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "youtube"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "NeedToKnow",
-          "url": "https://www.youtube.com/watch?v=GgjkPj3nh98"
+          "handle": "uapfinder",
+          "url": "https://mastodon.social/@uapfinder/117507336908294941"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=GgjkPj3nh98"
-      ],
+      "videos": [],
       "update": false
     },
     {
-      "headline": "UFO Secrets, UAP Stories and Government Secrets on NHI",
+      "headline": "Disclosure Capitol Steps",
       "lane": "podcast",
       "status": "DEVELOPING",
       "reliability": "C4",
@@ -103,12 +93,12 @@
       ],
       "sources": [
         {
-          "handle": "SpacedOutRadio",
-          "url": "https://www.youtube.com/watch?v=seNQZdUu_WM"
+          "handle": "OrbisParanormal",
+          "url": "https://www.youtube.com/watch?v=VM8ZX9-ruUM"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=seNQZdUu_WM"
+        "https://www.youtube.com/watch?v=VM8ZX9-ruUM"
       ],
       "update": false
     }
