@@ -1,13 +1,8 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-26 20:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-26 21:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
-
-![#36 CASE NOT CLOSED — Sound, Light & Frequency](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
-1. **#36 CASE NOT CLOSED — Sound, Light & Frequency**  
-   reliability **C3** · P(credible)=1.0 · 2 independent source(s) · bluesky+youtube  
-   [@NeedToKnow](https://www.youtube.com/watch?v=JgMXWCaOMv8) · [@did:plc:ausabfl6f27rxfxd6dg5enlh](https://bsky.app/profile/did:plc:ausabfl6f27rxfxd6dg5enlh/post/3mysj5bkr7g2t)  
-   📹 [video](https://www.youtube.com/watch?v=JgMXWCaOMv8)
+_No corroborated reports this cycle._
 
 ## Developing / unconfirmed
 _None._
@@ -19,25 +14,25 @@ _None._
    [@TheoriesOfEverything](https://www.youtube.com/watch?v=3yXtXTwz4J4)  
    📹 [video](https://www.youtube.com/watch?v=3yXtXTwz4J4) · [video](https://youtu.be/GcbLL4C3VwY)
 
-![Bigfoot, Dogman & Terrifying Cryptid Encounters](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
-2. Bigfoot, Dogman & Terrifying Cryptid Encounters — reliability C4 · 1 source(s)  
+![If AI Breaks Bitcoin, You'd Have to Warn the Whole World](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
+2. If AI Breaks Bitcoin, You'd Have to Warn the Whole World — reliability C4 · 1 source(s)  
+   [@TheoriesOfEverything](https://www.youtube.com/shorts/Q6BYD91DlMA)  
+   📹 [video](https://www.youtube.com/shorts/Q6BYD91DlMA) · [video](https://youtu.be/3yXtXTwz4J4)
+
+![Bigfoot, Dogman & Terrifying Cryptid Encounters](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
+3. Bigfoot, Dogman & Terrifying Cryptid Encounters — reliability C4 · 1 source(s)  
    [@SpacedOutRadio](https://www.youtube.com/watch?v=a0Tzc8CaBEA)  
    📹 [video](https://www.youtube.com/watch?v=a0Tzc8CaBEA)
 
-![#35 WHY DO ROCKSTARS SEE UFOS? — Sound, Light & Frequency](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
-3. #35 WHY DO ROCKSTARS SEE UFOS? — Sound, Light & Frequency — reliability C4 · 1 source(s)  
+![#35 WHY DO ROCKSTARS SEE UFOS? — Sound, Light & Frequency](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
+4. #35 WHY DO ROCKSTARS SEE UFOS? — Sound, Light & Frequency — reliability C4 · 1 source(s)  
    [@NeedToKnow](https://www.youtube.com/watch?v=GgjkPj3nh98)  
    📹 [video](https://www.youtube.com/watch?v=GgjkPj3nh98)
 
-![UFO Secrets, UAP Stories and Government Secrets on NHI](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-4. UFO Secrets, UAP Stories and Government Secrets on NHI — reliability C4 · 1 source(s)  
+![UFO Secrets, UAP Stories and Government Secrets on NHI](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+5. UFO Secrets, UAP Stories and Government Secrets on NHI — reliability C4 · 1 source(s)  
    [@SpacedOutRadio](https://www.youtube.com/watch?v=seNQZdUu_WM)  
    📹 [video](https://www.youtube.com/watch?v=seNQZdUu_WM)
-
-![What does speaking out cost? | Dylan Borland | WEAPONIZED](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. What does speaking out cost? | Dylan Borland | WEAPONIZED — reliability C4 · 1 source(s)  
-   [@Weaponized](https://www.youtube.com/shorts/TBwmwoqvhOc)  
-   📹 [video](https://www.youtube.com/shorts/TBwmwoqvhOc)
 
 ## From ProbedSpace on X (last 24 h)
 - 2026-10-26 18:29 UTC — “234,364 UFO reports in one archive. BAASS's March 2009 report gives that count for Project Capella, then spells out the limits: duplicate reports, explained ca…” [@ProbedSpace](https://x.com/ProbedSpace/status/2114786495928455488)

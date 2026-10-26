@@ -2,35 +2,9 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-26 20:00 UTC",
+  "generated_utc": "2026-10-26 21:00 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
-    {
-      "headline": "#36 CASE NOT CLOSED — Sound, Light & Frequency",
-      "lane": "corroborated",
-      "status": "CORROBORATED",
-      "reliability": "C3",
-      "p_credible": 1.0,
-      "independent_sources": 2,
-      "platforms": [
-        "bluesky",
-        "youtube"
-      ],
-      "sources": [
-        {
-          "handle": "NeedToKnow",
-          "url": "https://www.youtube.com/watch?v=JgMXWCaOMv8"
-        },
-        {
-          "handle": "did:plc:ausabfl6f27rxfxd6dg5enlh",
-          "url": "https://bsky.app/profile/did:plc:ausabfl6f27rxfxd6dg5enlh/post/3mysj5bkr7g2t"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=JgMXWCaOMv8"
-      ],
-      "update": false
-    },
     {
       "headline": "“I Heard That a Robot Solved the Math Problem You Worked On”",
       "lane": "podcast",
@@ -50,6 +24,28 @@
       "videos": [
         "https://www.youtube.com/watch?v=3yXtXTwz4J4",
         "https://youtu.be/GcbLL4C3VwY"
+      ],
+      "update": false
+    },
+    {
+      "headline": "If AI Breaks Bitcoin, You'd Have to Warn the Whole World",
+      "lane": "podcast",
+      "status": "DEVELOPING",
+      "reliability": "C4",
+      "p_credible": 0.55,
+      "independent_sources": 1,
+      "platforms": [
+        "youtube"
+      ],
+      "sources": [
+        {
+          "handle": "TheoriesOfEverything",
+          "url": "https://www.youtube.com/shorts/Q6BYD91DlMA"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/shorts/Q6BYD91DlMA",
+        "https://youtu.be/3yXtXTwz4J4"
       ],
       "update": false
     },
@@ -113,27 +109,6 @@
       ],
       "videos": [
         "https://www.youtube.com/watch?v=seNQZdUu_WM"
-      ],
-      "update": false
-    },
-    {
-      "headline": "What does speaking out cost? | Dylan Borland | WEAPONIZED",
-      "lane": "podcast",
-      "status": "DEVELOPING",
-      "reliability": "C4",
-      "p_credible": 0.55,
-      "independent_sources": 1,
-      "platforms": [
-        "youtube"
-      ],
-      "sources": [
-        {
-          "handle": "Weaponized",
-          "url": "https://www.youtube.com/shorts/TBwmwoqvhOc"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/shorts/TBwmwoqvhOc"
       ],
       "update": false
     }
