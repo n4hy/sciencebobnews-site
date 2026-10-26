@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-26 16:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-26 18:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
@@ -40,7 +40,6 @@ _None._
 
 ## From ProbedSpace on X (last 24 h)
 - 2026-10-26 13:21 UTC — “BAASS wanted DIA's help accessing potentially non-human biological material. Its 2008 plan proposes seeking medical samples for evaluation. Release 07:” [@ProbedSpace](https://x.com/ProbedSpace/status/2114709058913706097)
-- 2026-10-25 17:38 UTC — “What went into BAASS’s Tic Tac calculations? Release 07 shows BAASS calculating speeds for a reported 60,000-foot descent. The exact time was unknown, so it us…” [@ProbedSpace](https://x.com/ProbedSpace/status/2114411366979080240)
 
 ---
 *Powered by Science Bob News. Free to use with credit (see [LICENSE](LICENSE)). Social-feed headlines are factual restatements in the engine's own words; podcast entries use the episode title. Click through to the linked sources for originals. Reposts of a single origin are collapsed to one source; candidate prosaic explanations are flagged where offered. Machine-readable feed: [feed.json](feed.json).*
