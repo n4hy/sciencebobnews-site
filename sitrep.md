@@ -1,12 +1,8 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-26 18:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-26 19:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
-
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
-1. **UAP report**  
-   reliability **D3** · P(credible)=1.0 · 2 independent source(s) · mastodon  
-   [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117507895160438057) · [@yuichi_asama@mstdn.jp](https://mstdn.jp/@yuichi_asama/117504902772960793)
+_No corroborated reports this cycle._
 
 ## Developing / unconfirmed
 _None._
@@ -39,6 +35,7 @@ _None._
    📹 [video](https://www.youtube.com/shorts/TBwmwoqvhOc)
 
 ## From ProbedSpace on X (last 24 h)
+- 2026-10-26 18:29 UTC — “234,364 UFO reports in one archive. BAASS's March 2009 report gives that count for Project Capella, then spells out the limits: duplicate reports, explained ca…” [@ProbedSpace](https://x.com/ProbedSpace/status/2114786495928455488)
 - 2026-10-26 13:21 UTC — “BAASS wanted DIA's help accessing potentially non-human biological material. Its 2008 plan proposes seeking medical samples for evaluation. Release 07:” [@ProbedSpace](https://x.com/ProbedSpace/status/2114709058913706097)
 
 ---

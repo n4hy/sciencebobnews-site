@@ -2,32 +2,9 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-26 18:00 UTC",
+  "generated_utc": "2026-10-26 19:00 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
-    {
-      "headline": "UAP report",
-      "lane": "corroborated",
-      "status": "CORROBORATED",
-      "reliability": "D3",
-      "p_credible": 1.0,
-      "independent_sources": 2,
-      "platforms": [
-        "mastodon"
-      ],
-      "sources": [
-        {
-          "handle": "vibewire@mastodon.au",
-          "url": "https://mastodon.au/@vibewire/117507895160438057"
-        },
-        {
-          "handle": "yuichi_asama@mstdn.jp",
-          "url": "https://mstdn.jp/@yuichi_asama/117504902772960793"
-        }
-      ],
-      "videos": [],
-      "update": false
-    },
     {
       "headline": "“I Heard That a Robot Solved the Math Problem You Worked On”",
       "lane": "podcast",
@@ -136,6 +113,11 @@
     }
   ],
   "probedspace_digest": [
+    {
+      "created_utc": "2026-10-26T18:29:26+00:00",
+      "url": "https://x.com/ProbedSpace/status/2114786495928455488",
+      "excerpt": "234,364 UFO reports in one archive. BAASS's March 2009 report gives that count for Project Capella, then spells out the limits: duplicate reports, explained ca…"
+    },
     {
       "created_utc": "2026-10-26T13:21:43+00:00",
       "url": "https://x.com/ProbedSpace/status/2114709058913706097",
