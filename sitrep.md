@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-26 03:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-26 07:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
@@ -9,29 +9,34 @@
    [@alcornews.bsky.social@bsky.brid.gy](https://fed.brid.gy/r/https://bsky.app/profile/did:plc:3l5f3rhsngpxljnskia73bj7/post/3myou67liek2v) · [@AlcorNews](https://mastodon.social/@AlcorNews/117500750689952698)
 
 ## Developing / unconfirmed
-
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
-1. UAP report — reliability D4 · 1 source(s)  
-   [@solarphasing](https://mastodon.social/@solarphasing/117500541453932253)
-
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
-2. UAP report — reliability D4 · 1 source(s)  
-   [@veryexcitingtime](https://mastodon.social/@veryexcitingtime/117504875874752934)
-
-![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
-3. Official UAP statement reported — reliability D4 · 1 source(s)  
-   [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117501842815731177)
-
-![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-4. Official UAP statement reported — reliability D4 · 1 source(s)  
-   [@in.mashable.com@web.brid.gy](https://fed.brid.gy/r/https://in.mashable.com/science/115320/ufo-disclosure-2026-department-of-war-releases-7th-batch-of-files-heres-how-to-access)
-
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. UAP report — reliability D4 · 1 source(s)  
-   [@trndgtr](https://mastodon.social/@trndgtr/117499995480086343)
+_None._
 
 ## Disclosure podcasts
-_None this cycle._
+
+![Bigfoot, Dogman & Terrifying Cryptid Encounters](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
+1. Bigfoot, Dogman & Terrifying Cryptid Encounters — reliability C4 · 1 source(s)  
+   [@SpacedOutRadio](https://www.youtube.com/watch?v=a0Tzc8CaBEA)  
+   📹 [video](https://www.youtube.com/watch?v=a0Tzc8CaBEA)
+
+![UFO Secrets, UAP Stories and Government Secrets on NHI](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
+2. UFO Secrets, UAP Stories and Government Secrets on NHI — reliability C4 · 1 source(s)  
+   [@SpacedOutRadio](https://www.youtube.com/watch?v=seNQZdUu_WM)  
+   📹 [video](https://www.youtube.com/watch?v=seNQZdUu_WM)
+
+![What does speaking out cost? | Dylan Borland | WEAPONIZED](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
+3. What does speaking out cost? | Dylan Borland | WEAPONIZED — reliability C4 · 1 source(s)  
+   [@Weaponized](https://www.youtube.com/shorts/TBwmwoqvhOc)  
+   📹 [video](https://www.youtube.com/shorts/TBwmwoqvhOc)
+
+![“THIS IS THE FIRST TIME I’VE TALKED ABOUT THIS ON CAMERA”](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
+4. “THIS IS THE FIRST TIME I’VE TALKED ABOUT THIS ON CAMERA” — reliability C4 · 1 source(s)  
+   [@Weaponized](https://www.youtube.com/watch?v=sIBjOCENWmg)  
+   📹 [video](https://www.youtube.com/watch?v=sIBjOCENWmg) · [video](https://youtu.be/9GblwqzGFAY)
+
+![Jay Stratton’s FIRST-EVER Interview - Before The World Knew His Name](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+5. Jay Stratton’s FIRST-EVER Interview - Before The World Knew His Name — reliability C4 · 1 source(s)  
+   [@Weaponized](https://www.youtube.com/watch?v=9GblwqzGFAY)  
+   📹 [video](https://www.youtube.com/watch?v=9GblwqzGFAY)
 
 ## From ProbedSpace on X (last 24 h)
 - 2026-10-25 17:38 UTC — “What went into BAASS’s Tic Tac calculations? Release 07 shows BAASS calculating speeds for a reported 60,000-foot descent. The exact time was unknown, so it us…” [@ProbedSpace](https://x.com/ProbedSpace/status/2114411366979080240)
