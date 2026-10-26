@@ -1,8 +1,13 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-26 19:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-26 20:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
-_No corroborated reports this cycle._
+
+![#36 CASE NOT CLOSED — Sound, Light & Frequency](https://n4hy.github.io/sciencebobnews-site/card_c_1.svg)
+1. **#36 CASE NOT CLOSED — Sound, Light & Frequency**  
+   reliability **C3** · P(credible)=1.0 · 2 independent source(s) · bluesky+youtube  
+   [@NeedToKnow](https://www.youtube.com/watch?v=JgMXWCaOMv8) · [@did:plc:ausabfl6f27rxfxd6dg5enlh](https://bsky.app/profile/did:plc:ausabfl6f27rxfxd6dg5enlh/post/3mysj5bkr7g2t)  
+   📹 [video](https://www.youtube.com/watch?v=JgMXWCaOMv8)
 
 ## Developing / unconfirmed
 _None._
