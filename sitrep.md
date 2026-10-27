@@ -1,5 +1,9 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-27 17:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-27 17:22 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+
+Science Bob News is an automated situation report of public UAP, UFO, and USO claims. Each cycle it reads public social posts and disclosure-podcast feeds, collapses reposts and brid.gy mirrors to one account, and counts another account only when it confirms the same claim. The letter rates the source from A to F, the digit rates the information from 1 to 6, and validity is the McGwier b2.81 score capped by that evidence, never above 0.90. A high score is not a claim that an object was non-human, and it is not a count of how often such reports are later confirmed.
+
+Accumulating cases since the first recorded case, 27 June 2026, 07:38 UTC.
 
 Letter is the source (A completely reliable … F unknown). Digit is the information (1 confirmed by other sources … 4 doubtful, 5 improbable). Validity is the b2.81 score when that scorer is on, and it cannot exceed what the evidence supports. It is not a claim that the object was non-human, and it is not a field frequency.
 
@@ -18,9 +22,9 @@ _No corroborated reports this cycle._
 ![UAP discussion — @vibewire@mastodon.au](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
 2. UAP discussion — @vibewire@mastodon.au — reliability D4 · validity 0.15 · 1 source(s)  
    [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117513528512950449)
-   > Roswell Crash: Minute by Minute | Full Film http:// dlvr.it/TW4l5x # UFO # UFONews # ufodisclosure · The Light Gate Episode #182: Rowan Bo, UFO Girl http:// dlvr.it/TW4l5q # UFO # UFONews # ufodisclosure · Even the Engineers Who Build It Call It Magic | Dr Steven Greer http:// dlvr.it/TW46tk # UFO # UFONews # ufodisclosure · Ex-UFO Chief Names Who Has Been Lying http:// dlvr.it/TW46tf # UFO # UFONews # ufodisclosure
-   Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 4 posts. Validity 0.15.
-   _D4 — source not usually reliable, information doubtful. 1 account on the same claim (4 posts). 3 repost or mirror collapsed. no sensor reading or official record tied to this claim. validity 0.15. mcgwier-b2.81._
+   > Roswell Crash: Minute by Minute | Full Film http:// dlvr.it/TW4l5x # UFO # UFONews # ufodisclosure · The Light Gate Episode #182: Rowan Bo, UFO Girl http:// dlvr.it/TW4l5q # UFO # UFONews # ufodisclosure · Even the Engineers Who Build It Call It Magic | Dr Steven Greer http:// dlvr.it/TW46tk # UFO # UFONews # ufodisclosure
+   Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 3 posts. Validity 0.15.
+   _D4 — source not usually reliable, information doubtful. 1 account on the same claim (3 posts). 2 repost or mirror collapsed. no sensor reading or official record tied to this claim. validity 0.15. mcgwier-b2.81._
 
 ![UAP sighting report — @AlcorNews](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
 3. UAP sighting report — @AlcorNews — reliability D4 · validity 0.15 · 1 source(s)  
@@ -69,24 +73,26 @@ _No corroborated reports this cycle._
    Source is fairly reliable (C). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.25.
    _C4 — source fairly reliable, information doubtful. 1 account on the same claim (1 post). the text names a place, a sensor, or an official record. a show episode, not an independent sighting. validity 0.25. mcgwier-b2.81._
 
-![What does speaking out cost? | Dylan Borland | WEAPONIZED](https://n4hy.github.io/sciencebobnews-site/card_d_9.svg)
-4. What does speaking out cost? | Dylan Borland | WEAPONIZED — reliability C4 · validity 0.25 · 1 source(s)  
-   [@Weaponized](https://www.youtube.com/shorts/TBwmwoqvhOc)  
-   📹 [video](https://www.youtube.com/shorts/TBwmwoqvhOc)
-   > What does speaking out cost? | Dylan Borland | WEAPONIZED. What does speaking out cost? Dylan Borland reports that he is unemployed and uncertain whether he can work for a government agency again. He…
-   Source is fairly reliable (C). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.25.
-   _C4 — source fairly reliable, information doubtful. 1 account on the same claim (1 post). no sensor reading or official record tied to this claim. a show episode, not an independent sighting. validity 0.25. mcgwier-b2.81._
-
-![“THIS IS THE FIRST TIME I’VE TALKED ABOUT THIS ON CAMERA”](https://n4hy.github.io/sciencebobnews-site/card_d_10.svg)
-5. “THIS IS THE FIRST TIME I’VE TALKED ABOUT THIS ON CAMERA” — reliability C4 · validity 0.2 · 1 source(s)  
+![“THIS IS THE FIRST TIME I’VE TALKED ABOUT THIS ON CAMERA”](https://n4hy.github.io/sciencebobnews-site/card_d_9.svg)
+4. “THIS IS THE FIRST TIME I’VE TALKED ABOUT THIS ON CAMERA” — reliability C4 · validity 0.2 · 1 source(s)  
    [@Weaponized](https://www.youtube.com/watch?v=sIBjOCENWmg)  
    📹 [video](https://www.youtube.com/watch?v=sIBjOCENWmg)
    > “THIS IS THE FIRST TIME I’VE TALKED ABOUT THIS ON CAMERA”. WATCH FULL EPISODE HERE : ••• In WEAPONIZED, Jeremy Corbell and George Knapp pull back the veil on the world of the known, to explore the un…
    Source is fairly reliable (C). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.20.
    _C4 — source fairly reliable, information doubtful. 1 account on the same claim (1 post). the text names a place, a sensor, or an official record. a show episode, not an independent sighting. validity 0.20. b2.81 said 0.24, cut to the 0.20 evidence cap. mcgwier-b2.81._
 
+![Jay Stratton’s FIRST-EVER Interview - Before The World Knew His Name](https://n4hy.github.io/sciencebobnews-site/card_d_10.svg)
+5. Jay Stratton’s FIRST-EVER Interview - Before The World Knew His Name — reliability C4 · validity 0.25 · 1 source(s)  
+   [@Weaponized](https://www.youtube.com/watch?v=9GblwqzGFAY)  
+   📹 [video](https://www.youtube.com/watch?v=9GblwqzGFAY)
+   > Jay Stratton’s FIRST-EVER Interview - Before The World Knew His Name. Before Jay Stratton became a public face of the UFO disclosure movement, before his book Out of the Shadows, and before his revel…
+   Source is fairly reliable (C). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.25.
+   _C4 — source fairly reliable, information doubtful. 1 account on the same claim (1 post). the text names a place, a sensor, or an official record. a show episode, not an independent sighting. validity 0.25. mcgwier-b2.81._
+
 ## From ProbedSpace on X (last 24 h)
 - 2026-10-26 18:29 UTC — “234,364 UFO reports in one archive. BAASS's March 2009 report gives that count for Project Capella, then spells out the limits: duplicate reports, explained ca…” [@ProbedSpace](https://x.com/ProbedSpace/status/2114786495928455488)
 
 ---
+*Thank [Dennis Cove](https://x.com/DennisCova11335) (@DennisCova11335) for his suggestions.*
+
 *Powered by Science Bob News. Free to use with credit (see [LICENSE](LICENSE)). Social-feed headlines are factual restatements in the engine's own words; podcast entries use the episode title. Click through to the linked sources for originals. Reposts of a single origin are collapsed to one source; candidate prosaic explanations are flagged where offered. Machine-readable feed: [feed.json](feed.json).*
