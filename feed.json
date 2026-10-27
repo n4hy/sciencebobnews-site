@@ -2,16 +2,16 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-27 00:00 UTC",
+  "generated_utc": "2026-10-27 01:00 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
       "headline": "UAP report (California)",
       "lane": "corroborated",
       "status": "CORROBORATED",
-      "reliability": "D3",
+      "reliability": "D1",
       "p_credible": 1.0,
-      "independent_sources": 2,
+      "independent_sources": 3,
       "platforms": [
         "mastodon"
       ],
@@ -23,6 +23,44 @@
         {
           "handle": "veryexcitingtime",
           "url": "https://mastodon.social/@veryexcitingtime/117504875874752934"
+        }
+      ],
+      "videos": [],
+      "update": false
+    },
+    {
+      "headline": "Official UAP statement reported",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "E4",
+      "p_credible": 0.55,
+      "independent_sources": 1,
+      "platforms": [
+        "bluesky"
+      ],
+      "sources": [
+        {
+          "handle": "did:plc:pqspyhvkx5lc7kdvef7yld6f",
+          "url": "https://bsky.app/profile/did:plc:pqspyhvkx5lc7kdvef7yld6f/post/3myszvw3q4w2c"
+        }
+      ],
+      "videos": [],
+      "update": false
+    },
+    {
+      "headline": "Official UAP statement reported",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "reliability": "E4",
+      "p_credible": 0.55,
+      "independent_sources": 1,
+      "platforms": [
+        "bluesky"
+      ],
+      "sources": [
+        {
+          "handle": "did:plc:irg3ow2tckaip2fdd2xrhmac",
+          "url": "https://bsky.app/profile/did:plc:irg3ow2tckaip2fdd2xrhmac/post/3myszvty53r2b"
         }
       ],
       "videos": [],
@@ -51,7 +89,7 @@
       "headline": "UAP report",
       "lane": "developing",
       "status": "DEVELOPING",
-      "reliability": "D4",
+      "reliability": "E4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
@@ -59,8 +97,8 @@
       ],
       "sources": [
         {
-          "handle": "yuichi_asama@mstdn.jp",
-          "url": "https://mstdn.jp/@yuichi_asama/117504911506984745"
+          "handle": "FlashMobOfOne@mstdn.social",
+          "url": "https://mstdn.social/@FlashMobOfOne/117509986207873487"
         }
       ],
       "videos": [],
@@ -80,44 +118,6 @@
         {
           "handle": "uapfinder",
           "url": "https://mastodon.social/@uapfinder/117507336908294941"
-        }
-      ],
-      "videos": [],
-      "update": false
-    },
-    {
-      "headline": "UAP report",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "E4",
-      "p_credible": 0.55,
-      "independent_sources": 1,
-      "platforms": [
-        "mastodon"
-      ],
-      "sources": [
-        {
-          "handle": "nyeug",
-          "url": "https://mastodon.social/@nyeug/117509504376055179"
-        }
-      ],
-      "videos": [],
-      "update": false
-    },
-    {
-      "headline": "UAP report",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "F6",
-      "p_credible": 0.01,
-      "independent_sources": 1,
-      "platforms": [
-        "mastodon"
-      ],
-      "sources": [
-        {
-          "handle": "technician@pixelfed.social",
-          "url": "https://pixelfed.social/p/technician/1020368732335312862"
         }
       ],
       "videos": [],
