@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-27 22:00 UTC",
+  "generated_utc": "2026-10-27 23:00 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Letter is source reliability. Digit 1 requires independent confirmation of a specific claim by sources no worse than C. Validity is the McGwier b2.81 score, capped by the evidence bound. It is not a field frequency and not a claim of non-human origin.",
   "scorer": "mcgwier-b2.81",
   "stories": [
@@ -61,6 +61,29 @@
       "update": false
     },
     {
+      "headline": "Unidentified submerged object report — @did:plc:vqszqpnagxrz5nvujsty4rie",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "summary": "Source is unreliable (E). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.06.",
+      "excerpt": "Introducción a la informática con Windows (CVE) 40h Principales componentes de un equipo informático. El Sistema Operativo Windows. El Escritorio de Windows. La ventana: su uso. El teclado: manejo y…",
+      "validity_why": "E4 — source unreliable, information doubtful. 1 account on the same claim (1 post). no sensor reading or official record tied to this claim. validity 0.06. mcgwier-b2.81.",
+      "scorer": "mcgwier-b2.81",
+      "reliability": "E4",
+      "p_credible": 0.06,
+      "independent_sources": 1,
+      "platforms": [
+        "bluesky"
+      ],
+      "sources": [
+        {
+          "handle": "did:plc:vqszqpnagxrz5nvujsty4rie",
+          "url": "https://bsky.app/profile/did:plc:vqszqpnagxrz5nvujsty4rie/post/3myvdo36c4g2i"
+        }
+      ],
+      "videos": [],
+      "update": false
+    },
+    {
       "headline": "UAP sighting report — @AlcorNews",
       "lane": "developing",
       "status": "DEVELOPING",
@@ -105,29 +128,6 @@
         {
           "handle": "FlashMobOfOne@mstdn.social",
           "url": "https://mstdn.social/@FlashMobOfOne/117509986207873487"
-        }
-      ],
-      "videos": [],
-      "update": false
-    },
-    {
-      "headline": "UAP discussion — @thirdbookofthedead, Texas",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "summary": "Source is unreliable (E). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.06.",
-      "excerpt": "In 1883, a cowhand in West Texas saw a flickering light and thought of an Apache campfire. Searchers found no ashes. Today the Marfa lights have a viewing area. Students blamed highway headlights. A…",
-      "validity_why": "E4 — source unreliable, information doubtful. 1 account on the same claim (1 post). the text names a place, a sensor, or an official record. validity 0.06. mcgwier-b2.81.",
-      "scorer": "mcgwier-b2.81",
-      "reliability": "E4",
-      "p_credible": 0.06,
-      "independent_sources": 1,
-      "platforms": [
-        "mastodon"
-      ],
-      "sources": [
-        {
-          "handle": "thirdbookofthedead",
-          "url": "https://mastodon.social/@thirdbookofthedead/117512613021487407"
         }
       ],
       "videos": [],
