@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-27 16:00 UTC",
+  "generated_utc": "2026-10-27 16:14 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Letter is source reliability. Digit 1 requires independent confirmation of a specific claim by sources no worse than C. Validity is the McGwier b2.81 score, capped by the evidence bound. It is not a field frequency and not a claim of non-human origin.",
   "scorer": "mcgwier-b2.81",
   "stories": [
@@ -11,7 +11,7 @@
       "lane": "developing",
       "status": "DEVELOPING",
       "summary": "Source is not usually reliable (D). The report is possibly true (3). 3 independent accounts after mirror collapse, from 3 posts. Validity 0.21.",
-      "excerpt": "🛸 Newly released Pentagon files detail UFO sightings over California's Catalina Island in the 1940s and 1950s. But do these decades-old reports suggest extraterrestrial visitors? SETI Institute President and CEO Bill Diamond spoke with CBS Los Angeles about the sightings, the importance of skepticism, and why the poss…",
+      "excerpt": "🛸 Newly released Pentagon files detail UFO sightings over California's Catalina Island in the 1940s and 1950s. But do these decades-old reports suggest extraterrestrial visitors? SETI Institute Presi… · 🛸 The Pentagon has a new legal waiver for # UAP disclosure, but it has some concerning gaps. Also the new government # UFO files include the AAWSAP reports… or do they? https:// veryexcitingtime.com/… · The November/…",
       "validity_why": "D3 — source not usually reliable, information possibly true. 3 independent accounts (3 posts). the text names a place, sensor, or official record. validity 0.21. b2.81 said 0.29, cut to the 0.21 evidence cap. evidence-bound (b2.81 out of fit).",
       "scorer": "evidence-bound (b2.81 out of fit)",
       "reliability": "D3",
@@ -61,57 +61,11 @@
       "update": false
     },
     {
-      "headline": "Official UAP statement — @did:plc:qflatmfcs5jhhjr5enoklpcr",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "summary": "Source is unreliable (E). The report is improbable (5). 1 independent account after mirror collapse, from 1 post. Validity 0.04.",
-      "excerpt": "H.R.10892 Performance Life Disclosure Act of 2026 SPONSOR: @gluesenkampperez.house.gov № CO-SPONSORS: 0 STATUS: Introduced LATEST ACTION: House floor - 2026-10-22 Referred to the Committee on Energy and ... #Democrats Details at congress.gov",
-      "validity_why": "E5 — source unreliable, information improbable. 1 independent account (1 post). the text names a place, sensor, or official record. validity 0.04. mcgwier-b2.81.",
-      "scorer": "mcgwier-b2.81",
-      "reliability": "E5",
-      "p_credible": 0.04,
-      "independent_sources": 1,
-      "platforms": [
-        "bluesky"
-      ],
-      "sources": [
-        {
-          "handle": "did:plc:qflatmfcs5jhhjr5enoklpcr",
-          "url": "https://bsky.app/profile/did:plc:qflatmfcs5jhhjr5enoklpcr/post/3myum76hiq52r"
-        }
-      ],
-      "videos": [],
-      "update": false
-    },
-    {
-      "headline": "Official UAP statement — @vibewire@mastodon.au",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "summary": "Source is not usually reliable (D). The report is doubtful (4). 1 independent account after mirror collapse, from 7 posts. Validity 0.15.",
-      "excerpt": "Roswell Crash: Minute by Minute | Full Film http:// dlvr.it/TW4l5x # UFO # UFONews # ufodisclosure The Light Gate Episode #182: Rowan Bo, UFO Girl http:// dlvr.it/TW4l5q # UFO # UFONews # ufodisclosure Even the Engineers Who Build It Call It Magic | Dr Steven Greer http:// dlvr.it/TW46tk # UFO # UFONews # ufodisclosur…",
-      "validity_why": "D4 — source not usually reliable, information doubtful. 1 independent account (7 posts). 6 repost or mirror collapsed. the text names a place, sensor, or official record. validity 0.15. b2.81 said 0.18, cut to the 0.15 evidence cap. mcgwier-b2.81.",
-      "scorer": "mcgwier-b2.81",
-      "reliability": "D4",
-      "p_credible": 0.15,
-      "independent_sources": 1,
-      "platforms": [
-        "mastodon"
-      ],
-      "sources": [
-        {
-          "handle": "vibewire@mastodon.au",
-          "url": "https://mastodon.au/@vibewire/117513528512950449"
-        }
-      ],
-      "videos": [],
-      "update": false
-    },
-    {
       "headline": "UAP sighting report — @alcornews.bsky.social@bsky.brid.gy",
       "lane": "developing",
       "status": "DEVELOPING",
       "summary": "Source is not usually reliable (D). The report is doubtful (4). 1 independent account after mirror collapse, from 2 posts. Validity 0.15.",
-      "excerpt": "Chine : Un objet noir flotte dans le ciel de Mui Wo. C'est quel brevet? #OVNI #ObservationInsolite #MuiWo #HongKong #ObjetVolant #PhenomeneAerien #Mystere #UFO #UFO #UAP #MuiWo #HongKong #UnidentifiedObject #SkyMystery #AerialPhenomenon #Alien ⚫👀🌌🛸🌫️🤔 ufosighting.report/sighting/131... Black object hovered then floa..…",
+      "excerpt": "Chine : Un objet noir flotte dans le ciel de Mui Wo. C'est quel brevet? #OVNI #ObservationInsolite #MuiWo #HongKong #ObjetVolant #PhenomeneAerien #Mystere #UFO #UFO #UAP #MuiWo #HongKong #Unidentifie… · Chine : Un objet noir flotte dans le ciel de Mui Wo. C'est quel brevet? # OVNI # ObservationInsolite # MuiWo # HongKong # ObjetVolant # PhenomeneAerien # Mystere # UFO # UFO # UAP # MuiWo # HongKong…",
       "validity_why": "D4 — source not usually reliable, information doubtful. 1 independent account (2 posts). 1 repost or mirror collapsed. no place, sensor, or official record in the text. validity 0.15. mcgwier-b2.81.",
       "scorer": "mcgwier-b2.81",
       "reliability": "D4",
@@ -134,11 +88,57 @@
       "update": false
     },
     {
+      "headline": "UAP discussion — @FlashMobOfOne@mstdn.social",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "summary": "Source is unreliable (E). The report is improbable (5). 1 independent account after mirror collapse, from 1 post. Validity 0.04.",
+      "excerpt": "Got my filming done! Now to edit this beast. The raw video is 45 minutes, but I suspect it'll land between 25-30 minutes when I'm done. And then we release on Thursday or Friday for your nerdy Hallow…",
+      "validity_why": "E5 — source unreliable, information improbable. 1 independent account (1 post). no place, sensor, or official record in the text. validity 0.04. mcgwier-b2.81.",
+      "scorer": "mcgwier-b2.81",
+      "reliability": "E5",
+      "p_credible": 0.04,
+      "independent_sources": 1,
+      "platforms": [
+        "mastodon"
+      ],
+      "sources": [
+        {
+          "handle": "FlashMobOfOne@mstdn.social",
+          "url": "https://mstdn.social/@FlashMobOfOne/117509986207873487"
+        }
+      ],
+      "videos": [],
+      "update": false
+    },
+    {
+      "headline": "UAP discussion — @thirdbookofthedead, Texas",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "summary": "Source is unreliable (E). The report is improbable (5). 1 independent account after mirror collapse, from 1 post. Validity 0.04.",
+      "excerpt": "In 1883, a cowhand in West Texas saw a flickering light and thought of an Apache campfire. Searchers found no ashes. Today the Marfa lights have a viewing area. Students blamed highway headlights. A…",
+      "validity_why": "E5 — source unreliable, information improbable. 1 independent account (1 post). the text names a place, sensor, or official record. validity 0.04. mcgwier-b2.81.",
+      "scorer": "mcgwier-b2.81",
+      "reliability": "E5",
+      "p_credible": 0.04,
+      "independent_sources": 1,
+      "platforms": [
+        "mastodon"
+      ],
+      "sources": [
+        {
+          "handle": "thirdbookofthedead",
+          "url": "https://mastodon.social/@thirdbookofthedead/117512613021487407"
+        }
+      ],
+      "videos": [],
+      "update": false
+    },
+    {
       "headline": "Bigfoot, Dogman & Terrifying Cryptid Encounters",
       "lane": "podcast",
       "status": "DEVELOPING",
       "summary": "Source is fairly reliable (C). The report is doubtful (4). 1 independent account after mirror collapse, from 1 post. Validity 0.25.",
-      "excerpt": "Bigfoot, Dogman & Terrifying Cryptid Encounters. October 23, 2026 - Daniel Hamilton Daniel “Dano” Hamilton is the creator and host of The Cryptid Podcast, a growing show dedicated to eyewitness encounters with Bigfoot, Sasquatch, Dogman, and other mysterious creatures. His fascination with cryptids began at age 12, fo…",
+      "excerpt": "Bigfoot, Dogman & Terrifying Cryptid Encounters. October 23, 2026 - Daniel Hamilton Daniel “Dano” Hamilton is the creator and host of The Cryptid Podcast, a growing show dedicated to eyewitness encou…",
       "validity_why": "C4 — source fairly reliable, information doubtful. 1 independent account (1 post). the text names a place, sensor, or official record. a show episode, not an independent sighting. validity 0.25. mcgwier-b2.81.",
       "scorer": "mcgwier-b2.81",
       "reliability": "C4",
@@ -163,7 +163,7 @@
       "lane": "podcast",
       "status": "DEVELOPING",
       "summary": "Source is fairly reliable (C). The report is doubtful (4). 1 independent account after mirror collapse, from 1 post. Validity 0.21.",
-      "excerpt": "#35 WHY DO ROCKSTARS SEE UFOS? — Sound, Light & Frequency. What happens when a rock star goes looking for the people who supposedly know the truth about UFOs—and actually finds them? In “Why Do Rockstars See UFOs?,” Bryce Zabel and Brent Friedman trace the extraordinary journey of Blink-182’s Tom DeLonge from lifelong…",
+      "excerpt": "#35 WHY DO ROCKSTARS SEE UFOS? — Sound, Light & Frequency. What happens when a rock star goes looking for the people who supposedly know the truth about UFOs—and actually finds them? In “Why Do Rocks…",
       "validity_why": "C4 — source fairly reliable, information doubtful. 1 independent account (1 post). the text names a place, sensor, or official record. a show episode, not an independent sighting. validity 0.21. mcgwier-b2.81.",
       "scorer": "mcgwier-b2.81",
       "reliability": "C4",
@@ -188,7 +188,7 @@
       "lane": "podcast",
       "status": "DEVELOPING",
       "summary": "Source is fairly reliable (C). The report is doubtful (4). 1 independent account after mirror collapse, from 1 post. Validity 0.25.",
-      "excerpt": "UFO Secrets, UAP Stories and Government Secrets on NHI. October 14, 2026 - Courtney Marchesani Courtney Marchesani is an author, researcher, and citizen journalist whose work explores the intersection of consciousness, psychology, anomalous experiences, and the rapidly evolving world of UFO/UAP disclosure. Holding a m…",
+      "excerpt": "UFO Secrets, UAP Stories and Government Secrets on NHI. October 14, 2026 - Courtney Marchesani Courtney Marchesani is an author, researcher, and citizen journalist whose work explores the intersectio…",
       "validity_why": "C4 — source fairly reliable, information doubtful. 1 independent account (1 post). the text names a place, sensor, or official record. a show episode, not an independent sighting. validity 0.25. mcgwier-b2.81.",
       "scorer": "mcgwier-b2.81",
       "reliability": "C4",
@@ -213,7 +213,7 @@
       "lane": "podcast",
       "status": "DEVELOPING",
       "summary": "Source is fairly reliable (C). The report is doubtful (4). 1 independent account after mirror collapse, from 1 post. Validity 0.25.",
-      "excerpt": "What does speaking out cost? | Dylan Borland | WEAPONIZED. What does speaking out cost? Dylan Borland reports that he is unemployed and uncertain whether he can work for a government agency again. He also describes the toll this takes on families. There is a lot more to this story. Watch the exchange from WEAPONIZED,…",
+      "excerpt": "What does speaking out cost? | Dylan Borland | WEAPONIZED. What does speaking out cost? Dylan Borland reports that he is unemployed and uncertain whether he can work for a government agency again. He…",
       "validity_why": "C4 — source fairly reliable, information doubtful. 1 independent account (1 post). no place, sensor, or official record in the text. a show episode, not an independent sighting. validity 0.25. mcgwier-b2.81.",
       "scorer": "mcgwier-b2.81",
       "reliability": "C4",
@@ -238,7 +238,7 @@
       "lane": "podcast",
       "status": "DEVELOPING",
       "summary": "Source is fairly reliable (C). The report is doubtful (4). 1 independent account after mirror collapse, from 1 post. Validity 0.20.",
-      "excerpt": "“THIS IS THE FIRST TIME I’VE TALKED ABOUT THIS ON CAMERA”. WATCH FULL EPISODE HERE : ••• In WEAPONIZED, Jeremy Corbell and George Knapp pull back the veil on the world of the known, to explore the unexplained. This multi-platform investigative series features exclusive interviews, never-before-seen footage, previously…",
+      "excerpt": "“THIS IS THE FIRST TIME I’VE TALKED ABOUT THIS ON CAMERA”. WATCH FULL EPISODE HERE : ••• In WEAPONIZED, Jeremy Corbell and George Knapp pull back the veil on the world of the known, to explore the un…",
       "validity_why": "C4 — source fairly reliable, information doubtful. 1 independent account (1 post). the text names a place, sensor, or official record. a show episode, not an independent sighting. validity 0.20. b2.81 said 0.24, cut to the 0.20 evidence cap. mcgwier-b2.81.",
       "scorer": "mcgwier-b2.81",
       "reliability": "C4",
