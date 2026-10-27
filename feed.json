@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-27 17:22 UTC",
+  "generated_utc": "2026-10-27 19:00 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Letter is source reliability. Digit 1 requires independent confirmation of a specific claim by sources no worse than C. Validity is the McGwier b2.81 score, capped by the evidence bound. It is not a field frequency and not a claim of non-human origin.",
   "scorer": "mcgwier-b2.81",
   "stories": [
@@ -12,7 +12,7 @@
       "status": "DEVELOPING",
       "summary": "Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 3 posts. Validity 0.15.",
       "excerpt": "🛸 Newly released Pentagon files detail UFO sightings over California's Catalina Island in the 1940s and 1950s. But do these decades-old reports suggest extraterrestrial visitors? SETI Institute Presi… · 🛸 The Pentagon has a new legal waiver for # UAP disclosure, but it has some concerning gaps. Also the new government # UFO files include the AAWSAP reports… or do they? https:// veryexcitingtime.com/… · The November/…",
-      "validity_why": "D4 — source not usually reliable, information doubtful. 1 account on the same claim (3 posts). 2 other accounts in the cluster do not confirm that claim. the text names a place, a sensor, or an official record. validity 0.15. b2.81 said 0.22, cut to the 0.15 evidence cap. mcgwier-b2.81.",
+      "validity_why": "D4 — source not usually reliable, information doubtful. 1 account on the same claim (3 posts). 2 other accounts in the cluster do not confirm that claim. the text names a place, a sensor, or an official record. validity 0.15. b2.81 said 0.18, cut to the 0.15 evidence cap. mcgwier-b2.81.",
       "scorer": "mcgwier-b2.81",
       "reliability": "D4",
       "p_credible": 0.15,
@@ -41,12 +41,12 @@
       "headline": "UAP discussion — @vibewire@mastodon.au",
       "lane": "developing",
       "status": "DEVELOPING",
-      "summary": "Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 3 posts. Validity 0.15.",
-      "excerpt": "Roswell Crash: Minute by Minute | Full Film http:// dlvr.it/TW4l5x # UFO # UFONews # ufodisclosure · The Light Gate Episode #182: Rowan Bo, UFO Girl http:// dlvr.it/TW4l5q # UFO # UFONews # ufodisclosure · Even the Engineers Who Build It Call It Magic | Dr Steven Greer http:// dlvr.it/TW46tk # UFO # UFONews # ufodisclosure",
-      "validity_why": "D4 — source not usually reliable, information doubtful. 1 account on the same claim (3 posts). 2 repost or mirror collapsed. no sensor reading or official record tied to this claim. validity 0.15. mcgwier-b2.81.",
+      "summary": "Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.14.",
+      "excerpt": "Galactic Alliance Report: Who Was Jesus Really? The Hidden Cosmic Identity of Yeshua Revealed! http:// dlvr.it/TW4l4q # UFO # UFONews # ufodisclosure",
+      "validity_why": "D4 — source not usually reliable, information doubtful. 1 account on the same claim (1 post). no sensor reading or official record tied to this claim. validity 0.14. mcgwier-b2.81.",
       "scorer": "mcgwier-b2.81",
       "reliability": "D4",
-      "p_credible": 0.15,
+      "p_credible": 0.14,
       "independent_sources": 1,
       "platforms": [
         "mastodon"
@@ -54,7 +54,7 @@
       "sources": [
         {
           "handle": "vibewire@mastodon.au",
-          "url": "https://mastodon.au/@vibewire/117513528512950449"
+          "url": "https://mastodon.au/@vibewire/117513528293334303"
         }
       ],
       "videos": [],
@@ -64,12 +64,12 @@
       "headline": "UAP sighting report — @AlcorNews",
       "lane": "developing",
       "status": "DEVELOPING",
-      "summary": "Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 2 posts. Validity 0.15.",
+      "summary": "Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 2 posts. Validity 0.14.",
       "excerpt": "Chine : Un objet noir flotte dans le ciel de Mui Wo. C'est quel brevet? #OVNI #ObservationInsolite #MuiWo #HongKong #ObjetVolant #PhenomeneAerien #Mystere #UFO #UFO #UAP #MuiWo #HongKong #Unidentifie… · Chine : Un objet noir flotte dans le ciel de Mui Wo. C'est quel brevet? # OVNI # ObservationInsolite # MuiWo # HongKong # ObjetVolant # PhenomeneAerien # Mystere # UFO # UFO # UAP # MuiWo # HongKong…",
-      "validity_why": "D4 — source not usually reliable, information doubtful. 1 account on the same claim (2 posts). 1 repost or mirror collapsed. no sensor reading or official record tied to this claim. validity 0.15. mcgwier-b2.81.",
+      "validity_why": "D4 — source not usually reliable, information doubtful. 1 account on the same claim (2 posts). 1 repost or mirror collapsed. no sensor reading or official record tied to this claim. validity 0.14. mcgwier-b2.81.",
       "scorer": "mcgwier-b2.81",
       "reliability": "D4",
-      "p_credible": 0.15,
+      "p_credible": 0.14,
       "independent_sources": 1,
       "platforms": [
         "mastodon"
@@ -91,12 +91,12 @@
       "headline": "UAP discussion — @FlashMobOfOne@mstdn.social",
       "lane": "developing",
       "status": "DEVELOPING",
-      "summary": "Source is unreliable (E). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.05.",
+      "summary": "Source is unreliable (E). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.06.",
       "excerpt": "Got my filming done! Now to edit this beast. The raw video is 45 minutes, but I suspect it'll land between 25-30 minutes when I'm done. And then we release on Thursday or Friday for your nerdy Hallow…",
-      "validity_why": "E4 — source unreliable, information doubtful. 1 account on the same claim (1 post). no sensor reading or official record tied to this claim. validity 0.05. mcgwier-b2.81.",
+      "validity_why": "E4 — source unreliable, information doubtful. 1 account on the same claim (1 post). no sensor reading or official record tied to this claim. validity 0.06. mcgwier-b2.81.",
       "scorer": "mcgwier-b2.81",
       "reliability": "E4",
-      "p_credible": 0.05,
+      "p_credible": 0.06,
       "independent_sources": 1,
       "platforms": [
         "mastodon"
@@ -137,12 +137,12 @@
       "headline": "Bigfoot, Dogman & Terrifying Cryptid Encounters",
       "lane": "podcast",
       "status": "DEVELOPING",
-      "summary": "Source is fairly reliable (C). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.25.",
+      "summary": "Source is fairly reliable (C). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.24.",
       "excerpt": "Bigfoot, Dogman & Terrifying Cryptid Encounters. October 23, 2026 - Daniel Hamilton Daniel “Dano” Hamilton is the creator and host of The Cryptid Podcast, a growing show dedicated to eyewitness encou…",
-      "validity_why": "C4 — source fairly reliable, information doubtful. 1 account on the same claim (1 post). the text names a place, a sensor, or an official record. a show episode, not an independent sighting. validity 0.25. mcgwier-b2.81.",
+      "validity_why": "C4 — source fairly reliable, information doubtful. 1 account on the same claim (1 post). the text names a place, a sensor, or an official record. a show episode, not an independent sighting. validity 0.24. mcgwier-b2.81.",
       "scorer": "mcgwier-b2.81",
       "reliability": "C4",
-      "p_credible": 0.25,
+      "p_credible": 0.24,
       "independent_sources": 1,
       "platforms": [
         "youtube"
@@ -162,12 +162,12 @@
       "headline": "#35 WHY DO ROCKSTARS SEE UFOS? — Sound, Light & Frequency",
       "lane": "podcast",
       "status": "DEVELOPING",
-      "summary": "Source is fairly reliable (C). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.21.",
+      "summary": "Source is fairly reliable (C). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.22.",
       "excerpt": "#35 WHY DO ROCKSTARS SEE UFOS? — Sound, Light & Frequency. What happens when a rock star goes looking for the people who supposedly know the truth about UFOs—and actually finds them? In “Why Do Rocks…",
-      "validity_why": "C4 — source fairly reliable, information doubtful. 1 account on the same claim (1 post). the text names a place, a sensor, or an official record. a show episode, not an independent sighting. validity 0.21. mcgwier-b2.81.",
+      "validity_why": "C4 — source fairly reliable, information doubtful. 1 account on the same claim (1 post). the text names a place, a sensor, or an official record. a show episode, not an independent sighting. validity 0.22. mcgwier-b2.81.",
       "scorer": "mcgwier-b2.81",
       "reliability": "C4",
-      "p_credible": 0.21,
+      "p_credible": 0.22,
       "independent_sources": 1,
       "platforms": [
         "youtube"
@@ -187,12 +187,12 @@
       "headline": "UFO Secrets, UAP Stories and Government Secrets on NHI",
       "lane": "podcast",
       "status": "DEVELOPING",
-      "summary": "Source is fairly reliable (C). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.25.",
+      "summary": "Source is fairly reliable (C). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.24.",
       "excerpt": "UFO Secrets, UAP Stories and Government Secrets on NHI. October 14, 2026 - Courtney Marchesani Courtney Marchesani is an author, researcher, and citizen journalist whose work explores the intersectio…",
-      "validity_why": "C4 — source fairly reliable, information doubtful. 1 account on the same claim (1 post). the text names a place, a sensor, or an official record. a show episode, not an independent sighting. validity 0.25. mcgwier-b2.81.",
+      "validity_why": "C4 — source fairly reliable, information doubtful. 1 account on the same claim (1 post). the text names a place, a sensor, or an official record. a show episode, not an independent sighting. validity 0.24. mcgwier-b2.81.",
       "scorer": "mcgwier-b2.81",
       "reliability": "C4",
-      "p_credible": 0.25,
+      "p_credible": 0.24,
       "independent_sources": 1,
       "platforms": [
         "youtube"
@@ -214,7 +214,7 @@
       "status": "DEVELOPING",
       "summary": "Source is fairly reliable (C). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.20.",
       "excerpt": "“THIS IS THE FIRST TIME I’VE TALKED ABOUT THIS ON CAMERA”. WATCH FULL EPISODE HERE : ••• In WEAPONIZED, Jeremy Corbell and George Knapp pull back the veil on the world of the known, to explore the un…",
-      "validity_why": "C4 — source fairly reliable, information doubtful. 1 account on the same claim (1 post). the text names a place, a sensor, or an official record. a show episode, not an independent sighting. validity 0.20. b2.81 said 0.24, cut to the 0.20 evidence cap. mcgwier-b2.81.",
+      "validity_why": "C4 — source fairly reliable, information doubtful. 1 account on the same claim (1 post). the text names a place, a sensor, or an official record. a show episode, not an independent sighting. validity 0.20. b2.81 said 0.23, cut to the 0.20 evidence cap. mcgwier-b2.81.",
       "scorer": "mcgwier-b2.81",
       "reliability": "C4",
       "p_credible": 0.2,
@@ -237,12 +237,12 @@
       "headline": "Jay Stratton’s FIRST-EVER Interview - Before The World Knew His Name",
       "lane": "podcast",
       "status": "DEVELOPING",
-      "summary": "Source is fairly reliable (C). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.25.",
+      "summary": "Source is fairly reliable (C). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.24.",
       "excerpt": "Jay Stratton’s FIRST-EVER Interview - Before The World Knew His Name. Before Jay Stratton became a public face of the UFO disclosure movement, before his book Out of the Shadows, and before his revel…",
-      "validity_why": "C4 — source fairly reliable, information doubtful. 1 account on the same claim (1 post). the text names a place, a sensor, or an official record. a show episode, not an independent sighting. validity 0.25. mcgwier-b2.81.",
+      "validity_why": "C4 — source fairly reliable, information doubtful. 1 account on the same claim (1 post). the text names a place, a sensor, or an official record. a show episode, not an independent sighting. validity 0.24. mcgwier-b2.81.",
       "scorer": "mcgwier-b2.81",
       "reliability": "C4",
-      "p_credible": 0.25,
+      "p_credible": 0.24,
       "independent_sources": 1,
       "platforms": [
         "youtube"
@@ -259,11 +259,5 @@
       "update": false
     }
   ],
-  "probedspace_digest": [
-    {
-      "created_utc": "2026-10-26T18:29:26+00:00",
-      "url": "https://x.com/ProbedSpace/status/2114786495928455488",
-      "excerpt": "234,364 UFO reports in one archive. BAASS's March 2009 report gives that count for Project Capella, then spells out the limits: duplicate reports, explained ca…"
-    }
-  ]
+  "probedspace_digest": []
 }
