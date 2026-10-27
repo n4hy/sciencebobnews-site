@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-27 08:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-27 10:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
@@ -7,6 +7,11 @@
 1. **UAP report (California)**  
    reliability **D1** · P(credible)=1.0 · 3 independent source(s) · mastodon  
    [@setiinstitute](https://mastodon.social/@setiinstitute/117509693445581656) · [@veryexcitingtime](https://mastodon.social/@veryexcitingtime/117504875874752934)
+
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_c_2.svg)
+2. **UAP report**  
+   reliability **D3** · P(credible)=1.0 · 2 independent source(s) · mastodon  
+   [@alcornews.bsky.social@bsky.brid.gy](https://fed.brid.gy/r/https://bsky.app/profile/did:plc:3l5f3rhsngpxljnskia73bj7/post/3mytv6x6yi22k) · [@AlcorNews](https://mastodon.social/@AlcorNews/117512082353700013)
 
 ## Developing / unconfirmed
 _None._
