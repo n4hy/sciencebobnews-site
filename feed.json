@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-27 04:00 UTC",
+  "generated_utc": "2026-10-27 07:00 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
@@ -48,79 +48,91 @@
       "update": false
     },
     {
-      "headline": "UAP report",
-      "lane": "developing",
+      "headline": "The Most Significant Moment In Math History Just Happened",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "E4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "FlashMobOfOne@mstdn.social",
-          "url": "https://mstdn.social/@FlashMobOfOne/117509986207873487"
+          "handle": "TheoriesOfEverything",
+          "url": "https://www.youtube.com/watch?v=3yXtXTwz4J4"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=3yXtXTwz4J4",
+        "https://youtu.be/GcbLL4C3VwY"
+      ],
       "update": false
     },
     {
-      "headline": "UAP report",
-      "lane": "developing",
+      "headline": "If AI Breaks Bitcoin, You'd Have to Warn the Whole World",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "E4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "uapfinder",
-          "url": "https://mastodon.social/@uapfinder/117507336908294941"
+          "handle": "TheoriesOfEverything",
+          "url": "https://www.youtube.com/shorts/Q6BYD91DlMA"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/shorts/Q6BYD91DlMA",
+        "https://youtu.be/3yXtXTwz4J4"
+      ],
       "update": false
     },
     {
-      "headline": "UAP report",
-      "lane": "developing",
+      "headline": "And this is why we don’t trust the Government on UFO disclosure… - Richard Doty | ep. 100",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "E4",
+      "reliability": "C4",
       "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "nyeug",
-          "url": "https://mastodon.social/@nyeug/117510702097318135"
+          "handle": "Area52",
+          "url": "https://www.youtube.com/watch?v=vatEIiY3bKM"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=T-3CmY_ztwo&",
+        "https://www.youtube.com/watch?v=vatEIiY3bKM"
+      ],
       "update": false
     },
     {
-      "headline": "UAP report",
-      "lane": "developing",
+      "headline": "Richard Doty (Ex-OSI) Leaks Roswell & Kingman UFO Crash Details | ep. 100",
+      "lane": "podcast",
       "status": "DEVELOPING",
-      "reliability": "F6",
-      "p_credible": 0.01,
+      "reliability": "C4",
+      "p_credible": 0.55,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "youtube"
       ],
       "sources": [
         {
-          "handle": "technician@pixelfed.social",
-          "url": "https://pixelfed.social/p/technician/1020368732335312862"
+          "handle": "Area52",
+          "url": "https://www.youtube.com/watch?v=-Vfy1EYCRfA"
         }
       ],
-      "videos": [],
+      "videos": [
+        "https://www.youtube.com/watch?v=T-3CmY_ztwo&",
+        "https://www.youtube.com/watch?v=-Vfy1EYCRfA"
+      ],
       "update": false
     }
   ],

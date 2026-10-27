@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-27 04:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-27 07:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
@@ -10,28 +10,31 @@
 
 ## Developing / unconfirmed
 
-![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
+![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
 1. Official UAP statement reported — reliability D4 · 1 source(s)  
    [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117508568073298487)
 
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
-2. UAP report — reliability E4 · 1 source(s)  
-   [@FlashMobOfOne@mstdn.social](https://mstdn.social/@FlashMobOfOne/117509986207873487)
-
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
-3. UAP report — reliability E4 · 1 source(s)  
-   [@uapfinder](https://mastodon.social/@uapfinder/117507336908294941)
-
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-4. UAP report — reliability E4 · 1 source(s)  
-   [@nyeug](https://mastodon.social/@nyeug/117510702097318135)
-
-![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. UAP report — reliability F6 · 1 source(s)  
-   [@technician@pixelfed.social](https://pixelfed.social/p/technician/1020368732335312862)
-
 ## Disclosure podcasts
-_None this cycle._
+
+![The Most Significant Moment In Math History Just Happened](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
+1. The Most Significant Moment In Math History Just Happened — reliability C4 · 1 source(s)  
+   [@TheoriesOfEverything](https://www.youtube.com/watch?v=3yXtXTwz4J4)  
+   📹 [video](https://www.youtube.com/watch?v=3yXtXTwz4J4) · [video](https://youtu.be/GcbLL4C3VwY)
+
+![If AI Breaks Bitcoin, You'd Have to Warn the Whole World](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
+2. If AI Breaks Bitcoin, You'd Have to Warn the Whole World — reliability C4 · 1 source(s)  
+   [@TheoriesOfEverything](https://www.youtube.com/shorts/Q6BYD91DlMA)  
+   📹 [video](https://www.youtube.com/shorts/Q6BYD91DlMA) · [video](https://youtu.be/3yXtXTwz4J4)
+
+![And this is why we don’t trust the Government on UFO disclosure… - Richard Doty | ep. 100](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
+3. And this is why we don’t trust the Government on UFO disclosure… - Richard Doty | ep. 100 — reliability C4 · 1 source(s)  
+   [@Area52](https://www.youtube.com/watch?v=vatEIiY3bKM)  
+   📹 [video](https://www.youtube.com/watch?v=T-3CmY_ztwo&) · [video](https://www.youtube.com/watch?v=vatEIiY3bKM)
+
+![Richard Doty (Ex-OSI) Leaks Roswell & Kingman UFO Crash Details | ep. 100](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+4. Richard Doty (Ex-OSI) Leaks Roswell & Kingman UFO Crash Details | ep. 100 — reliability C4 · 1 source(s)  
+   [@Area52](https://www.youtube.com/watch?v=-Vfy1EYCRfA)  
+   📹 [video](https://www.youtube.com/watch?v=T-3CmY_ztwo&) · [video](https://www.youtube.com/watch?v=-Vfy1EYCRfA)
 
 ## From ProbedSpace on X (last 24 h)
 - 2026-10-26 18:29 UTC — “234,364 UFO reports in one archive. BAASS's March 2009 report gives that count for Project Capella, then spells out the limits: duplicate reports, explained ca…” [@ProbedSpace](https://x.com/ProbedSpace/status/2114786495928455488)
