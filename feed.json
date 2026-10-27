@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-27 16:18 UTC",
+  "generated_utc": "2026-10-27 17:00 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Letter is source reliability. Digit 1 requires independent confirmation of a specific claim by sources no worse than C. Validity is the McGwier b2.81 score, capped by the evidence bound. It is not a field frequency and not a claim of non-human origin.",
   "scorer": "mcgwier-b2.81",
   "stories": [
@@ -41,9 +41,9 @@
       "headline": "UAP discussion — @vibewire@mastodon.au",
       "lane": "developing",
       "status": "DEVELOPING",
-      "summary": "Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.15.",
-      "excerpt": "Galactic Alliance Report: Who Was Jesus Really? The Hidden Cosmic Identity of Yeshua Revealed! http:// dlvr.it/TW4l4q # UFO # UFONews # ufodisclosure",
-      "validity_why": "D4 — source not usually reliable, information doubtful. 1 account on the same claim (1 post). no sensor reading or official record tied to this claim. validity 0.15. mcgwier-b2.81.",
+      "summary": "Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 4 posts. Validity 0.15.",
+      "excerpt": "Roswell Crash: Minute by Minute | Full Film http:// dlvr.it/TW4l5x # UFO # UFONews # ufodisclosure · The Light Gate Episode #182: Rowan Bo, UFO Girl http:// dlvr.it/TW4l5q # UFO # UFONews # ufodisclosure · Even the Engineers Who Build It Call It Magic | Dr Steven Greer http:// dlvr.it/TW46tk # UFO # UFONews # ufodisclosure · Ex-UFO Chief Names Who Has Been Lying http:// dlvr.it/TW46tf # UFO # UFONews # ufodisclosure",
+      "validity_why": "D4 — source not usually reliable, information doubtful. 1 account on the same claim (4 posts). 3 repost or mirror collapsed. no sensor reading or official record tied to this claim. validity 0.15. mcgwier-b2.81.",
       "scorer": "mcgwier-b2.81",
       "reliability": "D4",
       "p_credible": 0.15,
@@ -54,7 +54,7 @@
       "sources": [
         {
           "handle": "vibewire@mastodon.au",
-          "url": "https://mastodon.au/@vibewire/117513528293334303"
+          "url": "https://mastodon.au/@vibewire/117513528512950449"
         }
       ],
       "videos": [],

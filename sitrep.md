@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-27 16:18 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-27 17:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 Letter is the source (A completely reliable … F unknown). Digit is the information (1 confirmed by other sources … 4 doubtful, 5 improbable). Validity is the b2.81 score when that scorer is on, and it cannot exceed what the evidence supports. It is not a claim that the object was non-human, and it is not a field frequency.
 
@@ -17,10 +17,10 @@ _No corroborated reports this cycle._
 
 ![UAP discussion — @vibewire@mastodon.au](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
 2. UAP discussion — @vibewire@mastodon.au — reliability D4 · validity 0.15 · 1 source(s)  
-   [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117513528293334303)
-   > Galactic Alliance Report: Who Was Jesus Really? The Hidden Cosmic Identity of Yeshua Revealed! http:// dlvr.it/TW4l4q # UFO # UFONews # ufodisclosure
-   Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.15.
-   _D4 — source not usually reliable, information doubtful. 1 account on the same claim (1 post). no sensor reading or official record tied to this claim. validity 0.15. mcgwier-b2.81._
+   [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117513528512950449)
+   > Roswell Crash: Minute by Minute | Full Film http:// dlvr.it/TW4l5x # UFO # UFONews # ufodisclosure · The Light Gate Episode #182: Rowan Bo, UFO Girl http:// dlvr.it/TW4l5q # UFO # UFONews # ufodisclosure · Even the Engineers Who Build It Call It Magic | Dr Steven Greer http:// dlvr.it/TW46tk # UFO # UFONews # ufodisclosure · Ex-UFO Chief Names Who Has Been Lying http:// dlvr.it/TW46tf # UFO # UFONews # ufodisclosure
+   Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 4 posts. Validity 0.15.
+   _D4 — source not usually reliable, information doubtful. 1 account on the same claim (4 posts). 3 repost or mirror collapsed. no sensor reading or official record tied to this claim. validity 0.15. mcgwier-b2.81._
 
 ![UAP sighting report — @AlcorNews](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
 3. UAP sighting report — @AlcorNews — reliability D4 · validity 0.15 · 1 source(s)  
