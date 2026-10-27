@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-27 01:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-27 02:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
@@ -11,24 +11,24 @@
 ## Developing / unconfirmed
 
 ![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
-1. Official UAP statement reported — reliability E4 · 1 source(s)  
-   [@did:plc:pqspyhvkx5lc7kdvef7yld6f](https://bsky.app/profile/did:plc:pqspyhvkx5lc7kdvef7yld6f/post/3myszvw3q4w2c)
-
-![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
-2. Official UAP statement reported — reliability E4 · 1 source(s)  
-   [@did:plc:irg3ow2tckaip2fdd2xrhmac](https://bsky.app/profile/did:plc:irg3ow2tckaip2fdd2xrhmac/post/3myszvty53r2b)
-
-![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
-3. Official UAP statement reported — reliability D4 · 1 source(s)  
+1. Official UAP statement reported — reliability D4 · 1 source(s)  
    [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117508568073298487)
+
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
+2. UAP report — reliability E4 · 1 source(s)  
+   [@FlashMobOfOne@mstdn.social](https://mstdn.social/@FlashMobOfOne/117509986207873487)
+
+![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
+3. UAP report — reliability E4 · 1 source(s)  
+   [@uapfinder](https://mastodon.social/@uapfinder/117507336908294941)
 
 ![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
 4. UAP report — reliability E4 · 1 source(s)  
-   [@FlashMobOfOne@mstdn.social](https://mstdn.social/@FlashMobOfOne/117509986207873487)
+   [@nyeug](https://mastodon.social/@nyeug/117510001884191309)
 
 ![UAP report](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. UAP report — reliability E4 · 1 source(s)  
-   [@uapfinder](https://mastodon.social/@uapfinder/117507336908294941)
+5. UAP report — reliability F6 · 1 source(s)  
+   [@technician@pixelfed.social](https://pixelfed.social/p/technician/1020368732335312862)
 
 ## Disclosure podcasts
 _None this cycle._
