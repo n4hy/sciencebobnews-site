@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-27 07:00 UTC",
+  "generated_utc": "2026-10-27 08:00 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Admiralty '1' requires independent corroboration; single-source podcasts are not A1.",
   "stories": [
     {
@@ -23,25 +23,6 @@
         {
           "handle": "veryexcitingtime",
           "url": "https://mastodon.social/@veryexcitingtime/117504875874752934"
-        }
-      ],
-      "videos": [],
-      "update": false
-    },
-    {
-      "headline": "Official UAP statement reported",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "reliability": "D4",
-      "p_credible": 0.55,
-      "independent_sources": 1,
-      "platforms": [
-        "mastodon"
-      ],
-      "sources": [
-        {
-          "handle": "vibewire@mastodon.au",
-          "url": "https://mastodon.au/@vibewire/117508568073298487"
         }
       ],
       "videos": [],
@@ -92,7 +73,7 @@
       "update": false
     },
     {
-      "headline": "And this is why we don’t trust the Government on UFO disclosure… - Richard Doty | ep. 100",
+      "headline": "Bigfoot, Dogman & Terrifying Cryptid Encounters",
       "lane": "podcast",
       "status": "DEVELOPING",
       "reliability": "C4",
@@ -103,18 +84,17 @@
       ],
       "sources": [
         {
-          "handle": "Area52",
-          "url": "https://www.youtube.com/watch?v=vatEIiY3bKM"
+          "handle": "SpacedOutRadio",
+          "url": "https://www.youtube.com/watch?v=a0Tzc8CaBEA"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=T-3CmY_ztwo&",
-        "https://www.youtube.com/watch?v=vatEIiY3bKM"
+        "https://www.youtube.com/watch?v=a0Tzc8CaBEA"
       ],
       "update": false
     },
     {
-      "headline": "Richard Doty (Ex-OSI) Leaks Roswell & Kingman UFO Crash Details | ep. 100",
+      "headline": "#35 WHY DO ROCKSTARS SEE UFOS? — Sound, Light & Frequency",
       "lane": "podcast",
       "status": "DEVELOPING",
       "reliability": "C4",
@@ -125,13 +105,33 @@
       ],
       "sources": [
         {
-          "handle": "Area52",
-          "url": "https://www.youtube.com/watch?v=-Vfy1EYCRfA"
+          "handle": "NeedToKnow",
+          "url": "https://www.youtube.com/watch?v=GgjkPj3nh98"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=T-3CmY_ztwo&",
-        "https://www.youtube.com/watch?v=-Vfy1EYCRfA"
+        "https://www.youtube.com/watch?v=GgjkPj3nh98"
+      ],
+      "update": false
+    },
+    {
+      "headline": "UFO Secrets, UAP Stories and Government Secrets on NHI",
+      "lane": "podcast",
+      "status": "DEVELOPING",
+      "reliability": "C4",
+      "p_credible": 0.55,
+      "independent_sources": 1,
+      "platforms": [
+        "youtube"
+      ],
+      "sources": [
+        {
+          "handle": "SpacedOutRadio",
+          "url": "https://www.youtube.com/watch?v=seNQZdUu_WM"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=seNQZdUu_WM"
       ],
       "update": false
     }

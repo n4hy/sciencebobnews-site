@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-27 07:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-27 08:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 ## Corroborated
 
@@ -9,10 +9,7 @@
    [@setiinstitute](https://mastodon.social/@setiinstitute/117509693445581656) · [@veryexcitingtime](https://mastodon.social/@veryexcitingtime/117504875874752934)
 
 ## Developing / unconfirmed
-
-![Official UAP statement reported](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-1. Official UAP statement reported — reliability D4 · 1 source(s)  
-   [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117508568073298487)
+_None._
 
 ## Disclosure podcasts
 
@@ -26,15 +23,20 @@
    [@TheoriesOfEverything](https://www.youtube.com/shorts/Q6BYD91DlMA)  
    📹 [video](https://www.youtube.com/shorts/Q6BYD91DlMA) · [video](https://youtu.be/3yXtXTwz4J4)
 
-![And this is why we don’t trust the Government on UFO disclosure… - Richard Doty | ep. 100](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
-3. And this is why we don’t trust the Government on UFO disclosure… - Richard Doty | ep. 100 — reliability C4 · 1 source(s)  
-   [@Area52](https://www.youtube.com/watch?v=vatEIiY3bKM)  
-   📹 [video](https://www.youtube.com/watch?v=T-3CmY_ztwo&) · [video](https://www.youtube.com/watch?v=vatEIiY3bKM)
+![Bigfoot, Dogman & Terrifying Cryptid Encounters](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
+3. Bigfoot, Dogman & Terrifying Cryptid Encounters — reliability C4 · 1 source(s)  
+   [@SpacedOutRadio](https://www.youtube.com/watch?v=a0Tzc8CaBEA)  
+   📹 [video](https://www.youtube.com/watch?v=a0Tzc8CaBEA)
 
-![Richard Doty (Ex-OSI) Leaks Roswell & Kingman UFO Crash Details | ep. 100](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-4. Richard Doty (Ex-OSI) Leaks Roswell & Kingman UFO Crash Details | ep. 100 — reliability C4 · 1 source(s)  
-   [@Area52](https://www.youtube.com/watch?v=-Vfy1EYCRfA)  
-   📹 [video](https://www.youtube.com/watch?v=T-3CmY_ztwo&) · [video](https://www.youtube.com/watch?v=-Vfy1EYCRfA)
+![#35 WHY DO ROCKSTARS SEE UFOS? — Sound, Light & Frequency](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
+4. #35 WHY DO ROCKSTARS SEE UFOS? — Sound, Light & Frequency — reliability C4 · 1 source(s)  
+   [@NeedToKnow](https://www.youtube.com/watch?v=GgjkPj3nh98)  
+   📹 [video](https://www.youtube.com/watch?v=GgjkPj3nh98)
+
+![UFO Secrets, UAP Stories and Government Secrets on NHI](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+5. UFO Secrets, UAP Stories and Government Secrets on NHI — reliability C4 · 1 source(s)  
+   [@SpacedOutRadio](https://www.youtube.com/watch?v=seNQZdUu_WM)  
+   📹 [video](https://www.youtube.com/watch?v=seNQZdUu_WM)
 
 ## From ProbedSpace on X (last 24 h)
 - 2026-10-26 18:29 UTC — “234,364 UFO reports in one archive. BAASS's March 2009 report gives that count for Project Capella, then spells out the limits: duplicate reports, explained ca…” [@ProbedSpace](https://x.com/ProbedSpace/status/2114786495928455488)
