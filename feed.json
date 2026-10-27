@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-27 19:00 UTC",
+  "generated_utc": "2026-10-27 20:00 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Letter is source reliability. Digit 1 requires independent confirmation of a specific claim by sources no worse than C. Validity is the McGwier b2.81 score, capped by the evidence bound. It is not a field frequency and not a claim of non-human origin.",
   "scorer": "mcgwier-b2.81",
   "stories": [
@@ -61,6 +61,29 @@
       "update": false
     },
     {
+      "headline": "UAP discussion — @did:plc:qflatmfcs5jhhjr5enoklpcr",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "summary": "Source is unreliable (E). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.06.",
+      "excerpt": "H.R.10886 Dual Citizen Disclosure Act SPONSOR: Rep. Nancy Mace (R), SC-1 № CO-SPONSORS: 0 STATUS: Introduced LATEST ACTION: House floor - 2026-10-22 Referred to the House Committee on ... #Republican…",
+      "validity_why": "E4 — source unreliable, information doubtful. 1 account on the same claim (1 post). the text names a place, a sensor, or an official record. validity 0.06. mcgwier-b2.81.",
+      "scorer": "mcgwier-b2.81",
+      "reliability": "E4",
+      "p_credible": 0.06,
+      "independent_sources": 1,
+      "platforms": [
+        "bluesky"
+      ],
+      "sources": [
+        {
+          "handle": "did:plc:qflatmfcs5jhhjr5enoklpcr",
+          "url": "https://bsky.app/profile/did:plc:qflatmfcs5jhhjr5enoklpcr/post/3myuzmcab3t2c"
+        }
+      ],
+      "videos": [],
+      "update": false
+    },
+    {
       "headline": "UAP sighting report — @AlcorNews",
       "lane": "developing",
       "status": "DEVELOPING",
@@ -88,46 +111,23 @@
       "update": false
     },
     {
-      "headline": "UAP discussion — @FlashMobOfOne@mstdn.social",
+      "headline": "UAP discussion — @did:plc:z3uymxwi52wkccndvalugtal",
       "lane": "developing",
       "status": "DEVELOPING",
       "summary": "Source is unreliable (E). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.06.",
-      "excerpt": "Got my filming done! Now to edit this beast. The raw video is 45 minutes, but I suspect it'll land between 25-30 minutes when I'm done. And then we release on Thursday or Friday for your nerdy Hallow…",
+      "excerpt": "Demitasse and saucer. Peter Behrens. 1902. Image: AIC",
       "validity_why": "E4 — source unreliable, information doubtful. 1 account on the same claim (1 post). no sensor reading or official record tied to this claim. validity 0.06. mcgwier-b2.81.",
       "scorer": "mcgwier-b2.81",
       "reliability": "E4",
       "p_credible": 0.06,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "bluesky"
       ],
       "sources": [
         {
-          "handle": "FlashMobOfOne@mstdn.social",
-          "url": "https://mstdn.social/@FlashMobOfOne/117509986207873487"
-        }
-      ],
-      "videos": [],
-      "update": false
-    },
-    {
-      "headline": "UAP discussion — @thirdbookofthedead, Texas",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "summary": "Source is unreliable (E). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.06.",
-      "excerpt": "In 1883, a cowhand in West Texas saw a flickering light and thought of an Apache campfire. Searchers found no ashes. Today the Marfa lights have a viewing area. Students blamed highway headlights. A…",
-      "validity_why": "E4 — source unreliable, information doubtful. 1 account on the same claim (1 post). the text names a place, a sensor, or an official record. validity 0.06. mcgwier-b2.81.",
-      "scorer": "mcgwier-b2.81",
-      "reliability": "E4",
-      "p_credible": 0.06,
-      "independent_sources": 1,
-      "platforms": [
-        "mastodon"
-      ],
-      "sources": [
-        {
-          "handle": "thirdbookofthedead",
-          "url": "https://mastodon.social/@thirdbookofthedead/117512613021487407"
+          "handle": "did:plc:z3uymxwi52wkccndvalugtal",
+          "url": "https://bsky.app/profile/did:plc:z3uymxwi52wkccndvalugtal/post/3myuzmeq7xz2o"
         }
       ],
       "videos": [],
@@ -259,5 +259,11 @@
       "update": false
     }
   ],
-  "probedspace_digest": []
+  "probedspace_digest": [
+    {
+      "created_utc": "2026-10-27T19:31:37+00:00",
+      "url": "https://x.com/ProbedSpace/status/2115164534872977741",
+      "excerpt": "Cold fusion turns up in Release 07. A 2008 MUFON proposal for BAASS includes an EDTEK reactor schematic. The authors say it had been built, but lacked funding…"
+    }
+  ]
 }
