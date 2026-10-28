@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-28 04:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-28 06:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 Science Bob News is an automated situation report of public UAP, UFO, and USO claims. Each cycle it reads public social posts and disclosure-podcast feeds, collapses reposts and brid.gy mirrors to one account, and counts another account only when it confirms the same claim. The letter rates the source from A to F, the digit rates the information from 1 to 6, and validity is the McGwier b2.81 score capped by that evidence, never above 0.90. A high score is not a claim that an object was non-human, and it is not a count of how often such reports are later confirmed.
 
@@ -21,10 +21,10 @@ _No corroborated reports this cycle._
 
 ![UAP document report — @veryexcitingtime](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
 2. UAP document report — @veryexcitingtime — reliability D4 · validity 0.15 · 1 source(s)  
-   [@veryexcitingtime](https://mastodon.social/@veryexcitingtime/117504875874752934) · [@cosmos4u@scicomm.xyz](https://scicomm.xyz/@cosmos4u/117510108189431949)
-   > 🛸 The Pentagon has a new legal waiver for # UAP disclosure, but it has some concerning gaps. Also the new government # UFO files include the AAWSAP reports… or do they? https:// veryexcitingtime.com/… · The November/December 2026 edition of the Skeptical Inquirer has a cover package toplined by Mick West’s “The # UFO Circus,” which looks at the waves of UAP-related Pentagon footage and documents rel…
-   Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 2 posts. Validity 0.15.
-   _D4 — source not usually reliable, information doubtful. 1 account on the same claim (2 posts). 1 other account in the cluster do not confirm that claim. the text names a place, a sensor, or an official record. validity 0.15. b2.81 said 0.18, cut to the 0.15 evidence cap. mcgwier-b2.81._
+   [@veryexcitingtime](https://mastodon.social/@veryexcitingtime/117504875874752934)
+   > 🛸 The Pentagon has a new legal waiver for # UAP disclosure, but it has some concerning gaps. Also the new government # UFO files include the AAWSAP reports… or do they? https:// veryexcitingtime.com/…
+   Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.15.
+   _D4 — source not usually reliable, information doubtful. 1 account on the same claim (1 post). the text names a place, a sensor, or an official record. validity 0.15. b2.81 said 0.18, cut to the 0.15 evidence cap. mcgwier-b2.81._
 
 ![UAP discussion — @vibewire@mastodon.au](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
 3. UAP discussion — @vibewire@mastodon.au — reliability D4 · validity 0.15 · 1 source(s)  
