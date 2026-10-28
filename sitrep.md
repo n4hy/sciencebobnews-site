@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-28 12:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-28 13:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 Science Bob News is an automated situation report of public UAP, UFO, and USO claims. Each cycle it reads public social posts and disclosure-podcast feeds, collapses reposts and brid.gy mirrors to one account, and counts another account only when it confirms the same claim. The letter rates the source from A to F, the digit rates the information from 1 to 6, and validity is the McGwier b2.81 score capped by that evidence, never above 0.90. A high score is not a claim that an object was non-human, and it is not a count of how often such reports are later confirmed.
 
@@ -13,11 +13,11 @@ _No corroborated reports this cycle._
 ## Developing / unconfirmed
 
 ![UAP document report — @setiinstitute, California](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
-1. UAP document report — @setiinstitute, California — reliability D4 · validity 0.55 · 2 source(s)  
+1. UAP document report — @setiinstitute, California — reliability D1 · validity 0.55 · 3 source(s)  
    [@KilleansRow@mastodon.online](https://mastodon.online/@KilleansRow/117516310782683843) · [@setiinstitute](https://mastodon.social/@setiinstitute/117509693445581656)
    > 3/n...attentional development. It's a mixed bag to be sure ; our experiences and the environs they occur in have huge effect in forming our " filters ". How much is engineered in advance vs synthesiz… · 🛸 Newly released Pentagon files detail UFO sightings over California's Catalina Island in the 1940s and 1950s. But do these decades-old reports suggest extraterrestrial visitors? SETI Institute Presi…
-   Source is not usually reliable (D). The report is doubtful (4). 2 accounts on the same claim, from 2 posts. Validity 0.55.
-   _D4 — source not usually reliable, information doubtful. 2 accounts on the same claim (2 posts). 1 other account in the cluster do not confirm that claim. the text names a place, a sensor, or an official record. validity 0.55. publisher-floor. Science Bob's minimum for @setiinstitute is 0.55, and he counts himself as a repeat._
+   Source is not usually reliable (D). The report is confirmed by independent sources (1). 3 accounts on the same claim, from 2 posts. Validity 0.55.
+   _D1 — source not usually reliable, information confirmed by independent sources. 3 accounts on the same claim (2 posts). 1 other account in the cluster do not confirm that claim. the text names a place, a sensor, or an official record. validity 0.55. publisher-floor. Science Bob's minimum for @setiinstitute is 0.55, and he counts himself as a repeat. Science Bob is two independent sources on this account, so the information digit is 1._
 
 ![UAP document report — @veryexcitingtime](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
 2. UAP document report — @veryexcitingtime — reliability D4 · validity 0.15 · 1 source(s)  
@@ -33,19 +33,19 @@ _No corroborated reports this cycle._
    Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 3 posts. Validity 0.15.
    _D4 — source not usually reliable, information doubtful. 1 account on the same claim (3 posts). 2 repost or mirror collapsed. no sensor reading or official record tied to this claim. validity 0.15. mcgwier-b2.81._
 
-![UAP sighting report — @AlcorNews](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-4. UAP sighting report — @AlcorNews — reliability D4 · validity 0.15 · 1 source(s)  
+![Unidentified submerged object report — @did:plc:c774pm5gljkhwxpjqaixasfs](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
+4. Unidentified submerged object report — @did:plc:c774pm5gljkhwxpjqaixasfs — reliability E4 · validity 0.07 · 1 source(s)  
+   [@did:plc:c774pm5gljkhwxpjqaixasfs](https://bsky.app/profile/did:plc:c774pm5gljkhwxpjqaixasfs/post/3mywsm5wzd22z)
+   > Proponham uma nota social para as empresas brasileiras, baseada no cumprimento das expectativas sociais que recaem sobre elas no projetamento quinquenal da economia. Restrinjam a concessão de crédito…
+   Source is unreliable (E). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.07.
+   _E4 — source unreliable, information doubtful. 1 account on the same claim (1 post). no sensor reading or official record tied to this claim. validity 0.07. mcgwier-b2.81._
+
+![UAP sighting report — @AlcorNews](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+5. UAP sighting report — @AlcorNews — reliability D4 · validity 0.15 · 1 source(s)  
    [@alcornews.bsky.social@bsky.brid.gy](https://fed.brid.gy/r/https://bsky.app/profile/did:plc:3l5f3rhsngpxljnskia73bj7/post/3mytv6x6yi22k) · [@AlcorNews](https://mastodon.social/@AlcorNews/117512082353700013)
    > Chine : Un objet noir flotte dans le ciel de Mui Wo. C'est quel brevet? #OVNI #ObservationInsolite #MuiWo #HongKong #ObjetVolant #PhenomeneAerien #Mystere #UFO #UFO #UAP #MuiWo #HongKong #Unidentifie… · Chine : Un objet noir flotte dans le ciel de Mui Wo. C'est quel brevet? # OVNI # ObservationInsolite # MuiWo # HongKong # ObjetVolant # PhenomeneAerien # Mystere # UFO # UFO # UAP # MuiWo # HongKong…
    Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 2 posts. Validity 0.15.
    _D4 — source not usually reliable, information doubtful. 1 account on the same claim (2 posts). 1 repost or mirror collapsed. no sensor reading or official record tied to this claim. validity 0.15. mcgwier-b2.81._
-
-![UAP sighting report — @uapfinder — candidate: Satellite](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. UAP sighting report — @uapfinder — candidate: Satellite — reliability E4 · validity 0.05 · 1 source(s)  
-   [@uapfinder](https://mastodon.social/@uapfinder/117513000096659011)
-   > Unidentified light crosses the sky in 2 seconds, nothing checked · Oct 2026 · 200a What was ruled out: Nothing was checked against this capture — no satellite catalogue and no live aircraft data were… · What is this light? Nothing was checked against it · Oct 2026 · 181d What was ruled out: Nothing was checked against this capture — no satellite catalogue and no live aircraft data were available. No… · Checked again…
-   Source is unreliable (E). The report is doubtful (4). 1 account on the same claim, from 5 posts. Validity 0.05.
-   _E4 — source unreliable, information doubtful. 1 account on the same claim (5 posts). 4 repost or mirror collapsed. no sensor reading or official record tied to this claim. prosaic candidate: Satellite. validity 0.05. mcgwier-b2.81._
 
 ## Disclosure podcasts
 
@@ -91,7 +91,7 @@ _No corroborated reports this cycle._
 
 ## Watched accounts
 
-These accounts are part of every retrain. A post is used only when its own text names a UAP, UFO, UFP, or USO subject, Skinwalker Ranch, or Jay Stratton’s memoir Out of the Shadows. UFP is matched as written. The word disclosure by itself is not enough. Jay Stratton is listed first. His account is source letter B because he ran the UAP Task Force as its first director. William Morrow says he created and led that task force. The 14 August 2020 Department of Defense release credits formal approval to Deputy Secretary David L. Norquist and does not name Stratton. One post is still a single account, so the information digit stays 4 until another source confirms the same claim. A listing is not a score. Follower counts are X profile totals read on 28 October 2026.
+These accounts are part of every retrain. A post is used only when its own text names a UAP, UFO, UFP, or USO subject, Skinwalker Ranch, or Jay Stratton’s memoir Out of the Shadows. UFP is matched as written. The word disclosure by itself is not enough. Jay Stratton is listed first. His account is source letter B because he ran the UAP Task Force as its first director. William Morrow says he created and led that task force. The 14 August 2020 Department of Defense release credits formal approval to Deputy Secretary David L. Norquist and does not name Stratton. Science Bob is two independent sources on Jay Stratton, Chris Bledsoe, Rear Admiral Tim Gallaudet, Garry Nolan, Travis S. Taylor, SETI, and the validity-0.50 accounts except Grant Cameron, so their information digit is 1. Grant Cameron stays digit 4 on one post. The evidence bound is unchanged. A listing is not a score. Follower counts are X profile totals read on 28 October 2026.
 
 
 ### @jaystratton — Created and ran the UAP Task Force
@@ -99,14 +99,14 @@ These accounts are part of every retrain. A post is used only when its own text 
 ![Jay Stratton](avatars/jaystratton.jpg)
 
 - [@jaystratton](https://x.com/jaystratton) — Jay Stratton · 28,733 followers · letter B. William Morrow and HarperCollins say he created and led the Unidentified Aerial Phenomena Task Force. Deadline, The Hollywood Reporter, and Variety repeated that wording in 2026. People (13 October 2026) identifies him as its first director, which is the sense in which he ran it. The Department of Defense release of 14 August 2020 says Deputy Secretary David L. Norquist approved the task force on 4 August 2020 and does not name him. Memoir: Out of the Shadows: Revealing the Truth About Non-Human Intelligent Life (William Morrow, 13 October 2026).
-- 2026-10-21 23:42 UTC — [https://x.com/jaystratton/status/2113053310861369445](https://x.com/jaystratton/status/2113053310861369445) · B4 · validity 0.32. Very proud to share that my memoir, Out of the Shadows, has debuted at #2 on the NY Times Best Sellers List. Thank you to everyone who has read the book and recommended it to friends and family. And thank you to everyon…
-- 2026-10-17 01:07 UTC — [https://x.com/jaystratton/status/2111262822311280975](https://x.com/jaystratton/status/2111262822311280975) · B4 · validity 0.32. Here’s my full interview with @ElizabethKPIX and @CBSNews, discussing my memoir, Out of the Shadows. Thanks for your support, Elizabeth!
-- 2026-10-17 00:29 UTC — [https://x.com/jaystratton/status/2111253351325421982](https://x.com/jaystratton/status/2111253351325421982) · B4 · validity 0.32. Here’s my full interview with @jaketapper @TheLeadCNN about my new memoir, Out of the Shadows. Thanks again for your support Jake and @CNN!
-- 2026-10-16 02:22 UTC — [https://x.com/jaystratton/status/2110919305454088266](https://x.com/jaystratton/status/2110919305454088266) · B4 · validity 0.32. Here’s my full interview from tonight with @JesseBWatters regarding my memoir, Out of the Shadows. Thanks again for your support @JesseBWatters @FoxNews!
-- 2026-10-16 01:14 UTC — [https://x.com/jaystratton/status/2110902137630990519](https://x.com/jaystratton/status/2110902137630990519) · B4 · validity 0.32. Had a great time discussing my new memoir, Out of the Shadows, with @JesseBWatters on @FoxNews. Thanks for your support @JesseBWatters!
-- 2026-10-14 22:36 UTC — [https://x.com/jaystratton/status/2110500033762410635](https://x.com/jaystratton/status/2110500033762410635) · B4 · validity 0.32. Great talking with @jaketapper @TheLeadCNN about my memoir, Out of the Shadows. Thanks for your support @jaketapper!
-- 2026-10-02 01:04 UTC — [https://x.com/jaystratton/status/2105826201495625870](https://x.com/jaystratton/status/2105826201495625870) · B4 · validity 0.32. Love this shot. Dr. Travis Taylor, Chief Scientist of the UAP Task Force, me, and Dr. Hal Puthoff, Chief Scientist of AAWSAP.
-- 2026-09-24 23:08 UTC — [https://x.com/jaystratton/status/2103260294676136004](https://x.com/jaystratton/status/2103260294676136004) · B4 · validity 0.32. Feels great to finally have the first physical copy of Out of the Shadows in my hands! Excited for you all to get yours!
+- 2026-10-21 23:42 UTC — [https://x.com/jaystratton/status/2113053310861369445](https://x.com/jaystratton/status/2113053310861369445) · B1 · validity 0.32. Very proud to share that my memoir, Out of the Shadows, has debuted at #2 on the NY Times Best Sellers List. Thank you to everyone who has read the book and recommended it to friends and family. And thank you to everyon…
+- 2026-10-17 01:07 UTC — [https://x.com/jaystratton/status/2111262822311280975](https://x.com/jaystratton/status/2111262822311280975) · B1 · validity 0.32. Here’s my full interview with @ElizabethKPIX and @CBSNews, discussing my memoir, Out of the Shadows. Thanks for your support, Elizabeth!
+- 2026-10-17 00:29 UTC — [https://x.com/jaystratton/status/2111253351325421982](https://x.com/jaystratton/status/2111253351325421982) · B1 · validity 0.32. Here’s my full interview with @jaketapper @TheLeadCNN about my new memoir, Out of the Shadows. Thanks again for your support Jake and @CNN!
+- 2026-10-16 02:22 UTC — [https://x.com/jaystratton/status/2110919305454088266](https://x.com/jaystratton/status/2110919305454088266) · B1 · validity 0.32. Here’s my full interview from tonight with @JesseBWatters regarding my memoir, Out of the Shadows. Thanks again for your support @JesseBWatters @FoxNews!
+- 2026-10-16 01:14 UTC — [https://x.com/jaystratton/status/2110902137630990519](https://x.com/jaystratton/status/2110902137630990519) · B1 · validity 0.32. Had a great time discussing my new memoir, Out of the Shadows, with @JesseBWatters on @FoxNews. Thanks for your support @JesseBWatters!
+- 2026-10-14 22:36 UTC — [https://x.com/jaystratton/status/2110500033762410635](https://x.com/jaystratton/status/2110500033762410635) · B1 · validity 0.32. Great talking with @jaketapper @TheLeadCNN about my memoir, Out of the Shadows. Thanks for your support @jaketapper!
+- 2026-10-02 01:04 UTC — [https://x.com/jaystratton/status/2105826201495625870](https://x.com/jaystratton/status/2105826201495625870) · B1 · validity 0.32. Love this shot. Dr. Travis Taylor, Chief Scientist of the UAP Task Force, me, and Dr. Hal Puthoff, Chief Scientist of AAWSAP.
+- 2026-09-24 23:08 UTC — [https://x.com/jaystratton/status/2103260294676136004](https://x.com/jaystratton/status/2103260294676136004) · B1 · validity 0.32. Feels great to finally have the first physical copy of Out of the Shadows in my hands! Excited for you all to get yours!
 
 ### @I_D_Official
 
@@ -119,7 +119,7 @@ These accounts are part of every retrain. A post is used only when its own text 
 
 ![Chris Bledsoe](avatars/ufoofgod.jpg)
 
-- [@ufoofgod](https://x.com/ufoofgod) — Chris Bledsoe · 5,862 followers · letter B. Chris Bledsoe. The X profile read on 28 October 2026 says he is telling his story after 15 years. The profile image is the cover of UFO of God: The Extraordinary True Story of Chris Bledsoe. Listed under Richard Dolan. His assigned validity is 0.70, above 0.55, so the source letter is B. The information digit is unchanged. No post from this account is in the fit.
+- [@ufoofgod](https://x.com/ufoofgod) — Chris Bledsoe · 5,862 followers · letter B. Chris Bledsoe. The X profile read on 28 October 2026 says he is telling his story after 15 years. The profile image is the cover of UFO of God: The Extraordinary True Story of Chris Bledsoe. Listed under Richard Dolan. His assigned validity is 0.70, above 0.55, so the source letter is B. Science Bob is two independent sources on him, so the information digit is 1. The evidence bound is unchanged. No post from this account is in the fit.
 - No in-scope post in the fit.
 
 ### @GrantCameron
@@ -133,14 +133,14 @@ These accounts are part of every retrain. A post is used only when its own text 
 
 ![Tim Gallaudet](avatars/GallaudetTim.jpg)
 
-- [@GallaudetTim](https://x.com/GallaudetTim) — Tim Gallaudet · 15,852 followers · letter B. Rear Admiral Timothy C. Gallaudet, U.S. Navy. The Navy biography updated 17 November 2014 names him Rear Admiral and Commander, Naval Meteorology and Oceanography Command. The U.S. Naval Institute byline is Rear Admiral Tim Gallaudet, U.S. Navy (Retired), CEO of Ocean STL Consulting. His X profile read on 28 October 2026 says he is CEO of Ocean STL Consulting, former Deputy and Acting NOAA Administrator (2017-2021), and former Oceanographer of the Navy (2014-2017). Science Bob's validity for him is 0.70, and Science Bob counts two witnesses. That count does not change the information digit. Minimum letter B, because 0.70 is above 0.55. No post from this account is in the fit.
+- [@GallaudetTim](https://x.com/GallaudetTim) — Tim Gallaudet · 15,852 followers · letter B. Rear Admiral Timothy C. Gallaudet, U.S. Navy. The Navy biography updated 17 November 2014 names him Rear Admiral and Commander, Naval Meteorology and Oceanography Command. The U.S. Naval Institute byline is Rear Admiral Tim Gallaudet, U.S. Navy (Retired), CEO of Ocean STL Consulting. His X profile read on 28 October 2026 says he is CEO of Ocean STL Consulting, former Deputy and Acting NOAA Administrator (2017-2021), and former Oceanographer of the Navy (2014-2017). Science Bob's validity for him is 0.70. Science Bob is two independent sources on him, so the information digit is 1. The evidence bound is unchanged. Minimum letter B, because 0.70 is above 0.55. No post from this account is in the fit.
 - No in-scope post in the fit.
 
 ### @TravisTaylorX — Named with the task force circle
 
 ![Travis S. Taylor](avatars/TravisTaylorX.jpg)
 
-- [@TravisTaylorX](https://x.com/TravisTaylorX) — Travis S. Taylor · 16,142 followers · letter B. Scientist and engineer. Public posts concern Skinwalker Ranch. His assigned validity is 0.65, above 0.55, so the source letter is B. The information digit is unchanged. No post in the 28 October 2026 retrieval stated a UAP subject in its own text, so this account is listed and not yet in the fit.
+- [@TravisTaylorX](https://x.com/TravisTaylorX) — Travis S. Taylor · 16,142 followers · letter B. Scientist and engineer. Public posts concern Skinwalker Ranch. His assigned validity is 0.65, above 0.55, so the source letter is B. Science Bob is two independent sources on him, so the information digit is 1. The evidence bound is unchanged. No post in the 28 October 2026 retrieval stated a UAP subject in its own text, so this account is listed and not yet in the fit.
 - No in-scope post in the fit.
 
 ### @BrandonFugal — Named with the task force circle
@@ -148,67 +148,67 @@ These accounts are part of every retrain. A post is used only when its own text 
 ![Brandon Fugal](avatars/BrandonFugal.jpg)
 
 - [@BrandonFugal](https://x.com/BrandonFugal) — Brandon Fugal · 148,165 followers · letter C. Skinwalker Ranch. Chairman, Colliers Utah.
-- 2026-10-19 19:35 UTC — [https://x.com/BrandonFugal/status/2112266418557432230](https://x.com/BrandonFugal/status/2112266418557432230) · C4 · validity 0.25. Fall morning at Skinwalker Ranch…footage courtesy of @MrPeteKelsey, one of our trusted technology partners & team members…
-- 2026-09-19 18:12 UTC — [https://x.com/BrandonFugal/status/2101373869768761637](https://x.com/BrandonFugal/status/2101373869768761637) · C4 · validity 0.25. The White House highlights Skinwalker Ranch…and missing data…
-- 2026-09-08 07:03 UTC — [https://x.com/BrandonFugal/status/2097219244954198234](https://x.com/BrandonFugal/status/2097219244954198234) · C4 · validity 0.25. Years at Skinwalker Ranch, including a craft I saw with witnesses beside me, bring me to the same place as Peter. The evidence is now accumulating faster than the skepticism.
-- 2026-08-19 20:41 UTC — [https://x.com/BrandonFugal/status/2090177430585802831](https://x.com/BrandonFugal/status/2090177430585802831) · C4 · validity 0.25. On the heels of our season finale this week it was announced we are moving into immediate experiments & research for Season 8 of The Secret of Skinwalker Ranch!
+- 2026-10-19 19:35 UTC — [https://x.com/BrandonFugal/status/2112266418557432230](https://x.com/BrandonFugal/status/2112266418557432230) · C1 · validity 0.25. Fall morning at Skinwalker Ranch…footage courtesy of @MrPeteKelsey, one of our trusted technology partners & team members…
+- 2026-09-19 18:12 UTC — [https://x.com/BrandonFugal/status/2101373869768761637](https://x.com/BrandonFugal/status/2101373869768761637) · C1 · validity 0.25. The White House highlights Skinwalker Ranch…and missing data…
+- 2026-09-08 07:03 UTC — [https://x.com/BrandonFugal/status/2097219244954198234](https://x.com/BrandonFugal/status/2097219244954198234) · C1 · validity 0.25. Years at Skinwalker Ranch, including a craft I saw with witnesses beside me, bring me to the same place as Peter. The evidence is now accumulating faster than the skepticism.
+- 2026-08-19 20:41 UTC — [https://x.com/BrandonFugal/status/2090177430585802831](https://x.com/BrandonFugal/status/2090177430585802831) · C1 · validity 0.25. On the heels of our season finale this week it was announced we are moving into immediate experiments & research for Season 8 of The Secret of Skinwalker Ranch!
 
 ### @JeremyCorbell
 
 ![Jeremy Kenyon Lockyer Corbell](avatars/JeremyCorbell.jpg)
 
 - [@JeremyCorbell](https://x.com/JeremyCorbell) — Jeremy Kenyon Lockyer Corbell · 309,106 followers · letter C. Investigative journalist and filmmaker. Weaponized podcast. UAP reporting.
-- 2026-10-25 07:41 UTC — [https://x.com/JeremyCorbell/status/2114261071578226777](https://x.com/JeremyCorbell/status/2114261071578226777) · C4 · validity 0.25. In 2022, George Knapp and I flew to Huntsville, Alabama, to sit down with Jay Stratton for his very first on-camera interview. Before Out of the Shadows. Before the headlines. The former director of the Pentagon’s UAP T…
+- 2026-10-25 07:41 UTC — [https://x.com/JeremyCorbell/status/2114261071578226777](https://x.com/JeremyCorbell/status/2114261071578226777) · C1 · validity 0.25. In 2022, George Knapp and I flew to Huntsville, Alabama, to sit down with Jay Stratton for his very first on-camera interview. Before Out of the Shadows. Before the headlines. The former director of the Pentagon’s UAP T…
 
 ### @LueElizondo
 
 ![Luis Elizondo](avatars/LueElizondo.jpg)
 
 - [@LueElizondo](https://x.com/LueElizondo) — Luis Elizondo · 265,096 followers · letter C. Former AATIP director. Disclosure advocate and author.
-- 2026-10-16 17:22 UTC — [https://x.com/LueElizondo/status/2111145826353353128](https://x.com/LueElizondo/status/2111145826353353128) · C4 · validity 0.25. Today we mourn the death of a good friend and great patriot. A military cop, a UAP whistleblower, and an Experiencer. Mario Woods was an inspiration to many, including myself. Never afraid to speak truth to power and he…
+- 2026-10-16 17:22 UTC — [https://x.com/LueElizondo/status/2111145826353353128](https://x.com/LueElizondo/status/2111145826353353128) · C1 · validity 0.25. Today we mourn the death of a good friend and great patriot. A military cop, a UAP whistleblower, and an Experiencer. Mario Woods was an inspiration to many, including myself. Never afraid to speak truth to power and he…
 
 ### @rosscoulthart
 
 ![Ross Coulthart](avatars/rosscoulthart.jpg)
 
 - [@rosscoulthart](https://x.com/rosscoulthart) — Ross Coulthart · 213,553 followers · letter C. Investigative journalist, NewsNation. Reality Check. Hearings and whistleblowers.
-- 2026-10-27 23:14 UTC — [https://x.com/rosscoulthart/status/2115220542693560550](https://x.com/rosscoulthart/status/2115220542693560550) · C4 · validity 0.25. Retired Navy admiral & fmr @NOAA admin @GallaudetTim warns of decades-long UAP 'cover-up,' points to deep ocean as ultimate hiding spot https://www.foxnews.com/media/retired-navy-admiral-warns-decades-long-uap-cover-up-…
-- 2026-10-27 23:00 UTC — [https://x.com/rosscoulthart/status/2115217015111909707](https://x.com/rosscoulthart/status/2115217015111909707) · C4 · validity 0.25. Extraordinary allegations from a lawyer who represented a man working inside the Legacy UAP retrieval program. Allegations of a covert conflict between an NHI & US @DeptofWar, the loss of @usairforce pilots concealed as…
+- 2026-10-27 23:14 UTC — [https://x.com/rosscoulthart/status/2115220542693560550](https://x.com/rosscoulthart/status/2115220542693560550) · C1 · validity 0.25. Retired Navy admiral & fmr @NOAA admin @GallaudetTim warns of decades-long UAP 'cover-up,' points to deep ocean as ultimate hiding spot https://www.foxnews.com/media/retired-navy-admiral-warns-decades-long-uap-cover-up-…
+- 2026-10-27 23:00 UTC — [https://x.com/rosscoulthart/status/2115217015111909707](https://x.com/rosscoulthart/status/2115217015111909707) · C1 · validity 0.25. Extraordinary allegations from a lawyer who represented a man working inside the Legacy UAP retrieval program. Allegations of a covert conflict between an NHI & US @DeptofWar, the loss of @usairforce pilots concealed as…
 
 ### @jamescfox
 
 ![James Fox](avatars/jamescfox.jpg)
 
 - [@jamescfox](https://x.com/jamescfox) — James Fox · 186,066 followers · letter C. Filmmaker: The Phenomenon, Moment of Contact, The Program.
-- 2026-10-27 01:08 UTC — [https://x.com/jamescfox/status/2114886913958309975](https://x.com/jamescfox/status/2114886913958309975) · C4 · validity 0.25. Intelligence officials maintain the government possesses proof of nonhuman intelligence. Let scientists examine the evidence. The public should not accept conclusions on faith. Nor on secrecy. Disclosure today. https://…
+- 2026-10-27 01:08 UTC — [https://x.com/jamescfox/status/2114886913958309975](https://x.com/jamescfox/status/2114886913958309975) · C1 · validity 0.25. Intelligence officials maintain the government possesses proof of nonhuman intelligence. Let scientists examine the evidence. The public should not accept conclusions on faith. Nor on secrecy. Disclosure today. https://…
 
 ### @theblackvault
 
 ![John Greenewald Jr.](avatars/theblackvault.jpg)
 
 - [@theblackvault](https://x.com/theblackvault) — John Greenewald Jr. · 184,388 followers · letter C. FOIA specialist. Archive of declassified records.
-- 2026-10-14 12:28 UTC — [https://x.com/theblackvault/status/2110347023417499997](https://x.com/theblackvault/status/2110347023417499997) · C4 · validity 0.25. NEW: I knew Larry Bryant for many, many years. So sad he passed back in 2020. He was a great friend, and researcher, who doggedly pursued the UFO truth through FOIA and litigation. The Black Vault has now archived just…
+- 2026-10-14 12:28 UTC — [https://x.com/theblackvault/status/2110347023417499997](https://x.com/theblackvault/status/2110347023417499997) · C1 · validity 0.25. NEW: I knew Larry Bryant for many, many years. So sad he passed back in 2020. He was a great friend, and researcher, who doggedly pursued the UFO truth through FOIA and litigation. The Black Vault has now archived just…
 
 ### @InterstellarUAP
 
 ![Interstellar](avatars/InterstellarUAP.jpg)
 
 - [@InterstellarUAP](https://x.com/InterstellarUAP) — Interstellar · 152,185 followers · letter C. UAP news aggregation and commentary.
-- 2026-10-27 23:29 UTC — [https://x.com/InterstellarUAP/status/2115224321010389297](https://x.com/InterstellarUAP/status/2115224321010389297) · C4 · validity 0.22. Enhanced Slow Motion Video of Alien & UFO allegedly filmed by former Skywatcher Psionic Asset Mike Battista. The video shows a possible interdimensional being moving from right to left. It was released by Mike Battista'…
+- 2026-10-27 23:29 UTC — [https://x.com/InterstellarUAP/status/2115224321010389297](https://x.com/InterstellarUAP/status/2115224321010389297) · C1 · validity 0.22. Enhanced Slow Motion Video of Alien & UFO allegedly filmed by former Skywatcher Psionic Asset Mike Battista. The video shows a possible interdimensional being moving from right to left. It was released by Mike Battista'…
 
 ### @PostDisclosure
 
 ![Post Disclosure World](avatars/PostDisclosure.jpg)
 
 - [@PostDisclosure](https://x.com/PostDisclosure) — Post Disclosure World · 147,664 followers · letter C. YouTube coverage of the UAP disclosure process.
-- 2026-10-27 21:22 UTC — [https://x.com/PostDisclosure/status/2115192522704363753](https://x.com/PostDisclosure/status/2115192522704363753) · C4 · validity 0.25. One major reason I don't think governments want UFO disclosure is that they don't want us to look beyond them. I could see religions falling into this same trap. If every debate remains confined to the human sphere, our…
+- 2026-10-27 21:22 UTC — [https://x.com/PostDisclosure/status/2115192522704363753](https://x.com/PostDisclosure/status/2115192522704363753) · C1 · validity 0.25. One major reason I don't think governments want UFO disclosure is that they don't want us to look beyond them. I could see religions falling into this same trap. If every debate remains confined to the human sphere, our…
 
 ### @GarryPNolan
 
 ![Garry Nolan](avatars/GarryPNolan.jpg)
 
-- [@GarryPNolan](https://x.com/GarryPNolan) — Garry Nolan · 131,770 followers · letter B. Stanford professor. UAP science advisory work. His assigned validity is 0.65, above 0.55, so the source letter is B. The information digit is unchanged.
-- 2026-07-28 11:38 UTC — [https://x.com/GarryPNolan/status/2082068233885008247](https://x.com/GarryPNolan/status/2082068233885008247) · C4 · validity 0.25. By the Chatham House Rules I suggested and was accepted by the White House Science Advisory Council for study of UAP (on which I am a member and Chaired by Professor Avi Loeb), we are allowed to talk about issues brough…
+- [@GarryPNolan](https://x.com/GarryPNolan) — Garry Nolan · 131,770 followers · letter B. Stanford professor. UAP science advisory work. His assigned validity is 0.65, above 0.55, so the source letter is B. Science Bob is two independent sources on him, so the information digit is 1. The evidence bound is unchanged.
+- 2026-07-28 11:38 UTC — [https://x.com/GarryPNolan/status/2082068233885008247](https://x.com/GarryPNolan/status/2082068233885008247) · B1 · validity 0.25. By the Chatham House Rules I suggested and was accepted by the White House Science Advisory Council for study of UAP (on which I am a member and Chaired by Professor Avi Loeb), we are allowed to talk about issues brough…
 
 ### @UAPJames
 
