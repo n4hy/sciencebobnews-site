@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-28 08:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-28 10:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 Science Bob News is an automated situation report of public UAP, UFO, and USO claims. Each cycle it reads public social posts and disclosure-podcast feeds, collapses reposts and brid.gy mirrors to one account, and counts another account only when it confirms the same claim. The letter rates the source from A to F, the digit rates the information from 1 to 6, and validity is the McGwier b2.81 score capped by that evidence, never above 0.90. A high score is not a claim that an object was non-human, and it is not a count of how often such reports are later confirmed.
 
@@ -40,12 +40,12 @@ _No corroborated reports this cycle._
    Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 2 posts. Validity 0.15.
    _D4 — source not usually reliable, information doubtful. 1 account on the same claim (2 posts). 1 repost or mirror collapsed. no sensor reading or official record tied to this claim. validity 0.15. mcgwier-b2.81._
 
-![UAP discussion — @thirdbookofthedead, Texas](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. UAP discussion — @thirdbookofthedead, Texas — reliability E4 · validity 0.07 · 1 source(s)  
-   [@thirdbookofthedead](https://mastodon.social/@thirdbookofthedead/117512613021487407)
-   > In 1883, a cowhand in West Texas saw a flickering light and thought of an Apache campfire. Searchers found no ashes. Today the Marfa lights have a viewing area. Students blamed highway headlights. A…
-   Source is unreliable (E). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.07.
-   _E4 — source unreliable, information doubtful. 1 account on the same claim (1 post). the text names a place, a sensor, or an official record. validity 0.07. mcgwier-b2.81._
+![UAP sighting report — @uapfinder — candidate: Satellite](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+5. UAP sighting report — @uapfinder — candidate: Satellite — reliability E4 · validity 0.05 · 1 source(s)  
+   [@uapfinder](https://mastodon.social/@uapfinder/117513000096659011)
+   > Unidentified light crosses the sky in 2 seconds, nothing checked · Oct 2026 · 200a What was ruled out: Nothing was checked against this capture — no satellite catalogue and no live aircraft data were… · What is this light? Nothing was checked against it · Oct 2026 · 181d What was ruled out: Nothing was checked against this capture — no satellite catalogue and no live aircraft data were available. No… · Checked again…
+   Source is unreliable (E). The report is doubtful (4). 1 account on the same claim, from 5 posts. Validity 0.05.
+   _E4 — source unreliable, information doubtful. 1 account on the same claim (5 posts). 4 repost or mirror collapsed. no sensor reading or official record tied to this claim. prosaic candidate: Satellite. validity 0.05. mcgwier-b2.81._
 
 ## Disclosure podcasts
 
