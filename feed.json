@@ -262,6 +262,15 @@
       "letter": "C",
       "tier": "secondary",
       "focus": "Anomalous-intersection research. No post in the 28 October 2026 retrieval stated a UAP subject in its own text, so this account is listed and not yet in the fit."
+    },
+    {
+      "handle": "thesentinelnet",
+      "name": "The Sentinel Network",
+      "followers": 9114,
+      "letter": "C",
+      "tier": "publication",
+      "focus": "Independent OSINT publication, The Sentinel Briefing, at thesentinel.network. The X profile read on 28 October 2026 says it investigates 3I/ATLAS and U.S. defense aerospace and names UFO, UAP, and alien. The homepage says over 5,000 subscribers. Own category. No post from this account is in the fit.",
+      "url": "https://thesentinel.network/"
     }
   ],
   "watched_posts": [

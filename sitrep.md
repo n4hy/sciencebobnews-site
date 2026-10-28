@@ -71,6 +71,10 @@ These accounts are part of every retrain. A post is used only when its own text 
 - [@disclosurefound](https://x.com/disclosurefound) — Disclosure Foundation · 15,942 followers · letter C. Advocacy for UAP research and government openness.
 - [@planethunter56](https://x.com/planethunter56) — UAP Juan · 65,913 followers · letter C. Anomalous-intersection research. No post in the 28 October 2026 retrieval stated a UAP subject in its own text, so this account is listed and not yet in the fit.
 
+### Independent publications
+
+- [The Sentinel Network](https://thesentinel.network/) — [@thesentinelnet](https://x.com/thesentinelnet) · 9,114 followers · letter C. Independent OSINT publication, The Sentinel Briefing, at thesentinel.network. The X profile read on 28 October 2026 says it investigates 3I/ATLAS and U.S. defense aerospace and names UFO, UAP, and alien. The homepage says over 5,000 subscribers. Own category. No post from this account is in the fit.
+
 ## Posts from those accounts
 
 - 2026-10-21 23:42 UTC — [@jaystratton](https://x.com/jaystratton/status/2113053310861369445) · B4 · validity 0.32. Very proud to share that my memoir, Out of the Shadows, has debuted at #2 on the NY Times Best Sellers List. Thank you to everyone who has read the book and recommended it to friends and family. And thank you to everyon…
