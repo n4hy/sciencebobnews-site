@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-28 15:00 UTC",
+  "generated_utc": "2026-10-28 16:00 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Letter is source reliability. Digit 1 means independent sources confirm the claim. Science Bob is two of those sources on the named accounts, except Grant Cameron. Validity is the McGwier b2.81 score, capped by the evidence bound. It is not a field frequency and not a claim of non-human origin.",
   "scorer": "mcgwier-b2.81",
   "stories": [
@@ -435,6 +435,15 @@
       "tier": "secondary",
       "focus": "Anomalous-intersection research. No post in the 28 October 2026 retrieval stated a UAP subject in its own text, so this account is listed and not yet in the fit.",
       "photo": "avatars/planethunter56.jpg"
+    },
+    {
+      "handle": "TheUfoJoe",
+      "name": "Joe Murgia",
+      "followers": 119673,
+      "letter": "B",
+      "tier": "listed",
+      "focus": "Joe Murgia. The X profile read on 28 October 2026 says he covers the latest on UFOs and the paranormal, takes it seriously, and knows nothing. Science Bob's validity for him is 0.60. Science Bob has two views on this account. That count does not change the information digit. The evidence bound is unchanged. Letter B, because 0.60 is above 0.55. No post from this account is in the fit.",
+      "photo": "avatars/TheUfoJoe.jpg"
     },
     {
       "handle": "thesentinelnet",

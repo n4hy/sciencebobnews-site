@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-28 15:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-28 16:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 Science Bob News is an automated situation report of public UAP, UFO, and USO claims. Each cycle it reads public social posts and disclosure-podcast feeds, collapses reposts and brid.gy mirrors to one account, and counts another account only when it confirms the same claim. The letter rates the source from A to F, the digit rates the information from 1 to 6, and validity is the McGwier b2.81 score capped by that evidence, never above 0.90. A high score is not a claim that an object was non-human, and it is not a count of how often such reports are later confirmed.
 
@@ -244,6 +244,13 @@ These accounts are part of every retrain. A post is used only when its own text 
 ![UAP Juan](avatars/planethunter56.jpg)
 
 - [@planethunter56](https://x.com/planethunter56) — UAP Juan · 65,913 followers · letter C. Anomalous-intersection research. No post in the 28 October 2026 retrieval stated a UAP subject in its own text, so this account is listed and not yet in the fit.
+- No in-scope post in the fit.
+
+### @TheUfoJoe
+
+![Joe Murgia](avatars/TheUfoJoe.jpg)
+
+- [@TheUfoJoe](https://x.com/TheUfoJoe) — Joe Murgia · 119,673 followers · letter B. Joe Murgia. The X profile read on 28 October 2026 says he covers the latest on UFOs and the paranormal, takes it seriously, and knows nothing. Science Bob's validity for him is 0.60. Science Bob has two views on this account. That count does not change the information digit. The evidence bound is unchanged. Letter B, because 0.60 is above 0.55. No post from this account is in the fit.
 - No in-scope post in the fit.
 
 ### @thesentinelnet — Independent publications
