@@ -20,7 +20,7 @@
     <text x="62" y="68" font-family="Helvetica, Arial, sans-serif" font-size="52" font-weight="800"
           text-anchor="middle" fill="#fff">D</text>
     <text x="62" y="102" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="600"
-          text-anchor="middle" fill="#e67e22">4</text>
+          text-anchor="middle" fill="#e67e22">3</text>
   </g>
   <g transform="translate(176,30)">
     <rect width="180" height="22" rx="11" fill="rgba(255,255,255,0.16)"/>
@@ -30,7 +30,7 @@
   <text x="176" y="78" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="600" fill="#fff">UAP document report — @setiinstitute,</text>
   <text x="176" y="106" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="600" fill="#fff">California</text>
   <g transform="translate(176,148)" font-family="Helvetica, Arial, sans-serif" fill="#fff" opacity="0.92">
-    <text x="0" y="14" font-size="14">validity 0.15 · D4 · 1 indep · mastodon</text>
+    <text x="0" y="14" font-size="14">validity 0.55 · D3 · 2 indep · mastodon</text>
   </g>
-  <text x="176" y="196" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#f0d7a2">D4 — source not usually reliable, information doubtful. 1 account on the same claim (2…</text>
+  <text x="176" y="196" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#f0d7a2">D3 — source not usually reliable, information possibly true. 2 accounts on the same cla…</text>
 </svg>
