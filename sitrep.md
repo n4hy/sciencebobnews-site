@@ -119,7 +119,7 @@ These accounts are part of every retrain. A post is used only when its own text 
 
 ![Chris Bledsoe](avatars/ufoofgod.jpg)
 
-- [@ufoofgod](https://x.com/ufoofgod) — Chris Bledsoe · 5,862 followers · letter C. Chris Bledsoe. The X profile read on 28 October 2026 says he is telling his story after 15 years. The profile image is the cover of UFO of God: The Extraordinary True Story of Chris Bledsoe. Listed under Richard Dolan. Letter C. No post from this account is in the fit.
+- [@ufoofgod](https://x.com/ufoofgod) — Chris Bledsoe · 5,862 followers · letter B. Chris Bledsoe. The X profile read on 28 October 2026 says he is telling his story after 15 years. The profile image is the cover of UFO of God: The Extraordinary True Story of Chris Bledsoe. Listed under Richard Dolan. His assigned validity is 0.70, above 0.55, so the source letter is B. The information digit is unchanged. No post from this account is in the fit.
 - No in-scope post in the fit.
 
 ### @GrantCameron
@@ -129,11 +129,18 @@ These accounts are part of every retrain. A post is used only when its own text 
 - [@GrantCameron](https://x.com/GrantCameron) — Grant Cameron · 54,675 followers · letter C. The X profile read on 28 October 2026 names WhitehouseUFO and PresidentialUFO and the subjects UFO, disclosure, and UAP. Listed under Chris Bledsoe. Letter C. No post from this account is in the fit.
 - No in-scope post in the fit.
 
+### @GallaudetTim
+
+![Tim Gallaudet](avatars/GallaudetTim.jpg)
+
+- [@GallaudetTim](https://x.com/GallaudetTim) — Tim Gallaudet · 15,852 followers · letter B. Rear Admiral Timothy C. Gallaudet, U.S. Navy. The Navy biography updated 17 November 2014 names him Rear Admiral and Commander, Naval Meteorology and Oceanography Command. The U.S. Naval Institute byline is Rear Admiral Tim Gallaudet, U.S. Navy (Retired), CEO of Ocean STL Consulting. His X profile read on 28 October 2026 says he is CEO of Ocean STL Consulting, former Deputy and Acting NOAA Administrator (2017-2021), and former Oceanographer of the Navy (2014-2017). Science Bob's validity for him is 0.70, and Science Bob counts two witnesses. That count does not change the information digit. Minimum letter B, because 0.70 is above 0.55. No post from this account is in the fit.
+- No in-scope post in the fit.
+
 ### @TravisTaylorX — Named with the task force circle
 
 ![Travis S. Taylor](avatars/TravisTaylorX.jpg)
 
-- [@TravisTaylorX](https://x.com/TravisTaylorX) — Travis S. Taylor · 16,142 followers · letter C. Scientist and engineer. Public posts concern Skinwalker Ranch. No post in the 28 October 2026 retrieval stated a UAP subject in its own text, so this account is listed and not yet in the fit.
+- [@TravisTaylorX](https://x.com/TravisTaylorX) — Travis S. Taylor · 16,142 followers · letter B. Scientist and engineer. Public posts concern Skinwalker Ranch. His assigned validity is 0.65, above 0.55, so the source letter is B. The information digit is unchanged. No post in the 28 October 2026 retrieval stated a UAP subject in its own text, so this account is listed and not yet in the fit.
 - No in-scope post in the fit.
 
 ### @BrandonFugal — Named with the task force circle
@@ -200,7 +207,7 @@ These accounts are part of every retrain. A post is used only when its own text 
 
 ![Garry Nolan](avatars/GarryPNolan.jpg)
 
-- [@GarryPNolan](https://x.com/GarryPNolan) — Garry Nolan · 131,770 followers · letter C. Stanford professor. UAP science advisory work.
+- [@GarryPNolan](https://x.com/GarryPNolan) — Garry Nolan · 131,770 followers · letter B. Stanford professor. UAP science advisory work. His assigned validity is 0.65, above 0.55, so the source letter is B. The information digit is unchanged.
 - 2026-07-28 11:38 UTC — [https://x.com/GarryPNolan/status/2082068233885008247](https://x.com/GarryPNolan/status/2082068233885008247) · C4 · validity 0.25. By the Chatham House Rules I suggested and was accepted by the White House Science Advisory Council for study of UAP (on which I am a member and Chaired by Professor Avi Loeb), we are allowed to talk about issues brough…
 
 ### @UAPJames

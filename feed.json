@@ -278,9 +278,9 @@
       "handle": "ufoofgod",
       "name": "Chris Bledsoe",
       "followers": 5862,
-      "letter": "C",
+      "letter": "B",
       "tier": "listed",
-      "focus": "Chris Bledsoe. The X profile read on 28 October 2026 says he is telling his story after 15 years. The profile image is the cover of UFO of God: The Extraordinary True Story of Chris Bledsoe. Listed under Richard Dolan. Letter C. No post from this account is in the fit.",
+      "focus": "Chris Bledsoe. The X profile read on 28 October 2026 says he is telling his story after 15 years. The profile image is the cover of UFO of God: The Extraordinary True Story of Chris Bledsoe. Listed under Richard Dolan. His assigned validity is 0.70, above 0.55, so the source letter is B. The information digit is unchanged. No post from this account is in the fit.",
       "photo": "avatars/ufoofgod.jpg"
     },
     {
@@ -293,12 +293,21 @@
       "photo": "avatars/GrantCameron.jpg"
     },
     {
+      "handle": "GallaudetTim",
+      "name": "Tim Gallaudet",
+      "followers": 15852,
+      "letter": "B",
+      "tier": "listed",
+      "focus": "Rear Admiral Timothy C. Gallaudet, U.S. Navy. The Navy biography updated 17 November 2014 names him Rear Admiral and Commander, Naval Meteorology and Oceanography Command. The U.S. Naval Institute byline is Rear Admiral Tim Gallaudet, U.S. Navy (Retired), CEO of Ocean STL Consulting. His X profile read on 28 October 2026 says he is CEO of Ocean STL Consulting, former Deputy and Acting NOAA Administrator (2017-2021), and former Oceanographer of the Navy (2014-2017). Science Bob's validity for him is 0.70, and Science Bob counts two witnesses. That count does not change the information digit. Minimum letter B, because 0.70 is above 0.55. No post from this account is in the fit.",
+      "photo": "avatars/GallaudetTim.jpg"
+    },
+    {
       "handle": "TravisTaylorX",
       "name": "Travis S. Taylor",
       "followers": 16142,
-      "letter": "C",
+      "letter": "B",
       "tier": "named",
-      "focus": "Scientist and engineer. Public posts concern Skinwalker Ranch. No post in the 28 October 2026 retrieval stated a UAP subject in its own text, so this account is listed and not yet in the fit.",
+      "focus": "Scientist and engineer. Public posts concern Skinwalker Ranch. His assigned validity is 0.65, above 0.55, so the source letter is B. The information digit is unchanged. No post in the 28 October 2026 retrieval stated a UAP subject in its own text, so this account is listed and not yet in the fit.",
       "photo": "avatars/TravisTaylorX.jpg"
     },
     {
@@ -377,9 +386,9 @@
       "handle": "GarryPNolan",
       "name": "Garry Nolan",
       "followers": 131770,
-      "letter": "C",
+      "letter": "B",
       "tier": "primary",
-      "focus": "Stanford professor. UAP science advisory work.",
+      "focus": "Stanford professor. UAP science advisory work. His assigned validity is 0.65, above 0.55, so the source letter is B. The information digit is unchanged.",
       "photo": "avatars/GarryPNolan.jpg"
     },
     {
