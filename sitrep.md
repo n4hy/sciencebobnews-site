@@ -69,6 +69,27 @@ These accounts are part of every retrain. A post is used only when its own text 
 - 2026-10-02 01:04 UTC — [https://x.com/jaystratton/status/2105826201495625870](https://x.com/jaystratton/status/2105826201495625870) · B4 · validity 0.32. Love this shot. Dr. Travis Taylor, Chief Scientist of the UAP Task Force, me, and Dr. Hal Puthoff, Chief Scientist of AAWSAP.
 - 2026-09-24 23:08 UTC — [https://x.com/jaystratton/status/2103260294676136004](https://x.com/jaystratton/status/2103260294676136004) · B4 · validity 0.32. Feels great to finally have the first physical copy of Out of the Shadows in my hands! Excited for you all to get yours!
 
+### @I_D_Official
+
+![Richard Dolan](avatars/I_D_Official.jpg)
+
+- [@I_D_Official](https://x.com/I_D_Official) — Richard Dolan · 126,866 followers · letter C. Richard Dolan Intelligent Disclosure. The X profile read on 28 October 2026 calls him a UAP historian and UFO researcher. Listed directly under Jay Stratton. Letter C. No post from this account is in the fit.
+- No in-scope post in the fit.
+
+### @ufoofgod
+
+![Chris Bledsoe](avatars/ufoofgod.jpg)
+
+- [@ufoofgod](https://x.com/ufoofgod) — Chris Bledsoe · 5,862 followers · letter C. Chris Bledsoe. The X profile read on 28 October 2026 says he is telling his story after 15 years. The profile image is the cover of UFO of God: The Extraordinary True Story of Chris Bledsoe. Listed under Richard Dolan. Letter C. No post from this account is in the fit.
+- No in-scope post in the fit.
+
+### @GrantCameron
+
+![Grant Cameron](avatars/GrantCameron.jpg)
+
+- [@GrantCameron](https://x.com/GrantCameron) — Grant Cameron · 54,675 followers · letter C. The X profile read on 28 October 2026 names WhitehouseUFO and PresidentialUFO and the subjects UFO, disclosure, and UAP. Listed under Chris Bledsoe. Letter C. No post from this account is in the fit.
+- No in-scope post in the fit.
+
 ### @TravisTaylorX — Named with the task force circle
 
 ![Travis S. Taylor](avatars/TravisTaylorX.jpg)
