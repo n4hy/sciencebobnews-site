@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-28 22:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-28 23:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 Science Bob News is an automated situation report of public UAP, UFO, and USO claims. Each cycle it reads public social posts and disclosure-podcast feeds, collapses reposts and brid.gy mirrors to one account, and counts another account only when it confirms the same claim. The letter rates the source from A to F, the digit rates the information from 1 to 6, and validity is the McGwier b2.81 score capped by that evidence, never above 0.90. A high score is not a claim that an object was non-human, and it is not a count of how often such reports are later confirmed.
 
@@ -37,8 +37,8 @@ _No corroborated reports this cycle._
 4. UAP discussion — @vibewire@mastodon.au — reliability D4 · validity 0.15 · 1 source(s)  
    [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117520701466666014)
    > Who Is Joining the UFO Team In Congress Next? http:// dlvr.it/TW5jPm # UFO # UFONews # ufodisclosure · An Entire Civilization Beneath North America… With Pyramids 10 Times Bigger Than Giza! http:// dlvr.it/TW5Y2h # UFO # UFONews # ufodisclosure · An Unusual Client, a Congressman and Roswell | Reality Check http:// dlvr.it/TW5QvN # UFO # UFONews # ufodisclosure · The Secret Government Operation Faking Alien Abduction…
-   Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 7 posts. Validity 0.15.
-   _D4 — source not usually reliable, information doubtful. 1 account on the same claim (7 posts). 6 repost or mirror collapsed. no sensor reading or official record tied to this claim. validity 0.15. mcgwier-b2.81._
+   Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 6 posts. Validity 0.15.
+   _D4 — source not usually reliable, information doubtful. 1 account on the same claim (6 posts). 5 repost or mirror collapsed. no sensor reading or official record tied to this claim. validity 0.15. mcgwier-b2.81._
 
 ![UAP sighting report — @AlcorNews](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
 5. UAP sighting report — @AlcorNews — reliability D4 · validity 0.15 · 1 source(s)  
@@ -48,46 +48,7 @@ _No corroborated reports this cycle._
    _D4 — source not usually reliable, information doubtful. 1 account on the same claim (2 posts). 1 repost or mirror collapsed. no sensor reading or official record tied to this claim. validity 0.15. mcgwier-b2.81._
 
 ## Disclosure podcasts
-
-![Bigfoot, Dogman & Terrifying Cryptid Encounters](https://n4hy.github.io/sciencebobnews-site/card_d_6.svg)
-1. Bigfoot, Dogman & Terrifying Cryptid Encounters — reliability C4 · validity 0.5 · 2 source(s)  
-   [@SpacedOutRadio](https://www.youtube.com/watch?v=a0Tzc8CaBEA)  
-   📹 [video](https://www.youtube.com/watch?v=a0Tzc8CaBEA)
-   > Bigfoot, Dogman & Terrifying Cryptid Encounters. October 23, 2026 - Daniel Hamilton Daniel “Dano” Hamilton is the creator and host of The Cryptid Podcast, a growing show dedicated to eyewitness encou…
-   Source is fairly reliable (C). The report is doubtful (4). 2 accounts on the same claim, from 1 post. Validity 0.50.
-   _C4 — source fairly reliable, information doubtful. 2 accounts on the same claim (1 post). the text names a place, a sensor, or an official record. a show episode, not an independent sighting. validity 0.50. publisher-floor. Science Bob's minimum for Dave Scott on Spaced Out Radio is 0.50. He has been on that show 100 times and counts himself as a repeat._
-
-![#35 WHY DO ROCKSTARS SEE UFOS? — Sound, Light & Frequency](https://n4hy.github.io/sciencebobnews-site/card_d_7.svg)
-2. #35 WHY DO ROCKSTARS SEE UFOS? — Sound, Light & Frequency — reliability C4 · validity 0.4 · 2 source(s)  
-   [@NeedToKnow](https://www.youtube.com/watch?v=GgjkPj3nh98)  
-   📹 [video](https://www.youtube.com/watch?v=GgjkPj3nh98)
-   > #35 WHY DO ROCKSTARS SEE UFOS? — Sound, Light & Frequency. What happens when a rock star goes looking for the people who supposedly know the truth about UFOs—and actually finds them? In “Why Do Rocks…
-   Source is fairly reliable (C). The report is doubtful (4). 2 accounts on the same claim, from 1 post. Validity 0.40.
-   _C4 — source fairly reliable, information doubtful. 2 accounts on the same claim (1 post). the text names a place, a sensor, or an official record. a show episode, not an independent sighting. validity 0.40. publisher-floor. Science Bob's validity for a disclosure podcast is 0.40, and he counts himself as an independent source._
-
-![UFO Secrets, UAP Stories and Government Secrets on NHI](https://n4hy.github.io/sciencebobnews-site/card_d_8.svg)
-3. UFO Secrets, UAP Stories and Government Secrets on NHI — reliability C4 · validity 0.5 · 2 source(s)  
-   [@SpacedOutRadio](https://www.youtube.com/watch?v=seNQZdUu_WM)  
-   📹 [video](https://www.youtube.com/watch?v=seNQZdUu_WM)
-   > UFO Secrets, UAP Stories and Government Secrets on NHI. October 14, 2026 - Courtney Marchesani Courtney Marchesani is an author, researcher, and citizen journalist whose work explores the intersectio…
-   Source is fairly reliable (C). The report is doubtful (4). 2 accounts on the same claim, from 1 post. Validity 0.50.
-   _C4 — source fairly reliable, information doubtful. 2 accounts on the same claim (1 post). the text names a place, a sensor, or an official record. a show episode, not an independent sighting. validity 0.50. publisher-floor. Science Bob's minimum for Dave Scott on Spaced Out Radio is 0.50. He has been on that show 100 times and counts himself as a repeat._
-
-![“THIS IS THE FIRST TIME I’VE TALKED ABOUT THIS ON CAMERA”](https://n4hy.github.io/sciencebobnews-site/card_d_9.svg)
-4. “THIS IS THE FIRST TIME I’VE TALKED ABOUT THIS ON CAMERA” — reliability C4 · validity 0.4 · 2 source(s)  
-   [@Weaponized](https://www.youtube.com/watch?v=sIBjOCENWmg)  
-   📹 [video](https://www.youtube.com/watch?v=sIBjOCENWmg)
-   > “THIS IS THE FIRST TIME I’VE TALKED ABOUT THIS ON CAMERA”. WATCH FULL EPISODE HERE : ••• In WEAPONIZED, Jeremy Corbell and George Knapp pull back the veil on the world of the known, to explore the un…
-   Source is fairly reliable (C). The report is doubtful (4). 2 accounts on the same claim, from 1 post. Validity 0.40.
-   _C4 — source fairly reliable, information doubtful. 2 accounts on the same claim (1 post). the text names a place, a sensor, or an official record. a show episode, not an independent sighting. validity 0.40. publisher-floor. Science Bob's validity for a disclosure podcast is 0.40, and he counts himself as an independent source._
-
-![Jay Stratton’s FIRST-EVER Interview - Before The World Knew His Name](https://n4hy.github.io/sciencebobnews-site/card_d_10.svg)
-5. Jay Stratton’s FIRST-EVER Interview - Before The World Knew His Name — reliability C4 · validity 0.4 · 2 source(s)  
-   [@Weaponized](https://www.youtube.com/watch?v=9GblwqzGFAY)  
-   📹 [video](https://www.youtube.com/watch?v=9GblwqzGFAY)
-   > Jay Stratton’s FIRST-EVER Interview - Before The World Knew His Name. Before Jay Stratton became a public face of the UFO disclosure movement, before his book Out of the Shadows, and before his revel…
-   Source is fairly reliable (C). The report is doubtful (4). 2 accounts on the same claim, from 1 post. Validity 0.40.
-   _C4 — source fairly reliable, information doubtful. 2 accounts on the same claim (1 post). the text names a place, a sensor, or an official record. a show episode, not an independent sighting. validity 0.40. publisher-floor. Science Bob's validity for a disclosure podcast is 0.40, and he counts himself as an independent source._
+_None this cycle._
 
 ## Watched accounts
 
