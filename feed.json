@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-28 11:45 UTC",
+  "generated_utc": "2026-10-28 11:46 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Letter is source reliability. Digit 1 requires independent confirmation of a specific claim by sources no worse than C. Validity is the McGwier b2.81 score, capped by the evidence bound. It is not a field frequency and not a claim of non-human origin.",
   "scorer": "mcgwier-b2.81",
   "stories": [
@@ -10,11 +10,11 @@
       "headline": "UAP document report — @setiinstitute, California",
       "lane": "developing",
       "status": "DEVELOPING",
-      "summary": "Source is not usually reliable (D). The report is possibly true (3). 2 accounts on the same claim, from 2 posts. Validity 0.55.",
+      "summary": "Source is not usually reliable (D). The report is doubtful (4). 2 accounts on the same claim, from 2 posts. Validity 0.55.",
       "excerpt": "3/n...attentional development. It's a mixed bag to be sure ; our experiences and the environs they occur in have huge effect in forming our \" filters \". How much is engineered in advance vs synthesiz… · 🛸 Newly released Pentagon files detail UFO sightings over California's Catalina Island in the 1940s and 1950s. But do these decades-old reports suggest extraterrestrial visitors? SETI Institute Presi…",
-      "validity_why": "D3 — source not usually reliable, information possibly true. 2 accounts on the same claim (2 posts). 1 other account in the cluster do not confirm that claim. the text names a place, a sensor, or an official record. validity 0.55. publisher-floor. Science Bob's minimum for @setiinstitute is 0.55, and he counts himself as a repeat.",
+      "validity_why": "D4 — source not usually reliable, information doubtful. 2 accounts on the same claim (2 posts). 1 other account in the cluster do not confirm that claim. the text names a place, a sensor, or an official record. validity 0.55. publisher-floor. Science Bob's minimum for @setiinstitute is 0.55, and he counts himself as a repeat.",
       "scorer": "publisher-floor",
-      "reliability": "D3",
+      "reliability": "D4",
       "p_credible": 0.55,
       "independent_sources": 2,
       "platforms": [
@@ -80,29 +80,6 @@
       "update": false
     },
     {
-      "headline": "Unidentified submerged object report — @did:plc:3fcjihtf433w3fh2za66adsy",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "summary": "Source is unreliable (E). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.07.",
-      "excerpt": "Un laudo frena la exclusión de la FTSP-USO del proceso electoral de Securitas en Córdoba y obliga a repetir los comicios - ftspuso.es/un-laudo-fre...",
-      "validity_why": "E4 — source unreliable, information doubtful. 1 account on the same claim (1 post). no sensor reading or official record tied to this claim. validity 0.07. mcgwier-b2.81.",
-      "scorer": "mcgwier-b2.81",
-      "reliability": "E4",
-      "p_credible": 0.07,
-      "independent_sources": 1,
-      "platforms": [
-        "bluesky"
-      ],
-      "sources": [
-        {
-          "handle": "did:plc:3fcjihtf433w3fh2za66adsy",
-          "url": "https://bsky.app/profile/did:plc:3fcjihtf433w3fh2za66adsy/post/3mywogr742k23"
-        }
-      ],
-      "videos": [],
-      "update": false
-    },
-    {
       "headline": "UAP sighting report — @AlcorNews",
       "lane": "developing",
       "status": "DEVELOPING",
@@ -130,14 +107,37 @@
       "update": false
     },
     {
+      "headline": "UAP sighting report — @uapfinder — candidate: Satellite",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "summary": "Source is unreliable (E). The report is doubtful (4). 1 account on the same claim, from 5 posts. Validity 0.05.",
+      "excerpt": "Unidentified light crosses the sky in 2 seconds, nothing checked · Oct 2026 · 200a What was ruled out: Nothing was checked against this capture — no satellite catalogue and no live aircraft data were… · What is this light? Nothing was checked against it · Oct 2026 · 181d What was ruled out: Nothing was checked against this capture — no satellite catalogue and no live aircraft data were available. No… · Checked again…",
+      "validity_why": "E4 — source unreliable, information doubtful. 1 account on the same claim (5 posts). 4 repost or mirror collapsed. no sensor reading or official record tied to this claim. prosaic candidate: Satellite. validity 0.05. mcgwier-b2.81.",
+      "scorer": "mcgwier-b2.81",
+      "reliability": "E4",
+      "p_credible": 0.05,
+      "independent_sources": 1,
+      "platforms": [
+        "mastodon"
+      ],
+      "sources": [
+        {
+          "handle": "uapfinder",
+          "url": "https://mastodon.social/@uapfinder/117513000096659011"
+        }
+      ],
+      "videos": [],
+      "update": false
+    },
+    {
       "headline": "Bigfoot, Dogman & Terrifying Cryptid Encounters",
       "lane": "podcast",
       "status": "DEVELOPING",
-      "summary": "Source is fairly reliable (C). The report is probably true (2). 2 accounts on the same claim, from 1 post. Validity 0.50.",
+      "summary": "Source is fairly reliable (C). The report is doubtful (4). 2 accounts on the same claim, from 1 post. Validity 0.50.",
       "excerpt": "Bigfoot, Dogman & Terrifying Cryptid Encounters. October 23, 2026 - Daniel Hamilton Daniel “Dano” Hamilton is the creator and host of The Cryptid Podcast, a growing show dedicated to eyewitness encou…",
-      "validity_why": "C2 — source fairly reliable, information probably true. 2 accounts on the same claim (1 post). the text names a place, a sensor, or an official record. a show episode, not an independent sighting. validity 0.50. publisher-floor. Science Bob's minimum for Dave Scott on Spaced Out Radio is 0.50. He has been on that show 100 times and counts himself as a repeat.",
+      "validity_why": "C4 — source fairly reliable, information doubtful. 2 accounts on the same claim (1 post). the text names a place, a sensor, or an official record. a show episode, not an independent sighting. validity 0.50. publisher-floor. Science Bob's minimum for Dave Scott on Spaced Out Radio is 0.50. He has been on that show 100 times and counts himself as a repeat.",
       "scorer": "publisher-floor",
-      "reliability": "C2",
+      "reliability": "C4",
       "p_credible": 0.5,
       "independent_sources": 2,
       "platforms": [
@@ -158,11 +158,11 @@
       "headline": "#35 WHY DO ROCKSTARS SEE UFOS? — Sound, Light & Frequency",
       "lane": "podcast",
       "status": "DEVELOPING",
-      "summary": "Source is fairly reliable (C). The report is probably true (2). 2 accounts on the same claim, from 1 post. Validity 0.40.",
+      "summary": "Source is fairly reliable (C). The report is doubtful (4). 2 accounts on the same claim, from 1 post. Validity 0.40.",
       "excerpt": "#35 WHY DO ROCKSTARS SEE UFOS? — Sound, Light & Frequency. What happens when a rock star goes looking for the people who supposedly know the truth about UFOs—and actually finds them? In “Why Do Rocks…",
-      "validity_why": "C2 — source fairly reliable, information probably true. 2 accounts on the same claim (1 post). the text names a place, a sensor, or an official record. a show episode, not an independent sighting. validity 0.40. publisher-floor. Science Bob's validity for a disclosure podcast is 0.40, and he counts himself as an independent source.",
+      "validity_why": "C4 — source fairly reliable, information doubtful. 2 accounts on the same claim (1 post). the text names a place, a sensor, or an official record. a show episode, not an independent sighting. validity 0.40. publisher-floor. Science Bob's validity for a disclosure podcast is 0.40, and he counts himself as an independent source.",
       "scorer": "publisher-floor",
-      "reliability": "C2",
+      "reliability": "C4",
       "p_credible": 0.4,
       "independent_sources": 2,
       "platforms": [
@@ -183,11 +183,11 @@
       "headline": "UFO Secrets, UAP Stories and Government Secrets on NHI",
       "lane": "podcast",
       "status": "DEVELOPING",
-      "summary": "Source is fairly reliable (C). The report is probably true (2). 2 accounts on the same claim, from 1 post. Validity 0.50.",
+      "summary": "Source is fairly reliable (C). The report is doubtful (4). 2 accounts on the same claim, from 1 post. Validity 0.50.",
       "excerpt": "UFO Secrets, UAP Stories and Government Secrets on NHI. October 14, 2026 - Courtney Marchesani Courtney Marchesani is an author, researcher, and citizen journalist whose work explores the intersectio…",
-      "validity_why": "C2 — source fairly reliable, information probably true. 2 accounts on the same claim (1 post). the text names a place, a sensor, or an official record. a show episode, not an independent sighting. validity 0.50. publisher-floor. Science Bob's minimum for Dave Scott on Spaced Out Radio is 0.50. He has been on that show 100 times and counts himself as a repeat.",
+      "validity_why": "C4 — source fairly reliable, information doubtful. 2 accounts on the same claim (1 post). the text names a place, a sensor, or an official record. a show episode, not an independent sighting. validity 0.50. publisher-floor. Science Bob's minimum for Dave Scott on Spaced Out Radio is 0.50. He has been on that show 100 times and counts himself as a repeat.",
       "scorer": "publisher-floor",
-      "reliability": "C2",
+      "reliability": "C4",
       "p_credible": 0.5,
       "independent_sources": 2,
       "platforms": [
@@ -208,11 +208,11 @@
       "headline": "“THIS IS THE FIRST TIME I’VE TALKED ABOUT THIS ON CAMERA”",
       "lane": "podcast",
       "status": "DEVELOPING",
-      "summary": "Source is fairly reliable (C). The report is probably true (2). 2 accounts on the same claim, from 1 post. Validity 0.40.",
+      "summary": "Source is fairly reliable (C). The report is doubtful (4). 2 accounts on the same claim, from 1 post. Validity 0.40.",
       "excerpt": "“THIS IS THE FIRST TIME I’VE TALKED ABOUT THIS ON CAMERA”. WATCH FULL EPISODE HERE : ••• In WEAPONIZED, Jeremy Corbell and George Knapp pull back the veil on the world of the known, to explore the un…",
-      "validity_why": "C2 — source fairly reliable, information probably true. 2 accounts on the same claim (1 post). the text names a place, a sensor, or an official record. a show episode, not an independent sighting. validity 0.40. publisher-floor. Science Bob's validity for a disclosure podcast is 0.40, and he counts himself as an independent source.",
+      "validity_why": "C4 — source fairly reliable, information doubtful. 2 accounts on the same claim (1 post). the text names a place, a sensor, or an official record. a show episode, not an independent sighting. validity 0.40. publisher-floor. Science Bob's validity for a disclosure podcast is 0.40, and he counts himself as an independent source.",
       "scorer": "publisher-floor",
-      "reliability": "C2",
+      "reliability": "C4",
       "p_credible": 0.4,
       "independent_sources": 2,
       "platforms": [
@@ -233,11 +233,11 @@
       "headline": "Jay Stratton’s FIRST-EVER Interview - Before The World Knew His Name",
       "lane": "podcast",
       "status": "DEVELOPING",
-      "summary": "Source is fairly reliable (C). The report is probably true (2). 2 accounts on the same claim, from 1 post. Validity 0.40.",
+      "summary": "Source is fairly reliable (C). The report is doubtful (4). 2 accounts on the same claim, from 1 post. Validity 0.40.",
       "excerpt": "Jay Stratton’s FIRST-EVER Interview - Before The World Knew His Name. Before Jay Stratton became a public face of the UFO disclosure movement, before his book Out of the Shadows, and before his revel…",
-      "validity_why": "C2 — source fairly reliable, information probably true. 2 accounts on the same claim (1 post). the text names a place, a sensor, or an official record. a show episode, not an independent sighting. validity 0.40. publisher-floor. Science Bob's validity for a disclosure podcast is 0.40, and he counts himself as an independent source.",
+      "validity_why": "C4 — source fairly reliable, information doubtful. 2 accounts on the same claim (1 post). the text names a place, a sensor, or an official record. a show episode, not an independent sighting. validity 0.40. publisher-floor. Science Bob's validity for a disclosure podcast is 0.40, and he counts himself as an independent source.",
       "scorer": "publisher-floor",
-      "reliability": "C2",
+      "reliability": "C4",
       "p_credible": 0.4,
       "independent_sources": 2,
       "platforms": [
