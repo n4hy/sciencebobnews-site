@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-28 19:00 UTC",
+  "generated_utc": "2026-10-28 20:00 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Letter is source reliability. Digit 1 means independent sources confirm the claim. Science Bob is two of those sources on the named accounts, except Grant Cameron. Validity is the McGwier b2.81 score, capped by the evidence bound. It is not a field frequency and not a claim of non-human origin.",
   "scorer": "mcgwier-b2.81",
   "stories": [
@@ -80,29 +80,6 @@
       "update": false
     },
     {
-      "headline": "UAP discussion — @did:plc:nspncuxik6xw67jckhqgw5en",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "summary": "Source is unreliable (E). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.07.",
-      "excerpt": "Our profile of Jones, with each defensive rule mapped to a number you can pull from a trade record: www.geckomode.ai/blog/paul-t... Disclosure: Gecko is our own product. Educational, not financial ad…",
-      "validity_why": "E4 — source unreliable, information doubtful. 1 account on the same claim (1 post). no sensor reading or official record tied to this claim. validity 0.07. mcgwier-b2.81.",
-      "scorer": "mcgwier-b2.81",
-      "reliability": "E4",
-      "p_credible": 0.07,
-      "independent_sources": 1,
-      "platforms": [
-        "bluesky"
-      ],
-      "sources": [
-        {
-          "handle": "did:plc:nspncuxik6xw67jckhqgw5en",
-          "url": "https://bsky.app/profile/did:plc:nspncuxik6xw67jckhqgw5en/post/3myxgpwdcds2i"
-        }
-      ],
-      "videos": [],
-      "update": false
-    },
-    {
       "headline": "UAP discussion — @vibewire@mastodon.au",
       "lane": "developing",
       "status": "DEVELOPING",
@@ -120,6 +97,33 @@
         {
           "handle": "vibewire@mastodon.au",
           "url": "https://mastodon.au/@vibewire/117519579809012197"
+        }
+      ],
+      "videos": [],
+      "update": false
+    },
+    {
+      "headline": "UAP sighting report — @AlcorNews",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "summary": "Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 2 posts. Validity 0.15.",
+      "excerpt": "Chine : Un objet noir flotte dans le ciel de Mui Wo. C'est quel brevet? #OVNI #ObservationInsolite #MuiWo #HongKong #ObjetVolant #PhenomeneAerien #Mystere #UFO #UFO #UAP #MuiWo #HongKong #Unidentifie… · Chine : Un objet noir flotte dans le ciel de Mui Wo. C'est quel brevet? # OVNI # ObservationInsolite # MuiWo # HongKong # ObjetVolant # PhenomeneAerien # Mystere # UFO # UFO # UAP # MuiWo # HongKong…",
+      "validity_why": "D4 — source not usually reliable, information doubtful. 1 account on the same claim (2 posts). 1 repost or mirror collapsed. no sensor reading or official record tied to this claim. validity 0.15. mcgwier-b2.81.",
+      "scorer": "mcgwier-b2.81",
+      "reliability": "D4",
+      "p_credible": 0.15,
+      "independent_sources": 1,
+      "platforms": [
+        "mastodon"
+      ],
+      "sources": [
+        {
+          "handle": "alcornews.bsky.social@bsky.brid.gy",
+          "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:3l5f3rhsngpxljnskia73bj7/post/3mytv6x6yi22k"
+        },
+        {
+          "handle": "AlcorNews",
+          "url": "https://mastodon.social/@AlcorNews/117512082353700013"
         }
       ],
       "videos": [],
@@ -690,6 +694,16 @@
   ],
   "probedspace_digest": [
     {
+      "created_utc": "2026-10-28T19:30:22+00:00",
+      "url": "https://x.com/ProbedSpace/status/2115526609059074107",
+      "excerpt": "Explore the claims and connections:"
+    },
+    {
+      "created_utc": "2026-10-28T19:30:22+00:00",
+      "url": "https://x.com/ProbedSpace/status/2115526605867241828",
+      "excerpt": "Human-staged UFO encounters and nonhuman intelligence can coexist, argues @Jason_Jorjani in his latest conversation with @AlchemyAmerican. Jorjani recounts And…"
+    },
+    {
       "created_utc": "2026-10-27T23:12:39+00:00",
       "url": "https://x.com/ProbedSpace/status/2115220158528823613",
       "excerpt": "One of the documents mentioned: the 2006 DoD Foreign Materiel Program directive.DIA’s role, acquisition and exploitation responsibilities, and special access p…"
@@ -698,11 +712,6 @@
       "created_utc": "2026-10-27T23:12:38+00:00",
       "url": "https://x.com/ProbedSpace/status/2115220154816577869",
       "excerpt": "NASIC, UFO crash retrievals and the Blue Room. We dug into @UAPGERB’s NASIC investigation - Grusch’s remarks, foreign technology exploitation and decades of wi…"
-    },
-    {
-      "created_utc": "2026-10-27T19:31:37+00:00",
-      "url": "https://x.com/ProbedSpace/status/2115164534872977741",
-      "excerpt": "Cold fusion turns up in Release 07. A 2008 MUFON proposal for BAASS includes an EDTEK reactor schematic. The authors say it had been built, but lacked funding…"
     }
   ]
 }

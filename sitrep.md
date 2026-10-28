@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-28 19:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-28 20:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 Science Bob News is an automated situation report of public UAP, UFO, and USO claims. Each cycle it reads public social posts and disclosure-podcast feeds, collapses reposts and brid.gy mirrors to one account, and counts another account only when it confirms the same claim. The letter rates the source from A to F, the digit rates the information from 1 to 6, and validity is the McGwier b2.81 score capped by that evidence, never above 0.90. A high score is not a claim that an object was non-human, and it is not a count of how often such reports are later confirmed.
 
@@ -33,19 +33,19 @@ _No corroborated reports this cycle._
    Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.15.
    _D4 — source not usually reliable, information doubtful. 1 account on the same claim (1 post). the text names a place, a sensor, or an official record. validity 0.15. mcgwier-b2.81._
 
-![UAP discussion — @did:plc:nspncuxik6xw67jckhqgw5en](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-4. UAP discussion — @did:plc:nspncuxik6xw67jckhqgw5en — reliability E4 · validity 0.07 · 1 source(s)  
-   [@did:plc:nspncuxik6xw67jckhqgw5en](https://bsky.app/profile/did:plc:nspncuxik6xw67jckhqgw5en/post/3myxgpwdcds2i)
-   > Our profile of Jones, with each defensive rule mapped to a number you can pull from a trade record: www.geckomode.ai/blog/paul-t... Disclosure: Gecko is our own product. Educational, not financial ad…
-   Source is unreliable (E). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.07.
-   _E4 — source unreliable, information doubtful. 1 account on the same claim (1 post). no sensor reading or official record tied to this claim. validity 0.07. mcgwier-b2.81._
-
-![UAP discussion — @vibewire@mastodon.au](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. UAP discussion — @vibewire@mastodon.au — reliability D4 · validity 0.15 · 1 source(s)  
+![UAP discussion — @vibewire@mastodon.au](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
+4. UAP discussion — @vibewire@mastodon.au — reliability D4 · validity 0.15 · 1 source(s)  
    [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117519579809012197)
    > An Entire Civilization Beneath North America… With Pyramids 10 Times Bigger Than Giza! http:// dlvr.it/TW5Y2h # UFO # UFONews # ufodisclosure · An Unusual Client, a Congressman and Roswell | Reality Check http:// dlvr.it/TW5QvN # UFO # UFONews # ufodisclosure · The Secret Government Operation Faking Alien Abductions http:// dlvr.it/TW4yDj # UFO # UFONews # ufodisclosure · Roswell Crash: Minute by Minute | Full Film…
    Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 6 posts. Validity 0.15.
    _D4 — source not usually reliable, information doubtful. 1 account on the same claim (6 posts). 5 repost or mirror collapsed. no sensor reading or official record tied to this claim. validity 0.15. mcgwier-b2.81._
+
+![UAP sighting report — @AlcorNews](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+5. UAP sighting report — @AlcorNews — reliability D4 · validity 0.15 · 1 source(s)  
+   [@alcornews.bsky.social@bsky.brid.gy](https://fed.brid.gy/r/https://bsky.app/profile/did:plc:3l5f3rhsngpxljnskia73bj7/post/3mytv6x6yi22k) · [@AlcorNews](https://mastodon.social/@AlcorNews/117512082353700013)
+   > Chine : Un objet noir flotte dans le ciel de Mui Wo. C'est quel brevet? #OVNI #ObservationInsolite #MuiWo #HongKong #ObjetVolant #PhenomeneAerien #Mystere #UFO #UFO #UAP #MuiWo #HongKong #Unidentifie… · Chine : Un objet noir flotte dans le ciel de Mui Wo. C'est quel brevet? # OVNI # ObservationInsolite # MuiWo # HongKong # ObjetVolant # PhenomeneAerien # Mystere # UFO # UFO # UAP # MuiWo # HongKong…
+   Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 2 posts. Validity 0.15.
+   _D4 — source not usually reliable, information doubtful. 1 account on the same claim (2 posts). 1 repost or mirror collapsed. no sensor reading or official record tied to this claim. validity 0.15. mcgwier-b2.81._
 
 ## Disclosure podcasts
 
@@ -261,9 +261,10 @@ These accounts are part of every retrain. A post is used only when its own text 
 - No in-scope post in the fit.
 
 ## From ProbedSpace on X (last 24 h)
+- 2026-10-28 19:30 UTC — “Explore the claims and connections:” [@ProbedSpace](https://x.com/ProbedSpace/status/2115526609059074107)
+- 2026-10-28 19:30 UTC — “Human-staged UFO encounters and nonhuman intelligence can coexist, argues @Jason_Jorjani in his latest conversation with @AlchemyAmerican. Jorjani recounts And…” [@ProbedSpace](https://x.com/ProbedSpace/status/2115526605867241828)
 - 2026-10-27 23:12 UTC — “One of the documents mentioned: the 2006 DoD Foreign Materiel Program directive.DIA’s role, acquisition and exploitation responsibilities, and special access p…” [@ProbedSpace](https://x.com/ProbedSpace/status/2115220158528823613)
 - 2026-10-27 23:12 UTC — “NASIC, UFO crash retrievals and the Blue Room. We dug into @UAPGERB’s NASIC investigation - Grusch’s remarks, foreign technology exploitation and decades of wi…” [@ProbedSpace](https://x.com/ProbedSpace/status/2115220154816577869)
-- 2026-10-27 19:31 UTC — “Cold fusion turns up in Release 07. A 2008 MUFON proposal for BAASS includes an EDTEK reactor schematic. The authors say it had been built, but lacked funding…” [@ProbedSpace](https://x.com/ProbedSpace/status/2115164534872977741)
 
 ---
 *Thank [Dennis Cove](https://x.com/DennisCova11335) (@DennisCova11335) for his suggestions.*
