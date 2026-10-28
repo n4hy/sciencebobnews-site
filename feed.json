@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-28 01:00 UTC",
+  "generated_utc": "2026-10-28 01:41 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Letter is source reliability. Digit 1 requires independent confirmation of a specific claim by sources no worse than C. Validity is the McGwier b2.81 score, capped by the evidence bound. It is not a field frequency and not a claim of non-human origin.",
   "scorer": "mcgwier-b2.81",
   "stories": [
@@ -134,21 +134,371 @@
       "update": false
     }
   ],
-  "probedspace_digest": [
+  "watched_accounts": [
     {
-      "created_utc": "2026-10-27T23:12:39+00:00",
-      "url": "https://x.com/ProbedSpace/status/2115220158528823613",
-      "excerpt": "One of the documents mentioned: the 2006 DoD Foreign Materiel Program directive.DIA’s role, acquisition and exploitation responsibilities, and special access p…"
+      "handle": "jaystratton",
+      "name": "Jay Stratton",
+      "followers": 28733,
+      "letter": "B",
+      "tier": "lead",
+      "focus": "First director of the Pentagon UAP Task Force, named when the Department of Defense announced it in 2020. Publisher accounts say he built that task force. Memoir: Out of the Shadows: Revealing the Truth About Non-Human Intelligent Life (William Morrow, 13 October 2026)."
     },
     {
-      "created_utc": "2026-10-27T23:12:38+00:00",
-      "url": "https://x.com/ProbedSpace/status/2115220154816577869",
-      "excerpt": "NASIC, UFO crash retrievals and the Blue Room. We dug into @UAPGERB’s NASIC investigation - Grusch’s remarks, foreign technology exploitation and decades of wi…"
+      "handle": "TravisTaylorX",
+      "name": "Travis S. Taylor",
+      "followers": 16142,
+      "letter": "C",
+      "tier": "named",
+      "focus": "Scientist and engineer. Public posts concern Skinwalker Ranch. No post in the 28 October 2026 retrieval stated a UAP subject in its own text, so this account is listed and not yet in the fit."
     },
     {
-      "created_utc": "2026-10-27T19:31:37+00:00",
-      "url": "https://x.com/ProbedSpace/status/2115164534872977741",
-      "excerpt": "Cold fusion turns up in Release 07. A 2008 MUFON proposal for BAASS includes an EDTEK reactor schematic. The authors say it had been built, but lacked funding…"
+      "handle": "BrandonFugal",
+      "name": "Brandon Fugal",
+      "followers": 148165,
+      "letter": "C",
+      "tier": "named",
+      "focus": "Skinwalker Ranch. Chairman, Colliers Utah."
+    },
+    {
+      "handle": "JeremyCorbell",
+      "name": "Jeremy Kenyon Lockyer Corbell",
+      "followers": 309106,
+      "letter": "C",
+      "tier": "primary",
+      "focus": "Investigative journalist and filmmaker. Weaponized podcast. UAP reporting."
+    },
+    {
+      "handle": "LueElizondo",
+      "name": "Luis Elizondo",
+      "followers": 265096,
+      "letter": "C",
+      "tier": "primary",
+      "focus": "Former AATIP director. Disclosure advocate and author."
+    },
+    {
+      "handle": "rosscoulthart",
+      "name": "Ross Coulthart",
+      "followers": 213553,
+      "letter": "C",
+      "tier": "primary",
+      "focus": "Investigative journalist, NewsNation. Reality Check. Hearings and whistleblowers."
+    },
+    {
+      "handle": "jamescfox",
+      "name": "James Fox",
+      "followers": 186066,
+      "letter": "C",
+      "tier": "primary",
+      "focus": "Filmmaker: The Phenomenon, Moment of Contact, The Program."
+    },
+    {
+      "handle": "theblackvault",
+      "name": "John Greenewald Jr.",
+      "followers": 184388,
+      "letter": "C",
+      "tier": "primary",
+      "focus": "FOIA specialist. Archive of declassified records."
+    },
+    {
+      "handle": "InterstellarUAP",
+      "name": "Interstellar",
+      "followers": 152185,
+      "letter": "C",
+      "tier": "primary",
+      "focus": "UAP news aggregation and commentary."
+    },
+    {
+      "handle": "PostDisclosure",
+      "name": "Post Disclosure World",
+      "followers": 147664,
+      "letter": "C",
+      "tier": "primary",
+      "focus": "YouTube coverage of the UAP disclosure process."
+    },
+    {
+      "handle": "GarryPNolan",
+      "name": "Garry Nolan",
+      "followers": 131770,
+      "letter": "C",
+      "tier": "primary",
+      "focus": "Stanford professor. UAP science advisory work."
+    },
+    {
+      "handle": "UAPJames",
+      "name": "UAP James",
+      "followers": 78104,
+      "letter": "C",
+      "tier": "secondary",
+      "focus": "Congressional and media clips on UAP."
+    },
+    {
+      "handle": "ageofdisclosure",
+      "name": "The Age of Disclosure",
+      "followers": 64552,
+      "letter": "C",
+      "tier": "secondary",
+      "focus": "Account for the Age of Disclosure documentary."
+    },
+    {
+      "handle": "disclosureorg",
+      "name": "Disclosure Party",
+      "followers": 37659,
+      "letter": "C",
+      "tier": "secondary",
+      "focus": "Legislation and transparency campaigns on UAP."
+    },
+    {
+      "handle": "disclosurefound",
+      "name": "Disclosure Foundation",
+      "followers": 15942,
+      "letter": "C",
+      "tier": "secondary",
+      "focus": "Advocacy for UAP research and government openness."
+    },
+    {
+      "handle": "planethunter56",
+      "name": "UAP Juan",
+      "followers": 65913,
+      "letter": "C",
+      "tier": "secondary",
+      "focus": "Anomalous-intersection research. No post in the 28 October 2026 retrieval stated a UAP subject in its own text, so this account is listed and not yet in the fit."
     }
-  ]
+  ],
+  "watched_posts": [
+    {
+      "handle": "jaystratton",
+      "url": "https://x.com/jaystratton/status/2113053310861369445",
+      "ts": "2026-10-21 23:42 UTC",
+      "letter": "B",
+      "digit": 4,
+      "p_published": 0.32,
+      "excerpt": "Very proud to share that my memoir, Out of the Shadows, has debuted at #2 on the NY Times Best Sellers List. Thank you to everyone who has read the book and recommended it to friends and family. And thank you to everyone who helped make this book possible!"
+    },
+    {
+      "handle": "jaystratton",
+      "url": "https://x.com/jaystratton/status/2111262822311280975",
+      "ts": "2026-10-17 01:07 UTC",
+      "letter": "B",
+      "digit": 4,
+      "p_published": 0.32,
+      "excerpt": "Here’s my full interview with @ElizabethKPIX and @CBSNews, discussing my memoir, Out of the Shadows. Thanks for your support, Elizabeth!"
+    },
+    {
+      "handle": "jaystratton",
+      "url": "https://x.com/jaystratton/status/2111253351325421982",
+      "ts": "2026-10-17 00:29 UTC",
+      "letter": "B",
+      "digit": 4,
+      "p_published": 0.32,
+      "excerpt": "Here’s my full interview with @jaketapper @TheLeadCNN about my new memoir, Out of the Shadows. Thanks again for your support Jake and @CNN!"
+    },
+    {
+      "handle": "jaystratton",
+      "url": "https://x.com/jaystratton/status/2110919305454088266",
+      "ts": "2026-10-16 02:22 UTC",
+      "letter": "B",
+      "digit": 4,
+      "p_published": 0.32,
+      "excerpt": "Here’s my full interview from tonight with @JesseBWatters regarding my memoir, Out of the Shadows. Thanks again for your support @JesseBWatters @FoxNews!"
+    },
+    {
+      "handle": "jaystratton",
+      "url": "https://x.com/jaystratton/status/2110902137630990519",
+      "ts": "2026-10-16 01:14 UTC",
+      "letter": "B",
+      "digit": 4,
+      "p_published": 0.32,
+      "excerpt": "Had a great time discussing my new memoir, Out of the Shadows, with @JesseBWatters on @FoxNews. Thanks for your support @JesseBWatters!"
+    },
+    {
+      "handle": "jaystratton",
+      "url": "https://x.com/jaystratton/status/2110500033762410635",
+      "ts": "2026-10-14 22:36 UTC",
+      "letter": "B",
+      "digit": 4,
+      "p_published": 0.32,
+      "excerpt": "Great talking with @jaketapper @TheLeadCNN about my memoir, Out of the Shadows. Thanks for your support @jaketapper!"
+    },
+    {
+      "handle": "jaystratton",
+      "url": "https://x.com/jaystratton/status/2105826201495625870",
+      "ts": "2026-10-02 01:04 UTC",
+      "letter": "B",
+      "digit": 4,
+      "p_published": 0.32,
+      "excerpt": "Love this shot. Dr. Travis Taylor, Chief Scientist of the UAP Task Force, me, and Dr. Hal Puthoff, Chief Scientist of AAWSAP."
+    },
+    {
+      "handle": "jaystratton",
+      "url": "https://x.com/jaystratton/status/2103260294676136004",
+      "ts": "2026-09-24 23:08 UTC",
+      "letter": "B",
+      "digit": 4,
+      "p_published": 0.32,
+      "excerpt": "Feels great to finally have the first physical copy of Out of the Shadows in my hands! Excited for you all to get yours!"
+    },
+    {
+      "handle": "JeremyCorbell",
+      "url": "https://x.com/JeremyCorbell/status/2114261071578226777",
+      "ts": "2026-10-25 07:41 UTC",
+      "letter": "C",
+      "digit": 4,
+      "p_published": 0.25,
+      "excerpt": "In 2022, George Knapp and I flew to Huntsville, Alabama, to sit down with Jay Stratton for his very first on-camera interview. Before Out of the Shadows. Before the headlines. The former director of the Pentagon’s UAP Task Force walks us through TIC TAC, GIMBAL, and GOFAST, his c"
+    },
+    {
+      "handle": "UAPJames",
+      "url": "https://x.com/UAPJames/status/2112717402991702132",
+      "ts": "2026-10-21 01:27 UTC",
+      "letter": "C",
+      "digit": 4,
+      "p_published": 0.25,
+      "excerpt": "Jay Stratton tells Chris Cuomo the UAP Legacy Program is comprised of the CIA, U.S. Air Force, Department of Energy, and “defense contractor community”. President Trump is not aware of the program’s effort to recover and reverse-engineer “craft of non-human origin” per Stratton."
+    },
+    {
+      "handle": "UAPJames",
+      "url": "https://x.com/UAPJames/status/2112883232366604716",
+      "ts": "2026-10-21 12:26 UTC",
+      "letter": "C",
+      "digit": 4,
+      "p_published": 0.25,
+      "excerpt": "Rep. Burlison says President Trump’s UFO files release effort has given China and Russia an opportunity to beat the U.S. to Disclosure. “I think the President and his PURSUE effort has frustration… We have a very Deep State that’s still holding onto a lot of information.”"
+    },
+    {
+      "handle": "rosscoulthart",
+      "url": "https://x.com/rosscoulthart/status/2115220542693560550",
+      "ts": "2026-10-27 23:14 UTC",
+      "letter": "C",
+      "digit": 4,
+      "p_published": 0.25,
+      "excerpt": "Retired Navy admiral & fmr @NOAA admin @GallaudetTim warns of decades-long UAP 'cover-up,' points to deep ocean as ultimate hiding spot https://www.foxnews.com/media/retired-navy-admiral-warns-decades-long-uap-cover-up-points-deep-ocean-ultimate-hiding-spot #FoxNews"
+    },
+    {
+      "handle": "rosscoulthart",
+      "url": "https://x.com/rosscoulthart/status/2115217015111909707",
+      "ts": "2026-10-27 23:00 UTC",
+      "letter": "C",
+      "digit": 4,
+      "p_published": 0.25,
+      "excerpt": "Extraordinary allegations from a lawyer who represented a man working inside the Legacy UAP retrieval program. Allegations of a covert conflict between an NHI & US @DeptofWar, the loss of @usairforce pilots concealed as training accidents. REALITY CHECK: https://www.youtube.com/w"
+    },
+    {
+      "handle": "jamescfox",
+      "url": "https://x.com/jamescfox/status/2114886913958309975",
+      "ts": "2026-10-27 01:08 UTC",
+      "letter": "C",
+      "digit": 4,
+      "p_published": 0.25,
+      "excerpt": "Intelligence officials maintain the government possesses proof of nonhuman intelligence. Let scientists examine the evidence. The public should not accept conclusions on faith. Nor on secrecy. Disclosure today. https://nypost.com/2026/10/26/opinion/we-deserve-answers-on-ufo-sight"
+    },
+    {
+      "handle": "LueElizondo",
+      "url": "https://x.com/LueElizondo/status/2111145826353353128",
+      "ts": "2026-10-16 17:22 UTC",
+      "letter": "C",
+      "digit": 4,
+      "p_published": 0.25,
+      "excerpt": "Today we mourn the death of a good friend and great patriot. A military cop, a UAP whistleblower, and an Experiencer. Mario Woods was an inspiration to many, including myself. Never afraid to speak truth to power and he taught me many lessons on how to be a better human being. It"
+    },
+    {
+      "handle": "theblackvault",
+      "url": "https://x.com/theblackvault/status/2110347023417499997",
+      "ts": "2026-10-14 12:28 UTC",
+      "letter": "C",
+      "digit": 4,
+      "p_published": 0.25,
+      "excerpt": "NEW: I knew Larry Bryant for many, many years. So sad he passed back in 2020. He was a great friend, and researcher, who doggedly pursued the UFO truth through FOIA and litigation. The Black Vault has now archived just some of the historical CIA records documenting researcher Lar"
+    },
+    {
+      "handle": "InterstellarUAP",
+      "url": "https://x.com/InterstellarUAP/status/2115224321010389297",
+      "ts": "2026-10-27 23:29 UTC",
+      "letter": "C",
+      "digit": 4,
+      "p_published": 0.22,
+      "excerpt": "Enhanced Slow Motion Video of Alien & UFO allegedly filmed by former Skywatcher Psionic Asset Mike Battista. The video shows a possible interdimensional being moving from right to left. It was released by Mike Battista's former business partner @EricSte71349740. Just to be clear "
+    },
+    {
+      "handle": "PostDisclosure",
+      "url": "https://x.com/PostDisclosure/status/2115192522704363753",
+      "ts": "2026-10-27 21:22 UTC",
+      "letter": "C",
+      "digit": 4,
+      "p_published": 0.25,
+      "excerpt": "One major reason I don't think governments want UFO disclosure is that they don't want us to look beyond them. I could see religions falling into this same trap. If every debate remains confined to the human sphere, our existing institutions never have to compete with the perspec"
+    },
+    {
+      "handle": "GarryPNolan",
+      "url": "https://x.com/GarryPNolan/status/2082068233885008247",
+      "ts": "2026-07-28 11:38 UTC",
+      "letter": "C",
+      "digit": 4,
+      "p_published": 0.25,
+      "excerpt": "By the Chatham House Rules I suggested and was accepted by the White House Science Advisory Council for study of UAP (on which I am a member and Chaired by Professor Avi Loeb), we are allowed to talk about issues brought forward to the council without attribution. James Erdman wa"
+    },
+    {
+      "handle": "ageofdisclosure",
+      "url": "https://x.com/ageofdisclosure/status/2114378501331861769",
+      "ts": "2026-10-25 15:28 UTC",
+      "letter": "C",
+      "digit": 4,
+      "p_published": 0.25,
+      "excerpt": "UAP present “a safety of flight concern for all military and civilian aviation.”"
+    },
+    {
+      "handle": "disclosureorg",
+      "url": "https://x.com/disclosureorg/status/2115093174792106228",
+      "ts": "2026-10-27 14:48 UTC",
+      "letter": "C",
+      "digit": 4,
+      "p_published": 0.25,
+      "excerpt": "The UAP Disclosure Act already passed in 2023, but the independent review board and enforcement powers were stripped at the last minute under pressure from government bureaucrats. We're now trying to pass the same legislation, and we got it through the House. We need the Senate t"
+    },
+    {
+      "handle": "disclosurefound",
+      "url": "https://x.com/disclosurefound/status/2115190436524655078",
+      "ts": "2026-10-27 21:14 UTC",
+      "letter": "C",
+      "digit": 4,
+      "p_published": 0.25,
+      "excerpt": "New arrivals at the Disclosure Foundation shop. We've expanded our official merchandise collection with new styles and more ways to represent the mission of transparency, accountability, and UAP disclosure."
+    },
+    {
+      "handle": "BrandonFugal",
+      "url": "https://x.com/BrandonFugal/status/2112266418557432230",
+      "ts": "2026-10-19 19:35 UTC",
+      "letter": "C",
+      "digit": 4,
+      "p_published": 0.25,
+      "excerpt": "Fall morning at Skinwalker Ranch…footage courtesy of @MrPeteKelsey, one of our trusted technology partners & team members…"
+    },
+    {
+      "handle": "BrandonFugal",
+      "url": "https://x.com/BrandonFugal/status/2101373869768761637",
+      "ts": "2026-09-19 18:12 UTC",
+      "letter": "C",
+      "digit": 4,
+      "p_published": 0.25,
+      "excerpt": "The White House highlights Skinwalker Ranch…and missing data…"
+    },
+    {
+      "handle": "BrandonFugal",
+      "url": "https://x.com/BrandonFugal/status/2097219244954198234",
+      "ts": "2026-09-08 07:03 UTC",
+      "letter": "C",
+      "digit": 4,
+      "p_published": 0.25,
+      "excerpt": "Years at Skinwalker Ranch, including a craft I saw with witnesses beside me, bring me to the same place as Peter. The evidence is now accumulating faster than the skepticism."
+    },
+    {
+      "handle": "BrandonFugal",
+      "url": "https://x.com/BrandonFugal/status/2090177430585802831",
+      "ts": "2026-08-19 20:41 UTC",
+      "letter": "C",
+      "digit": 4,
+      "p_published": 0.25,
+      "excerpt": "On the heels of our season finale this week it was announced we are moving into immediate experiments & research for Season 8 of The Secret of Skinwalker Ranch!"
+    }
+  ],
+  "probedspace_digest": []
 }
