@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-28 02:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-28 04:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 Science Bob News is an automated situation report of public UAP, UFO, and USO claims. Each cycle it reads public social posts and disclosure-podcast feeds, collapses reposts and brid.gy mirrors to one account, and counts another account only when it confirms the same claim. The letter rates the source from A to F, the digit rates the information from 1 to 6, and validity is the McGwier b2.81 score capped by that evidence, never above 0.90. A high score is not a claim that an object was non-human, and it is not a count of how often such reports are later confirmed.
 
@@ -14,31 +14,31 @@ _No corroborated reports this cycle._
 
 ![UAP document report — @setiinstitute, California](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
 1. UAP document report — @setiinstitute, California — reliability D4 · validity 0.15 · 1 source(s)  
-   [@setiinstitute](https://mastodon.social/@setiinstitute/117509693445581656) · [@veryexcitingtime](https://mastodon.social/@veryexcitingtime/117504875874752934) · [@cosmos4u@scicomm.xyz](https://scicomm.xyz/@cosmos4u/117510108189431949)
-   > 🛸 Newly released Pentagon files detail UFO sightings over California's Catalina Island in the 1940s and 1950s. But do these decades-old reports suggest extraterrestrial visitors? SETI Institute Presi… · 🛸 The Pentagon has a new legal waiver for # UAP disclosure, but it has some concerning gaps. Also the new government # UFO files include the AAWSAP reports… or do they? https:// veryexcitingtime.com/… · The November/…
-   Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 3 posts. Validity 0.15.
-   _D4 — source not usually reliable, information doubtful. 1 account on the same claim (3 posts). 2 other accounts in the cluster do not confirm that claim. the text names a place, a sensor, or an official record. validity 0.15. b2.81 said 0.18, cut to the 0.15 evidence cap. mcgwier-b2.81._
+   [@KilleansRow@mastodon.online](https://mastodon.online/@KilleansRow/117516310782683843) · [@setiinstitute](https://mastodon.social/@setiinstitute/117509693445581656)
+   > 3/n...attentional development. It's a mixed bag to be sure ; our experiences and the environs they occur in have huge effect in forming our " filters ". How much is engineered in advance vs synthesiz… · 🛸 Newly released Pentagon files detail UFO sightings over California's Catalina Island in the 1940s and 1950s. But do these decades-old reports suggest extraterrestrial visitors? SETI Institute Presi…
+   Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 2 posts. Validity 0.15.
+   _D4 — source not usually reliable, information doubtful. 1 account on the same claim (2 posts). 1 other account in the cluster do not confirm that claim. the text names a place, a sensor, or an official record. validity 0.15. b2.81 said 0.18, cut to the 0.15 evidence cap. mcgwier-b2.81._
 
-![UAP discussion — @vibewire@mastodon.au](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
-2. UAP discussion — @vibewire@mastodon.au — reliability D4 · validity 0.15 · 1 source(s)  
+![UAP document report — @veryexcitingtime](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
+2. UAP document report — @veryexcitingtime — reliability D4 · validity 0.15 · 1 source(s)  
+   [@veryexcitingtime](https://mastodon.social/@veryexcitingtime/117504875874752934) · [@cosmos4u@scicomm.xyz](https://scicomm.xyz/@cosmos4u/117510108189431949)
+   > 🛸 The Pentagon has a new legal waiver for # UAP disclosure, but it has some concerning gaps. Also the new government # UFO files include the AAWSAP reports… or do they? https:// veryexcitingtime.com/… · The November/December 2026 edition of the Skeptical Inquirer has a cover package toplined by Mick West’s “The # UFO Circus,” which looks at the waves of UAP-related Pentagon footage and documents rel…
+   Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 2 posts. Validity 0.15.
+   _D4 — source not usually reliable, information doubtful. 1 account on the same claim (2 posts). 1 other account in the cluster do not confirm that claim. the text names a place, a sensor, or an official record. validity 0.15. b2.81 said 0.18, cut to the 0.15 evidence cap. mcgwier-b2.81._
+
+![UAP discussion — @vibewire@mastodon.au](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
+3. UAP discussion — @vibewire@mastodon.au — reliability D4 · validity 0.15 · 1 source(s)  
    [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117514875552809393)
    > The Secret Government Operation Faking Alien Abductions http:// dlvr.it/TW4yDj # UFO # UFONews # ufodisclosure · The Light Gate Episode #182: Rowan Bo, UFO Girl http:// dlvr.it/TW4l5q # UFO # UFONews # ufodisclosure · Galactic Alliance Report: Who Was Jesus Really? The Hidden Cosmic Identity of Yeshua Revealed! http:// dlvr.it/TW4l4q # UFO # UFONews # ufodisclosure
    Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 3 posts. Validity 0.15.
    _D4 — source not usually reliable, information doubtful. 1 account on the same claim (3 posts). 2 repost or mirror collapsed. no sensor reading or official record tied to this claim. validity 0.15. mcgwier-b2.81._
 
-![UAP sighting report — @AlcorNews](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
-3. UAP sighting report — @AlcorNews — reliability D4 · validity 0.15 · 1 source(s)  
+![UAP sighting report — @AlcorNews](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
+4. UAP sighting report — @AlcorNews — reliability D4 · validity 0.15 · 1 source(s)  
    [@alcornews.bsky.social@bsky.brid.gy](https://fed.brid.gy/r/https://bsky.app/profile/did:plc:3l5f3rhsngpxljnskia73bj7/post/3mytv6x6yi22k) · [@AlcorNews](https://mastodon.social/@AlcorNews/117512082353700013)
    > Chine : Un objet noir flotte dans le ciel de Mui Wo. C'est quel brevet? #OVNI #ObservationInsolite #MuiWo #HongKong #ObjetVolant #PhenomeneAerien #Mystere #UFO #UFO #UAP #MuiWo #HongKong #Unidentifie… · Chine : Un objet noir flotte dans le ciel de Mui Wo. C'est quel brevet? # OVNI # ObservationInsolite # MuiWo # HongKong # ObjetVolant # PhenomeneAerien # Mystere # UFO # UFO # UAP # MuiWo # HongKong…
    Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 2 posts. Validity 0.15.
    _D4 — source not usually reliable, information doubtful. 1 account on the same claim (2 posts). 1 repost or mirror collapsed. no sensor reading or official record tied to this claim. validity 0.15. mcgwier-b2.81._
-
-![UAP discussion — @FlashMobOfOne@mstdn.social](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-4. UAP discussion — @FlashMobOfOne@mstdn.social — reliability E4 · validity 0.07 · 1 source(s)  
-   [@FlashMobOfOne@mstdn.social](https://mstdn.social/@FlashMobOfOne/117509986207873487)
-   > Got my filming done! Now to edit this beast. The raw video is 45 minutes, but I suspect it'll land between 25-30 minutes when I'm done. And then we release on Thursday or Friday for your nerdy Hallow…
-   Source is unreliable (E). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.07.
-   _E4 — source unreliable, information doubtful. 1 account on the same claim (1 post). no sensor reading or official record tied to this claim. validity 0.07. mcgwier-b2.81._
 
 ![UAP discussion — @thirdbookofthedead, Texas](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
 5. UAP discussion — @thirdbookofthedead, Texas — reliability E4 · validity 0.07 · 1 source(s)  
