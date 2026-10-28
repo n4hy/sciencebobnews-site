@@ -73,7 +73,7 @@ These accounts are part of every retrain. A post is used only when its own text 
 
 ### Independent publications
 
-- [The Sentinel Network](https://thesentinel.network/) — [@thesentinelnet](https://x.com/thesentinelnet) · 9,114 followers · letter C. The Sentinel Network publishes Sentinel News. Baptiste Friscourt operates the network. His public bio names him editor of Sentinel News and co-founder of the Sentinel Center Association. Robert W. McGwier advises him and does not edit the publication. The X profile read on 28 October 2026 says it investigates 3I/ATLAS and U.S. defense aerospace and names UFO, UAP, and alien. The homepage says over 5,000 subscribers. Letter C. No post from this account is in the fit.
+- [The Sentinel Network](https://thesentinel.network/) — [@thesentinelnet](https://x.com/thesentinelnet) · 9,114 followers · letter C. The Sentinel Network publishes Sentinel News. After the reorganization, science news is not a separate publication. Baptiste Friscourt operates the network. His public bio names him editor of Sentinel News and co-founder of the Sentinel Center Association. Robert W. McGwier advises him and does not edit the publication. The X profile read on 28 October 2026 says it investigates 3I/ATLAS and U.S. defense aerospace and names UFO, UAP, and alien. The homepage says over 5,000 subscribers. Letter C. No post from this account is in the fit.
 
 ## Posts from those accounts
 
