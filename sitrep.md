@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-28 00:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-28 01:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 Science Bob News is an automated situation report of public UAP, UFO, and USO claims. Each cycle it reads public social posts and disclosure-podcast feeds, collapses reposts and brid.gy mirrors to one account, and counts another account only when it confirms the same claim. The letter rates the source from A to F, the digit rates the information from 1 to 6, and validity is the McGwier b2.81 score capped by that evidence, never above 0.90. A high score is not a claim that an object was non-human, and it is not a count of how often such reports are later confirmed.
 
@@ -26,26 +26,26 @@ _No corroborated reports this cycle._
    Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 3 posts. Validity 0.14.
    _D4 — source not usually reliable, information doubtful. 1 account on the same claim (3 posts). 2 repost or mirror collapsed. no sensor reading or official record tied to this claim. validity 0.14. mcgwier-b2.81._
 
-![UAP discussion — @did:plc:nspncuxik6xw67jckhqgw5en](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
-3. UAP discussion — @did:plc:nspncuxik6xw67jckhqgw5en — reliability E4 · validity 0.06 · 1 source(s)  
-   [@did:plc:nspncuxik6xw67jckhqgw5en](https://bsky.app/profile/did:plc:nspncuxik6xw67jckhqgw5en/post/3myvgziuylc2d)
-   > Book notes: www.geckomode.ai/blog/the-in... Full disclosure: Gecko is something we make; it grades these habits from a broker statement. A spreadsheet works too. Educational, not financial advice.
-   Source is unreliable (E). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.06.
-   _E4 — source unreliable, information doubtful. 1 account on the same claim (1 post). no sensor reading or official record tied to this claim. validity 0.06. mcgwier-b2.81._
-
-![UAP sighting report — @AlcorNews](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-4. UAP sighting report — @AlcorNews — reliability D4 · validity 0.14 · 1 source(s)  
+![UAP sighting report — @AlcorNews](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
+3. UAP sighting report — @AlcorNews — reliability D4 · validity 0.14 · 1 source(s)  
    [@alcornews.bsky.social@bsky.brid.gy](https://fed.brid.gy/r/https://bsky.app/profile/did:plc:3l5f3rhsngpxljnskia73bj7/post/3mytv6x6yi22k) · [@AlcorNews](https://mastodon.social/@AlcorNews/117512082353700013)
    > Chine : Un objet noir flotte dans le ciel de Mui Wo. C'est quel brevet? #OVNI #ObservationInsolite #MuiWo #HongKong #ObjetVolant #PhenomeneAerien #Mystere #UFO #UFO #UAP #MuiWo #HongKong #Unidentifie… · Chine : Un objet noir flotte dans le ciel de Mui Wo. C'est quel brevet? # OVNI # ObservationInsolite # MuiWo # HongKong # ObjetVolant # PhenomeneAerien # Mystere # UFO # UFO # UAP # MuiWo # HongKong…
    Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 2 posts. Validity 0.14.
    _D4 — source not usually reliable, information doubtful. 1 account on the same claim (2 posts). 1 repost or mirror collapsed. no sensor reading or official record tied to this claim. validity 0.14. mcgwier-b2.81._
 
-![UAP discussion — @FlashMobOfOne@mstdn.social](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. UAP discussion — @FlashMobOfOne@mstdn.social — reliability E4 · validity 0.06 · 1 source(s)  
+![UAP discussion — @FlashMobOfOne@mstdn.social](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
+4. UAP discussion — @FlashMobOfOne@mstdn.social — reliability E4 · validity 0.06 · 1 source(s)  
    [@FlashMobOfOne@mstdn.social](https://mstdn.social/@FlashMobOfOne/117509986207873487)
    > Got my filming done! Now to edit this beast. The raw video is 45 minutes, but I suspect it'll land between 25-30 minutes when I'm done. And then we release on Thursday or Friday for your nerdy Hallow…
    Source is unreliable (E). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.06.
    _E4 — source unreliable, information doubtful. 1 account on the same claim (1 post). no sensor reading or official record tied to this claim. validity 0.06. mcgwier-b2.81._
+
+![UAP discussion — @thirdbookofthedead, Texas](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+5. UAP discussion — @thirdbookofthedead, Texas — reliability E4 · validity 0.06 · 1 source(s)  
+   [@thirdbookofthedead](https://mastodon.social/@thirdbookofthedead/117512613021487407)
+   > In 1883, a cowhand in West Texas saw a flickering light and thought of an Apache campfire. Searchers found no ashes. Today the Marfa lights have a viewing area. Students blamed highway headlights. A…
+   Source is unreliable (E). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.06.
+   _E4 — source unreliable, information doubtful. 1 account on the same claim (1 post). the text names a place, a sensor, or an official record. validity 0.06. mcgwier-b2.81._
 
 ## Disclosure podcasts
 _None this cycle._
