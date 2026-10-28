@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-28 13:00 UTC",
+  "generated_utc": "2026-10-28 14:00 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Letter is source reliability. Digit 1 means independent sources confirm the claim. Science Bob is two of those sources on the named accounts, except Grant Cameron. Validity is the McGwier b2.81 score, capped by the evidence bound. It is not a field frequency and not a claim of non-human origin.",
   "scorer": "mcgwier-b2.81",
   "stories": [
@@ -80,29 +80,6 @@
       "update": false
     },
     {
-      "headline": "Unidentified submerged object report — @did:plc:c774pm5gljkhwxpjqaixasfs",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "summary": "Source is unreliable (E). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.07.",
-      "excerpt": "Proponham uma nota social para as empresas brasileiras, baseada no cumprimento das expectativas sociais que recaem sobre elas no projetamento quinquenal da economia. Restrinjam a concessão de crédito…",
-      "validity_why": "E4 — source unreliable, information doubtful. 1 account on the same claim (1 post). no sensor reading or official record tied to this claim. validity 0.07. mcgwier-b2.81.",
-      "scorer": "mcgwier-b2.81",
-      "reliability": "E4",
-      "p_credible": 0.07,
-      "independent_sources": 1,
-      "platforms": [
-        "bluesky"
-      ],
-      "sources": [
-        {
-          "handle": "did:plc:c774pm5gljkhwxpjqaixasfs",
-          "url": "https://bsky.app/profile/did:plc:c774pm5gljkhwxpjqaixasfs/post/3mywsm5wzd22z"
-        }
-      ],
-      "videos": [],
-      "update": false
-    },
-    {
       "headline": "UAP sighting report — @AlcorNews",
       "lane": "developing",
       "status": "DEVELOPING",
@@ -124,6 +101,29 @@
         {
           "handle": "AlcorNews",
           "url": "https://mastodon.social/@AlcorNews/117512082353700013"
+        }
+      ],
+      "videos": [],
+      "update": false
+    },
+    {
+      "headline": "UAP discussion — @thirdbookofthedead, Texas",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "summary": "Source is unreliable (E). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.07.",
+      "excerpt": "In 1883, a cowhand in West Texas saw a flickering light and thought of an Apache campfire. Searchers found no ashes. Today the Marfa lights have a viewing area. Students blamed highway headlights. A…",
+      "validity_why": "E4 — source unreliable, information doubtful. 1 account on the same claim (1 post). the text names a place, a sensor, or an official record. validity 0.07. mcgwier-b2.81.",
+      "scorer": "mcgwier-b2.81",
+      "reliability": "E4",
+      "p_credible": 0.07,
+      "independent_sources": 1,
+      "platforms": [
+        "mastodon"
+      ],
+      "sources": [
+        {
+          "handle": "thirdbookofthedead",
+          "url": "https://mastodon.social/@thirdbookofthedead/117512613021487407"
         }
       ],
       "videos": [],
