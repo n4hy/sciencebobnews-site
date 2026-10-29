@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-29 20:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-29 22:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 Science Bob News is an automated situation report of public UAP, UFO, and USO claims. Each cycle it reads public social posts and disclosure-podcast feeds, collapses reposts and brid.gy mirrors to one account, and counts another account only when it confirms the same claim. The letter rates the source from A to F, the digit rates the information from 1 to 6, and validity is the McGwier b2.81 score capped by that evidence, never above 0.90. A high score is not a claim that an object was non-human, and it is not a count of how often such reports are later confirmed.
 
@@ -40,12 +40,12 @@ _No corroborated reports this cycle._
    Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.14.
    _D4 — source not usually reliable, information doubtful. 1 account on the same claim (1 post). no sensor reading or official record tied to this claim. validity 0.14. mcgwier-b2.81._
 
-![UAP discussion — @yuichi_asama@mstdn.jp](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. UAP discussion — @yuichi_asama@mstdn.jp — reliability D4 · validity 0.14 · 1 source(s)  
-   [@yuichi_asama@mstdn.jp](https://mstdn.jp/@yuichi_asama/117522118671362626)
-   > Change happens in an instant. Yet, being understood takes longer than the speed of light. Rather than a fleeting moment of magic, I chose to walk forward today—on my own two feet. # TwitterFiction #…
-   Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.14.
-   _D4 — source not usually reliable, information doubtful. 1 account on the same claim (1 post). no sensor reading or official record tied to this claim. validity 0.14. mcgwier-b2.81._
+![UAP discussion — @did:plc:5gpmjcsqhspovazp7yt5or5a](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+5. UAP discussion — @did:plc:5gpmjcsqhspovazp7yt5or5a — reliability E4 · validity 0.07 · 1 source(s)  
+   [@did:plc:5gpmjcsqhspovazp7yt5or5a](https://bsky.app/profile/did:plc:5gpmjcsqhspovazp7yt5or5a/post/3mz2bapllin22)
+   > 📚 今日のキーワード解説 (1/10) 自己開示（Self-disclosure） / 非開示（Nondisclosure） / 相互依存的文化（Interdependent culture） / PRISMモデル（PRISM: Culturally situated self-(non)disclosure model） ✉️ この論文の日本語解説はメールマガジンをご覧ください
+   Source is unreliable (E). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.07.
+   _E4 — source unreliable, information doubtful. 1 account on the same claim (1 post). no sensor reading or official record tied to this claim. validity 0.07. mcgwier-b2.81._
 
 ## Disclosure podcasts
 

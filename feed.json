@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-29 20:00 UTC",
+  "generated_utc": "2026-10-29 22:00 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Letter is source reliability. Digit 1 means independent sources confirm the claim. Science Bob is two of those sources on the named accounts, except Grant Cameron. Validity is the McGwier b2.81 score, capped by the evidence bound. It is not a field frequency and not a claim of non-human origin.",
   "scorer": "mcgwier-b2.81",
   "stories": [
@@ -103,23 +103,23 @@
       "update": false
     },
     {
-      "headline": "UAP discussion — @yuichi_asama@mstdn.jp",
+      "headline": "UAP discussion — @did:plc:5gpmjcsqhspovazp7yt5or5a",
       "lane": "developing",
       "status": "DEVELOPING",
-      "summary": "Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.14.",
-      "excerpt": "Change happens in an instant. Yet, being understood takes longer than the speed of light. Rather than a fleeting moment of magic, I chose to walk forward today—on my own two feet. # TwitterFiction #…",
-      "validity_why": "D4 — source not usually reliable, information doubtful. 1 account on the same claim (1 post). no sensor reading or official record tied to this claim. validity 0.14. mcgwier-b2.81.",
+      "summary": "Source is unreliable (E). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.07.",
+      "excerpt": "📚 今日のキーワード解説 (1/10) 自己開示（Self-disclosure） / 非開示（Nondisclosure） / 相互依存的文化（Interdependent culture） / PRISMモデル（PRISM: Culturally situated self-(non)disclosure model） ✉️ この論文の日本語解説はメールマガジンをご覧ください",
+      "validity_why": "E4 — source unreliable, information doubtful. 1 account on the same claim (1 post). no sensor reading or official record tied to this claim. validity 0.07. mcgwier-b2.81.",
       "scorer": "mcgwier-b2.81",
-      "reliability": "D4",
-      "p_credible": 0.14,
+      "reliability": "E4",
+      "p_credible": 0.07,
       "independent_sources": 1,
       "platforms": [
-        "mastodon"
+        "bluesky"
       ],
       "sources": [
         {
-          "handle": "yuichi_asama@mstdn.jp",
-          "url": "https://mstdn.jp/@yuichi_asama/117522118671362626"
+          "handle": "did:plc:5gpmjcsqhspovazp7yt5or5a",
+          "url": "https://bsky.app/profile/did:plc:5gpmjcsqhspovazp7yt5or5a/post/3mz2bapllin22"
         }
       ],
       "videos": [],
