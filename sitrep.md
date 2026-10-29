@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-29 02:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-29 04:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 Science Bob News is an automated situation report of public UAP, UFO, and USO claims. Each cycle it reads public social posts and disclosure-podcast feeds, collapses reposts and brid.gy mirrors to one account, and counts another account only when it confirms the same claim. The letter rates the source from A to F, the digit rates the information from 1 to 6, and validity is the McGwier b2.81 score capped by that evidence, never above 0.90. A high score is not a claim that an object was non-human, and it is not a count of how often such reports are later confirmed.
 
@@ -26,52 +26,29 @@ _No corroborated reports this cycle._
    Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.15.
    _D4 — source not usually reliable, information doubtful. 1 account on the same claim (1 post). the text names a place, a sensor, or an official record. validity 0.15. mcgwier-b2.81._
 
-![UAP discussion — @vibewire@mastodon.au](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
-3. UAP discussion — @vibewire@mastodon.au — reliability D4 · validity 0.14 · 1 source(s)  
-   [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117520701466666014)
-   > Who Is Joining the UFO Team In Congress Next? http:// dlvr.it/TW5jPm # UFO # UFONews # ufodisclosure · An Entire Civilization Beneath North America… With Pyramids 10 Times Bigger Than Giza! http:// dlvr.it/TW5Y2h # UFO # UFONews # ufodisclosure · An Unusual Client, a Congressman and Roswell | Reality Check http:// dlvr.it/TW5QvN # UFO # UFONews # ufodisclosure · The Secret Government Operation Faking Alien Abduction…
-   Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 5 posts. Validity 0.14.
-   _D4 — source not usually reliable, information doubtful. 1 account on the same claim (5 posts). 4 repost or mirror collapsed. no sensor reading or official record tied to this claim. validity 0.14. mcgwier-b2.81._
-
-![UAP document report — @researchbuzz_firehose@rbfirehose.com](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-4. UAP document report — @researchbuzz_firehose@rbfirehose.com — reliability D4 · validity 0.15 · 1 source(s)  
+![UAP document report — @researchbuzz_firehose@rbfirehose.com](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
+3. UAP document report — @researchbuzz_firehose@rbfirehose.com — reliability D4 · validity 0.15 · 1 source(s)  
    [@researchbuzz_firehose@rbfirehose.com](https://rbfirehose.com/2026/10/28/us-dod-department-of-war-publishes-seventh-release-of-unidentified-anomalous-phenomena-files-on-war-gov-ufo/)
    > US DoD: Department of War Publishes Seventh Release of Unidentified Anomalous Phenomena Files on WAR.GOV/UFO. “Today, the Department of War is publishing the seventh release of declassified and histo…
    Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.15.
    _D4 — source not usually reliable, information doubtful. 1 account on the same claim (1 post). the text names a place, a sensor, or an official record. validity 0.15. mcgwier-b2.81._
 
-![UAP sighting report — @AlcorNews](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. UAP sighting report — @AlcorNews — reliability D4 · validity 0.14 · 1 source(s)  
-   [@alcornews.bsky.social@bsky.brid.gy](https://fed.brid.gy/r/https://bsky.app/profile/did:plc:3l5f3rhsngpxljnskia73bj7/post/3mytv6x6yi22k) · [@AlcorNews](https://mastodon.social/@AlcorNews/117512082353700013)
-   > Chine : Un objet noir flotte dans le ciel de Mui Wo. C'est quel brevet? #OVNI #ObservationInsolite #MuiWo #HongKong #ObjetVolant #PhenomeneAerien #Mystere #UFO #UFO #UAP #MuiWo #HongKong #Unidentifie… · Chine : Un objet noir flotte dans le ciel de Mui Wo. C'est quel brevet? # OVNI # ObservationInsolite # MuiWo # HongKong # ObjetVolant # PhenomeneAerien # Mystere # UFO # UFO # UAP # MuiWo # HongKong…
-   Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 2 posts. Validity 0.14.
-   _D4 — source not usually reliable, information doubtful. 1 account on the same claim (2 posts). 1 repost or mirror collapsed. no sensor reading or official record tied to this claim. validity 0.14. mcgwier-b2.81._
+![UAP discussion — @vibewire@mastodon.au](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
+4. UAP discussion — @vibewire@mastodon.au — reliability D4 · validity 0.14 · 1 source(s)  
+   [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117519579809012197)
+   > An Entire Civilization Beneath North America… With Pyramids 10 Times Bigger Than Giza! http:// dlvr.it/TW5Y2h # UFO # UFONews # ufodisclosure
+   Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.14.
+   _D4 — source not usually reliable, information doubtful. 1 account on the same claim (1 post). no sensor reading or official record tied to this claim. validity 0.14. mcgwier-b2.81._
+
+![UAP discussion — @yuichi_asama@mstdn.jp](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+5. UAP discussion — @yuichi_asama@mstdn.jp — reliability D4 · validity 0.14 · 1 source(s)  
+   [@yuichi_asama@mstdn.jp](https://mstdn.jp/@yuichi_asama/117522118671362626)
+   > Change happens in an instant. Yet, being understood takes longer than the speed of light. Rather than a fleeting moment of magic, I chose to walk forward today—on my own two feet. # TwitterFiction #…
+   Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.14.
+   _D4 — source not usually reliable, information doubtful. 1 account on the same claim (1 post). no sensor reading or official record tied to this claim. validity 0.14. mcgwier-b2.81._
 
 ## Disclosure podcasts
-
-![And this is why we don’t trust the Government on UFO disclosure… - Richard Doty | ep. 100](https://n4hy.github.io/sciencebobnews-site/card_d_6.svg)
-1. And this is why we don’t trust the Government on UFO disclosure… - Richard Doty | ep. 100 — reliability C4 · validity 0.4 · 2 source(s)  
-   [@Area52](https://www.youtube.com/watch?v=vatEIiY3bKM)  
-   📹 [video](https://www.youtube.com/watch?v=vatEIiY3bKM)
-   > And this is why we don’t trust the Government on UFO disclosure… - Richard Doty | ep. 100. Full Episode: Main Channel: MERCH: Patreon: DISCORD:
-   Source is fairly reliable (C). The report is doubtful (4). 2 accounts on the same claim, from 1 post. Validity 0.40.
-   _C4 — source fairly reliable, information doubtful. 2 accounts on the same claim (1 post). no sensor reading or official record tied to this claim. a show episode, not an independent sighting. validity 0.40. publisher-floor. Science Bob's validity for a disclosure podcast is 0.40, and he counts himself as an independent source._
-
-![Richard Doty (Ex-OSI) Leaks Roswell & Kingman UFO Crash Details | ep. 100](https://n4hy.github.io/sciencebobnews-site/card_d_7.svg)
-2. Richard Doty (Ex-OSI) Leaks Roswell & Kingman UFO Crash Details | ep. 100 — reliability C4 · validity 0.4 · 2 source(s)  
-   [@Area52](https://www.youtube.com/watch?v=-Vfy1EYCRfA)  
-   📹 [video](https://www.youtube.com/watch?v=-Vfy1EYCRfA)
-   > Richard Doty (Ex-OSI) Leaks Roswell & Kingman UFO Crash Details | ep. 100. Full Episode: Main Channel: MERCH: Patreon: DISCORD:
-   Source is fairly reliable (C). The report is doubtful (4). 2 accounts on the same claim, from 1 post. Validity 0.40.
-   _C4 — source fairly reliable, information doubtful. 2 accounts on the same claim (1 post). no sensor reading or official record tied to this claim. a show episode, not an independent sighting. validity 0.40. publisher-floor. Science Bob's validity for a disclosure podcast is 0.40, and he counts himself as an independent source._
-
-![Hal Puthoff and I reported to a buried UFO... - Richard Doty | ep. 100](https://n4hy.github.io/sciencebobnews-site/card_d_8.svg)
-3. Hal Puthoff and I reported to a buried UFO... - Richard Doty | ep. 100 — reliability C4 · validity 0.4 · 2 source(s)  
-   [@Area52](https://www.youtube.com/watch?v=tSK12Nb7XMU)  
-   📹 [video](https://www.youtube.com/watch?v=tSK12Nb7XMU)
-   > Hal Puthoff and I reported to a buried UFO... - Richard Doty | ep. 100. Full Episode: Main Channel: MERCH: Patreon: DISCORD:
-   Source is fairly reliable (C). The report is doubtful (4). 2 accounts on the same claim, from 1 post. Validity 0.40.
-   _C4 — source fairly reliable, information doubtful. 2 accounts on the same claim (1 post). no sensor reading or official record tied to this claim. a show episode, not an independent sighting. validity 0.40. publisher-floor. Science Bob's validity for a disclosure podcast is 0.40, and he counts himself as an independent source._
+_None this cycle._
 
 ## Watched accounts
 

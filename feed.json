@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-29 02:00 UTC",
+  "generated_utc": "2026-10-29 04:00 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Letter is source reliability. Digit 1 means independent sources confirm the claim. Science Bob is two of those sources on the named accounts, except Grant Cameron. Validity is the McGwier b2.81 score, capped by the evidence bound. It is not a field frequency and not a claim of non-human origin.",
   "scorer": "mcgwier-b2.81",
   "stories": [
@@ -57,29 +57,6 @@
       "update": false
     },
     {
-      "headline": "UAP discussion — @vibewire@mastodon.au",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "summary": "Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 5 posts. Validity 0.14.",
-      "excerpt": "Who Is Joining the UFO Team In Congress Next? http:// dlvr.it/TW5jPm # UFO # UFONews # ufodisclosure · An Entire Civilization Beneath North America… With Pyramids 10 Times Bigger Than Giza! http:// dlvr.it/TW5Y2h # UFO # UFONews # ufodisclosure · An Unusual Client, a Congressman and Roswell | Reality Check http:// dlvr.it/TW5QvN # UFO # UFONews # ufodisclosure · The Secret Government Operation Faking Alien Abduction…",
-      "validity_why": "D4 — source not usually reliable, information doubtful. 1 account on the same claim (5 posts). 4 repost or mirror collapsed. no sensor reading or official record tied to this claim. validity 0.14. mcgwier-b2.81.",
-      "scorer": "mcgwier-b2.81",
-      "reliability": "D4",
-      "p_credible": 0.14,
-      "independent_sources": 1,
-      "platforms": [
-        "mastodon"
-      ],
-      "sources": [
-        {
-          "handle": "vibewire@mastodon.au",
-          "url": "https://mastodon.au/@vibewire/117520701466666014"
-        }
-      ],
-      "videos": [],
-      "update": false
-    },
-    {
       "headline": "UAP document report — @researchbuzz_firehose@rbfirehose.com",
       "lane": "developing",
       "status": "DEVELOPING",
@@ -103,12 +80,12 @@
       "update": false
     },
     {
-      "headline": "UAP sighting report — @AlcorNews",
+      "headline": "UAP discussion — @vibewire@mastodon.au",
       "lane": "developing",
       "status": "DEVELOPING",
-      "summary": "Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 2 posts. Validity 0.14.",
-      "excerpt": "Chine : Un objet noir flotte dans le ciel de Mui Wo. C'est quel brevet? #OVNI #ObservationInsolite #MuiWo #HongKong #ObjetVolant #PhenomeneAerien #Mystere #UFO #UFO #UAP #MuiWo #HongKong #Unidentifie… · Chine : Un objet noir flotte dans le ciel de Mui Wo. C'est quel brevet? # OVNI # ObservationInsolite # MuiWo # HongKong # ObjetVolant # PhenomeneAerien # Mystere # UFO # UFO # UAP # MuiWo # HongKong…",
-      "validity_why": "D4 — source not usually reliable, information doubtful. 1 account on the same claim (2 posts). 1 repost or mirror collapsed. no sensor reading or official record tied to this claim. validity 0.14. mcgwier-b2.81.",
+      "summary": "Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.14.",
+      "excerpt": "An Entire Civilization Beneath North America… With Pyramids 10 Times Bigger Than Giza! http:// dlvr.it/TW5Y2h # UFO # UFONews # ufodisclosure",
+      "validity_why": "D4 — source not usually reliable, information doubtful. 1 account on the same claim (1 post). no sensor reading or official record tied to this claim. validity 0.14. mcgwier-b2.81.",
       "scorer": "mcgwier-b2.81",
       "reliability": "D4",
       "p_credible": 0.14,
@@ -118,90 +95,34 @@
       ],
       "sources": [
         {
-          "handle": "alcornews.bsky.social@bsky.brid.gy",
-          "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:3l5f3rhsngpxljnskia73bj7/post/3mytv6x6yi22k"
-        },
-        {
-          "handle": "AlcorNews",
-          "url": "https://mastodon.social/@AlcorNews/117512082353700013"
+          "handle": "vibewire@mastodon.au",
+          "url": "https://mastodon.au/@vibewire/117519579809012197"
         }
       ],
       "videos": [],
       "update": false
     },
     {
-      "headline": "And this is why we don’t trust the Government on UFO disclosure… - Richard Doty | ep. 100",
-      "lane": "podcast",
+      "headline": "UAP discussion — @yuichi_asama@mstdn.jp",
+      "lane": "developing",
       "status": "DEVELOPING",
-      "summary": "Source is fairly reliable (C). The report is doubtful (4). 2 accounts on the same claim, from 1 post. Validity 0.40.",
-      "excerpt": "And this is why we don’t trust the Government on UFO disclosure… - Richard Doty | ep. 100. Full Episode: Main Channel: MERCH: Patreon: DISCORD:",
-      "validity_why": "C4 — source fairly reliable, information doubtful. 2 accounts on the same claim (1 post). no sensor reading or official record tied to this claim. a show episode, not an independent sighting. validity 0.40. publisher-floor. Science Bob's validity for a disclosure podcast is 0.40, and he counts himself as an independent source.",
-      "scorer": "publisher-floor",
-      "reliability": "C4",
-      "p_credible": 0.4,
-      "independent_sources": 2,
+      "summary": "Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.14.",
+      "excerpt": "Change happens in an instant. Yet, being understood takes longer than the speed of light. Rather than a fleeting moment of magic, I chose to walk forward today—on my own two feet. # TwitterFiction #…",
+      "validity_why": "D4 — source not usually reliable, information doubtful. 1 account on the same claim (1 post). no sensor reading or official record tied to this claim. validity 0.14. mcgwier-b2.81.",
+      "scorer": "mcgwier-b2.81",
+      "reliability": "D4",
+      "p_credible": 0.14,
+      "independent_sources": 1,
       "platforms": [
-        "youtube"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "Area52",
-          "url": "https://www.youtube.com/watch?v=vatEIiY3bKM"
+          "handle": "yuichi_asama@mstdn.jp",
+          "url": "https://mstdn.jp/@yuichi_asama/117522118671362626"
         }
       ],
-      "videos": [
-        "https://www.youtube.com/watch?v=vatEIiY3bKM"
-      ],
-      "update": false
-    },
-    {
-      "headline": "Richard Doty (Ex-OSI) Leaks Roswell & Kingman UFO Crash Details | ep. 100",
-      "lane": "podcast",
-      "status": "DEVELOPING",
-      "summary": "Source is fairly reliable (C). The report is doubtful (4). 2 accounts on the same claim, from 1 post. Validity 0.40.",
-      "excerpt": "Richard Doty (Ex-OSI) Leaks Roswell & Kingman UFO Crash Details | ep. 100. Full Episode: Main Channel: MERCH: Patreon: DISCORD:",
-      "validity_why": "C4 — source fairly reliable, information doubtful. 2 accounts on the same claim (1 post). no sensor reading or official record tied to this claim. a show episode, not an independent sighting. validity 0.40. publisher-floor. Science Bob's validity for a disclosure podcast is 0.40, and he counts himself as an independent source.",
-      "scorer": "publisher-floor",
-      "reliability": "C4",
-      "p_credible": 0.4,
-      "independent_sources": 2,
-      "platforms": [
-        "youtube"
-      ],
-      "sources": [
-        {
-          "handle": "Area52",
-          "url": "https://www.youtube.com/watch?v=-Vfy1EYCRfA"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=-Vfy1EYCRfA"
-      ],
-      "update": false
-    },
-    {
-      "headline": "Hal Puthoff and I reported to a buried UFO... - Richard Doty | ep. 100",
-      "lane": "podcast",
-      "status": "DEVELOPING",
-      "summary": "Source is fairly reliable (C). The report is doubtful (4). 2 accounts on the same claim, from 1 post. Validity 0.40.",
-      "excerpt": "Hal Puthoff and I reported to a buried UFO... - Richard Doty | ep. 100. Full Episode: Main Channel: MERCH: Patreon: DISCORD:",
-      "validity_why": "C4 — source fairly reliable, information doubtful. 2 accounts on the same claim (1 post). no sensor reading or official record tied to this claim. a show episode, not an independent sighting. validity 0.40. publisher-floor. Science Bob's validity for a disclosure podcast is 0.40, and he counts himself as an independent source.",
-      "scorer": "publisher-floor",
-      "reliability": "C4",
-      "p_credible": 0.4,
-      "independent_sources": 2,
-      "platforms": [
-        "youtube"
-      ],
-      "sources": [
-        {
-          "handle": "Area52",
-          "url": "https://www.youtube.com/watch?v=tSK12Nb7XMU"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=tSK12Nb7XMU"
-      ],
+      "videos": [],
       "update": false
     }
   ],
