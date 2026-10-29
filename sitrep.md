@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-29 00:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-29 01:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 Science Bob News is an automated situation report of public UAP, UFO, and USO claims. Each cycle it reads public social posts and disclosure-podcast feeds, collapses reposts and brid.gy mirrors to one account, and counts another account only when it confirms the same claim. The letter rates the source from A to F, the digit rates the information from 1 to 6, and validity is the McGwier b2.81 score capped by that evidence, never above 0.90. A high score is not a claim that an object was non-human, and it is not a count of how often such reports are later confirmed.
 
@@ -34,21 +34,60 @@ _No corroborated reports this cycle._
    _D4 — source not usually reliable, information doubtful. 1 account on the same claim (1 post). the text names a place, a sensor, or an official record. validity 0.15. mcgwier-b2.81._
 
 ![UAP discussion — @vibewire@mastodon.au](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-4. UAP discussion — @vibewire@mastodon.au — reliability D4 · validity 0.15 · 1 source(s)  
+4. UAP discussion — @vibewire@mastodon.au — reliability D4 · validity 0.14 · 1 source(s)  
    [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117520701466666014)
    > Who Is Joining the UFO Team In Congress Next? http:// dlvr.it/TW5jPm # UFO # UFONews # ufodisclosure · An Entire Civilization Beneath North America… With Pyramids 10 Times Bigger Than Giza! http:// dlvr.it/TW5Y2h # UFO # UFONews # ufodisclosure · An Unusual Client, a Congressman and Roswell | Reality Check http:// dlvr.it/TW5QvN # UFO # UFONews # ufodisclosure · The Secret Government Operation Faking Alien Abduction…
-   Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 6 posts. Validity 0.15.
-   _D4 — source not usually reliable, information doubtful. 1 account on the same claim (6 posts). 5 repost or mirror collapsed. no sensor reading or official record tied to this claim. validity 0.15. mcgwier-b2.81._
+   Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 6 posts. Validity 0.14.
+   _D4 — source not usually reliable, information doubtful. 1 account on the same claim (6 posts). 5 repost or mirror collapsed. no sensor reading or official record tied to this claim. validity 0.14. mcgwier-b2.81._
 
 ![UAP sighting report — @AlcorNews](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. UAP sighting report — @AlcorNews — reliability D4 · validity 0.15 · 1 source(s)  
+5. UAP sighting report — @AlcorNews — reliability D4 · validity 0.14 · 1 source(s)  
    [@alcornews.bsky.social@bsky.brid.gy](https://fed.brid.gy/r/https://bsky.app/profile/did:plc:3l5f3rhsngpxljnskia73bj7/post/3mytv6x6yi22k) · [@AlcorNews](https://mastodon.social/@AlcorNews/117512082353700013)
    > Chine : Un objet noir flotte dans le ciel de Mui Wo. C'est quel brevet? #OVNI #ObservationInsolite #MuiWo #HongKong #ObjetVolant #PhenomeneAerien #Mystere #UFO #UFO #UAP #MuiWo #HongKong #Unidentifie… · Chine : Un objet noir flotte dans le ciel de Mui Wo. C'est quel brevet? # OVNI # ObservationInsolite # MuiWo # HongKong # ObjetVolant # PhenomeneAerien # Mystere # UFO # UFO # UAP # MuiWo # HongKong…
-   Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 2 posts. Validity 0.15.
-   _D4 — source not usually reliable, information doubtful. 1 account on the same claim (2 posts). 1 repost or mirror collapsed. no sensor reading or official record tied to this claim. validity 0.15. mcgwier-b2.81._
+   Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 2 posts. Validity 0.14.
+   _D4 — source not usually reliable, information doubtful. 1 account on the same claim (2 posts). 1 repost or mirror collapsed. no sensor reading or official record tied to this claim. validity 0.14. mcgwier-b2.81._
 
 ## Disclosure podcasts
-_None this cycle._
+
+![Bigfoot, Dogman & Terrifying Cryptid Encounters](https://n4hy.github.io/sciencebobnews-site/card_d_6.svg)
+1. Bigfoot, Dogman & Terrifying Cryptid Encounters — reliability C4 · validity 0.5 · 2 source(s)  
+   [@SpacedOutRadio](https://www.youtube.com/watch?v=a0Tzc8CaBEA)  
+   📹 [video](https://www.youtube.com/watch?v=a0Tzc8CaBEA)
+   > Bigfoot, Dogman & Terrifying Cryptid Encounters. October 23, 2026 - Daniel Hamilton Daniel “Dano” Hamilton is the creator and host of The Cryptid Podcast, a growing show dedicated to eyewitness encou…
+   Source is fairly reliable (C). The report is doubtful (4). 2 accounts on the same claim, from 1 post. Validity 0.50.
+   _C4 — source fairly reliable, information doubtful. 2 accounts on the same claim (1 post). the text names a place, a sensor, or an official record. a show episode, not an independent sighting. validity 0.50. publisher-floor. Science Bob's minimum for Dave Scott on Spaced Out Radio is 0.50. He has been on that show 100 times and counts himself as a repeat._
+
+![UFO Secrets, UAP Stories and Government Secrets on NHI](https://n4hy.github.io/sciencebobnews-site/card_d_7.svg)
+2. UFO Secrets, UAP Stories and Government Secrets on NHI — reliability C4 · validity 0.5 · 2 source(s)  
+   [@SpacedOutRadio](https://www.youtube.com/watch?v=seNQZdUu_WM)  
+   📹 [video](https://www.youtube.com/watch?v=seNQZdUu_WM)
+   > UFO Secrets, UAP Stories and Government Secrets on NHI. October 14, 2026 - Courtney Marchesani Courtney Marchesani is an author, researcher, and citizen journalist whose work explores the intersectio…
+   Source is fairly reliable (C). The report is doubtful (4). 2 accounts on the same claim, from 1 post. Validity 0.50.
+   _C4 — source fairly reliable, information doubtful. 2 accounts on the same claim (1 post). the text names a place, a sensor, or an official record. a show episode, not an independent sighting. validity 0.50. publisher-floor. Science Bob's minimum for Dave Scott on Spaced Out Radio is 0.50. He has been on that show 100 times and counts himself as a repeat._
+
+![Werewolves & Vampires: Are the Legends Real?](https://n4hy.github.io/sciencebobnews-site/card_d_8.svg)
+3. Werewolves & Vampires: Are the Legends Real? — reliability C4 · validity 0.5 · 2 source(s)  
+   [@SpacedOutRadio](https://www.youtube.com/watch?v=6XJrsP671hU)  
+   📹 [video](https://www.youtube.com/watch?v=6XJrsP671hU)
+   > Werewolves & Vampires: Are the Legends Real?. October 13, 2026 - Dr. Dennis Carroll With more than 55 years of experience studying and investigating the paranormal and supernatural, Dennis W. Carroll…
+   Source is fairly reliable (C). The report is doubtful (4). 2 accounts on the same claim, from 1 post. Validity 0.50.
+   _C4 — source fairly reliable, information doubtful. 2 accounts on the same claim (1 post). no sensor reading or official record tied to this claim. a show episode, not an independent sighting. validity 0.50. publisher-floor. Science Bob's minimum for Dave Scott on Spaced Out Radio is 0.50. He has been on that show 100 times and counts himself as a repeat._
+
+![First Contact with NHI: Is Our Consciousness Ready?](https://n4hy.github.io/sciencebobnews-site/card_d_9.svg)
+4. First Contact with NHI: Is Our Consciousness Ready? — reliability C4 · validity 0.5 · 2 source(s)  
+   [@SpacedOutRadio](https://www.youtube.com/watch?v=Ay-4t7HZg_w)  
+   📹 [video](https://www.youtube.com/watch?v=Ay-4t7HZg_w)
+   > First Contact with NHI: Is Our Consciousness Ready?. October 15, 2026 - Buddha-Noah Buddha-Noah is a modern spiritual teacher, intuitive, and psychic medium whose teachings have reportedly reached mo…
+   Source is fairly reliable (C). The report is doubtful (4). 2 accounts on the same claim, from 1 post. Validity 0.50.
+   _C4 — source fairly reliable, information doubtful. 2 accounts on the same claim (1 post). no sensor reading or official record tied to this claim. a show episode, not an independent sighting. validity 0.50. publisher-floor. Science Bob's minimum for Dave Scott on Spaced Out Radio is 0.50. He has been on that show 100 times and counts himself as a repeat._
+
+![BIGFOOT, UFOs & THE MYSTERIOUS TRIANGLES: What Are They Hiding?](https://n4hy.github.io/sciencebobnews-site/card_d_10.svg)
+5. BIGFOOT, UFOs & THE MYSTERIOUS TRIANGLES: What Are They Hiding? — reliability C4 · validity 0.5 · 2 source(s)  
+   [@SpacedOutRadio](https://www.youtube.com/watch?v=rdHgbmU5SJo)  
+   📹 [video](https://www.youtube.com/watch?v=rdHgbmU5SJo)
+   > BIGFOOT, UFOs & THE MYSTERIOUS TRIANGLES: What Are They Hiding?. October 16, 2026 - Derek Condit Derek Condit is an author, paranormal researcher, psychic intuitive, inventor, U.S. Army veteran, and…
+   Source is fairly reliable (C). The report is doubtful (4). 2 accounts on the same claim, from 1 post. Validity 0.50.
+   _C4 — source fairly reliable, information doubtful. 2 accounts on the same claim (1 post). the text names a place, a sensor, or an official record. a show episode, not an independent sighting. validity 0.50. publisher-floor. Science Bob's minimum for Dave Scott on Spaced Out Radio is 0.50. He has been on that show 100 times and counts himself as a repeat._
 
 ## Watched accounts
 
