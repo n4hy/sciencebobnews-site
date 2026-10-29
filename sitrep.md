@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-28 23:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-29 00:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 Science Bob News is an automated situation report of public UAP, UFO, and USO claims. Each cycle it reads public social posts and disclosure-podcast feeds, collapses reposts and brid.gy mirrors to one account, and counts another account only when it confirms the same claim. The letter rates the source from A to F, the digit rates the information from 1 to 6, and validity is the McGwier b2.81 score capped by that evidence, never above 0.90. A high score is not a claim that an object was non-human, and it is not a count of how often such reports are later confirmed.
 
@@ -224,8 +224,6 @@ These accounts are part of every retrain. A post is used only when its own text 
 ## From ProbedSpace on X (last 24 h)
 - 2026-10-28 19:30 UTC — “Explore the claims and connections:” [@ProbedSpace](https://x.com/ProbedSpace/status/2115526609059074107)
 - 2026-10-28 19:30 UTC — “Human-staged UFO encounters and nonhuman intelligence can coexist, argues @Jason_Jorjani in his latest conversation with @AlchemyAmerican. Jorjani recounts And…” [@ProbedSpace](https://x.com/ProbedSpace/status/2115526605867241828)
-- 2026-10-27 23:12 UTC — “One of the documents mentioned: the 2006 DoD Foreign Materiel Program directive.DIA’s role, acquisition and exploitation responsibilities, and special access p…” [@ProbedSpace](https://x.com/ProbedSpace/status/2115220158528823613)
-- 2026-10-27 23:12 UTC — “NASIC, UFO crash retrievals and the Blue Room. We dug into @UAPGERB’s NASIC investigation - Grusch’s remarks, foreign technology exploitation and decades of wi…” [@ProbedSpace](https://x.com/ProbedSpace/status/2115220154816577869)
 
 ---
 *Thank [Dennis Cove](https://x.com/DennisCova11335) (@DennisCova11335) for his suggestions.*

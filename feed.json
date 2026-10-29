@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-28 23:00 UTC",
+  "generated_utc": "2026-10-29 00:00 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Letter is source reliability. Digit 1 means independent sources confirm the claim. Science Bob is two of those sources on the named accounts, except Grant Cameron. Validity is the McGwier b2.81 score, capped by the evidence bound. It is not a field frequency and not a claim of non-human origin.",
   "scorer": "mcgwier-b2.81",
   "stories": [
@@ -577,16 +577,6 @@
       "created_utc": "2026-10-28T19:30:22+00:00",
       "url": "https://x.com/ProbedSpace/status/2115526605867241828",
       "excerpt": "Human-staged UFO encounters and nonhuman intelligence can coexist, argues @Jason_Jorjani in his latest conversation with @AlchemyAmerican. Jorjani recounts And…"
-    },
-    {
-      "created_utc": "2026-10-27T23:12:39+00:00",
-      "url": "https://x.com/ProbedSpace/status/2115220158528823613",
-      "excerpt": "One of the documents mentioned: the 2006 DoD Foreign Materiel Program directive.DIA’s role, acquisition and exploitation responsibilities, and special access p…"
-    },
-    {
-      "created_utc": "2026-10-27T23:12:38+00:00",
-      "url": "https://x.com/ProbedSpace/status/2115220154816577869",
-      "excerpt": "NASIC, UFO crash retrievals and the Blue Room. We dug into @UAPGERB’s NASIC investigation - Grusch’s remarks, foreign technology exploitation and decades of wi…"
     }
   ]
 }
