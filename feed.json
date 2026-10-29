@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-29 22:00 UTC",
+  "generated_utc": "2026-10-29 23:00 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Letter is source reliability. Digit 1 means independent sources confirm the claim. Science Bob is two of those sources on the named accounts, except Grant Cameron. Validity is the McGwier b2.81 score, capped by the evidence bound. It is not a field frequency and not a claim of non-human origin.",
   "scorer": "mcgwier-b2.81",
   "stories": [
@@ -103,11 +103,11 @@
       "update": false
     },
     {
-      "headline": "UAP discussion — @did:plc:5gpmjcsqhspovazp7yt5or5a",
+      "headline": "UAP discussion — @did:plc:jpkzumyh4legazaybi4u5flu",
       "lane": "developing",
       "status": "DEVELOPING",
       "summary": "Source is unreliable (E). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.07.",
-      "excerpt": "📚 今日のキーワード解説 (1/10) 自己開示（Self-disclosure） / 非開示（Nondisclosure） / 相互依存的文化（Interdependent culture） / PRISMモデル（PRISM: Culturally situated self-(non)disclosure model） ✉️ この論文の日本語解説はメールマガジンをご覧ください",
+      "excerpt": "AI Content Disclosure for TikTok Shop Creators #TikTokShop #AmazonAffiliate #Compliance",
       "validity_why": "E4 — source unreliable, information doubtful. 1 account on the same claim (1 post). no sensor reading or official record tied to this claim. validity 0.07. mcgwier-b2.81.",
       "scorer": "mcgwier-b2.81",
       "reliability": "E4",
@@ -118,136 +118,11 @@
       ],
       "sources": [
         {
-          "handle": "did:plc:5gpmjcsqhspovazp7yt5or5a",
-          "url": "https://bsky.app/profile/did:plc:5gpmjcsqhspovazp7yt5or5a/post/3mz2bapllin22"
+          "handle": "did:plc:jpkzumyh4legazaybi4u5flu",
+          "url": "https://bsky.app/profile/did:plc:jpkzumyh4legazaybi4u5flu/post/3mz2elw2foo2w"
         }
       ],
       "videos": [],
-      "update": false
-    },
-    {
-      "headline": "Bigfoot, Dogman & Terrifying Cryptid Encounters",
-      "lane": "podcast",
-      "status": "DEVELOPING",
-      "summary": "Source is fairly reliable (C). The report is doubtful (4). 2 accounts on the same claim, from 1 post. Validity 0.50.",
-      "excerpt": "Bigfoot, Dogman & Terrifying Cryptid Encounters. October 23, 2026 - Daniel Hamilton Daniel “Dano” Hamilton is the creator and host of The Cryptid Podcast, a growing show dedicated to eyewitness encou…",
-      "validity_why": "C4 — source fairly reliable, information doubtful. 2 accounts on the same claim (1 post). the text names a place, a sensor, or an official record. a show episode, not an independent sighting. validity 0.50. publisher-floor. Science Bob's minimum for Dave Scott on Spaced Out Radio is 0.50. He has been on that show 100 times and counts himself as a repeat.",
-      "scorer": "publisher-floor",
-      "reliability": "C4",
-      "p_credible": 0.5,
-      "independent_sources": 2,
-      "platforms": [
-        "youtube"
-      ],
-      "sources": [
-        {
-          "handle": "SpacedOutRadio",
-          "url": "https://www.youtube.com/watch?v=a0Tzc8CaBEA"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=a0Tzc8CaBEA"
-      ],
-      "update": false
-    },
-    {
-      "headline": "#35 WHY DO ROCKSTARS SEE UFOS? — Sound, Light & Frequency",
-      "lane": "podcast",
-      "status": "DEVELOPING",
-      "summary": "Source is fairly reliable (C). The report is doubtful (4). 2 accounts on the same claim, from 1 post. Validity 0.40.",
-      "excerpt": "#35 WHY DO ROCKSTARS SEE UFOS? — Sound, Light & Frequency. What happens when a rock star goes looking for the people who supposedly know the truth about UFOs—and actually finds them? In “Why Do Rocks…",
-      "validity_why": "C4 — source fairly reliable, information doubtful. 2 accounts on the same claim (1 post). the text names a place, a sensor, or an official record. a show episode, not an independent sighting. validity 0.40. publisher-floor. Science Bob's validity for a disclosure podcast is 0.40, and he counts himself as an independent source.",
-      "scorer": "publisher-floor",
-      "reliability": "C4",
-      "p_credible": 0.4,
-      "independent_sources": 2,
-      "platforms": [
-        "youtube"
-      ],
-      "sources": [
-        {
-          "handle": "NeedToKnow",
-          "url": "https://www.youtube.com/watch?v=GgjkPj3nh98"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=GgjkPj3nh98"
-      ],
-      "update": false
-    },
-    {
-      "headline": "UFO Secrets, UAP Stories and Government Secrets on NHI",
-      "lane": "podcast",
-      "status": "DEVELOPING",
-      "summary": "Source is fairly reliable (C). The report is doubtful (4). 2 accounts on the same claim, from 1 post. Validity 0.50.",
-      "excerpt": "UFO Secrets, UAP Stories and Government Secrets on NHI. October 14, 2026 - Courtney Marchesani Courtney Marchesani is an author, researcher, and citizen journalist whose work explores the intersectio…",
-      "validity_why": "C4 — source fairly reliable, information doubtful. 2 accounts on the same claim (1 post). the text names a place, a sensor, or an official record. a show episode, not an independent sighting. validity 0.50. publisher-floor. Science Bob's minimum for Dave Scott on Spaced Out Radio is 0.50. He has been on that show 100 times and counts himself as a repeat.",
-      "scorer": "publisher-floor",
-      "reliability": "C4",
-      "p_credible": 0.5,
-      "independent_sources": 2,
-      "platforms": [
-        "youtube"
-      ],
-      "sources": [
-        {
-          "handle": "SpacedOutRadio",
-          "url": "https://www.youtube.com/watch?v=seNQZdUu_WM"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=seNQZdUu_WM"
-      ],
-      "update": false
-    },
-    {
-      "headline": "“THIS IS THE FIRST TIME I’VE TALKED ABOUT THIS ON CAMERA”",
-      "lane": "podcast",
-      "status": "DEVELOPING",
-      "summary": "Source is fairly reliable (C). The report is doubtful (4). 2 accounts on the same claim, from 1 post. Validity 0.40.",
-      "excerpt": "“THIS IS THE FIRST TIME I’VE TALKED ABOUT THIS ON CAMERA”. WATCH FULL EPISODE HERE : ••• In WEAPONIZED, Jeremy Corbell and George Knapp pull back the veil on the world of the known, to explore the un…",
-      "validity_why": "C4 — source fairly reliable, information doubtful. 2 accounts on the same claim (1 post). the text names a place, a sensor, or an official record. a show episode, not an independent sighting. validity 0.40. publisher-floor. Science Bob's validity for a disclosure podcast is 0.40, and he counts himself as an independent source.",
-      "scorer": "publisher-floor",
-      "reliability": "C4",
-      "p_credible": 0.4,
-      "independent_sources": 2,
-      "platforms": [
-        "youtube"
-      ],
-      "sources": [
-        {
-          "handle": "Weaponized",
-          "url": "https://www.youtube.com/watch?v=sIBjOCENWmg"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=sIBjOCENWmg"
-      ],
-      "update": false
-    },
-    {
-      "headline": "Jay Stratton’s FIRST-EVER Interview - Before The World Knew His Name",
-      "lane": "podcast",
-      "status": "DEVELOPING",
-      "summary": "Source is fairly reliable (C). The report is doubtful (4). 2 accounts on the same claim, from 1 post. Validity 0.40.",
-      "excerpt": "Jay Stratton’s FIRST-EVER Interview - Before The World Knew His Name. Before Jay Stratton became a public face of the UFO disclosure movement, before his book Out of the Shadows, and before his revel…",
-      "validity_why": "C4 — source fairly reliable, information doubtful. 2 accounts on the same claim (1 post). the text names a place, a sensor, or an official record. a show episode, not an independent sighting. validity 0.40. publisher-floor. Science Bob's validity for a disclosure podcast is 0.40, and he counts himself as an independent source.",
-      "scorer": "publisher-floor",
-      "reliability": "C4",
-      "p_credible": 0.4,
-      "independent_sources": 2,
-      "platforms": [
-        "youtube"
-      ],
-      "sources": [
-        {
-          "handle": "Weaponized",
-          "url": "https://www.youtube.com/watch?v=9GblwqzGFAY"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=9GblwqzGFAY"
-      ],
       "update": false
     }
   ],
