@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-29 01:00 UTC",
+  "generated_utc": "2026-10-29 02:00 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Letter is source reliability. Digit 1 means independent sources confirm the claim. Science Bob is two of those sources on the named accounts, except Grant Cameron. Validity is the McGwier b2.81 score, capped by the evidence bound. It is not a field frequency and not a claim of non-human origin.",
   "scorer": "mcgwier-b2.81",
   "stories": [
@@ -57,6 +57,29 @@
       "update": false
     },
     {
+      "headline": "UAP discussion — @vibewire@mastodon.au",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "summary": "Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 5 posts. Validity 0.14.",
+      "excerpt": "Who Is Joining the UFO Team In Congress Next? http:// dlvr.it/TW5jPm # UFO # UFONews # ufodisclosure · An Entire Civilization Beneath North America… With Pyramids 10 Times Bigger Than Giza! http:// dlvr.it/TW5Y2h # UFO # UFONews # ufodisclosure · An Unusual Client, a Congressman and Roswell | Reality Check http:// dlvr.it/TW5QvN # UFO # UFONews # ufodisclosure · The Secret Government Operation Faking Alien Abduction…",
+      "validity_why": "D4 — source not usually reliable, information doubtful. 1 account on the same claim (5 posts). 4 repost or mirror collapsed. no sensor reading or official record tied to this claim. validity 0.14. mcgwier-b2.81.",
+      "scorer": "mcgwier-b2.81",
+      "reliability": "D4",
+      "p_credible": 0.14,
+      "independent_sources": 1,
+      "platforms": [
+        "mastodon"
+      ],
+      "sources": [
+        {
+          "handle": "vibewire@mastodon.au",
+          "url": "https://mastodon.au/@vibewire/117520701466666014"
+        }
+      ],
+      "videos": [],
+      "update": false
+    },
+    {
       "headline": "UAP document report — @researchbuzz_firehose@rbfirehose.com",
       "lane": "developing",
       "status": "DEVELOPING",
@@ -74,29 +97,6 @@
         {
           "handle": "researchbuzz_firehose@rbfirehose.com",
           "url": "https://rbfirehose.com/2026/10/28/us-dod-department-of-war-publishes-seventh-release-of-unidentified-anomalous-phenomena-files-on-war-gov-ufo/"
-        }
-      ],
-      "videos": [],
-      "update": false
-    },
-    {
-      "headline": "UAP discussion — @vibewire@mastodon.au",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "summary": "Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 6 posts. Validity 0.14.",
-      "excerpt": "Who Is Joining the UFO Team In Congress Next? http:// dlvr.it/TW5jPm # UFO # UFONews # ufodisclosure · An Entire Civilization Beneath North America… With Pyramids 10 Times Bigger Than Giza! http:// dlvr.it/TW5Y2h # UFO # UFONews # ufodisclosure · An Unusual Client, a Congressman and Roswell | Reality Check http:// dlvr.it/TW5QvN # UFO # UFONews # ufodisclosure · The Secret Government Operation Faking Alien Abduction…",
-      "validity_why": "D4 — source not usually reliable, information doubtful. 1 account on the same claim (6 posts). 5 repost or mirror collapsed. no sensor reading or official record tied to this claim. validity 0.14. mcgwier-b2.81.",
-      "scorer": "mcgwier-b2.81",
-      "reliability": "D4",
-      "p_credible": 0.14,
-      "independent_sources": 1,
-      "platforms": [
-        "mastodon"
-      ],
-      "sources": [
-        {
-          "handle": "vibewire@mastodon.au",
-          "url": "https://mastodon.au/@vibewire/117520701466666014"
         }
       ],
       "videos": [],
@@ -130,127 +130,77 @@
       "update": false
     },
     {
-      "headline": "Bigfoot, Dogman & Terrifying Cryptid Encounters",
+      "headline": "And this is why we don’t trust the Government on UFO disclosure… - Richard Doty | ep. 100",
       "lane": "podcast",
       "status": "DEVELOPING",
-      "summary": "Source is fairly reliable (C). The report is doubtful (4). 2 accounts on the same claim, from 1 post. Validity 0.50.",
-      "excerpt": "Bigfoot, Dogman & Terrifying Cryptid Encounters. October 23, 2026 - Daniel Hamilton Daniel “Dano” Hamilton is the creator and host of The Cryptid Podcast, a growing show dedicated to eyewitness encou…",
-      "validity_why": "C4 — source fairly reliable, information doubtful. 2 accounts on the same claim (1 post). the text names a place, a sensor, or an official record. a show episode, not an independent sighting. validity 0.50. publisher-floor. Science Bob's minimum for Dave Scott on Spaced Out Radio is 0.50. He has been on that show 100 times and counts himself as a repeat.",
+      "summary": "Source is fairly reliable (C). The report is doubtful (4). 2 accounts on the same claim, from 1 post. Validity 0.40.",
+      "excerpt": "And this is why we don’t trust the Government on UFO disclosure… - Richard Doty | ep. 100. Full Episode: Main Channel: MERCH: Patreon: DISCORD:",
+      "validity_why": "C4 — source fairly reliable, information doubtful. 2 accounts on the same claim (1 post). no sensor reading or official record tied to this claim. a show episode, not an independent sighting. validity 0.40. publisher-floor. Science Bob's validity for a disclosure podcast is 0.40, and he counts himself as an independent source.",
       "scorer": "publisher-floor",
       "reliability": "C4",
-      "p_credible": 0.5,
+      "p_credible": 0.4,
       "independent_sources": 2,
       "platforms": [
         "youtube"
       ],
       "sources": [
         {
-          "handle": "SpacedOutRadio",
-          "url": "https://www.youtube.com/watch?v=a0Tzc8CaBEA"
+          "handle": "Area52",
+          "url": "https://www.youtube.com/watch?v=vatEIiY3bKM"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=a0Tzc8CaBEA"
+        "https://www.youtube.com/watch?v=vatEIiY3bKM"
       ],
       "update": false
     },
     {
-      "headline": "UFO Secrets, UAP Stories and Government Secrets on NHI",
+      "headline": "Richard Doty (Ex-OSI) Leaks Roswell & Kingman UFO Crash Details | ep. 100",
       "lane": "podcast",
       "status": "DEVELOPING",
-      "summary": "Source is fairly reliable (C). The report is doubtful (4). 2 accounts on the same claim, from 1 post. Validity 0.50.",
-      "excerpt": "UFO Secrets, UAP Stories and Government Secrets on NHI. October 14, 2026 - Courtney Marchesani Courtney Marchesani is an author, researcher, and citizen journalist whose work explores the intersectio…",
-      "validity_why": "C4 — source fairly reliable, information doubtful. 2 accounts on the same claim (1 post). the text names a place, a sensor, or an official record. a show episode, not an independent sighting. validity 0.50. publisher-floor. Science Bob's minimum for Dave Scott on Spaced Out Radio is 0.50. He has been on that show 100 times and counts himself as a repeat.",
+      "summary": "Source is fairly reliable (C). The report is doubtful (4). 2 accounts on the same claim, from 1 post. Validity 0.40.",
+      "excerpt": "Richard Doty (Ex-OSI) Leaks Roswell & Kingman UFO Crash Details | ep. 100. Full Episode: Main Channel: MERCH: Patreon: DISCORD:",
+      "validity_why": "C4 — source fairly reliable, information doubtful. 2 accounts on the same claim (1 post). no sensor reading or official record tied to this claim. a show episode, not an independent sighting. validity 0.40. publisher-floor. Science Bob's validity for a disclosure podcast is 0.40, and he counts himself as an independent source.",
       "scorer": "publisher-floor",
       "reliability": "C4",
-      "p_credible": 0.5,
+      "p_credible": 0.4,
       "independent_sources": 2,
       "platforms": [
         "youtube"
       ],
       "sources": [
         {
-          "handle": "SpacedOutRadio",
-          "url": "https://www.youtube.com/watch?v=seNQZdUu_WM"
+          "handle": "Area52",
+          "url": "https://www.youtube.com/watch?v=-Vfy1EYCRfA"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=seNQZdUu_WM"
+        "https://www.youtube.com/watch?v=-Vfy1EYCRfA"
       ],
       "update": false
     },
     {
-      "headline": "Werewolves & Vampires: Are the Legends Real?",
+      "headline": "Hal Puthoff and I reported to a buried UFO... - Richard Doty | ep. 100",
       "lane": "podcast",
       "status": "DEVELOPING",
-      "summary": "Source is fairly reliable (C). The report is doubtful (4). 2 accounts on the same claim, from 1 post. Validity 0.50.",
-      "excerpt": "Werewolves & Vampires: Are the Legends Real?. October 13, 2026 - Dr. Dennis Carroll With more than 55 years of experience studying and investigating the paranormal and supernatural, Dennis W. Carroll…",
-      "validity_why": "C4 — source fairly reliable, information doubtful. 2 accounts on the same claim (1 post). no sensor reading or official record tied to this claim. a show episode, not an independent sighting. validity 0.50. publisher-floor. Science Bob's minimum for Dave Scott on Spaced Out Radio is 0.50. He has been on that show 100 times and counts himself as a repeat.",
+      "summary": "Source is fairly reliable (C). The report is doubtful (4). 2 accounts on the same claim, from 1 post. Validity 0.40.",
+      "excerpt": "Hal Puthoff and I reported to a buried UFO... - Richard Doty | ep. 100. Full Episode: Main Channel: MERCH: Patreon: DISCORD:",
+      "validity_why": "C4 — source fairly reliable, information doubtful. 2 accounts on the same claim (1 post). no sensor reading or official record tied to this claim. a show episode, not an independent sighting. validity 0.40. publisher-floor. Science Bob's validity for a disclosure podcast is 0.40, and he counts himself as an independent source.",
       "scorer": "publisher-floor",
       "reliability": "C4",
-      "p_credible": 0.5,
+      "p_credible": 0.4,
       "independent_sources": 2,
       "platforms": [
         "youtube"
       ],
       "sources": [
         {
-          "handle": "SpacedOutRadio",
-          "url": "https://www.youtube.com/watch?v=6XJrsP671hU"
+          "handle": "Area52",
+          "url": "https://www.youtube.com/watch?v=tSK12Nb7XMU"
         }
       ],
       "videos": [
-        "https://www.youtube.com/watch?v=6XJrsP671hU"
-      ],
-      "update": false
-    },
-    {
-      "headline": "First Contact with NHI: Is Our Consciousness Ready?",
-      "lane": "podcast",
-      "status": "DEVELOPING",
-      "summary": "Source is fairly reliable (C). The report is doubtful (4). 2 accounts on the same claim, from 1 post. Validity 0.50.",
-      "excerpt": "First Contact with NHI: Is Our Consciousness Ready?. October 15, 2026 - Buddha-Noah Buddha-Noah is a modern spiritual teacher, intuitive, and psychic medium whose teachings have reportedly reached mo…",
-      "validity_why": "C4 — source fairly reliable, information doubtful. 2 accounts on the same claim (1 post). no sensor reading or official record tied to this claim. a show episode, not an independent sighting. validity 0.50. publisher-floor. Science Bob's minimum for Dave Scott on Spaced Out Radio is 0.50. He has been on that show 100 times and counts himself as a repeat.",
-      "scorer": "publisher-floor",
-      "reliability": "C4",
-      "p_credible": 0.5,
-      "independent_sources": 2,
-      "platforms": [
-        "youtube"
-      ],
-      "sources": [
-        {
-          "handle": "SpacedOutRadio",
-          "url": "https://www.youtube.com/watch?v=Ay-4t7HZg_w"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=Ay-4t7HZg_w"
-      ],
-      "update": false
-    },
-    {
-      "headline": "BIGFOOT, UFOs & THE MYSTERIOUS TRIANGLES: What Are They Hiding?",
-      "lane": "podcast",
-      "status": "DEVELOPING",
-      "summary": "Source is fairly reliable (C). The report is doubtful (4). 2 accounts on the same claim, from 1 post. Validity 0.50.",
-      "excerpt": "BIGFOOT, UFOs & THE MYSTERIOUS TRIANGLES: What Are They Hiding?. October 16, 2026 - Derek Condit Derek Condit is an author, paranormal researcher, psychic intuitive, inventor, U.S. Army veteran, and…",
-      "validity_why": "C4 — source fairly reliable, information doubtful. 2 accounts on the same claim (1 post). the text names a place, a sensor, or an official record. a show episode, not an independent sighting. validity 0.50. publisher-floor. Science Bob's minimum for Dave Scott on Spaced Out Radio is 0.50. He has been on that show 100 times and counts himself as a repeat.",
-      "scorer": "publisher-floor",
-      "reliability": "C4",
-      "p_credible": 0.5,
-      "independent_sources": 2,
-      "platforms": [
-        "youtube"
-      ],
-      "sources": [
-        {
-          "handle": "SpacedOutRadio",
-          "url": "https://www.youtube.com/watch?v=rdHgbmU5SJo"
-        }
-      ],
-      "videos": [
-        "https://www.youtube.com/watch?v=rdHgbmU5SJo"
+        "https://www.youtube.com/watch?v=tSK12Nb7XMU"
       ],
       "update": false
     }
