@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-29 12:00 UTC",
+  "generated_utc": "2026-10-29 13:00 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Letter is source reliability. Digit 1 means independent sources confirm the claim. Science Bob is two of those sources on the named accounts, except Grant Cameron. Validity is the McGwier b2.81 score, capped by the evidence bound. It is not a field frequency and not a claim of non-human origin.",
   "scorer": "mcgwier-b2.81",
   "stories": [
@@ -80,29 +80,6 @@
       "update": false
     },
     {
-      "headline": "UAP discussion — @did:plc:atsvmhiz3fd3vuvd4w2e5lpx, Wisconsin",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "summary": "Source is unreliable (E). The report is improbable (5). 1 account on the same claim, from 1 post. Validity 0.02.",
-      "excerpt": "EAU CLAIRE, Wis. (WQOW) -- An ethics complaint has been filed against Rep. Derrick Van Orden with the Wisconsin Ethics Commission, accusing him of posting an AI-generated image of Rebecca Cooke witho…",
-      "validity_why": "E5 — source unreliable, information improbable. 1 account on the same claim (1 post). the text names a place, a sensor, or an official record. validity 0.02. mcgwier-b2.81.",
-      "scorer": "mcgwier-b2.81",
-      "reliability": "E5",
-      "p_credible": 0.02,
-      "independent_sources": 1,
-      "platforms": [
-        "bluesky"
-      ],
-      "sources": [
-        {
-          "handle": "did:plc:atsvmhiz3fd3vuvd4w2e5lpx",
-          "url": "https://bsky.app/profile/did:plc:atsvmhiz3fd3vuvd4w2e5lpx/post/3myz7pspxvc2t"
-        }
-      ],
-      "videos": [],
-      "update": false
-    },
-    {
       "headline": "UAP discussion — @yuichi_asama@mstdn.jp",
       "lane": "developing",
       "status": "DEVELOPING",
@@ -120,6 +97,33 @@
         {
           "handle": "yuichi_asama@mstdn.jp",
           "url": "https://mstdn.jp/@yuichi_asama/117522118671362626"
+        }
+      ],
+      "videos": [],
+      "update": false
+    },
+    {
+      "headline": "UAP sighting report — @AlcorNews",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "summary": "Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 2 posts. Validity 0.14.",
+      "excerpt": "Chine : Un objet noir flotte dans le ciel de Mui Wo. C'est quel brevet? #OVNI #ObservationInsolite #MuiWo #HongKong #ObjetVolant #PhenomeneAerien #Mystere #UFO #UFO #UAP #MuiWo #HongKong #Unidentifie… · Chine : Un objet noir flotte dans le ciel de Mui Wo. C'est quel brevet? # OVNI # ObservationInsolite # MuiWo # HongKong # ObjetVolant # PhenomeneAerien # Mystere # UFO # UFO # UAP # MuiWo # HongKong…",
+      "validity_why": "D4 — source not usually reliable, information doubtful. 1 account on the same claim (2 posts). 1 repost or mirror collapsed. no sensor reading or official record tied to this claim. validity 0.14. mcgwier-b2.81.",
+      "scorer": "mcgwier-b2.81",
+      "reliability": "D4",
+      "p_credible": 0.14,
+      "independent_sources": 1,
+      "platforms": [
+        "mastodon"
+      ],
+      "sources": [
+        {
+          "handle": "alcornews.bsky.social@bsky.brid.gy",
+          "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:3l5f3rhsngpxljnskia73bj7/post/3mytv6x6yi22k"
+        },
+        {
+          "handle": "AlcorNews",
+          "url": "https://mastodon.social/@AlcorNews/117512082353700013"
         }
       ],
       "videos": [],
