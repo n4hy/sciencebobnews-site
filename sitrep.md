@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-29 10:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-29 12:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 Science Bob News is an automated situation report of public UAP, UFO, and USO claims. Each cycle it reads public social posts and disclosure-podcast feeds, collapses reposts and brid.gy mirrors to one account, and counts another account only when it confirms the same claim. The letter rates the source from A to F, the digit rates the information from 1 to 6, and validity is the McGwier b2.81 score capped by that evidence, never above 0.90. A high score is not a claim that an object was non-human, and it is not a count of how often such reports are later confirmed.
 
@@ -19,26 +19,26 @@ _No corroborated reports this cycle._
    Source is not usually reliable (D). The report is confirmed by independent sources (1). 3 accounts on the same claim, from 2 posts. Validity 0.55.
    _D1 — source not usually reliable, information confirmed by independent sources. 3 accounts on the same claim (2 posts). 1 other account in the cluster do not confirm that claim. the text names a place, a sensor, or an official record. validity 0.55. publisher-floor. Science Bob's minimum for @setiinstitute is 0.55, and he counts himself as a repeat. Science Bob is two independent sources on this account, so the information digit is 1._
 
-![UAP document report — @veryexcitingtime](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
-2. UAP document report — @veryexcitingtime — reliability D4 · validity 0.15 · 1 source(s)  
-   [@veryexcitingtime](https://mastodon.social/@veryexcitingtime/117504875874752934)
-   > 🛸 The Pentagon has a new legal waiver for # UAP disclosure, but it has some concerning gaps. Also the new government # UFO files include the AAWSAP reports… or do they? https:// veryexcitingtime.com/…
-   Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.15.
-   _D4 — source not usually reliable, information doubtful. 1 account on the same claim (1 post). the text names a place, a sensor, or an official record. validity 0.15. mcgwier-b2.81._
-
-![UAP document report — @researchbuzz_firehose@rbfirehose.com](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
-3. UAP document report — @researchbuzz_firehose@rbfirehose.com — reliability D4 · validity 0.15 · 1 source(s)  
+![UAP document report — @researchbuzz_firehose@rbfirehose.com](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
+2. UAP document report — @researchbuzz_firehose@rbfirehose.com — reliability D4 · validity 0.15 · 1 source(s)  
    [@researchbuzz_firehose@rbfirehose.com](https://rbfirehose.com/2026/10/28/us-dod-department-of-war-publishes-seventh-release-of-unidentified-anomalous-phenomena-files-on-war-gov-ufo/)
    > US DoD: Department of War Publishes Seventh Release of Unidentified Anomalous Phenomena Files on WAR.GOV/UFO. “Today, the Department of War is publishing the seventh release of declassified and histo…
    Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.15.
    _D4 — source not usually reliable, information doubtful. 1 account on the same claim (1 post). the text names a place, a sensor, or an official record. validity 0.15. mcgwier-b2.81._
 
-![UAP discussion — @vibewire@mastodon.au](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-4. UAP discussion — @vibewire@mastodon.au — reliability D4 · validity 0.14 · 1 source(s)  
+![UAP discussion — @vibewire@mastodon.au](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
+3. UAP discussion — @vibewire@mastodon.au — reliability D4 · validity 0.14 · 1 source(s)  
    [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117519579809012197)
    > An Entire Civilization Beneath North America… With Pyramids 10 Times Bigger Than Giza! http:// dlvr.it/TW5Y2h # UFO # UFONews # ufodisclosure
    Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.14.
    _D4 — source not usually reliable, information doubtful. 1 account on the same claim (1 post). no sensor reading or official record tied to this claim. validity 0.14. mcgwier-b2.81._
+
+![UAP discussion — @did:plc:atsvmhiz3fd3vuvd4w2e5lpx, Wisconsin](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
+4. UAP discussion — @did:plc:atsvmhiz3fd3vuvd4w2e5lpx, Wisconsin — reliability E5 · validity 0.02 · 1 source(s)  
+   [@did:plc:atsvmhiz3fd3vuvd4w2e5lpx](https://bsky.app/profile/did:plc:atsvmhiz3fd3vuvd4w2e5lpx/post/3myz7pspxvc2t)
+   > EAU CLAIRE, Wis. (WQOW) -- An ethics complaint has been filed against Rep. Derrick Van Orden with the Wisconsin Ethics Commission, accusing him of posting an AI-generated image of Rebecca Cooke witho…
+   Source is unreliable (E). The report is improbable (5). 1 account on the same claim, from 1 post. Validity 0.02.
+   _E5 — source unreliable, information improbable. 1 account on the same claim (1 post). the text names a place, a sensor, or an official record. validity 0.02. mcgwier-b2.81._
 
 ![UAP discussion — @yuichi_asama@mstdn.jp](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
 5. UAP discussion — @yuichi_asama@mstdn.jp — reliability D4 · validity 0.14 · 1 source(s)  
@@ -48,7 +48,46 @@ _No corroborated reports this cycle._
    _D4 — source not usually reliable, information doubtful. 1 account on the same claim (1 post). no sensor reading or official record tied to this claim. validity 0.14. mcgwier-b2.81._
 
 ## Disclosure podcasts
-_None this cycle._
+
+![Bigfoot, Dogman & Terrifying Cryptid Encounters](https://n4hy.github.io/sciencebobnews-site/card_d_6.svg)
+1. Bigfoot, Dogman & Terrifying Cryptid Encounters — reliability C4 · validity 0.5 · 2 source(s)  
+   [@SpacedOutRadio](https://www.youtube.com/watch?v=a0Tzc8CaBEA)  
+   📹 [video](https://www.youtube.com/watch?v=a0Tzc8CaBEA)
+   > Bigfoot, Dogman & Terrifying Cryptid Encounters. October 23, 2026 - Daniel Hamilton Daniel “Dano” Hamilton is the creator and host of The Cryptid Podcast, a growing show dedicated to eyewitness encou…
+   Source is fairly reliable (C). The report is doubtful (4). 2 accounts on the same claim, from 1 post. Validity 0.50.
+   _C4 — source fairly reliable, information doubtful. 2 accounts on the same claim (1 post). the text names a place, a sensor, or an official record. a show episode, not an independent sighting. validity 0.50. publisher-floor. Science Bob's minimum for Dave Scott on Spaced Out Radio is 0.50. He has been on that show 100 times and counts himself as a repeat._
+
+![#35 WHY DO ROCKSTARS SEE UFOS? — Sound, Light & Frequency](https://n4hy.github.io/sciencebobnews-site/card_d_7.svg)
+2. #35 WHY DO ROCKSTARS SEE UFOS? — Sound, Light & Frequency — reliability C4 · validity 0.4 · 2 source(s)  
+   [@NeedToKnow](https://www.youtube.com/watch?v=GgjkPj3nh98)  
+   📹 [video](https://www.youtube.com/watch?v=GgjkPj3nh98)
+   > #35 WHY DO ROCKSTARS SEE UFOS? — Sound, Light & Frequency. What happens when a rock star goes looking for the people who supposedly know the truth about UFOs—and actually finds them? In “Why Do Rocks…
+   Source is fairly reliable (C). The report is doubtful (4). 2 accounts on the same claim, from 1 post. Validity 0.40.
+   _C4 — source fairly reliable, information doubtful. 2 accounts on the same claim (1 post). the text names a place, a sensor, or an official record. a show episode, not an independent sighting. validity 0.40. publisher-floor. Science Bob's validity for a disclosure podcast is 0.40, and he counts himself as an independent source._
+
+![UFO Secrets, UAP Stories and Government Secrets on NHI](https://n4hy.github.io/sciencebobnews-site/card_d_8.svg)
+3. UFO Secrets, UAP Stories and Government Secrets on NHI — reliability C4 · validity 0.5 · 2 source(s)  
+   [@SpacedOutRadio](https://www.youtube.com/watch?v=seNQZdUu_WM)  
+   📹 [video](https://www.youtube.com/watch?v=seNQZdUu_WM)
+   > UFO Secrets, UAP Stories and Government Secrets on NHI. October 14, 2026 - Courtney Marchesani Courtney Marchesani is an author, researcher, and citizen journalist whose work explores the intersectio…
+   Source is fairly reliable (C). The report is doubtful (4). 2 accounts on the same claim, from 1 post. Validity 0.50.
+   _C4 — source fairly reliable, information doubtful. 2 accounts on the same claim (1 post). the text names a place, a sensor, or an official record. a show episode, not an independent sighting. validity 0.50. publisher-floor. Science Bob's minimum for Dave Scott on Spaced Out Radio is 0.50. He has been on that show 100 times and counts himself as a repeat._
+
+![“THIS IS THE FIRST TIME I’VE TALKED ABOUT THIS ON CAMERA”](https://n4hy.github.io/sciencebobnews-site/card_d_9.svg)
+4. “THIS IS THE FIRST TIME I’VE TALKED ABOUT THIS ON CAMERA” — reliability C4 · validity 0.4 · 2 source(s)  
+   [@Weaponized](https://www.youtube.com/watch?v=sIBjOCENWmg)  
+   📹 [video](https://www.youtube.com/watch?v=sIBjOCENWmg)
+   > “THIS IS THE FIRST TIME I’VE TALKED ABOUT THIS ON CAMERA”. WATCH FULL EPISODE HERE : ••• In WEAPONIZED, Jeremy Corbell and George Knapp pull back the veil on the world of the known, to explore the un…
+   Source is fairly reliable (C). The report is doubtful (4). 2 accounts on the same claim, from 1 post. Validity 0.40.
+   _C4 — source fairly reliable, information doubtful. 2 accounts on the same claim (1 post). the text names a place, a sensor, or an official record. a show episode, not an independent sighting. validity 0.40. publisher-floor. Science Bob's validity for a disclosure podcast is 0.40, and he counts himself as an independent source._
+
+![Jay Stratton’s FIRST-EVER Interview - Before The World Knew His Name](https://n4hy.github.io/sciencebobnews-site/card_d_10.svg)
+5. Jay Stratton’s FIRST-EVER Interview - Before The World Knew His Name — reliability C4 · validity 0.4 · 2 source(s)  
+   [@Weaponized](https://www.youtube.com/watch?v=9GblwqzGFAY)  
+   📹 [video](https://www.youtube.com/watch?v=9GblwqzGFAY)
+   > Jay Stratton’s FIRST-EVER Interview - Before The World Knew His Name. Before Jay Stratton became a public face of the UFO disclosure movement, before his book Out of the Shadows, and before his revel…
+   Source is fairly reliable (C). The report is doubtful (4). 2 accounts on the same claim, from 1 post. Validity 0.40.
+   _C4 — source fairly reliable, information doubtful. 2 accounts on the same claim (1 post). the text names a place, a sensor, or an official record. a show episode, not an independent sighting. validity 0.40. publisher-floor. Science Bob's validity for a disclosure podcast is 0.40, and he counts himself as an independent source._
 
 ## Watched accounts
 
