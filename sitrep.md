@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-30 02:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-30 04:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 Science Bob News is an automated situation report of public UAP, UFO, and USO claims. Each cycle it reads public social posts and disclosure-podcast feeds, collapses reposts and brid.gy mirrors to one account, and counts another account only when it confirms the same claim. The letter rates the source from A to F, the digit rates the information from 1 to 6, and validity is the McGwier b2.81 score capped by that evidence, never above 0.90. A high score is not a claim that an object was non-human, and it is not a count of how often such reports are later confirmed.
 
@@ -19,19 +19,19 @@ _No corroborated reports this cycle._
    Source is not usually reliable (D). The report is confirmed by independent sources (1). 3 accounts on the same claim, from 2 posts. Validity 0.55.
    _D1 — source not usually reliable, information confirmed by independent sources. 3 accounts on the same claim (2 posts). 1 other account in the cluster do not confirm that claim. the text names a place, a sensor, or an official record. validity 0.55. publisher-floor. Science Bob's minimum for @setiinstitute is 0.55, and he counts himself as a repeat. Science Bob is two independent sources on this account, so the information digit is 1._
 
-![UAP discussion — @vibewire@mastodon.au](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
-2. UAP discussion — @vibewire@mastodon.au — reliability D4 · validity 0.14 · 1 source(s)  
-   [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117519579809012197)
-   > An Entire Civilization Beneath North America… With Pyramids 10 Times Bigger Than Giza! http:// dlvr.it/TW5Y2h # UFO # UFONews # ufodisclosure
-   Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.14.
-   _D4 — source not usually reliable, information doubtful. 1 account on the same claim (1 post). no sensor reading or official record tied to this claim. validity 0.14. mcgwier-b2.81._
-
-![UAP discussion — @thecontactorg@101010.pl](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
-3. UAP discussion — @thecontactorg@101010.pl — reliability D4 · validity 0.14 · 1 source(s)  
+![UAP discussion — @thecontactorg@101010.pl](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
+2. UAP discussion — @thecontactorg@101010.pl — reliability D4 · validity 0.14 · 1 source(s)  
    [@thecontactorg@101010.pl](https://101010.pl/@thecontactorg/117525608415584975)
    > Jeżeli " # ufo to są na pewno chińskie drony", albo "muchy przed obiektywem aparatu" to jak wytłumaczyć taką relację, gdzie facet na polu golfowym podchodzi do niezidentyfikowanego metalicznego obiek…
    Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.14.
    _D4 — source not usually reliable, information doubtful. 1 account on the same claim (1 post). no sensor reading or official record tied to this claim. validity 0.14. mcgwier-b2.81._
+
+![UAP discussion — @vibewire@mastodon.au](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
+3. UAP discussion — @vibewire@mastodon.au — reliability D4 · validity 0.14 · 1 source(s)  
+   [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117526524091183455)
+   > Are We Being Watched? The Truth About UFOs Over Nuclear Sites http:// dlvr.it/TW6SMh # UFO # UFONews # ufodisclosure · The "Alien" Situation Can’t Get Any Crazier, But It Just Did http:// dlvr.it/TW6Pm8 # UFO # UFONews # ufodisclosure · What Apollo Astronauts Really Saw on the Moon — And It’s Unbelievable http:// dlvr.it/TW6LT8 # UFO # UFONews # ufodisclosure · Irish Drone Pilot Films a UAP Rising From the Ground, T…
+   Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 5 posts. Validity 0.14.
+   _D4 — source not usually reliable, information doubtful. 1 account on the same claim (5 posts). 4 repost or mirror collapsed. no sensor reading or official record tied to this claim. validity 0.14. mcgwier-b2.81._
 
 ![UAP discussion — @yuichi_asama@mstdn.jp](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
 4. UAP discussion — @yuichi_asama@mstdn.jp — reliability D4 · validity 0.14 · 1 source(s)  
