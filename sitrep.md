@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-30 14:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-30 15:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 Science Bob News is an automated situation report of public UAP, UFO, and USO claims. Each cycle it reads public social posts and disclosure-podcast feeds, collapses reposts and brid.gy mirrors to one account, and counts another account only when it confirms the same claim. The letter rates the source from A to F, the digit rates the information from 1 to 6, and validity is the McGwier b2.81 score capped by that evidence, never above 0.90. A high score is not a claim that an object was non-human, and it is not a count of how often such reports are later confirmed.
 
@@ -14,10 +14,10 @@ _No corroborated reports this cycle._
 
 ![UAP document report — @setiinstitute, California](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
 1. UAP document report — @setiinstitute, California — reliability D1 · validity 0.55 · 3 source(s)  
-   [@setiinstitute](https://mastodon.social/@setiinstitute/117509693445581656) · [@aliens_isr](https://mastodon.social/@aliens_isr/117529985000428363)
-   > Vance Has Started Reviewing UFO Files, but Hasn’t Seen Them All In a Fox News interview, the vice president said he believes in angels and that the truth could be encouraging—or frightening. https://… · A Flashing Green Object Descended Silently Into the River Tay The video was published by the Scottish newspaper The Courier, whose report includes no response from aviation authorities, police or the… · 🛸 Newly relea…
-   Source is not usually reliable (D). The report is confirmed by independent sources (1). 3 accounts on the same claim, from 3 posts. Validity 0.55.
-   _D1 — source not usually reliable, information confirmed by independent sources. 3 accounts on the same claim (3 posts). 1 other account in the cluster do not confirm that claim. 1 repost or mirror collapsed. the text names a place, a sensor, or an official record. validity 0.55. publisher-floor. Science Bob's minimum for @setiinstitute is 0.55, and he counts himself as a repeat. Science Bob is two independent sources on this account, so the information digit is 1._
+   [@setiinstitute](https://mastodon.social/@setiinstitute/117509693445581656) · [@aliens_isr](https://mastodon.social/@aliens_isr/117530376889740932)
+   > Boeing Crew Saw a Light Stop Dead—and Chose Not to Report It The sighting over Los Angeles rests on the pilot’s recollection; no radar data or air traffic control recordings have been released. https… · Vance Has Started Reviewing UFO Files, but Hasn’t Seen Them All In a Fox News interview, the vice president said he believes in angels and that the truth could be encouraging—or frightening. https://… · A Flashing Gr…
+   Source is not usually reliable (D). The report is confirmed by independent sources (1). 3 accounts on the same claim, from 4 posts. Validity 0.55.
+   _D1 — source not usually reliable, information confirmed by independent sources. 3 accounts on the same claim (4 posts). 1 other account in the cluster do not confirm that claim. 2 repost or mirror collapsed. the text names a place, a sensor, or an official record. validity 0.55. publisher-floor. Science Bob's minimum for @setiinstitute is 0.55, and he counts himself as a repeat. Science Bob is two independent sources on this account, so the information digit is 1._
 
 ![UAP discussion — @thecontactorg@101010.pl](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
 2. UAP discussion — @thecontactorg@101010.pl — reliability D4 · validity 0.14 · 1 source(s)  
