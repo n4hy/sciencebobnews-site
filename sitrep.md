@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-30 10:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-30 12:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 Science Bob News is an automated situation report of public UAP, UFO, and USO claims. Each cycle it reads public social posts and disclosure-podcast feeds, collapses reposts and brid.gy mirrors to one account, and counts another account only when it confirms the same claim. The letter rates the source from A to F, the digit rates the information from 1 to 6, and validity is the McGwier b2.81 score capped by that evidence, never above 0.90. A high score is not a claim that an object was non-human, and it is not a count of how often such reports are later confirmed.
 
@@ -14,8 +14,8 @@ _No corroborated reports this cycle._
 
 ![UAP document report — @setiinstitute, California](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
 1. UAP document report — @setiinstitute, California — reliability D1 · validity 0.55 · 3 source(s)  
-   [@KilleansRow@mastodon.online](https://mastodon.online/@KilleansRow/117516310782683843) · [@setiinstitute](https://mastodon.social/@setiinstitute/117509693445581656)
-   > 3/n...attentional development. It's a mixed bag to be sure ; our experiences and the environs they occur in have huge effect in forming our " filters ". How much is engineered in advance vs synthesiz… · 🛸 Newly released Pentagon files detail UFO sightings over California's Catalina Island in the 1940s and 1950s. But do these decades-old reports suggest extraterrestrial visitors? SETI Institute Presi…
+   [@setiinstitute](https://mastodon.social/@setiinstitute/117509693445581656) · [@aliens_isr](https://mastodon.social/@aliens_isr/117529626302293806)
+   > A Flashing Green Object Descended Silently Into the River Tay The video was published by the Scottish newspaper The Courier, whose report includes no response from aviation authorities, police or the… · 🛸 Newly released Pentagon files detail UFO sightings over California's Catalina Island in the 1940s and 1950s. But do these decades-old reports suggest extraterrestrial visitors? SETI Institute Presi…
    Source is not usually reliable (D). The report is confirmed by independent sources (1). 3 accounts on the same claim, from 2 posts. Validity 0.55.
    _D1 — source not usually reliable, information confirmed by independent sources. 3 accounts on the same claim (2 posts). 1 other account in the cluster do not confirm that claim. the text names a place, a sensor, or an official record. validity 0.55. publisher-floor. Science Bob's minimum for @setiinstitute is 0.55, and he counts himself as a repeat. Science Bob is two independent sources on this account, so the information digit is 1._
 
@@ -33,10 +33,10 @@ _No corroborated reports this cycle._
    Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 5 posts. Validity 0.14.
    _D4 — source not usually reliable, information doubtful. 1 account on the same claim (5 posts). 4 repost or mirror collapsed. no sensor reading or official record tied to this claim. validity 0.14. mcgwier-b2.81._
 
-![Unidentified submerged object report — @did:plc:emys6l4pi6mhzfes55q2tsh7](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-4. Unidentified submerged object report — @did:plc:emys6l4pi6mhzfes55q2tsh7 — reliability E4 · validity 0.07 · 1 source(s)  
-   [@did:plc:emys6l4pi6mhzfes55q2tsh7](https://bsky.app/profile/did:plc:emys6l4pi6mhzfes55q2tsh7/post/3mz3jiblcd22u)
-   > Bueno, visto así... Les daré uso en ocasiones especiales, prometido. Cuando tengamos nuevas fechas te avisaré.
+![Unidentified submerged object report — @did:plc:tcei4zr5rbx2gue4bos5qfxp](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
+4. Unidentified submerged object report — @did:plc:tcei4zr5rbx2gue4bos5qfxp — reliability E4 · validity 0.07 · 1 source(s)  
+   [@did:plc:tcei4zr5rbx2gue4bos5qfxp](https://bsky.app/profile/did:plc:tcei4zr5rbx2gue4bos5qfxp/post/3mz3q6sn2rz2d)
+   > Desde hoje, o ChatGPT Pro de US$ 200 vem com menos uso pelo mesmo preço. E no modo Ultrafast a franquia acaba 8 vezes mais rápido. Assinatura de IA virou conta de consumo. Meça o que ela devolve.
    Source is unreliable (E). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.07.
    _E4 — source unreliable, information doubtful. 1 account on the same claim (1 post). no sensor reading or official record tied to this claim. validity 0.07. mcgwier-b2.81._
 

@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-30 10:00 UTC",
+  "generated_utc": "2026-10-30 12:00 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Letter is source reliability. Digit 1 means independent sources confirm the claim. Science Bob is two of those sources on the named accounts, except Grant Cameron. Validity is the McGwier b2.81 score, capped by the evidence bound. It is not a field frequency and not a claim of non-human origin.",
   "scorer": "mcgwier-b2.81",
   "stories": [
@@ -11,7 +11,7 @@
       "lane": "developing",
       "status": "DEVELOPING",
       "summary": "Source is not usually reliable (D). The report is confirmed by independent sources (1). 3 accounts on the same claim, from 2 posts. Validity 0.55.",
-      "excerpt": "3/n...attentional development. It's a mixed bag to be sure ; our experiences and the environs they occur in have huge effect in forming our \" filters \". How much is engineered in advance vs synthesiz… · 🛸 Newly released Pentagon files detail UFO sightings over California's Catalina Island in the 1940s and 1950s. But do these decades-old reports suggest extraterrestrial visitors? SETI Institute Presi…",
+      "excerpt": "A Flashing Green Object Descended Silently Into the River Tay The video was published by the Scottish newspaper The Courier, whose report includes no response from aviation authorities, police or the… · 🛸 Newly released Pentagon files detail UFO sightings over California's Catalina Island in the 1940s and 1950s. But do these decades-old reports suggest extraterrestrial visitors? SETI Institute Presi…",
       "validity_why": "D1 — source not usually reliable, information confirmed by independent sources. 3 accounts on the same claim (2 posts). 1 other account in the cluster do not confirm that claim. the text names a place, a sensor, or an official record. validity 0.55. publisher-floor. Science Bob's minimum for @setiinstitute is 0.55, and he counts himself as a repeat. Science Bob is two independent sources on this account, so the information digit is 1.",
       "scorer": "publisher-floor",
       "reliability": "D1",
@@ -22,12 +22,12 @@
       ],
       "sources": [
         {
-          "handle": "KilleansRow@mastodon.online",
-          "url": "https://mastodon.online/@KilleansRow/117516310782683843"
-        },
-        {
           "handle": "setiinstitute",
           "url": "https://mastodon.social/@setiinstitute/117509693445581656"
+        },
+        {
+          "handle": "aliens_isr",
+          "url": "https://mastodon.social/@aliens_isr/117529626302293806"
         }
       ],
       "videos": [],
@@ -80,11 +80,11 @@
       "update": false
     },
     {
-      "headline": "Unidentified submerged object report — @did:plc:emys6l4pi6mhzfes55q2tsh7",
+      "headline": "Unidentified submerged object report — @did:plc:tcei4zr5rbx2gue4bos5qfxp",
       "lane": "developing",
       "status": "DEVELOPING",
       "summary": "Source is unreliable (E). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.07.",
-      "excerpt": "Bueno, visto así... Les daré uso en ocasiones especiales, prometido. Cuando tengamos nuevas fechas te avisaré.",
+      "excerpt": "Desde hoje, o ChatGPT Pro de US$ 200 vem com menos uso pelo mesmo preço. E no modo Ultrafast a franquia acaba 8 vezes mais rápido. Assinatura de IA virou conta de consumo. Meça o que ela devolve.",
       "validity_why": "E4 — source unreliable, information doubtful. 1 account on the same claim (1 post). no sensor reading or official record tied to this claim. validity 0.07. mcgwier-b2.81.",
       "scorer": "mcgwier-b2.81",
       "reliability": "E4",
@@ -95,8 +95,8 @@
       ],
       "sources": [
         {
-          "handle": "did:plc:emys6l4pi6mhzfes55q2tsh7",
-          "url": "https://bsky.app/profile/did:plc:emys6l4pi6mhzfes55q2tsh7/post/3mz3jiblcd22u"
+          "handle": "did:plc:tcei4zr5rbx2gue4bos5qfxp",
+          "url": "https://bsky.app/profile/did:plc:tcei4zr5rbx2gue4bos5qfxp/post/3mz3q6sn2rz2d"
         }
       ],
       "videos": [],
