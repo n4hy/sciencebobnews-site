@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-29 23:00 UTC",
+  "generated_utc": "2026-10-30 00:00 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Letter is source reliability. Digit 1 means independent sources confirm the claim. Science Bob is two of those sources on the named accounts, except Grant Cameron. Validity is the McGwier b2.81 score, capped by the evidence bound. It is not a field frequency and not a claim of non-human origin.",
   "scorer": "mcgwier-b2.81",
   "stories": [
@@ -103,11 +103,11 @@
       "update": false
     },
     {
-      "headline": "UAP discussion — @did:plc:jpkzumyh4legazaybi4u5flu",
+      "headline": "UAP discussion — @did:plc:xl4t6log7dir5jjaooeyk2xp",
       "lane": "developing",
       "status": "DEVELOPING",
       "summary": "Source is unreliable (E). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.07.",
-      "excerpt": "AI Content Disclosure for TikTok Shop Creators #TikTokShop #AmazonAffiliate #Compliance",
+      "excerpt": "The Disclosure Window: The Astrology of E.T. Disclosure in the Trump Era William Stickevers discusses the upcoming UFO and E. Listen Now #Subteron #Disclosure #UAP",
       "validity_why": "E4 — source unreliable, information doubtful. 1 account on the same claim (1 post). no sensor reading or official record tied to this claim. validity 0.07. mcgwier-b2.81.",
       "scorer": "mcgwier-b2.81",
       "reliability": "E4",
@@ -118,8 +118,8 @@
       ],
       "sources": [
         {
-          "handle": "did:plc:jpkzumyh4legazaybi4u5flu",
-          "url": "https://bsky.app/profile/did:plc:jpkzumyh4legazaybi4u5flu/post/3mz2elw2foo2w"
+          "handle": "did:plc:xl4t6log7dir5jjaooeyk2xp",
+          "url": "https://bsky.app/profile/did:plc:xl4t6log7dir5jjaooeyk2xp/post/3mz2hx7qbin2y"
         }
       ],
       "videos": [],
