@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-30 01:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-30 02:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 Science Bob News is an automated situation report of public UAP, UFO, and USO claims. Each cycle it reads public social posts and disclosure-podcast feeds, collapses reposts and brid.gy mirrors to one account, and counts another account only when it confirms the same claim. The letter rates the source from A to F, the digit rates the information from 1 to 6, and validity is the McGwier b2.81 score capped by that evidence, never above 0.90. A high score is not a claim that an object was non-human, and it is not a count of how often such reports are later confirmed.
 
@@ -48,46 +48,7 @@ _No corroborated reports this cycle._
    _D4 — source not usually reliable, information doubtful. 1 account on the same claim (2 posts). 1 repost or mirror collapsed. no sensor reading or official record tied to this claim. validity 0.14. mcgwier-b2.81._
 
 ## Disclosure podcasts
-
-!["My Father Was a Russian UFO Physicist... I Have His Documents"](https://n4hy.github.io/sciencebobnews-site/card_d_6.svg)
-1. "My Father Was a Russian UFO Physicist... I Have His Documents" — reliability C4 · validity 0.4 · 2 source(s)  
-   [@ProjectUnity](https://www.youtube.com/watch?v=qXWfSpH218w)  
-   📹 [video](https://www.youtube.com/watch?v=qXWfSpH218w)
-   > "My Father Was a Russian UFO Physicist... I Have His Documents". RUSSIAN UFO FILES: The Černohajev Archive Gain Early Access to Interviews, Documentaries & Our Private Discord Server: Buy Me A Coffee…
-   Source is fairly reliable (C). The report is doubtful (4). 2 accounts on the same claim, from 1 post. Validity 0.40.
-   _C4 — source fairly reliable, information doubtful. 2 accounts on the same claim (1 post). no sensor reading or official record tied to this claim. a show episode, not an independent sighting. validity 0.40. publisher-floor. Science Bob's validity for a disclosure podcast is 0.40, and he counts himself as an independent source._
-
-![Leaked Russian UFO Docs Reveal Alien Tech Secrets](https://n4hy.github.io/sciencebobnews-site/card_d_7.svg)
-2. Leaked Russian UFO Docs Reveal Alien Tech Secrets — reliability C4 · validity 0.4 · 2 source(s)  
-   [@ProjectUnity](https://www.youtube.com/shorts/Qt6djQSy1x8)  
-   📹 [video](https://www.youtube.com/shorts/Qt6djQSy1x8)
-   > Leaked Russian UFO Docs Reveal Alien Tech Secrets. FULL INTERVIEW Gain Early Access to Interviews, Documentaries & Our Private Discord Server: Buy Me A Coffee (Support Project Unity) Support me with…
-   Source is fairly reliable (C). The report is doubtful (4). 2 accounts on the same claim, from 1 post. Validity 0.40.
-   _C4 — source fairly reliable, information doubtful. 2 accounts on the same claim (1 post). no sensor reading or official record tied to this claim. a show episode, not an independent sighting. validity 0.40. publisher-floor. Science Bob's validity for a disclosure podcast is 0.40, and he counts himself as an independent source._
-
-![Is UFO Tech Human Tech!?](https://n4hy.github.io/sciencebobnews-site/card_d_8.svg)
-3. Is UFO Tech Human Tech!? — reliability C4 · validity 0.4 · 2 source(s)  
-   [@ProjectUnity](https://www.youtube.com/shorts/KxmV6PEPd4Q)  
-   📹 [video](https://www.youtube.com/shorts/KxmV6PEPd4Q)
-   > Is UFO Tech Human Tech!?. FULL INTERVIEW Gain Early Access to Interviews, Documentaries & Our Private Discord Server: Buy Me A Coffee (Support Project Unity) Support me with a donation through PayPal…
-   Source is fairly reliable (C). The report is doubtful (4). 2 accounts on the same claim, from 1 post. Validity 0.40.
-   _C4 — source fairly reliable, information doubtful. 2 accounts on the same claim (1 post). no sensor reading or official record tied to this claim. a show episode, not an independent sighting. validity 0.40. publisher-floor. Science Bob's validity for a disclosure podcast is 0.40, and he counts himself as an independent source._
-
-![Russian UFO Docs Reveal Secret Exotic Propulsion!](https://n4hy.github.io/sciencebobnews-site/card_d_9.svg)
-4. Russian UFO Docs Reveal Secret Exotic Propulsion! — reliability C4 · validity 0.4 · 2 source(s)  
-   [@ProjectUnity](https://www.youtube.com/shorts/pwpTezAsYys)  
-   📹 [video](https://www.youtube.com/shorts/pwpTezAsYys)
-   > Russian UFO Docs Reveal Secret Exotic Propulsion!. FULL INTERVIEW Gain Early Access to Interviews, Documentaries & Our Private Discord Server: Buy Me A Coffee (Support Project Unity) Support me with…
-   Source is fairly reliable (C). The report is doubtful (4). 2 accounts on the same claim, from 1 post. Validity 0.40.
-   _C4 — source fairly reliable, information doubtful. 2 accounts on the same claim (1 post). no sensor reading or official record tied to this claim. a show episode, not an independent sighting. validity 0.40. publisher-floor. Science Bob's validity for a disclosure podcast is 0.40, and he counts himself as an independent source._
-
-![Russians Were at Area-51 In 1989: UFO Secret Collaboration](https://n4hy.github.io/sciencebobnews-site/card_d_10.svg)
-5. Russians Were at Area-51 In 1989: UFO Secret Collaboration — reliability C4 · validity 0.4 · 2 source(s)  
-   [@ProjectUnity](https://www.youtube.com/shorts/HhEim1lZerA)  
-   📹 [video](https://www.youtube.com/shorts/HhEim1lZerA)
-   > Russians Were at Area-51 In 1989: UFO Secret Collaboration. FULL INTERVIEW Gain Early Access to Interviews, Documentaries & Our Private Discord Server: Buy Me A Coffee (Support Project Unity) Support…
-   Source is fairly reliable (C). The report is doubtful (4). 2 accounts on the same claim, from 1 post. Validity 0.40.
-   _C4 — source fairly reliable, information doubtful. 2 accounts on the same claim (1 post). no sensor reading or official record tied to this claim. a show episode, not an independent sighting. validity 0.40. publisher-floor. Science Bob's validity for a disclosure podcast is 0.40, and he counts himself as an independent source._
+_None this cycle._
 
 ## Watched accounts
 
