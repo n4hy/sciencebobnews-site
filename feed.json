@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-30 00:00 UTC",
+  "generated_utc": "2026-10-30 01:00 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Letter is source reliability. Digit 1 means independent sources confirm the claim. Science Bob is two of those sources on the named accounts, except Grant Cameron. Validity is the McGwier b2.81 score, capped by the evidence bound. It is not a field frequency and not a claim of non-human origin.",
   "scorer": "mcgwier-b2.81",
   "stories": [
@@ -28,29 +28,6 @@
         {
           "handle": "setiinstitute",
           "url": "https://mastodon.social/@setiinstitute/117509693445581656"
-        }
-      ],
-      "videos": [],
-      "update": false
-    },
-    {
-      "headline": "UAP document report — @researchbuzz_firehose@rbfirehose.com",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "summary": "Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.15.",
-      "excerpt": "US DoD: Department of War Publishes Seventh Release of Unidentified Anomalous Phenomena Files on WAR.GOV/UFO. “Today, the Department of War is publishing the seventh release of declassified and histo…",
-      "validity_why": "D4 — source not usually reliable, information doubtful. 1 account on the same claim (1 post). the text names a place, a sensor, or an official record. validity 0.15. mcgwier-b2.81.",
-      "scorer": "mcgwier-b2.81",
-      "reliability": "D4",
-      "p_credible": 0.15,
-      "independent_sources": 1,
-      "platforms": [
-        "mastodon"
-      ],
-      "sources": [
-        {
-          "handle": "researchbuzz_firehose@rbfirehose.com",
-          "url": "https://rbfirehose.com/2026/10/28/us-dod-department-of-war-publishes-seventh-release-of-unidentified-anomalous-phenomena-files-on-war-gov-ufo/"
         }
       ],
       "videos": [],
@@ -103,26 +80,178 @@
       "update": false
     },
     {
-      "headline": "UAP discussion — @did:plc:xl4t6log7dir5jjaooeyk2xp",
+      "headline": "UAP discussion — @yuichi_asama@mstdn.jp",
       "lane": "developing",
       "status": "DEVELOPING",
-      "summary": "Source is unreliable (E). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.07.",
-      "excerpt": "The Disclosure Window: The Astrology of E.T. Disclosure in the Trump Era William Stickevers discusses the upcoming UFO and E. Listen Now #Subteron #Disclosure #UAP",
-      "validity_why": "E4 — source unreliable, information doubtful. 1 account on the same claim (1 post). no sensor reading or official record tied to this claim. validity 0.07. mcgwier-b2.81.",
+      "summary": "Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.14.",
+      "excerpt": "Change happens in an instant. Yet, being understood takes longer than the speed of light. Rather than a fleeting moment of magic, I chose to walk forward today—on my own two feet. # TwitterFiction #…",
+      "validity_why": "D4 — source not usually reliable, information doubtful. 1 account on the same claim (1 post). no sensor reading or official record tied to this claim. validity 0.14. mcgwier-b2.81.",
       "scorer": "mcgwier-b2.81",
-      "reliability": "E4",
-      "p_credible": 0.07,
+      "reliability": "D4",
+      "p_credible": 0.14,
       "independent_sources": 1,
       "platforms": [
-        "bluesky"
+        "mastodon"
       ],
       "sources": [
         {
-          "handle": "did:plc:xl4t6log7dir5jjaooeyk2xp",
-          "url": "https://bsky.app/profile/did:plc:xl4t6log7dir5jjaooeyk2xp/post/3mz2hx7qbin2y"
+          "handle": "yuichi_asama@mstdn.jp",
+          "url": "https://mstdn.jp/@yuichi_asama/117522118671362626"
         }
       ],
       "videos": [],
+      "update": false
+    },
+    {
+      "headline": "UAP sighting report — @AlcorNews",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "summary": "Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 2 posts. Validity 0.14.",
+      "excerpt": "Chine : Un objet noir flotte dans le ciel de Mui Wo. C'est quel brevet? #OVNI #ObservationInsolite #MuiWo #HongKong #ObjetVolant #PhenomeneAerien #Mystere #UFO #UFO #UAP #MuiWo #HongKong #Unidentifie… · Chine : Un objet noir flotte dans le ciel de Mui Wo. C'est quel brevet? # OVNI # ObservationInsolite # MuiWo # HongKong # ObjetVolant # PhenomeneAerien # Mystere # UFO # UFO # UAP # MuiWo # HongKong…",
+      "validity_why": "D4 — source not usually reliable, information doubtful. 1 account on the same claim (2 posts). 1 repost or mirror collapsed. no sensor reading or official record tied to this claim. validity 0.14. mcgwier-b2.81.",
+      "scorer": "mcgwier-b2.81",
+      "reliability": "D4",
+      "p_credible": 0.14,
+      "independent_sources": 1,
+      "platforms": [
+        "mastodon"
+      ],
+      "sources": [
+        {
+          "handle": "alcornews.bsky.social@bsky.brid.gy",
+          "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:3l5f3rhsngpxljnskia73bj7/post/3mytv6x6yi22k"
+        },
+        {
+          "handle": "AlcorNews",
+          "url": "https://mastodon.social/@AlcorNews/117512082353700013"
+        }
+      ],
+      "videos": [],
+      "update": false
+    },
+    {
+      "headline": "\"My Father Was a Russian UFO Physicist... I Have His Documents\"",
+      "lane": "podcast",
+      "status": "DEVELOPING",
+      "summary": "Source is fairly reliable (C). The report is doubtful (4). 2 accounts on the same claim, from 1 post. Validity 0.40.",
+      "excerpt": "\"My Father Was a Russian UFO Physicist... I Have His Documents\". RUSSIAN UFO FILES: The Černohajev Archive Gain Early Access to Interviews, Documentaries & Our Private Discord Server: Buy Me A Coffee…",
+      "validity_why": "C4 — source fairly reliable, information doubtful. 2 accounts on the same claim (1 post). no sensor reading or official record tied to this claim. a show episode, not an independent sighting. validity 0.40. publisher-floor. Science Bob's validity for a disclosure podcast is 0.40, and he counts himself as an independent source.",
+      "scorer": "publisher-floor",
+      "reliability": "C4",
+      "p_credible": 0.4,
+      "independent_sources": 2,
+      "platforms": [
+        "youtube"
+      ],
+      "sources": [
+        {
+          "handle": "ProjectUnity",
+          "url": "https://www.youtube.com/watch?v=qXWfSpH218w"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/watch?v=qXWfSpH218w"
+      ],
+      "update": false
+    },
+    {
+      "headline": "Leaked Russian UFO Docs Reveal Alien Tech Secrets",
+      "lane": "podcast",
+      "status": "DEVELOPING",
+      "summary": "Source is fairly reliable (C). The report is doubtful (4). 2 accounts on the same claim, from 1 post. Validity 0.40.",
+      "excerpt": "Leaked Russian UFO Docs Reveal Alien Tech Secrets. FULL INTERVIEW Gain Early Access to Interviews, Documentaries & Our Private Discord Server: Buy Me A Coffee (Support Project Unity) Support me with…",
+      "validity_why": "C4 — source fairly reliable, information doubtful. 2 accounts on the same claim (1 post). no sensor reading or official record tied to this claim. a show episode, not an independent sighting. validity 0.40. publisher-floor. Science Bob's validity for a disclosure podcast is 0.40, and he counts himself as an independent source.",
+      "scorer": "publisher-floor",
+      "reliability": "C4",
+      "p_credible": 0.4,
+      "independent_sources": 2,
+      "platforms": [
+        "youtube"
+      ],
+      "sources": [
+        {
+          "handle": "ProjectUnity",
+          "url": "https://www.youtube.com/shorts/Qt6djQSy1x8"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/shorts/Qt6djQSy1x8"
+      ],
+      "update": false
+    },
+    {
+      "headline": "Is UFO Tech Human Tech!?",
+      "lane": "podcast",
+      "status": "DEVELOPING",
+      "summary": "Source is fairly reliable (C). The report is doubtful (4). 2 accounts on the same claim, from 1 post. Validity 0.40.",
+      "excerpt": "Is UFO Tech Human Tech!?. FULL INTERVIEW Gain Early Access to Interviews, Documentaries & Our Private Discord Server: Buy Me A Coffee (Support Project Unity) Support me with a donation through PayPal…",
+      "validity_why": "C4 — source fairly reliable, information doubtful. 2 accounts on the same claim (1 post). no sensor reading or official record tied to this claim. a show episode, not an independent sighting. validity 0.40. publisher-floor. Science Bob's validity for a disclosure podcast is 0.40, and he counts himself as an independent source.",
+      "scorer": "publisher-floor",
+      "reliability": "C4",
+      "p_credible": 0.4,
+      "independent_sources": 2,
+      "platforms": [
+        "youtube"
+      ],
+      "sources": [
+        {
+          "handle": "ProjectUnity",
+          "url": "https://www.youtube.com/shorts/KxmV6PEPd4Q"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/shorts/KxmV6PEPd4Q"
+      ],
+      "update": false
+    },
+    {
+      "headline": "Russian UFO Docs Reveal Secret Exotic Propulsion!",
+      "lane": "podcast",
+      "status": "DEVELOPING",
+      "summary": "Source is fairly reliable (C). The report is doubtful (4). 2 accounts on the same claim, from 1 post. Validity 0.40.",
+      "excerpt": "Russian UFO Docs Reveal Secret Exotic Propulsion!. FULL INTERVIEW Gain Early Access to Interviews, Documentaries & Our Private Discord Server: Buy Me A Coffee (Support Project Unity) Support me with…",
+      "validity_why": "C4 — source fairly reliable, information doubtful. 2 accounts on the same claim (1 post). no sensor reading or official record tied to this claim. a show episode, not an independent sighting. validity 0.40. publisher-floor. Science Bob's validity for a disclosure podcast is 0.40, and he counts himself as an independent source.",
+      "scorer": "publisher-floor",
+      "reliability": "C4",
+      "p_credible": 0.4,
+      "independent_sources": 2,
+      "platforms": [
+        "youtube"
+      ],
+      "sources": [
+        {
+          "handle": "ProjectUnity",
+          "url": "https://www.youtube.com/shorts/pwpTezAsYys"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/shorts/pwpTezAsYys"
+      ],
+      "update": false
+    },
+    {
+      "headline": "Russians Were at Area-51 In 1989: UFO Secret Collaboration",
+      "lane": "podcast",
+      "status": "DEVELOPING",
+      "summary": "Source is fairly reliable (C). The report is doubtful (4). 2 accounts on the same claim, from 1 post. Validity 0.40.",
+      "excerpt": "Russians Were at Area-51 In 1989: UFO Secret Collaboration. FULL INTERVIEW Gain Early Access to Interviews, Documentaries & Our Private Discord Server: Buy Me A Coffee (Support Project Unity) Support…",
+      "validity_why": "C4 — source fairly reliable, information doubtful. 2 accounts on the same claim (1 post). no sensor reading or official record tied to this claim. a show episode, not an independent sighting. validity 0.40. publisher-floor. Science Bob's validity for a disclosure podcast is 0.40, and he counts himself as an independent source.",
+      "scorer": "publisher-floor",
+      "reliability": "C4",
+      "p_credible": 0.4,
+      "independent_sources": 2,
+      "platforms": [
+        "youtube"
+      ],
+      "sources": [
+        {
+          "handle": "ProjectUnity",
+          "url": "https://www.youtube.com/shorts/HhEim1lZerA"
+        }
+      ],
+      "videos": [
+        "https://www.youtube.com/shorts/HhEim1lZerA"
+      ],
       "update": false
     }
   ],

@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-30 00:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-30 01:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 Science Bob News is an automated situation report of public UAP, UFO, and USO claims. Each cycle it reads public social posts and disclosure-podcast feeds, collapses reposts and brid.gy mirrors to one account, and counts another account only when it confirms the same claim. The letter rates the source from A to F, the digit rates the information from 1 to 6, and validity is the McGwier b2.81 score capped by that evidence, never above 0.90. A high score is not a claim that an object was non-human, and it is not a count of how often such reports are later confirmed.
 
@@ -19,36 +19,75 @@ _No corroborated reports this cycle._
    Source is not usually reliable (D). The report is confirmed by independent sources (1). 3 accounts on the same claim, from 2 posts. Validity 0.55.
    _D1 — source not usually reliable, information confirmed by independent sources. 3 accounts on the same claim (2 posts). 1 other account in the cluster do not confirm that claim. the text names a place, a sensor, or an official record. validity 0.55. publisher-floor. Science Bob's minimum for @setiinstitute is 0.55, and he counts himself as a repeat. Science Bob is two independent sources on this account, so the information digit is 1._
 
-![UAP document report — @researchbuzz_firehose@rbfirehose.com](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
-2. UAP document report — @researchbuzz_firehose@rbfirehose.com — reliability D4 · validity 0.15 · 1 source(s)  
-   [@researchbuzz_firehose@rbfirehose.com](https://rbfirehose.com/2026/10/28/us-dod-department-of-war-publishes-seventh-release-of-unidentified-anomalous-phenomena-files-on-war-gov-ufo/)
-   > US DoD: Department of War Publishes Seventh Release of Unidentified Anomalous Phenomena Files on WAR.GOV/UFO. “Today, the Department of War is publishing the seventh release of declassified and histo…
-   Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.15.
-   _D4 — source not usually reliable, information doubtful. 1 account on the same claim (1 post). the text names a place, a sensor, or an official record. validity 0.15. mcgwier-b2.81._
-
-![UAP discussion — @vibewire@mastodon.au](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
-3. UAP discussion — @vibewire@mastodon.au — reliability D4 · validity 0.14 · 1 source(s)  
+![UAP discussion — @vibewire@mastodon.au](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
+2. UAP discussion — @vibewire@mastodon.au — reliability D4 · validity 0.14 · 1 source(s)  
    [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117519579809012197)
    > An Entire Civilization Beneath North America… With Pyramids 10 Times Bigger Than Giza! http:// dlvr.it/TW5Y2h # UFO # UFONews # ufodisclosure
    Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.14.
    _D4 — source not usually reliable, information doubtful. 1 account on the same claim (1 post). no sensor reading or official record tied to this claim. validity 0.14. mcgwier-b2.81._
 
-![UAP discussion — @thecontactorg@101010.pl](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-4. UAP discussion — @thecontactorg@101010.pl — reliability D4 · validity 0.14 · 1 source(s)  
+![UAP discussion — @thecontactorg@101010.pl](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
+3. UAP discussion — @thecontactorg@101010.pl — reliability D4 · validity 0.14 · 1 source(s)  
    [@thecontactorg@101010.pl](https://101010.pl/@thecontactorg/117525608415584975)
    > Jeżeli " # ufo to są na pewno chińskie drony", albo "muchy przed obiektywem aparatu" to jak wytłumaczyć taką relację, gdzie facet na polu golfowym podchodzi do niezidentyfikowanego metalicznego obiek…
    Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.14.
    _D4 — source not usually reliable, information doubtful. 1 account on the same claim (1 post). no sensor reading or official record tied to this claim. validity 0.14. mcgwier-b2.81._
 
-![UAP discussion — @did:plc:xl4t6log7dir5jjaooeyk2xp](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. UAP discussion — @did:plc:xl4t6log7dir5jjaooeyk2xp — reliability E4 · validity 0.07 · 1 source(s)  
-   [@did:plc:xl4t6log7dir5jjaooeyk2xp](https://bsky.app/profile/did:plc:xl4t6log7dir5jjaooeyk2xp/post/3mz2hx7qbin2y)
-   > The Disclosure Window: The Astrology of E.T. Disclosure in the Trump Era William Stickevers discusses the upcoming UFO and E. Listen Now #Subteron #Disclosure #UAP
-   Source is unreliable (E). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.07.
-   _E4 — source unreliable, information doubtful. 1 account on the same claim (1 post). no sensor reading or official record tied to this claim. validity 0.07. mcgwier-b2.81._
+![UAP discussion — @yuichi_asama@mstdn.jp](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
+4. UAP discussion — @yuichi_asama@mstdn.jp — reliability D4 · validity 0.14 · 1 source(s)  
+   [@yuichi_asama@mstdn.jp](https://mstdn.jp/@yuichi_asama/117522118671362626)
+   > Change happens in an instant. Yet, being understood takes longer than the speed of light. Rather than a fleeting moment of magic, I chose to walk forward today—on my own two feet. # TwitterFiction #…
+   Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.14.
+   _D4 — source not usually reliable, information doubtful. 1 account on the same claim (1 post). no sensor reading or official record tied to this claim. validity 0.14. mcgwier-b2.81._
+
+![UAP sighting report — @AlcorNews](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+5. UAP sighting report — @AlcorNews — reliability D4 · validity 0.14 · 1 source(s)  
+   [@alcornews.bsky.social@bsky.brid.gy](https://fed.brid.gy/r/https://bsky.app/profile/did:plc:3l5f3rhsngpxljnskia73bj7/post/3mytv6x6yi22k) · [@AlcorNews](https://mastodon.social/@AlcorNews/117512082353700013)
+   > Chine : Un objet noir flotte dans le ciel de Mui Wo. C'est quel brevet? #OVNI #ObservationInsolite #MuiWo #HongKong #ObjetVolant #PhenomeneAerien #Mystere #UFO #UFO #UAP #MuiWo #HongKong #Unidentifie… · Chine : Un objet noir flotte dans le ciel de Mui Wo. C'est quel brevet? # OVNI # ObservationInsolite # MuiWo # HongKong # ObjetVolant # PhenomeneAerien # Mystere # UFO # UFO # UAP # MuiWo # HongKong…
+   Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 2 posts. Validity 0.14.
+   _D4 — source not usually reliable, information doubtful. 1 account on the same claim (2 posts). 1 repost or mirror collapsed. no sensor reading or official record tied to this claim. validity 0.14. mcgwier-b2.81._
 
 ## Disclosure podcasts
-_None this cycle._
+
+!["My Father Was a Russian UFO Physicist... I Have His Documents"](https://n4hy.github.io/sciencebobnews-site/card_d_6.svg)
+1. "My Father Was a Russian UFO Physicist... I Have His Documents" — reliability C4 · validity 0.4 · 2 source(s)  
+   [@ProjectUnity](https://www.youtube.com/watch?v=qXWfSpH218w)  
+   📹 [video](https://www.youtube.com/watch?v=qXWfSpH218w)
+   > "My Father Was a Russian UFO Physicist... I Have His Documents". RUSSIAN UFO FILES: The Černohajev Archive Gain Early Access to Interviews, Documentaries & Our Private Discord Server: Buy Me A Coffee…
+   Source is fairly reliable (C). The report is doubtful (4). 2 accounts on the same claim, from 1 post. Validity 0.40.
+   _C4 — source fairly reliable, information doubtful. 2 accounts on the same claim (1 post). no sensor reading or official record tied to this claim. a show episode, not an independent sighting. validity 0.40. publisher-floor. Science Bob's validity for a disclosure podcast is 0.40, and he counts himself as an independent source._
+
+![Leaked Russian UFO Docs Reveal Alien Tech Secrets](https://n4hy.github.io/sciencebobnews-site/card_d_7.svg)
+2. Leaked Russian UFO Docs Reveal Alien Tech Secrets — reliability C4 · validity 0.4 · 2 source(s)  
+   [@ProjectUnity](https://www.youtube.com/shorts/Qt6djQSy1x8)  
+   📹 [video](https://www.youtube.com/shorts/Qt6djQSy1x8)
+   > Leaked Russian UFO Docs Reveal Alien Tech Secrets. FULL INTERVIEW Gain Early Access to Interviews, Documentaries & Our Private Discord Server: Buy Me A Coffee (Support Project Unity) Support me with…
+   Source is fairly reliable (C). The report is doubtful (4). 2 accounts on the same claim, from 1 post. Validity 0.40.
+   _C4 — source fairly reliable, information doubtful. 2 accounts on the same claim (1 post). no sensor reading or official record tied to this claim. a show episode, not an independent sighting. validity 0.40. publisher-floor. Science Bob's validity for a disclosure podcast is 0.40, and he counts himself as an independent source._
+
+![Is UFO Tech Human Tech!?](https://n4hy.github.io/sciencebobnews-site/card_d_8.svg)
+3. Is UFO Tech Human Tech!? — reliability C4 · validity 0.4 · 2 source(s)  
+   [@ProjectUnity](https://www.youtube.com/shorts/KxmV6PEPd4Q)  
+   📹 [video](https://www.youtube.com/shorts/KxmV6PEPd4Q)
+   > Is UFO Tech Human Tech!?. FULL INTERVIEW Gain Early Access to Interviews, Documentaries & Our Private Discord Server: Buy Me A Coffee (Support Project Unity) Support me with a donation through PayPal…
+   Source is fairly reliable (C). The report is doubtful (4). 2 accounts on the same claim, from 1 post. Validity 0.40.
+   _C4 — source fairly reliable, information doubtful. 2 accounts on the same claim (1 post). no sensor reading or official record tied to this claim. a show episode, not an independent sighting. validity 0.40. publisher-floor. Science Bob's validity for a disclosure podcast is 0.40, and he counts himself as an independent source._
+
+![Russian UFO Docs Reveal Secret Exotic Propulsion!](https://n4hy.github.io/sciencebobnews-site/card_d_9.svg)
+4. Russian UFO Docs Reveal Secret Exotic Propulsion! — reliability C4 · validity 0.4 · 2 source(s)  
+   [@ProjectUnity](https://www.youtube.com/shorts/pwpTezAsYys)  
+   📹 [video](https://www.youtube.com/shorts/pwpTezAsYys)
+   > Russian UFO Docs Reveal Secret Exotic Propulsion!. FULL INTERVIEW Gain Early Access to Interviews, Documentaries & Our Private Discord Server: Buy Me A Coffee (Support Project Unity) Support me with…
+   Source is fairly reliable (C). The report is doubtful (4). 2 accounts on the same claim, from 1 post. Validity 0.40.
+   _C4 — source fairly reliable, information doubtful. 2 accounts on the same claim (1 post). no sensor reading or official record tied to this claim. a show episode, not an independent sighting. validity 0.40. publisher-floor. Science Bob's validity for a disclosure podcast is 0.40, and he counts himself as an independent source._
+
+![Russians Were at Area-51 In 1989: UFO Secret Collaboration](https://n4hy.github.io/sciencebobnews-site/card_d_10.svg)
+5. Russians Were at Area-51 In 1989: UFO Secret Collaboration — reliability C4 · validity 0.4 · 2 source(s)  
+   [@ProjectUnity](https://www.youtube.com/shorts/HhEim1lZerA)  
+   📹 [video](https://www.youtube.com/shorts/HhEim1lZerA)
+   > Russians Were at Area-51 In 1989: UFO Secret Collaboration. FULL INTERVIEW Gain Early Access to Interviews, Documentaries & Our Private Discord Server: Buy Me A Coffee (Support Project Unity) Support…
+   Source is fairly reliable (C). The report is doubtful (4). 2 accounts on the same claim, from 1 post. Validity 0.40.
+   _C4 — source fairly reliable, information doubtful. 2 accounts on the same claim (1 post). no sensor reading or official record tied to this claim. a show episode, not an independent sighting. validity 0.40. publisher-floor. Science Bob's validity for a disclosure podcast is 0.40, and he counts himself as an independent source._
 
 ## Watched accounts
 
