@@ -1,5 +1,5 @@
 # 🛸 Science Bob News — UAP / UFO / USO SITREP
-*Updated 2026-10-30 13:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
+*Updated 2026-10-30 14:00 UTC · auto-generated · sources credited & linked · reliability ratings are automated, not editorial*
 
 Science Bob News is an automated situation report of public UAP, UFO, and USO claims. Each cycle it reads public social posts and disclosure-podcast feeds, collapses reposts and brid.gy mirrors to one account, and counts another account only when it confirms the same claim. The letter rates the source from A to F, the digit rates the information from 1 to 6, and validity is the McGwier b2.81 score capped by that evidence, never above 0.90. A high score is not a claim that an object was non-human, and it is not a count of how often such reports are later confirmed.
 
@@ -14,10 +14,10 @@ _No corroborated reports this cycle._
 
 ![UAP document report — @setiinstitute, California](https://n4hy.github.io/sciencebobnews-site/card_d_1.svg)
 1. UAP document report — @setiinstitute, California — reliability D1 · validity 0.55 · 3 source(s)  
-   [@setiinstitute](https://mastodon.social/@setiinstitute/117509693445581656) · [@aliens_isr](https://mastodon.social/@aliens_isr/117529626302293806)
-   > A Flashing Green Object Descended Silently Into the River Tay The video was published by the Scottish newspaper The Courier, whose report includes no response from aviation authorities, police or the… · 🛸 Newly released Pentagon files detail UFO sightings over California's Catalina Island in the 1940s and 1950s. But do these decades-old reports suggest extraterrestrial visitors? SETI Institute Presi…
-   Source is not usually reliable (D). The report is confirmed by independent sources (1). 3 accounts on the same claim, from 2 posts. Validity 0.55.
-   _D1 — source not usually reliable, information confirmed by independent sources. 3 accounts on the same claim (2 posts). 1 other account in the cluster do not confirm that claim. the text names a place, a sensor, or an official record. validity 0.55. publisher-floor. Science Bob's minimum for @setiinstitute is 0.55, and he counts himself as a repeat. Science Bob is two independent sources on this account, so the information digit is 1._
+   [@setiinstitute](https://mastodon.social/@setiinstitute/117509693445581656) · [@aliens_isr](https://mastodon.social/@aliens_isr/117529985000428363)
+   > Vance Has Started Reviewing UFO Files, but Hasn’t Seen Them All In a Fox News interview, the vice president said he believes in angels and that the truth could be encouraging—or frightening. https://… · A Flashing Green Object Descended Silently Into the River Tay The video was published by the Scottish newspaper The Courier, whose report includes no response from aviation authorities, police or the… · 🛸 Newly relea…
+   Source is not usually reliable (D). The report is confirmed by independent sources (1). 3 accounts on the same claim, from 3 posts. Validity 0.55.
+   _D1 — source not usually reliable, information confirmed by independent sources. 3 accounts on the same claim (3 posts). 1 other account in the cluster do not confirm that claim. 1 repost or mirror collapsed. the text names a place, a sensor, or an official record. validity 0.55. publisher-floor. Science Bob's minimum for @setiinstitute is 0.55, and he counts himself as a repeat. Science Bob is two independent sources on this account, so the information digit is 1._
 
 ![UAP discussion — @thecontactorg@101010.pl](https://n4hy.github.io/sciencebobnews-site/card_d_2.svg)
 2. UAP discussion — @thecontactorg@101010.pl — reliability D4 · validity 0.14 · 1 source(s)  
@@ -28,24 +28,24 @@ _No corroborated reports this cycle._
 
 ![UAP discussion — @vibewire@mastodon.au](https://n4hy.github.io/sciencebobnews-site/card_d_3.svg)
 3. UAP discussion — @vibewire@mastodon.au — reliability D4 · validity 0.14 · 1 source(s)  
-   [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117526524091183455)
-   > Are We Being Watched? The Truth About UFOs Over Nuclear Sites http:// dlvr.it/TW6SMh # UFO # UFONews # ufodisclosure · The "Alien" Situation Can’t Get Any Crazier, But It Just Did http:// dlvr.it/TW6Pm8 # UFO # UFONews # ufodisclosure · What Apollo Astronauts Really Saw on the Moon — And It’s Unbelievable http:// dlvr.it/TW6LT8 # UFO # UFONews # ufodisclosure · Irish Drone Pilot Films a UAP Rising From the Ground, T…
-   Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 5 posts. Validity 0.14.
-   _D4 — source not usually reliable, information doubtful. 1 account on the same claim (5 posts). 4 repost or mirror collapsed. no sensor reading or official record tied to this claim. validity 0.14. mcgwier-b2.81._
+   [@vibewire@mastodon.au](https://mastodon.au/@vibewire/117530122233897330)
+   > The Secrets of Inner Earth: Nordic Beings, Ancient Libraries & Life Extension Technology http:// dlvr.it/TW6ss0 # UFO # UFONews # ufodisclosure · Green Mountain Mystery Series Part 4: Who Controls the Hidden World? http:// dlvr.it/TW6srw # UFO # UFONews # ufodisclosure · Are We Being Watched? The Truth About UFOs Over Nuclear Sites http:// dlvr.it/TW6SMh # UFO # UFONews # ufodisclosure · The "Alien" Situation Can’t…
+   Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 7 posts. Validity 0.14.
+   _D4 — source not usually reliable, information doubtful. 1 account on the same claim (7 posts). 6 repost or mirror collapsed. no sensor reading or official record tied to this claim. validity 0.14. mcgwier-b2.81._
 
-![UAP discussion — @yuichi_asama@mstdn.jp](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
-4. UAP discussion — @yuichi_asama@mstdn.jp — reliability D4 · validity 0.14 · 1 source(s)  
-   [@yuichi_asama@mstdn.jp](https://mstdn.jp/@yuichi_asama/117522118671362626)
-   > Change happens in an instant. Yet, being understood takes longer than the speed of light. Rather than a fleeting moment of magic, I chose to walk forward today—on my own two feet. # TwitterFiction #…
-   Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.14.
-   _D4 — source not usually reliable, information doubtful. 1 account on the same claim (1 post). no sensor reading or official record tied to this claim. validity 0.14. mcgwier-b2.81._
-
-![UAP discussion — @KilleansRow@mastodon.online](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
-5. UAP discussion — @KilleansRow@mastodon.online — reliability D4 · validity 0.14 · 1 source(s)  
+![UAP discussion — @KilleansRow@mastodon.online](https://n4hy.github.io/sciencebobnews-site/card_d_4.svg)
+4. UAP discussion — @KilleansRow@mastodon.online — reliability D4 · validity 0.14 · 1 source(s)  
    [@KilleansRow@mastodon.online](https://mastodon.online/@KilleansRow/117516310782683843)
    > 3/n...attentional development. It's a mixed bag to be sure ; our experiences and the environs they occur in have huge effect in forming our " filters ". How much is engineered in advance vs synthesiz…
    Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.14.
    _D4 — source not usually reliable, information doubtful. 1 account on the same claim (1 post). no sensor reading or official record tied to this claim. validity 0.14. mcgwier-b2.81._
+
+![UAP sighting report — @AlcorNews](https://n4hy.github.io/sciencebobnews-site/card_d_5.svg)
+5. UAP sighting report — @AlcorNews — reliability D4 · validity 0.14 · 1 source(s)  
+   [@alcornews.bsky.social@bsky.brid.gy](https://fed.brid.gy/r/https://bsky.app/profile/did:plc:3l5f3rhsngpxljnskia73bj7/post/3mytv6x6yi22k) · [@AlcorNews](https://mastodon.social/@AlcorNews/117512082353700013)
+   > Chine : Un objet noir flotte dans le ciel de Mui Wo. C'est quel brevet? #OVNI #ObservationInsolite #MuiWo #HongKong #ObjetVolant #PhenomeneAerien #Mystere #UFO #UFO #UAP #MuiWo #HongKong #Unidentifie… · Chine : Un objet noir flotte dans le ciel de Mui Wo. C'est quel brevet? # OVNI # ObservationInsolite # MuiWo # HongKong # ObjetVolant # PhenomeneAerien # Mystere # UFO # UFO # UAP # MuiWo # HongKong…
+   Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 2 posts. Validity 0.14.
+   _D4 — source not usually reliable, information doubtful. 1 account on the same claim (2 posts). 1 repost or mirror collapsed. no sensor reading or official record tied to this claim. validity 0.14. mcgwier-b2.81._
 
 ## Disclosure podcasts
 

@@ -2,7 +2,7 @@
   "product": "Science Bob News",
   "attribution": "Powered by Science Bob News",
   "license": "Science Bob News License v1.0 — free to use with credit",
-  "generated_utc": "2026-10-30 13:00 UTC",
+  "generated_utc": "2026-10-30 14:00 UTC",
   "disclaimer": "Reliability ratings are automated, not editorial. Letter is source reliability. Digit 1 means independent sources confirm the claim. Science Bob is two of those sources on the named accounts, except Grant Cameron. Validity is the McGwier b2.81 score, capped by the evidence bound. It is not a field frequency and not a claim of non-human origin.",
   "scorer": "mcgwier-b2.81",
   "stories": [
@@ -10,9 +10,9 @@
       "headline": "UAP document report — @setiinstitute, California",
       "lane": "developing",
       "status": "DEVELOPING",
-      "summary": "Source is not usually reliable (D). The report is confirmed by independent sources (1). 3 accounts on the same claim, from 2 posts. Validity 0.55.",
-      "excerpt": "A Flashing Green Object Descended Silently Into the River Tay The video was published by the Scottish newspaper The Courier, whose report includes no response from aviation authorities, police or the… · 🛸 Newly released Pentagon files detail UFO sightings over California's Catalina Island in the 1940s and 1950s. But do these decades-old reports suggest extraterrestrial visitors? SETI Institute Presi…",
-      "validity_why": "D1 — source not usually reliable, information confirmed by independent sources. 3 accounts on the same claim (2 posts). 1 other account in the cluster do not confirm that claim. the text names a place, a sensor, or an official record. validity 0.55. publisher-floor. Science Bob's minimum for @setiinstitute is 0.55, and he counts himself as a repeat. Science Bob is two independent sources on this account, so the information digit is 1.",
+      "summary": "Source is not usually reliable (D). The report is confirmed by independent sources (1). 3 accounts on the same claim, from 3 posts. Validity 0.55.",
+      "excerpt": "Vance Has Started Reviewing UFO Files, but Hasn’t Seen Them All In a Fox News interview, the vice president said he believes in angels and that the truth could be encouraging—or frightening. https://… · A Flashing Green Object Descended Silently Into the River Tay The video was published by the Scottish newspaper The Courier, whose report includes no response from aviation authorities, police or the… · 🛸 Newly relea…",
+      "validity_why": "D1 — source not usually reliable, information confirmed by independent sources. 3 accounts on the same claim (3 posts). 1 other account in the cluster do not confirm that claim. 1 repost or mirror collapsed. the text names a place, a sensor, or an official record. validity 0.55. publisher-floor. Science Bob's minimum for @setiinstitute is 0.55, and he counts himself as a repeat. Science Bob is two independent sources on this account, so the information digit is 1.",
       "scorer": "publisher-floor",
       "reliability": "D1",
       "p_credible": 0.55,
@@ -27,7 +27,7 @@
         },
         {
           "handle": "aliens_isr",
-          "url": "https://mastodon.social/@aliens_isr/117529626302293806"
+          "url": "https://mastodon.social/@aliens_isr/117529985000428363"
         }
       ],
       "videos": [],
@@ -60,9 +60,9 @@
       "headline": "UAP discussion — @vibewire@mastodon.au",
       "lane": "developing",
       "status": "DEVELOPING",
-      "summary": "Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 5 posts. Validity 0.14.",
-      "excerpt": "Are We Being Watched? The Truth About UFOs Over Nuclear Sites http:// dlvr.it/TW6SMh # UFO # UFONews # ufodisclosure · The \"Alien\" Situation Can’t Get Any Crazier, But It Just Did http:// dlvr.it/TW6Pm8 # UFO # UFONews # ufodisclosure · What Apollo Astronauts Really Saw on the Moon — And It’s Unbelievable http:// dlvr.it/TW6LT8 # UFO # UFONews # ufodisclosure · Irish Drone Pilot Films a UAP Rising From the Ground, T…",
-      "validity_why": "D4 — source not usually reliable, information doubtful. 1 account on the same claim (5 posts). 4 repost or mirror collapsed. no sensor reading or official record tied to this claim. validity 0.14. mcgwier-b2.81.",
+      "summary": "Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 7 posts. Validity 0.14.",
+      "excerpt": "The Secrets of Inner Earth: Nordic Beings, Ancient Libraries & Life Extension Technology http:// dlvr.it/TW6ss0 # UFO # UFONews # ufodisclosure · Green Mountain Mystery Series Part 4: Who Controls the Hidden World? http:// dlvr.it/TW6srw # UFO # UFONews # ufodisclosure · Are We Being Watched? The Truth About UFOs Over Nuclear Sites http:// dlvr.it/TW6SMh # UFO # UFONews # ufodisclosure · The \"Alien\" Situation Can’t…",
+      "validity_why": "D4 — source not usually reliable, information doubtful. 1 account on the same claim (7 posts). 6 repost or mirror collapsed. no sensor reading or official record tied to this claim. validity 0.14. mcgwier-b2.81.",
       "scorer": "mcgwier-b2.81",
       "reliability": "D4",
       "p_credible": 0.14,
@@ -73,30 +73,7 @@
       "sources": [
         {
           "handle": "vibewire@mastodon.au",
-          "url": "https://mastodon.au/@vibewire/117526524091183455"
-        }
-      ],
-      "videos": [],
-      "update": false
-    },
-    {
-      "headline": "UAP discussion — @yuichi_asama@mstdn.jp",
-      "lane": "developing",
-      "status": "DEVELOPING",
-      "summary": "Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 1 post. Validity 0.14.",
-      "excerpt": "Change happens in an instant. Yet, being understood takes longer than the speed of light. Rather than a fleeting moment of magic, I chose to walk forward today—on my own two feet. # TwitterFiction #…",
-      "validity_why": "D4 — source not usually reliable, information doubtful. 1 account on the same claim (1 post). no sensor reading or official record tied to this claim. validity 0.14. mcgwier-b2.81.",
-      "scorer": "mcgwier-b2.81",
-      "reliability": "D4",
-      "p_credible": 0.14,
-      "independent_sources": 1,
-      "platforms": [
-        "mastodon"
-      ],
-      "sources": [
-        {
-          "handle": "yuichi_asama@mstdn.jp",
-          "url": "https://mstdn.jp/@yuichi_asama/117522118671362626"
+          "url": "https://mastodon.au/@vibewire/117530122233897330"
         }
       ],
       "videos": [],
@@ -120,6 +97,33 @@
         {
           "handle": "KilleansRow@mastodon.online",
           "url": "https://mastodon.online/@KilleansRow/117516310782683843"
+        }
+      ],
+      "videos": [],
+      "update": false
+    },
+    {
+      "headline": "UAP sighting report — @AlcorNews",
+      "lane": "developing",
+      "status": "DEVELOPING",
+      "summary": "Source is not usually reliable (D). The report is doubtful (4). 1 account on the same claim, from 2 posts. Validity 0.14.",
+      "excerpt": "Chine : Un objet noir flotte dans le ciel de Mui Wo. C'est quel brevet? #OVNI #ObservationInsolite #MuiWo #HongKong #ObjetVolant #PhenomeneAerien #Mystere #UFO #UFO #UAP #MuiWo #HongKong #Unidentifie… · Chine : Un objet noir flotte dans le ciel de Mui Wo. C'est quel brevet? # OVNI # ObservationInsolite # MuiWo # HongKong # ObjetVolant # PhenomeneAerien # Mystere # UFO # UFO # UAP # MuiWo # HongKong…",
+      "validity_why": "D4 — source not usually reliable, information doubtful. 1 account on the same claim (2 posts). 1 repost or mirror collapsed. no sensor reading or official record tied to this claim. validity 0.14. mcgwier-b2.81.",
+      "scorer": "mcgwier-b2.81",
+      "reliability": "D4",
+      "p_credible": 0.14,
+      "independent_sources": 1,
+      "platforms": [
+        "mastodon"
+      ],
+      "sources": [
+        {
+          "handle": "alcornews.bsky.social@bsky.brid.gy",
+          "url": "https://fed.brid.gy/r/https://bsky.app/profile/did:plc:3l5f3rhsngpxljnskia73bj7/post/3mytv6x6yi22k"
+        },
+        {
+          "handle": "AlcorNews",
+          "url": "https://mastodon.social/@AlcorNews/117512082353700013"
         }
       ],
       "videos": [],
